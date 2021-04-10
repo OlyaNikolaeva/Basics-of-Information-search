@@ -1,0 +1,1602 @@
+![](https://web.vortex.data.microsoft.com:443/collect/v1/t.gif?&name=%27Ms.Webi.PageView%27&ver=%272.1%27&appId=%27JS%3AJS%3Aaccessories%27&cV=%27V8iPWJSsuUaXwkZp.0%27&ext-
+app-env=%27onerf_prod%27&ext-javascript-libver=%274.0.0-beta-10%27&ext-user-
+localId=%27t%3A2BDA5701FB736CBB0C2C4714FAD86D5A%27&*baseType=%27Ms.Content.PageView%27&*isJs=True&*isLoggedIn=False&*isManual=True&*serverImpressionGuid=%27ef1691f9-af44-4657-9b5f-c1548b8468ed%27&-ver=%271.0%27&-impressionGuid=%2700000000-0000-0000-0000-000000000000%27&-pageName=%27wdg_accessories_homepage%27&-uri=%27https%3A%2F%2Fwww.microsoft.com%2Fru-
+ru%2Faccessories%27&-pageType=%27WDG.Accessories%27&-pageTags=%27%7B%22tasId%22%3A%22ef1691f9-af44-4657-9b5f-c1548b8468ed%22%2C%22tasMuid%22%3A%222BDA5701FB736CBB0C2C4714FAD86D5A%22%2C%22browserGroup%22%3A%22uplevel.web.pc%22%2C%22isOneRf%22%3A%22True%22%7D%27&-behavior=0&-market=%27ru-
+ru%27)
+
+![]()
+
+[ ]()
+
+[ Перейти к основному контенту ](javascript:void\(0\))
+
+[ ![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31) Microsoft
+](https://www.microsoft.com)
+
+Accessories
+
+[ Accessories  ](https://www.microsoft.com/ru-ru/accessories)
+
+Accessories
+
+  * [ Главная ](https://www.microsoft.com/ru-ru/accessories)
+  * Продукты 
+    * [ Мыши ](https://www.microsoft.com/ru-ru/accessories#coreui-banner-zy49cpr)
+    * [ Клавиатуры ](https://www.microsoft.com/ru-ru/accessories#coreui-banner-241wsc0)
+    * [ Игровые ](https://www.xbox.com/ru-ru/xbox-one/accessories)
+    * [ Веб-камеры ](https://www.microsoft.com/ru-ru/accessories#coreui-banner-rcukgof)
+    * [ Гарнитуры ](https://www.microsoft.com/ru-ru/accessories#coreui-banner-ib9f74g)
+    * [ Адаптеры ](https://www.microsoft.com/ru-ru/accessories#coreui-banner-anipy4d)
+
+  * Техническая поддержка 
+    * [ Обратная связь ](https://support.microsoft.com/hub/4338553/pc-accessories-help)
+    * [ Практическое руководство ](https://support.microsoft.com/hub/4338553/pc-accessories-help)
+    * [ Устранение неисправностей ](https://support.microsoft.com/hub/4338553/pc-accessories-help)
+    * [ Гарантия ](https://support.microsoft.com/help/4089871/info-about-warranties-extended-service-plans-terms-conditions)
+
+  * [ Загрузки ](https://support.microsoft.com/pc-accessories)
+  * [ Для бизнеса ](https://www.microsoft.com/accessories/ru-ru/business)
+  * [ Розничные магазины ](https://www.microsoft.com/ru-ru/accessories#coreui-banner-jf2whi2)
+  * Больше 
+
+  * Все продукты Microsoft 
+    *       * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365)
+      * [ Office ](https://www.microsoft.com/microsoft-365/microsoft-office)
+      * [ Windows ](https://www.microsoft.com/ru-ru/windows/)
+      * [ Xbox ](https://www.xbox.com/)
+      * [ Поддержка ](https://support.microsoft.com/ru-ru)
+    * ПО  ПО 
+      * [ Приложения для Windows ](https://www.microsoft.com/ru-ru/store/apps/windows?icid=CNavAppsWindowsApps)
+      * [ OneDrive ](https://onedrive.live.com/about/ru-ru/)
+      * [ Outlook ](https://outlook.live.com/owa/)
+      * [ Skype ](https://www.skype.com/ru/)
+      * [ OneNote ](https://www.onenote.com/?omkt=ru-RU)
+      * [ Microsoft Teams ](https://www.microsoft.com/ru-ru/microsoft-teams/free?icid=SSM_AS_Promo_Apps_MicrosoftTeams)
+    * Компьютеры и устройства  Компьютеры и устройства 
+      * [ Купите Xbox ](https://www.microsoft.com/ru-ru/store/b/xbox?icid=CNavDevicesXbox)
+      * [ Аксессуары ](https://www.microsoft.com/accessories/ru-ru)
+    * Развлечения  Развлечения 
+      * [ Xbox Game Pass Ultimate ](https://www.microsoft.com/ru-ru/p/xbox-game-pass-ultimate/cfq7ttc0khs0?WT.mc_id=CNavGamesXboxGamePassUltimate)
+      * [ Xbox Live Gold ](https://www.microsoft.com/ru-ru/p/xbox-live-gold/cfq7ttc0k5dj?WT.mc_id=CNavGamesXboxLiveGold)
+      * [ Xbox и игры ](https://www.xbox.com/ru-ru/games/xbox-one?xr=shellnav)
+      * [ Компьютерные игры ](https://www.microsoft.com/ru-ru/store/games/windows?icid=CNavGamesWindowsGames)
+      * [ Игры для Windows ](https://www.microsoft.com/ru-ru/store/games/windows?icid=TopNavWindowsGames)
+    * Для бизнеса  Для бизнеса 
+      * [ Microsoft Azure ](https://azure.microsoft.com/ru-ru/)
+      * [ Microsoft Dynamics 365 ](https://www.microsoft.com/ru-ru/dynamics365/home)
+      * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365/business/all-business)
+      * [ Microsoft Industry ](https://www.microsoft.com/ru-ru/enterprise)
+      * [ Платформа данных ](https://www.microsoft.com/ru-ru/sql-server/ )
+      * [ Power Platform ](https://powerplatform.microsoft.com/ru-ru)
+      * [ Shop Business ](https://www.microsoft.com/ru-ru/store/b/business?icid=CNavBusinessStore)
+    * Для разработчиков и ИТ  Для разработчиков и ИТ 
+      * [ .NET ](https://www.microsoft.com/net/)
+      * [ Visual Studio ](https://visualstudio.microsoft.com/)
+      * [ Windows Server ](https://www.microsoft.com/cloud-platform/windows-server)
+      * [ Разработка приложений для Windows ](https://developer.microsoft.com/ru-ru/windows)
+      * [ Документы ](https://docs.microsoft.com/ru-ru/)
+      * [ Power Apps ](https://powerapps.microsoft.com/ru-ru)
+    * Другое  Другое 
+      * [ Бесплатная загрузка и средства безопасности ](https://www.microsoft.com/ru-ru/download/default.aspx)
+      * [ Образование ](https://www.microsoft.com/ru-ru/education?icid=CNavMSCOML0_Studentsandeducation)
+      * [ лицензирование ](https://www.microsoft.com/licensing/default)
+    * [ Посмотреть карту сайта ](https://www.microsoft.com/ru-ru/sitemap.aspx)
+
+Поиск  Поиск на Microsoft.com
+
+Отмена
+
+![Bluetooth-мышь Microsoft в разных цветах](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4zqQG?ver=6936&q=90&m=6&h=600&w=1600&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+#  Компьютерные мыши
+
+Вероятно, вы пользуетесь мышью весь день. Поэтому мы предлагаем целый набор не
+только стильных, но и функциональных высокоточных мышей.
+
+Купить мышь
+
+  * ![Значок компьютерной мыши](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) Мыши 
+  * ![Значок клавиатуры компьютера](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) Клавиатуры 
+  * ![Значок веб-камеры компьютера ](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) Веб-камеры 
+  * ![Значок гарнитуры компьютера](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) Гарнитуры 
+  * ![Значок компьютерного кабеля USB](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) Кабели и адаптеры 
+
+![Гарнитура, клавиатура, ручка и мышь для
+Surface](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+##  Surface аксессуары
+
+Дополните свое устройство Surface клавиатурами, док-станциями, мышью и другими
+аксессуарами.
+
+[ Подробнее  ](https://www.microsoft.com/ru-ru/store/b/surface-accessories)
+
+![Беспроводной геймпад Xbox](//www.microsoft.com/onerfstatics/marketingsites-
+neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+##  Xbox аксессуары
+
+Познакомьтесь с новым поколением игр и развлечений вместе с Xbox. Изучите
+доступные консоли, новые и старые игры для Xbox и аксессуары, чтобы создать
+или пополнить свою коллекцию.
+
+[ Подробнее  ](https://www.xbox.com/ru-ru/)
+
+![Женщина сидит за столом, печатает на клавиатуре и смотрит на экран монитора
+компьютера](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+##  Корпоративные заказчики
+
+Линейка оборудования Microsoft для бизнеса, распространяемая через
+соответствующих продавцов, позволяет легко приобрести весь необходимый спектр
+наших продуктов.
+
+[ Подробнее  ](https://www.microsoft.com/accessories/ru-ru/business)
+
+![Грузовик, везущий сумку с электронными товарами, смотрит на значок
+местоположения](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+##  Приобретайте аксессуары.
+
+Найти аксессуары Microsoft можно у следующих продавцов.
+
+Подробнее
+
+##  Компьютерные мыши
+
+Вероятно, вы пользуетесь мышью весь день. Поэтому мы предлагаем целый набор не
+только стильных, но и функциональных высокоточных мышей.
+
+  * ![Microsoft Bluetooth Ergonomic Mouse в черном цвете](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4IQIS?ver=f1dc&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Мышь Microsoft Bluetooth® Ergonomic Mouse
+
+3750.00 руб. ОРЦ
+
+Легкий современный дизайн с производительностью беспроводной связи и
+комфортной работой на протяжении всего дня. Надежный контроль перемещения и
+удобство работы обеспечивают точная фиксированная прокрутка, мягкая опора для
+большого пальца и две программируемые кнопки.
+
+[ Купить сейчас  ](https://www.microsoft.com/ru-
+ru/accessories/products/mice/microsoft-bluetooth-ergonomic-mouse)
+
+  * ![Мышь Microsoft Arc Mouse черного цвета](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4zdUV?ver=3f77&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Microsoft Arc Mouse
+
+6600 руб. ОРЦ
+
+Мышь Microsoft Arc Mouse создана для комфортного размещения в руке; более
+того, в сложенном виде ее удобно носить.
+
+[ Купить сейчас  ](https://www.microsoft.com/ru-
+ru/accessories/products/mice/microsoft-arc-mouse)
+
+  * ![Microsoft Ergonomic Mouse в Черном](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4zgyP?ver=e594&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Microsoft Ergonomic Mouse
+
+3300 руб. ОРЦ
+
+Microsoft Ergonomic Mouse снижает утомляемость и обеспечивает исключительный
+контроль благодаря сверхплавной работе на разных поверхностях
+
+[ Купить сейчас  ](https://www.microsoft.com/ru-
+ru/accessories/products/mice/microsoft-ergonomic-mouse)
+
+  * ![Мышь Microsoft Modern Mobile Mouse в пастельно-синим цвете](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4zj77?ver=7ce8&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Microsoft Modern Mobile Mouse
+
+2245 руб. ОРЦ
+
+Работайте с комфортом, пользуясь Microsoft Modern Mobile Mouse. Благодаря
+легкому и плоскому дизайну она обеспечивает удобную навигацию.
+
+[ Купить сейчас  ](https://www.microsoft.com/ru-
+ru/accessories/products/mice/microsoft-modern-mobile-mouse)
+
+  * ![Microsoft Bluetooth® Mouse в Черный](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4zgyW?ver=02c9&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Microsoft Bluetooth® Mouse
+
+1650 руб. ОРЦ
+
+Компактная мышь современного дизайна комфортно размещается в руке и позволяет
+продуктивно работать.
+
+[ Купить сейчас  ](https://www.microsoft.com/ru-
+ru/accessories/products/mice/microsoft-bluetooth-mouse)
+
+  * ![Microsoft Precision Mouse](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4zdV0?ver=00d4&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Microsoft Precision Mouse
+
+6990 руб. ОРЦ
+
+Благодаря продуманному эргономичному дизайну эта элегантная изогнутая мышь
+комфортно лежит в ладони и гарантирует комфортную работу на протяжении многих
+часов.
+
+[ Купить сейчас  ](https://www.microsoft.com/ru-
+ru/accessories/products/mice/microsoft-precision-mouse)
+
+  * ![Arc Touch Mouse](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4zgrB?ver=9e9c&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Arc Touch Mouse
+
+5999 руб. ОРЦ
+
+Стильная и привлекательная, мышь Arc™ Touch Mouse — это больше, чем просто
+красивое устройство.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/mice/arc-touch-mouse/rvf-00056)
+
+  * ![Sculpt Ergonomic Mouse](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4zlHV?ver=90c2&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Sculpt Ergonomic Mouse
+
+5199 руб. ОРЦ
+
+Усовершенствованный дизайн Sculpt Ergonomic Mouse повышает комфорт для
+запястья, одновременно упрощая навигацию.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/mice/sculpt-ergonomic-mouse/l6v-00005)
+
+  * ![Sculpt Comfort Mouse](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4zw8O?ver=3b70&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Sculpt Comfort Mouse
+
+3199 руб. ОРЦ
+
+Эта компьютерная мышь с боковой сенсорной панелью Windows коренным образом
+изменяет взаимодействие аппаратного оборудования и программного обеспечения.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/mice/sculpt-comfort-mouse/h3s-00002)
+
+  * ![Bluetooth® Mobile Mouse 3600](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4zqQD?ver=1b14&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Bluetooth® Mobile Mouse 3600
+
+3199 руб. ОРЦ
+
+Попрощайтесь с приемопередатчиками и проводами благодаря мыши Microsoft
+Bluetooth Mobile Mouse 3600.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/mice/bluetooth-mobile-mouse-3600/pn7-00004?part=PN7-00004)
+
+  * ![Wireless Mobile Mouse 4000](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4zj7h?ver=b653&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Wireless Mobile Mouse 4000
+
+3199 руб. ОРЦ
+
+Беспроводная мышь Microsoft Wireless Mobile Mouse 4000 поможет вам подчеркнуть
+вашу индивидуальность, работая в поездке.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/mice/wireless-mobile-mouse-4000/d5d-00133)
+
+  * ![Sculpt Mobile Mouse](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4zj7k?ver=d19e&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Sculpt Mobile Mouse
+
+2399 руб. ОРЦ
+
+Благодаря Microsoft Sculpt Mobile Mouse эффективностью не придется жертвовать
+в дороге. Интегрированная кнопка Windows обеспечивает быстрый доступ к любимым
+возможностям Windows 8.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/mice/sculpt-mobile-mouse/43u-00004?part=43U-00004)
+
+  * ![Wireless Mobile Mouse 3500](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4zoiv?ver=e9fc&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Wireless Mobile Mouse 3500
+
+2399 руб. ОРЦ
+
+При работе в поездке с беспроводной мышью Microsoft Wireless Mobile Mouse 3500
+приемопередатчик должен быть подключен к переносному ПК.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/mice/wireless-mobile-mouse-3500/gmf-00289)
+
+  * ![Wireless Mobile Mouse 3500](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4zoiv?ver=e9fc&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Wireless Mobile Mouse 3500 Limited Edition
+
+2399 руб. ОРЦ
+
+При работе в поездке с беспроводной мышью Microsoft Wireless Mobile Mouse 3500
+приемопередатчик должен быть подключен к переносному ПК.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/mice/wireless-mobile-mouse-3500-limited-
+edition/gmf-00292?part=GMF-00292)
+
+  * ![Comfort Mouse 4500](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4zgzc?ver=7362&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Comfort Mouse 4500
+
+1699 руб. ОРЦ
+
+Недорогая многофункциональная мышь Microsoft Comfort Mouse 4500 способна
+работать на любой поверхности.
+
+  * ![Wireless Mobile Mouse 1850](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4ztuJ?ver=fce1&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Wireless Mobile Mouse 1850
+
+1499 руб. ОРЦ
+
+Мышь Wireless Mobile Mouse 1850 была создана для мобильного образа жизни; она
+оснащена беспроводной связью и встроенным отделением для приемопередатчика для
+обеспечения беспрецедентной мобильности.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/mice/wireless-mobile-mouse-1850/u7z-00058?part=U7Z-00058)
+
+  * ![Wireless Mouse 900](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4zqXH?ver=6c49&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Wireless Mouse 900
+
+1399 руб. ОРЦ
+
+Эта полноразмерная мышь обеспечивает удобство и точность управления и идеально
+подходит для работы как правой, так и левой рукой благодаря симметричной
+конструкции.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/mice/wireless-mouse-900/pw4-00004)
+
+  * ![Compact Optical Mouse 500](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4zj7q?ver=63f8&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Compact Optical Mouse 500
+
+1299 руб. ОРЦ
+
+Недорогая компактная мышь Compact Optical Mouse 500 от Microsoft с оптической
+технологией Optical Technology является частью комплекта, идеально подходящего
+для работы на ноутбуках, когда рабочее пространство ценится на вес золота.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/mice/compact-optical-mouse-500/u81-00083)
+
+  * ![Basic Optical Mouse](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4zw8S?ver=f18d&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Basic Optical Mouse
+
+1199 руб. ОРЦ
+
+Мышь Basic Optical Mouse характеризуется быстротой навигации и легкостью
+прокрутки. Работает практически на любой поверхности, оснащена настраиваемыми
+кнопками и полностью симметрична.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/mice/basic-optical-mouse/p58-00059?part=P58-00059)
+
+  * ![Microsoft Bluetooth Ergonomic Mouse в черном цвете](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4IQIS?ver=f1dc&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Мышь Microsoft Bluetooth® Ergonomic Mouse
+
+Легкий современный дизайн с производительностью беспроводной связи и
+комфортной работой на протяжении всего дня. Надежный контроль перемещения и
+удобство работы обеспечивают точная фиксированная прокрутка, мягкая опора для
+большого пальца и две программируемые кнопки.
+
+[ Подробнее  ](https://www.microsoft.com/ru-ru/accessories/business/microsoft-
+bluetooth-ergonomic-mouse-for-business)
+
+  * ![Sculpt Ergonomic Mouse](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4zlHV?ver=90c2&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Sculpt Ergonomic Mouse для бизнеса
+
+Познакомьтесь с новой мышью Sculpt Ergonomic Mouse от Майкрософт. Она
+отличается превосходным дизайном, удобством и функциональностью.
+
+[ Подробнее  ](https://www.microsoft.com/accessories/ru-ru/business/sculpt-
+ergonomic-mouse-for-business/5lv-00002)
+
+  * ![Wireless Mobile Mouse 1850](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4ztuJ?ver=fce1&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Wireless Mobile Mouse 1850 для бизнеса
+
+Мышь Wireless Mobile Mouse 1850 была создана для мобильного образа жизни; она
+оснащена беспроводной связью и встроенным отделением для приемопередатчика для
+обеспечения беспрецедентной мобильности.
+
+[ Подробнее  ](https://www.microsoft.com/accessories/ru-ru/business/wireless-
+mobile-mouse-1850-for-business/7mm-00002)
+
+  * ![Basic Optical Mouse](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4zw8S?ver=f18d&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Basic Optical Mouse для бизнеса
+
+Мышь Basic Optical Mouse характеризуется быстротой навигации и легкостью
+прокрутки. Работает практически на любой поверхности, оснащена настраиваемыми
+кнопками и полностью симметрична.
+
+[ Подробнее  ](https://www.microsoft.com/accessories/ru-ru/business/basic-
+optical-mouse-for-business/4yh-00007)
+
+  * ![Comfort Mouse 4500](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4zgzc?ver=7362&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Comfort Mouse 4500 для бизнеса
+
+Недорогая многофункциональная мышь Microsoft Comfort Mouse 4500 способна
+работать на любой поверхности, обеспечивает удобство использования любой рукой
+и точность управления благодаря Microsoft® BlueTrack Technology.
+
+[ Подробнее  ](https://www.microsoft.com/accessories/ru-ru/business/comfort-
+mouse-4500-for-business/4eh-00002)
+
+  * ![Compact Optical Mouse 500](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4zj7q?ver=63f8&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Compact Optical Mouse 500 для бизнеса
+
+Недорогая компактная мышь Compact Optical Mouse 500 от Microsoft с оптической
+технологией Optical Technology является частью комплекта, идеально подходящего
+для работы на ноутбуках, когда рабочее пространство ценится на вес золота.
+
+[ Подробнее  ](https://www.microsoft.com/accessories/ru-ru/business/compact-
+optical-mouse-500-for-business/4hh-00002)
+
+Магазин нашей коллекции мышей
+
+![Microsoft Bluetooth Ergonomic Mouse в черном
+цвете](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Мышь Microsoft Bluetooth® Ergonomic Mouse
+
+3750.00 руб. ОРЦ
+
+Легкий современный дизайн с производительностью беспроводной связи и
+комфортной работой на протяжении всего дня. Надежный контроль перемещения и
+удобство работы обеспечивают точная фиксированная прокрутка, мягкая опора для
+большого пальца и две программируемые кнопки.
+
+[ Купить сейчас  ](https://www.microsoft.com/ru-
+ru/accessories/products/mice/microsoft-bluetooth-ergonomic-mouse)
+
+![Мышь Microsoft Arc Mouse черного
+цвета](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Microsoft Arc Mouse
+
+6600 руб. ОРЦ
+
+Мышь Microsoft Arc Mouse создана для комфортного размещения в руке; более
+того, в сложенном виде ее удобно носить.
+
+[ Купить сейчас  ](https://www.microsoft.com/ru-
+ru/accessories/products/mice/microsoft-arc-mouse)
+
+![Microsoft Ergonomic Mouse в
+Черном](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Microsoft Ergonomic Mouse
+
+3300 руб. ОРЦ
+
+Microsoft Ergonomic Mouse снижает утомляемость и обеспечивает исключительный
+контроль благодаря сверхплавной работе на разных поверхностях
+
+[ Купить сейчас  ](https://www.microsoft.com/ru-
+ru/accessories/products/mice/microsoft-ergonomic-mouse)
+
+![Мышь Microsoft Modern Mobile Mouse в пастельно-синим
+цвете](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Microsoft Modern Mobile Mouse
+
+2245 руб. ОРЦ
+
+Работайте с комфортом, пользуясь Microsoft Modern Mobile Mouse. Благодаря
+легкому и плоскому дизайну она обеспечивает удобную навигацию.
+
+[ Купить сейчас  ](https://www.microsoft.com/ru-
+ru/accessories/products/mice/microsoft-modern-mobile-mouse)
+
+![Microsoft Bluetooth® Mouse в
+Черный](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Microsoft Bluetooth® Mouse
+
+1650 руб. ОРЦ
+
+Компактная мышь современного дизайна комфортно размещается в руке и позволяет
+продуктивно работать.
+
+[ Купить сейчас  ](https://www.microsoft.com/ru-
+ru/accessories/products/mice/microsoft-bluetooth-mouse)
+
+![Microsoft Precision Mouse](//www.microsoft.com/onerfstatics/marketingsites-
+neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Microsoft Precision Mouse
+
+6990 руб. ОРЦ
+
+Благодаря продуманному эргономичному дизайну эта элегантная изогнутая мышь
+комфортно лежит в ладони и гарантирует комфортную работу на протяжении многих
+часов.
+
+[ Купить сейчас  ](https://www.microsoft.com/ru-
+ru/accessories/products/mice/microsoft-precision-mouse)
+
+![Arc Touch Mouse](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Arc Touch Mouse
+
+5999 руб. ОРЦ
+
+Стильная и привлекательная, мышь Arc™ Touch Mouse — это больше, чем просто
+красивое устройство.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/mice/arc-touch-mouse/rvf-00056)
+
+![Sculpt Ergonomic Mouse](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Sculpt Ergonomic Mouse
+
+5199 руб. ОРЦ
+
+Усовершенствованный дизайн Sculpt Ergonomic Mouse повышает комфорт для
+запястья, одновременно упрощая навигацию.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/mice/sculpt-ergonomic-mouse/l6v-00005)
+
+![Sculpt Comfort Mouse](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Sculpt Comfort Mouse
+
+3199 руб. ОРЦ
+
+Эта компьютерная мышь с боковой сенсорной панелью Windows коренным образом
+изменяет взаимодействие аппаратного оборудования и программного обеспечения.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/mice/sculpt-comfort-mouse/h3s-00002)
+
+![Bluetooth® Mobile Mouse
+3600](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Bluetooth® Mobile Mouse 3600
+
+3199 руб. ОРЦ
+
+Попрощайтесь с приемопередатчиками и проводами благодаря мыши Microsoft
+Bluetooth Mobile Mouse 3600.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/mice/bluetooth-mobile-mouse-3600/pn7-00004?part=PN7-00004)
+
+![Wireless Mobile Mouse 4000](//www.microsoft.com/onerfstatics/marketingsites-
+neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Wireless Mobile Mouse 4000
+
+3199 руб. ОРЦ
+
+Беспроводная мышь Microsoft Wireless Mobile Mouse 4000 поможет вам подчеркнуть
+вашу индивидуальность, работая в поездке.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/mice/wireless-mobile-mouse-4000/d5d-00133)
+
+![Sculpt Mobile Mouse](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Sculpt Mobile Mouse
+
+2399 руб. ОРЦ
+
+Благодаря Microsoft Sculpt Mobile Mouse эффективностью не придется жертвовать
+в дороге. Интегрированная кнопка Windows обеспечивает быстрый доступ к любимым
+возможностям Windows 8.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/mice/sculpt-mobile-mouse/43u-00004?part=43U-00004)
+
+![Wireless Mobile Mouse 3500](//www.microsoft.com/onerfstatics/marketingsites-
+neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Wireless Mobile Mouse 3500
+
+2399 руб. ОРЦ
+
+При работе в поездке с беспроводной мышью Microsoft Wireless Mobile Mouse 3500
+приемопередатчик должен быть подключен к переносному ПК.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/mice/wireless-mobile-mouse-3500/gmf-00289)
+
+![Wireless Mobile Mouse 3500](//www.microsoft.com/onerfstatics/marketingsites-
+neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Wireless Mobile Mouse 3500 Limited Edition
+
+2399 руб. ОРЦ
+
+При работе в поездке с беспроводной мышью Microsoft Wireless Mobile Mouse 3500
+приемопередатчик должен быть подключен к переносному ПК.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/mice/wireless-mobile-mouse-3500-limited-
+edition/gmf-00292?part=GMF-00292)
+
+![Comfort Mouse 4500](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Comfort Mouse 4500
+
+1699 руб. ОРЦ
+
+Недорогая многофункциональная мышь Microsoft Comfort Mouse 4500 способна
+работать на любой поверхности.
+
+![Wireless Mobile Mouse 1850](//www.microsoft.com/onerfstatics/marketingsites-
+neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Wireless Mobile Mouse 1850
+
+1499 руб. ОРЦ
+
+Мышь Wireless Mobile Mouse 1850 была создана для мобильного образа жизни; она
+оснащена беспроводной связью и встроенным отделением для приемопередатчика для
+обеспечения беспрецедентной мобильности.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/mice/wireless-mobile-mouse-1850/u7z-00058?part=U7Z-00058)
+
+![Wireless Mouse 900](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Wireless Mouse 900
+
+1399 руб. ОРЦ
+
+Эта полноразмерная мышь обеспечивает удобство и точность управления и идеально
+подходит для работы как правой, так и левой рукой благодаря симметричной
+конструкции.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/mice/wireless-mouse-900/pw4-00004)
+
+![Compact Optical Mouse 500](//www.microsoft.com/onerfstatics/marketingsites-
+neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Compact Optical Mouse 500
+
+1299 руб. ОРЦ
+
+Недорогая компактная мышь Compact Optical Mouse 500 от Microsoft с оптической
+технологией Optical Technology является частью комплекта, идеально подходящего
+для работы на ноутбуках, когда рабочее пространство ценится на вес золота.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/mice/compact-optical-mouse-500/u81-00083)
+
+![Basic Optical Mouse](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Basic Optical Mouse
+
+1199 руб. ОРЦ
+
+Мышь Basic Optical Mouse характеризуется быстротой навигации и легкостью
+прокрутки. Работает практически на любой поверхности, оснащена настраиваемыми
+кнопками и полностью симметрична.
+
+ph
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/mice/basic-optical-mouse/p58-00059?part=P58-00059)
+
+![Microsoft Bluetooth Ergonomic Mouse в черном
+цвете](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Мышь Microsoft Bluetooth® Ergonomic Mouse
+
+Легкий современный дизайн с производительностью беспроводной связи и
+комфортной работой на протяжении всего дня. Надежный контроль перемещения и
+удобство работы обеспечивают точная фиксированная прокрутка, мягкая опора для
+большого пальца и две программируемые кнопки.
+
+[ Подробнее  ](https://www.microsoft.com/ru-ru/accessories/business/microsoft-
+bluetooth-ergonomic-mouse-for-business)
+
+![Sculpt Ergonomic Mouse](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Sculpt Ergonomic Mouse для бизнеса
+
+Познакомьтесь с новой мышью Sculpt Ergonomic Mouse от Майкрософт. Она
+отличается превосходным дизайном, удобством и функциональностью.
+
+[ Подробнее  ](https://www.microsoft.com/accessories/ru-ru/business/sculpt-
+ergonomic-mouse-for-business/5lv-00002)
+
+![Wireless Mobile Mouse 1850](//www.microsoft.com/onerfstatics/marketingsites-
+neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Wireless Mobile Mouse 1850 для бизнеса
+
+Мышь Wireless Mobile Mouse 1850 была создана для мобильного образа жизни; она
+оснащена беспроводной связью и встроенным отделением для приемопередатчика для
+обеспечения беспрецедентной мобильности.
+
+[ Подробнее  ](https://www.microsoft.com/accessories/ru-ru/business/wireless-
+mobile-mouse-1850-for-business/7mm-00002)
+
+![Basic Optical Mouse](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Basic Optical Mouse для бизнеса
+
+Мышь Basic Optical Mouse характеризуется быстротой навигации и легкостью
+прокрутки. Работает практически на любой поверхности, оснащена настраиваемыми
+кнопками и полностью симметрична.
+
+[ Подробнее  ](https://www.microsoft.com/accessories/ru-ru/business/basic-
+optical-mouse-for-business/4yh-00007)
+
+![Comfort Mouse 4500](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Comfort Mouse 4500 для бизнеса
+
+Недорогая многофункциональная мышь Microsoft Comfort Mouse 4500 способна
+работать на любой поверхности, обеспечивает удобство использования любой рукой
+и точность управления благодаря Microsoft® BlueTrack Technology.
+
+[ Подробнее  ](https://www.microsoft.com/accessories/ru-ru/business/comfort-
+mouse-4500-for-business/4eh-00002)
+
+![Compact Optical Mouse 500](//www.microsoft.com/onerfstatics/marketingsites-
+neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Compact Optical Mouse 500 для бизнеса
+
+Недорогая компактная мышь Compact Optical Mouse 500 от Microsoft с оптической
+технологией Optical Technology является частью комплекта, идеально подходящего
+для работы на ноутбуках, когда рабочее пространство ценится на вес золота.
+
+[ Подробнее  ](https://www.microsoft.com/accessories/ru-ru/business/compact-
+optical-mouse-500-for-business/4hh-00002)
+
+* * *
+
+##  Клавиатуры для компьютеров и ноутбуков
+
+Если вам нужна эргономичность, привлекательный дизайн или мобильность, то вы
+найдете здесь подходящую клавиатуру, с которой сможете работать удобно и
+эффективно.
+
+  * ![Microsoft Designer Compact Keyboard](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4Memw?ver=8c71&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Клавиатура Microsoft Designer Compact Keyboard
+
+5090 руб. ОРЦ
+
+Клавиатура премиум-класса, оптимизированная для производительного выполнения
+современной работы. Тонкий, элегантный дизайн с клавишей переключения экрана
+для быстрого захвата, копирования, вставки и публикации.
+
+[ Купить сейчас  ](https://www.microsoft.com/ru-
+ru/accessories/products/keyboards/microsoft-designer-compact-keyboard)
+
+  * ![Microsoft Number Pad](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4Memz?ver=77be&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Цифровая клавиатура Microsoft Number Pad
+
+1925 руб. ОРЦ
+
+Тонкая и изящная, с превосходной отделкой, позволяет быстрее и в более
+естественной манере работать с числами, делая ваш ПК с Windows 10 или
+компактную клавиатуру более производительными.
+
+[ Купить сейчас  ](https://www.microsoft.com/ru-
+ru/accessories/products/keyboards/microsoft-number-pad)
+
+  * ![Microsoft Ergonomic Desktop в черном цвете](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4zgrH?ver=146f&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Microsoft Ergonomic Desktop
+
+7500 руб. ОРЦ
+
+Изысканный дизайн, обеспечивающий комфорт в течение всего дня и точное
+управление.
+
+[ Купить сейчас  ](https://www.microsoft.com/ru-
+ru/accessories/products/keyboards/microsoft-ergonomic-desktop)
+
+  * ![Microsoft Bluetooth® Desktop в черном цвете](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4zgzp?ver=87c8&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Microsoft Bluetooth Desktop
+
+5100 руб. ОРЦ
+
+Беспроводная конструкция идеально сочетается с вашим ноутбуком через
+Bluetooth® и обеспечивает длительное время автономной работы.
+
+[ Купить сейчас  ](https://www.microsoft.com/ru-
+ru/accessories/products/keyboards/microsoft-bluetooth-desktop)
+
+  * ![Microsoft Ergonomic Keyboard в Черном](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4zdVi?ver=0bcb&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Microsoft Ergonomic Keyboard
+
+5000 руб. ОРЦ
+
+[ Купить сейчас  ](https://www.microsoft.com/ru-
+ru/accessories/products/keyboards/microsoft-ergonomic-keyboard)
+
+  * ![Microsoft Bluetooth® Keyboard в Черном](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4zw92?ver=e30d&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Microsoft Bluetooth Keyboard
+
+4100 руб. ОРЦ
+
+Оцените тонкую и стильную Bluetooth®-клавиатуру Microsoft по доступной цене.
+Готовые клавиши Office для вашей комфортной работы на ПК.
+
+[ Купить сейчас  ](https://www.microsoft.com/ru-
+ru/accessories/products/keyboards/microsoft-bluetooth-keyboard)
+
+  * ![Sculpt Ergonomic Desktop](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4zdVk?ver=75fa&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Sculpt Ergonomic Desktop
+
+9999 руб. ОРЦ
+
+Новый эргономичный комплект Microsoft сочетает полнофункциональную клавиатуру
+и мышь, обеспечивая максимальный комфорт, удобство и эстетическое
+преимущество.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/keyboards/sculpt-ergonomic-desktop/l5v-00017)
+
+  * ![Designer Bluetooth Desktop](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4zgrE?ver=4d4f&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Designer Bluetooth Desktop
+
+8699 руб. ОРЦ
+
+Набор Designer Bluetooth Desktop с современным ультратонким корпусом
+подключается к ноутбуку и планшету по беспроводному интерфейсу на основе
+технологии Bluetooth Smart — мгновенное подключение без проводов и адаптеров.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/keyboards/designer-bluetooth-desktop/7n9-00018)
+
+  * ![Sculpt Comfort Desktop](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4zj7z?ver=2bc9&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Sculpt Comfort Desktop
+
+6799 руб. ОРЦ
+
+Комплект Microsoft Sculpt Comfort Desktop — это новое слово в интеграции
+оборудования и программного обеспечения. Также его отличает множество
+эргономичных функций.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/keyboards/sculpt-comfort-desktop/l3v-00017)
+
+  * ![Wireless Comfort Desktop 5050](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4zw95?ver=c589&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Wireless Comfort Desktop 5050
+
+6499 руб. ОРЦ
+
+Комплект Comfort Desktop 5050 от Microsoft, включающий в себя беспроводную
+клавиатуру и мышь, предлагает вам набор устройств, которые оптимизированы под
+использование Windows.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/keyboards/wireless-comfort-desktop-5050/pp4-00017)
+
+  * ![Wireless Desktop 900](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4zj7E?ver=34f7&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Wireless Desktop 900
+
+4299 руб. ОРЦ
+
+Этот простой и современный комплект использует технологию безопасности AES для
+защиты данных о нажимаемых клавишах, а также включает полноразмерную мышь,
+которую отличает удобство и точность управления.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/keyboards/wireless-desktop-900/pt3-00017)
+
+  * ![Natural Ergonomic Keyboard 4000](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4zw98?ver=8c97&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Natural Ergonomic Keyboard 4000
+
+4199 руб. ОРЦ
+
+Клавиатура Microsoft Natural Ergonomic Keyboard 4000 позволяет проще выполнять
+каждодневные задачи и обеспечивает более естественное положение запястий.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/keyboards/natural-ergonomic-keyboard-4000/b2m-00020)
+
+  * ![Wireless Desktop 2000](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4zgzI?ver=7920&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Wireless Desktop 2000
+
+3899 руб. ОРЦ
+
+Набор Wireless Desktop 2000 от Microsoft использует алгоритм шифрования AES,
+что позволяет защитить личные и деловые данные шифрованием вводимого текста.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/keyboards/wireless-desktop-2000/m7j-00012)
+
+  * ![All In One Media Keyboard](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4ztuZ?ver=f40f&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  All In One Media Keyboard
+
+3699 руб. ОРЦ
+
+Клавиатура All-in-One Media Keyboard — идеальное устройство для гостиной или
+домашнего офиса. Она оснащена интегрированной мультисенсорной панелью и
+настраиваемыми горячими мультимедийными клавишами, обеспечивающими быстрый
+доступ к Интернету и любимой музыке, фотографиям и фильмам.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/keyboards/all-in-one-media-keyboard/n9z-00018)
+
+  * ![Wireless Desktop 850](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4zgzN?ver=d4e8&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Wireless Desktop 850
+
+3199 руб. ОРЦ
+
+Эта компактная клавиатура и надежная мышь \(комплект Wireless Desktop 850 от
+Майкрософт\) отличаются удобством беспроводного соединения и безопасностью
+благодаря шифрованию AES.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/keyboards/wireless-desktop-850/py9-00012)
+
+  * ![Wired Desktop 600](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4zw9b?ver=204b&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Wired Desktop 600
+
+2499 руб. ОРЦ
+
+В комплект Desktop 600 от Microsoft входят клавиатура с защитой от влаги и
+оптическая мышь, которые обеспечивают надежность и необходимую
+функциональность.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/keyboards/wired-desktop-600/apb-00011)
+
+  * ![Wired Keyboard 600](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4zgzT?ver=ae78&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Wired Keyboard 600
+
+1299 руб. ОРЦ
+
+Клавиатура Wired Keyboard 600 от Microsoft предлагает вашему вниманию быстрое
+подключение, бесшумные клавиши Quiet Touch, клавиши управления мультимедиа и
+многое другое.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/keyboards/wired-keyboard-600/anb-00018)
+
+Магазин нашей коллекции клавиатур
+
+![Microsoft Designer Compact
+Keyboard](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Клавиатура Microsoft Designer Compact Keyboard
+
+5090 руб. ОРЦ
+
+Клавиатура премиум-класса, оптимизированная для производительного выполнения
+современной работы. Тонкий, элегантный дизайн с клавишей переключения экрана
+для быстрого захвата, копирования, вставки и публикации.
+
+[ Купить сейчас  ](https://www.microsoft.com/ru-
+ru/accessories/products/keyboards/microsoft-designer-compact-keyboard)
+
+![Microsoft Number Pad](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Цифровая клавиатура Microsoft Number Pad
+
+1925 руб. ОРЦ
+
+Тонкая и изящная, с превосходной отделкой, позволяет быстрее и в более
+естественной манере работать с числами, делая ваш ПК с Windows 10 или
+компактную клавиатуру более производительными.
+
+[ Купить сейчас  ](https://www.microsoft.com/ru-
+ru/accessories/products/keyboards/microsoft-number-pad)
+
+![Microsoft Ergonomic Desktop в черном
+цвете](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Microsoft Ergonomic Desktop
+
+7500 руб. ОРЦ
+
+Изысканный дизайн, обеспечивающий комфорт в течение всего дня и точное
+управление.
+
+[ Купить сейчас  ](https://www.microsoft.com/ru-
+ru/accessories/products/keyboards/microsoft-ergonomic-desktop)
+
+![Microsoft Bluetooth® Desktop в черном
+цвете](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Microsoft Bluetooth Desktop
+
+5100 руб. ОРЦ
+
+Беспроводная конструкция идеально сочетается с вашим ноутбуком через
+Bluetooth® и обеспечивает длительное время автономной работы.
+
+[ Купить сейчас  ](https://www.microsoft.com/ru-
+ru/accessories/products/keyboards/microsoft-bluetooth-desktop)
+
+![Microsoft Ergonomic Keyboard в
+Черном](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Microsoft Ergonomic Keyboard
+
+5000 руб. ОРЦ
+
+[ Купить сейчас  ](https://www.microsoft.com/ru-
+ru/accessories/products/keyboards/microsoft-ergonomic-keyboard)
+
+![Microsoft Bluetooth® Keyboard в
+Черном](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Microsoft Bluetooth Keyboard
+
+4100 руб. ОРЦ
+
+Оцените тонкую и стильную Bluetooth®-клавиатуру Microsoft по доступной цене.
+Готовые клавиши Office для вашей комфортной работы на ПК.
+
+[ Купить сейчас  ](https://www.microsoft.com/ru-
+ru/accessories/products/keyboards/microsoft-bluetooth-keyboard)
+
+![Sculpt Ergonomic Desktop](//www.microsoft.com/onerfstatics/marketingsites-
+neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Sculpt Ergonomic Desktop
+
+9999 руб. ОРЦ
+
+Новый эргономичный комплект Майкрософт сочетает полнофункциональную клавиатуру
+и мышь, обеспечивая максимальный комфорт, удобство и эстетическое
+преимущество.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/keyboards/sculpt-ergonomic-desktop/l5v-00017)
+
+![Designer Bluetooth Desktop](//www.microsoft.com/onerfstatics/marketingsites-
+neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Designer Bluetooth Desktop
+
+8699 руб. ОРЦ
+
+Набор Designer Bluetooth Desktop с современным ультратонким корпусом
+подключается к ноутбуку и планшету по беспроводному интерфейсу на основе
+технологии Bluetooth Smart — мгновенное подключение без проводов и адаптеров.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/keyboards/designer-bluetooth-desktop/7n9-00018)
+
+![Sculpt Comfort Desktop](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Sculpt Comfort Desktop
+
+6799 руб. ОРЦ
+
+Комплект Microsoft Sculpt Comfort Desktop — это новое слово в интеграции
+оборудования и программного обеспечения. Также его отличает множество
+эргономичных функций.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/keyboards/sculpt-comfort-desktop/l3v-00017)
+
+![Wireless Comfort Desktop
+5050](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Wireless Comfort Desktop 5050
+
+6499 руб. ОРЦ
+
+Комплект Comfort Desktop 5050 от Майкрософт, включающий в себя беспроводную
+клавиатуру и мышь, предлагает вам набор устройств, которые оптимизированы под
+использование Windows.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/keyboards/wireless-comfort-desktop-5050/pp4-00017)
+
+![Wireless Desktop 900](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Wireless Desktop 900
+
+4299 руб. ОРЦ
+
+Этот простой и современный комплект использует технологию безопасности AES для
+защиты данных о нажимаемых клавишах, а также включает полноразмерную мышь,
+которую отличает удобство и точность управления.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/keyboards/wireless-desktop-900/pt3-00017)
+
+![Natural Ergonomic Keyboard
+4000](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Natural Ergonomic Keyboard 4000
+
+4199 руб. ОРЦ
+
+Клавиатура Microsoft Natural Ergonomic Keyboard 4000 позволяет проще выполнять
+каждодневные задачи и обеспечивает более естественное положение запястий.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/keyboards/natural-ergonomic-keyboard-4000/b2m-00020)
+
+![Wireless Desktop 2000](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Wireless Desktop 2000
+
+3899 руб. ОРЦ
+
+Набор Wireless Desktop 2000 от Microsoft использует алгоритм шифрования AES,
+что позволяет защитить личные и деловые данные шифрованием вводимого текста.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/keyboards/wireless-desktop-2000/m7j-00012)
+
+![All In One Media Keyboard](//www.microsoft.com/onerfstatics/marketingsites-
+neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  All In One Media Keyboard
+
+3699 руб. ОРЦ
+
+Клавиатура All-in-One Media Keyboard — идеальное устройство для гостиной или
+домашнего офиса. Она оснащена интегрированной мультисенсорной панелью и
+настраиваемыми горячими мультимедийными клавишами, обеспечивающими быстрый
+доступ к Интернету и любимой музыке, фотографиям и фильмам.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/keyboards/all-in-one-media-keyboard/n9z-00018)
+
+![Wireless Desktop 850](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Wireless Desktop 850
+
+3199 руб. ОРЦ
+
+Эта компактная клавиатура и надежная мышь \(комплект Wireless Desktop 850 от
+Майкрософт\) отличаются удобством беспроводного соединения и безопасностью
+благодаря шифрованию AES.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/keyboards/wireless-desktop-850/py9-00012)
+
+![Wired Desktop 600](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Wired Desktop 600
+
+2499 руб. ОРЦ
+
+В комплект Desktop 600 от Microsoft входят клавиатура с защитой от влаги и
+оптическая мышь, которые обеспечивают надежность и необходимую
+функциональность.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/keyboards/wired-desktop-600/apb-00011)
+
+![Wired Keyboard 600](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Wired Keyboard 600
+
+1299 руб. ОРЦ
+
+Клавиатура Wired Keyboard 600 от Microsoft предлагает вашему вниманию быстрое
+подключение, бесшумные клавиши Quiet Touch, клавиши управления мультимедиа и
+многое другое.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/keyboards/wired-keyboard-600/anb-00018)
+
+* * *
+
+##  Веб-камеры
+
+Веб-камеры Microsoft, идеально подходящие для дружеской беседы или рабочего
+собрания, позволят всегда смотреть на мир ясно.
+
+  * ![LifeCam Studio](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4zw9e?ver=df05&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  LifeCam Studio
+
+Эта веб-камера формата HD \(высокой четкости\) от Microsoft дает яркое
+изображение, живой звук и реалистичные краски.
+
+[ Купить сейчас  ](https://www.microsoft.com/ru-
+ru/accessories/products/webcams/lifecam-studio)
+
+  * ![LifeCam Cinema](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4zdVr?ver=ba16&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  LifeCam Cinema
+
+Это полнофункциональная веб-камера LifeCam Cinema от Microsoft, с функцией
+передачи изображения в режиме HD с разрешением 720p, позволяет передавать
+четкое видеоизображение и кристально чистый звук.
+
+[ Купить сейчас  ](https://www.microsoft.com/ru-
+ru/accessories/products/webcams/lifecam-cinema)
+
+  * ![LifeCam HD-3000](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4zgzX?ver=6319&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  LifeCam HD-3000
+
+Эта настоящая HD - камера даст вам яркое и красочное видео, а также позволит
+легко его в ваших любимых социальных сайтах
+
+[ Купить сейчас  ](https://www.microsoft.com/ru-
+ru/accessories/products/webcams/lifecam-hd-3000)
+
+Магазин нашей коллекции веб-камер
+
+![LifeCam Studio](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  LifeCam Studio
+
+Эта веб-камера формата HD \(высокой четкости\) от Microsoft дает яркое
+изображение, живой звук и реалистичные краски.
+
+[ Купить сейчас  ](https://www.microsoft.com/ru-
+ru/accessories/products/webcams/lifecam-studio)
+
+![LifeCam Cinema](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  LifeCam Cinema
+
+Это полнофункциональная веб-камера LifeCam Cinema от Microsoft, с функцией
+передачи изображения в режиме HD с разрешением 720p, позволяет передавать
+четкое видеоизображение и кристально чистый звук.
+
+[ Купить сейчас  ](https://www.microsoft.com/ru-
+ru/accessories/products/webcams/lifecam-cinema)
+
+![LifeCam HD-3000](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  LifeCam HD-3000
+
+Эта настоящая HD - камера даст вам яркое и красочное видео, а также позволит
+легко его в ваших любимых социальных сайтах
+
+[ Купить сейчас  ](https://www.microsoft.com/ru-
+ru/accessories/products/webcams/lifecam-hd-3000)
+
+* * *
+
+##  Гарнитуры
+
+Связь в режиме "хендс-фри" будет удобной и приятной благодаря гарнитурам из
+серии аксессуаров Microsoft.
+
+  * ![LifeChat LX 3000](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4zw9h?ver=8f57&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  LifeChat LX-3000
+
+Разговаривайте по Интернету с непревзойденным качеством связи, наслаждайтесь
+любимой музыкой и фильмами, погружайтесь в компьютерные игры с головой.
+
+[ Купить сейчас  ](https://www.microsoft.com/ru-
+ru/accessories/products/headsets/microsoft-lifechat-lx-3000)
+
+  * ![LifeChat LX 4000 ](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4zw9k?ver=7e35&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  LifeChat LX-4000 для бизнеса
+
+Гарнитура LifeChat LX-4000 для бизнеса от Microsoft проста в использовании.
+
+[ Подробнее  ](https://www.microsoft.com/accessories/ru-ru/business/lifechat-
+lx-4000-for-business/7yf-00001)
+
+  * ![LifeChat LX 6000 ](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4ztv2?ver=7eb3&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  LifeChat LX-6000 для бизнеса
+
+Гарнитура LifeChat LX-6000 для бизнеса от Microsoft проста в использовании.
+
+[ Подробнее  ](https://www.microsoft.com/accessories/ru-ru/business/lifechat-
+lx-6000-for-business/7xf-00001)
+
+##  Адаптеры
+
+Используйте беспроводную трансляцию с экрана устройства на свой HDTV.
+
+  * ![Адаптер Microsoft 4k Wireless display Adapter в матово-черном цвете](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4IkuR?ver=dfd6&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Видеоадаптер Microsoft 4K Wireless Display Adapter
+
+5329.00 руб. ОРЦ
+
+Передавайте изображение со своего ПК с Windows на большой экран. Надежное и
+стабильное соединение для проецирования контента, фотографий и даже видео.
+
+[ Купить сейчас  ](https://www.microsoft.com/ru-
+ru/accessories/products/display-adapters/microsoft-4k-wireless-display-
+adapter)
+
+  * ![Microsoft USB-C® Travel Hub в черном цвете](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4zdVz?ver=f9ce&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Microsoft USB-C® Travel Hub
+
+8500 руб. ОРЦ
+
+С помощью этого элегантного адаптера с несколькими разъемами вы без труда
+превратите свой ноутбук в настоящую рабочую станцию.
+
+[ Купить сейчас  ](https://www.microsoft.com/ru-
+ru/accessories/products/adapters/microsoft-usb-c-travel-hub)
+
+  * ![Новый Wireless Display Adapter](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4zgA4?ver=f5b6&q=90&m=6&h=223&w=290&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Новый Wireless Display Adapter
+
+Благодаря Microsoft Wireless Display Adapter экран планшета, ноутбука или
+смартфона можно отобразить на ТВ или мониторе.
+
+[ Купить сейчас  ](https://www.microsoft.com/accessories/ru-
+ru/products/adapters/wireless-display-adapter-2/p3q-00000)
+
+* * *
+
+##  Приобретайте аксессуары
+
+Найти аксессуары Microsoft можно у следующих продавцов.
+
+![логотип Эльдорадо ](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  ЭЛЬДОРАДО
+
+[ Приобретайте аксессуары
+](https://gethatch.com/wtbonline/merch/90165/go?region=RU&affiliate_id=53141&url_id=45433)
+
+![логотип М.Видео](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  М.ВИДЕО
+
+[ Приобретайте аксессуары
+](https://gethatch.com/wtbonline/merch/39312/go?region=RU&affiliate_id=53141&url_id=45435)
+
+![логотип DNS](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  DNS
+
+[ Приобретайте аксессуары
+](https://gethatch.com/wtbonline/merch/87553/go?region=RU&affiliate_id=53141&url_id=45437)
+
+![логотип Ситилинк](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  СИТИЛИНК
+
+[ Приобретайте аксессуары
+](https://gethatch.com/wtbonline/merch/88451/go?region=RU&affiliate_id=53141&url_id=45439)
+
+![логотип KOMUS](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  KOMUS
+
+[ Приобретайте аксессуары
+](https://gethatch.com/wtbonline/merch/94587/go?region=RU&affiliate_id=53141&url_id=45441)
+
+![логотип Ozon](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  OZON
+
+[ Приобретайте аксессуары
+](https://gethatch.com/wtbonline/merch/52749/go?region=RU&affiliate_id=53141&url_id=45443)
+
+![логотип Oldi](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  OLDI
+
+[ Приобретайте аксессуары
+](https://gethatch.com/wtbonline/merch/39720/go?region=RU&affiliate_id=53141&url_id=45445)
+
+![логотип Ф-Центр](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Ф-ЦЕНТР
+
+[ Приобретайте аксессуары
+](https://gethatch.com/wtbonline/merch/38598/go?region=RU&affiliate_id=53141&url_id=45447)
+
+![логотип Nix](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  NIX
+
+[ Приобретайте аксессуары
+](https://gethatch.com/wtbonline/merch/88187/go?region=RU&affiliate_id=53141&url_id=45449)
+
+![логотип онлайн трейд](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  ОНЛАЙН ТРЕЙД
+
+[ Приобретайте аксессуары
+](https://gethatch.com/wtbonline/merch/88835/go?region=RU&affiliate_id=53141&url_id=45451)
+
+![логотип re:Store](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  re:Store
+
+[ Приобретайте аксессуары
+](https://gethatch.com/wtbonline/merch/96181/go?region=RU&affiliate_id=53141&url_id=45453)
+
+* * *
+
+![Значок загрузки](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Загрузки
+
+Загрузите последнее ПО и драйверы.
+
+[ Подробнее  ](https://www.microsoft.com/accessories/ru-ru/downloads)
+
+![Значок службы поддержки](//www.microsoft.com/onerfstatics/marketingsites-
+neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Поддержка
+
+Быстрый поиск ответов на вопросы
+
+[ Подробнее  ](https://support.microsoft.com/hub/4338553/pc-accessories-help)
+
+![Значок страницы блога](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  блог о Windows
+
+Узнайте последние новости и примечательные факты об аксессуарах Microsoft.
+
+[ Подробнее  ](https://blogs.windows.com/russia)
+
+![Значок нескольких
+устройств](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Совместимость аксессуаров.
+
+Используйте таблицу совместимости, чтобы найти продукты, совместимые с вашей
+операционной системой.
+
+[ Подробнее  ](https://www.microsoft.com/accessories/ru-
+ru/support/compatibility)
+
+* * *
+
+Подписаться на "Аксессуары Microsoft"
+
+  * [ ![Facebook](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/f3a4418d/coreui.statics/images/social/facebook-gray.png) ](https://www.facebook.com/Microsoft "Follow on Facebook")
+  * [ ![Twitter](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/1028be31/coreui.statics/images/social/twitter-gray.png) ](https://www.twitter.com/Microsoft "Follow on Twitter")
+
+Что нового?
+
+  * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365)
+  * [ Приложения Windows 10 ](https://www.microsoft.com/ru-ru/windows/windows-10-apps)
+
+Microsoft Store
+
+  * [ Профиль учетной записи ](https://account.microsoft.com/)
+  * [ Центр загрузки ](https://www.microsoft.com/ru-ru/download)
+  * [ Поддержка Microsoft Store ](https://go.microsoft.com/fwlink/?linkid=2139749)
+  * [ Возврат товаров ](https://go.microsoft.com/fwlink/p/?LinkID=824764&clcid=0x419)
+  * [ Отслеживание заказа ](https://account.microsoft.com/orders)
+
+Для образования
+
+  * [ Майкрософт и образование ](https://www.microsoft.com/ru-ru/education)
+  * [ Office для учащихся ](https://www.microsoft.com/ru-ru/education/products/office/default.aspx)
+  * [ Office 365 для школ ](https://products.office.com/ru-ru/academic/compare-office-365-education-plans)
+  * [ Специальные предложения для учащихся и родителей ](https://www.microsoft.com/ru-ru/store/b/student?icid=CNavfooter_Studentsandeducation)
+  * [ Microsoft Azure и образование ](https://azure.microsoft.com/ru-ru/community/education/)
+
+Для крупных предприятий
+
+  * [ Azure ](https://azure.microsoft.com/)
+  * [ AppSource ](https://go.microsoft.com/fwlink/?LinkID=808093)
+  * [ Автопромышленность ](https://www.microsoft.com/enterprise/automotive)
+  * [ Государственные учреждения ](https://www.microsoft.com/enterprise/government)
+  * [ Здравоохранение ](https://www.microsoft.com/enterprise/health)
+  * [ Промышленное производство ](https://www.microsoft.com/enterprise/manufacturing)
+  * [ Финансовые услуги ](https://www.microsoft.com/enterprise/financial-services/banking-and-capital-markets)
+  * [ Торговля ](https://www.microsoft.com/enterprise/retail-consumer-goods)
+
+Для разработчиков
+
+  * [ Microsoft Visual Studio ](https://visualstudio.microsoft.com/)
+  * [ Центр разработчиков Windows ](https://developer.microsoft.com/ru-ru/windows)
+  * [ Центр разработчиков ](https://developer.microsoft.com/)
+  * [ Программа Майкрософт для разработчиков ](https://developer.microsoft.com/ru-ru/store/register)
+  * [ Channel 9 ](https://channel9.msdn.com/)
+  * [ Центр разработчиков Office ](https://developer.microsoft.com/ru-ru/office)
+
+Компания
+
+  * [ Вакансии ](https://careers.microsoft.com/)
+  * [ О корпорации Майкрософт ](https://www.microsoft.com/ru-ru/about)
+  * [ Новости компании ](https://news.microsoft.com/ru-ru)
+  * [ Политика конфиденциальности Майкрософт ](https://privacy.microsoft.com/ru-ru)
+  * [ Инвесторы ](https://www.microsoft.com/investor/default.aspx)
+  * [ Безопасность ](https://www.microsoft.com/ru-ru/security/default.aspx)
+
+[ Русский \(Россия\) ](/Accessories/ru-
+ru/worldwide?absoluteReturnUrl=https%3a%2f%2fwww.microsoft.com%2fru-
+ru%2faccessories)
+
+  * [ Связаться с Microsoft ](https://support.microsoft.com/contactus)
+  * [ Конфиденциальность ](https://go.microsoft.com/fwlink/?LinkId=521839)
+  * Управление файлами cookie 
+  * [ Условия использования ](https://go.microsoft.com/fwlink/?LinkID=206977)
+  * [ Товарные знаки ](https://www.microsoft.com/trademarks)
+  * [ Сведения о рекламе ](https://choice.microsoft.com/)
+  * © Microsoft 2021 
+

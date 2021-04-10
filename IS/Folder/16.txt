@@ -1,0 +1,800 @@
+Перейти к основному
+
+[ ![Power&nbsp;Platform](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31)
+](https://microsoft.com)
+
+[ Power Platform ](https://powerplatform.microsoft.com/ru-ru/)
+
+  * Продукты 
+    * [ Power BI ](https://powerplatform.microsoft.com/ru-ru/power-bi/)
+    * [ Power Apps ](https://powerplatform.microsoft.com/ru-ru/power-apps/)
+    * [ Power Automate ](https://powerplatform.microsoft.com/ru-ru/power-automate/)
+    * [ Power Virtual Agents ](https://powerplatform.microsoft.com/ru-ru/power-virtual-agents/)
+  * Возможности 
+    * [ Dataverse ](https://powerplatform.microsoft.com/ru-ru/dataverse/)
+    * [ Common Data Model ](https://powerplatform.microsoft.com/ru-ru/common-data-model/)
+  * Решения 
+    * [ Возвращение на рабочее место ](https://powerplatform.microsoft.com/ru-ru/return-to-the-workplace/)
+  * Обучение 
+    * [ What is Power Platform ](https://powerplatform.microsoft.com/ru-ru/what-is-power-platform/)
+    * [ Блог ](https://cloudblogs.microsoft.com/powerplatform/)
+    * [ Документация ](https://docs.microsoft.com/learn/powerplatform/)
+    * [ Обучение в произвольном темпе ](https://docs.microsoft.com/learn/powerplatform?WT.mc_id=webupdates_GEP_Powerplatform-web-wwl)
+    * [ AppSource ](https://appsource.microsoft.com/)
+  * Сообщество 
+    * [ Power BI ](https://community.powerbi.com/)
+    * [ Power Apps ](https://powerusers.microsoft.com/t5/Power-Apps-Community/ct-p/PowerApps1)
+    * [ Power Automate ](https://powerusers.microsoft.com/t5/Microsoft-Power-Automate/ct-p/MPACommunity)
+    * [ Power Virtual Agents ](https://powerusers.microsoft.com/t5/Power-Virtual-Agents-Community/ct-p/PVACommunity)
+    * [ Группы пользователей ](https://aka.ms/PP_Comm_UserGroups)
+
+[ See the latest Microsoft Power Platform innovations, updates, and demos from
+the Microsoft Business Applications Launch Event.
+](https://go.microsoft.com/fwlink/?LinkId=2156774&clcid=0x419)
+
+![Женщина с планшетом](//powerplatform-
+cdn.azureedge.net/cvt-f3d2099a094cf5081d3c803397cdc67e46a98f0a03624b4533802c9bf8b943d0/pictures/pages/index/hero_covid/hero_desktop.jpg)
+
+#  Будьте гибкими как никогда ранее.
+
+Работайте вместе, чтобы эффективно устранять проблемы с помощью Microsoft
+Power Platform: анализируйте данные, создавайте решения, автоматизируйте
+процессы и внедряйте виртуальных агентов.
+
+Learn about the new Dynamics 365 and Microsoft Power Platform features and
+capabilities previewed at the Microsoft Business Applications Launch Event.
+
+[ Читать статью
+](https://go.microsoft.com/fwlink/?LinkId=2158336&clcid=0x419)
+
+Узнайте, как ИТ-специалисты поставляют удобные в администрировании и
+безопасные средства, которые соответствуют требованиям клиентов.
+
+[ Читать статью
+](https://go.microsoft.com/fwlink/?LinkId=2154868&clcid=0x419)
+
+##  Превращайте потрясающие идеи в эффективные решения
+
+  1.   2.   3.   4.   5. 
+
+![Pepsi](//powerplatform-
+cdn.azureedge.net/cvt-1c561b9435860731c067c88fce38d3700f4dd0598266623f186df83d29a51ef8/pictures/pages/index/svg-
+logos/pepsi.svg)
+
+![Pepsi](//powerplatform-
+cdn.azureedge.net/cvt-57f91b708b151309623439cef21afc4bd91c8c43e96df0145513511d98bcdd20/pictures/pages/index/customer-
+stories/placeholder.png)
+
+###  Создание приложений для экономии
+
+Небольшая группа в G&J Pepsi без предыдущего опыта разработки приложений
+создала приложения для аудита, которые сэкономили 500 000 долларов США для
+компании.
+
+[ Узнать  ](https://go.microsoft.com/fwlink/?LinkId=2106382&clcid=0x419)
+
+[ Узнать  ](https://go.microsoft.com/fwlink/?LinkId=2106382&clcid=0x419)
+
+![Autoglass](//powerplatform-
+cdn.azureedge.net/cvt-b836d43268ff433923163ee0211f9b204f1859d3161dfec97f8d1f5013d2c416/pictures/pages/index/svg-
+logos/autoglass.svg)
+
+![Autoglass](//powerplatform-
+cdn.azureedge.net/cvt-57f91b708b151309623439cef21afc4bd91c8c43e96df0145513511d98bcdd20/pictures/pages/index/customer-
+stories/placeholder.png)
+
+###  Экономичность и эффективность установки
+
+Один сотрудник Autoglass создал 40 приложений, которые повысили
+производительность 3000 выездных технических специалистов и сэкономили 40 000
+долларов США.
+
+[ Узнать  ](https://go.microsoft.com/fwlink/?LinkId=2106474&clcid=0x419)
+
+[ Узнать  ](https://go.microsoft.com/fwlink/?LinkId=2106474&clcid=0x419)
+
+![Miami Heat](//powerplatform-
+cdn.azureedge.net/cvt-3fcc850249c71d67cca02967b7996210907a8054c93fd06f4e6329964b5d4126/pictures/pages/index/svg-
+logos/miami-heat.svg)
+
+![Miami Heat](//powerplatform-
+cdn.azureedge.net/cvt-57f91b708b151309623439cef21afc4bd91c8c43e96df0145513511d98bcdd20/pictures/pages/index/customer-
+stories/placeholder.png)
+
+###  Первоклассное взаимодействие с фанатами
+
+Баскетбольный клуб Miami HEAT использует аналитику данных, чтобы эффективнее
+взаимодействовать с болельщиками и повышать общую удовлетворенность клиентов.
+
+[ Узнать  ](https://go.microsoft.com/fwlink/?LinkId=2106383&clcid=0x419)
+
+[ Узнать  ](https://go.microsoft.com/fwlink/?LinkId=2106383&clcid=0x419)
+
+![Kotahi](//powerplatform-
+cdn.azureedge.net/cvt-f23b6ee723f9e77221db82dc23c5da5e954e0c532b12ebbbd51b4493d89ca3fe/pictures/pages/index/svg-
+logos/kotahi.svg)
+
+![Kotahi](//powerplatform-
+cdn.azureedge.net/cvt-57f91b708b151309623439cef21afc4bd91c8c43e96df0145513511d98bcdd20/pictures/pages/index/customer-
+stories/placeholder.png)
+
+###  Улучшение логистики
+
+Команда Kotahi создала более устойчивую и эффективную цепочку поставок, чтобы
+помочь клиентам эффективнее доставлять их продукцию покупателям с меньшим
+риском.
+
+[ Узнать  ](https://customers.microsoft.com/story/779373-kotahi-travel-and-
+transportation-azure-cortana-powerbi-dynamics365-new-zealand)
+
+![SNCF](//powerplatform-cdn.azureedge.net/cvt-
+cbdf2386d1d08090d89b1d16e6a5fad46e9818c5587bde508735d414161c0600/pictures/pages/index/svg-
+logos/sncf.svg)
+
+![SNCF](//powerplatform-
+cdn.azureedge.net/cvt-57f91b708b151309623439cef21afc4bd91c8c43e96df0145513511d98bcdd20/pictures/pages/index/customer-
+stories/placeholder.png)
+
+###  Тяга к инновациям
+
+Национальные железные дороги Франции усовершенствовали ТОиР и отчетность об
+инцидентах, предоставив сотрудникам возможность создать более 150 приложений.
+
+[ Узнать  ](https://go.microsoft.com/fwlink/?LinkId=2106384&clcid=0x419)
+
+[ Узнать  ](https://go.microsoft.com/fwlink/?LinkId=2106384&clcid=0x419)
+
+##  Мощные по отдельности. Вместе еще мощнее.
+
+Microsoft Power Platform предлагает гораздо больше, чем сумму компонентов.
+Объединяйте их между собой, — а также с Office 365, Dynamics 365, Azure и
+сотнями других решений — в комплексные бизнес-решения.
+
+###  Power BI
+
+Уверенно принимайте информированные бизнес-решения, предоставив аналитические
+выводы всем причастным сотрудникам.
+
+[ Подробнее  ](https://powerbi.microsoft.com/)
+
+###  Power Apps
+
+Превращайте идеи в решения для организации, предоставив каждому возможность
+создавать приложения, решающие бизнес-задачи.
+
+[ Подробнее  ](https://powerapps.microsoft.com/)
+
+###  Power Automate
+
+Повысьте производительность организации и успевайте больше, предоставив
+каждому сотруднику возможность автоматизировать рабочие процессы.
+
+[ Подробнее  ](https://flow.microsoft.com)
+
+###  Power Virtual Agents
+
+С легкостью создавайте чат-ботов, чтобы общаться с клиентами и сотрудниками на
+одном языке. И никакого программирования.
+
+[ Подробнее  ](https://powervirtualagents.microsoft.com)
+
+![Power BI](//powerplatform-
+cdn.azureedge.net/cvt-3c13664c7a4b3af989b78909d7a2a24bd746ecb8f72a213943efaa3462f66fe8/pictures/pages/index/screenshots/power-
+bi.jpg)
+
+![Power Apps](//powerplatform-
+cdn.azureedge.net/cvt-1da2efdae899c38e1f3d3b5a27cd7b9558ee8f8fc02c30b9611afa8b321db30c/pictures/pages/index/screenshots/powerapps.jpg)
+
+![Power Automate](//powerplatform-cdn.azureedge.net/cvt-
+ab47cfb26d8b13fb19192fd2a31b7cb916c14359a490df6e9e7097810cba4b6f/pictures/pages/index/screenshots/powerautomate.jpg)
+
+![Power Virtual Agents](//powerplatform-
+cdn.azureedge.net/cvt-e6c9019b79052f32114018cc672c6d5dd59773dec028b3dace0aa3e8dcb04a34/pictures/pages/index/screenshots/powervirtualagents.jpg)
+
+![Power BI](//powerplatform-
+cdn.azureedge.net/cvt-3c13664c7a4b3af989b78909d7a2a24bd746ecb8f72a213943efaa3462f66fe8/pictures/pages/index/screenshots/power-
+bi.jpg)
+
+##  Power BI
+
+Уверенно принимайте информированные бизнес-решения, предоставив аналитические
+выводы всем причастным сотрудникам.
+
+[ Подробнее  ](https://powerbi.microsoft.com/)
+
+![Power Apps](//powerplatform-
+cdn.azureedge.net/cvt-1da2efdae899c38e1f3d3b5a27cd7b9558ee8f8fc02c30b9611afa8b321db30c/pictures/pages/index/screenshots/powerapps.jpg)
+
+##  Power Apps
+
+Превращайте идеи в решения для организации, предоставив каждому возможность
+создавать приложения, решающие бизнес-задачи.
+
+[ Подробнее  ](https://powerapps.microsoft.com/)
+
+![Power Automate](//powerplatform-cdn.azureedge.net/cvt-
+ab47cfb26d8b13fb19192fd2a31b7cb916c14359a490df6e9e7097810cba4b6f/pictures/pages/index/screenshots/powerautomate.jpg)
+
+##  Power Automate
+
+Повысьте производительность организации и успевайте больше, предоставив
+каждому сотруднику возможность автоматизировать рабочие процессы.
+
+[ Подробнее  ](https://flow.microsoft.com)
+
+![Power Virtual Agents](//powerplatform-
+cdn.azureedge.net/cvt-e6c9019b79052f32114018cc672c6d5dd59773dec028b3dace0aa3e8dcb04a34/pictures/pages/index/screenshots/powervirtualagents.jpg)
+
+##  Power Virtual Agents
+
+С легкостью создавайте чат-ботов, чтобы общаться с клиентами и сотрудниками на
+одном языке. И никакого программирования.
+
+[ Подробнее  ](https://powervirtualagents.microsoft.com)
+
+##  Предоставьте каждому возможность создавать решения, ускоряющие развитие
+бизнеса
+
+![Nipa C](//powerplatform-
+cdn.azureedge.net/cvt-08908566c29ea07f56f02f8549d04cc9c758a3096f98273376a8d05e56929c51/pictures/pages/index/quotes/nipa.jpg)
+
+"Microsoft Power Platform — это всеобъемлющая технология. Ее простота создает
+культуру инноваций, открывая при этом ранее недоступные возможности".
+
+Nipa C
+
+General Manager IT + Decision Driver
+
+![Sarah C](//powerplatform-
+cdn.azureedge.net/cvt-18323ec04f36ff64615ca2c76cbea128d3d916512fe2f4d0e7b25ec4e293cdab/pictures/pages/index/quotes/sarah.jpg)
+
+"Платформа Microsoft Power Platform предоставляет все необходимое для
+повышения рентабельности инвестиций. Это значительно улучшило бизнес-
+результаты для многих предприятий, с которыми я работала".
+
+Sarah C
+
+Senior Solutions Architect + Full Stack Superstar
+
+![Alan C](//powerplatform-
+cdn.azureedge.net/cvt-5e8df6be74f21e1c79bc83e220fb8b7e1fd00cb991e2b7be36c6fd8ba8859504/pictures/pages/index/quotes/alan.jpg)
+
+"Платформа Microsoft Power Platform буквально открыла новые горизонты для меня
+и других разработчиков приложений. Теперь я могу решать реальные бизнес-
+проблемы быстро и без лишних затрат".
+
+Alan C
+
+Head of Digital Transformation and Innovation + App Innovator
+
+![Martin L](//powerplatform-
+cdn.azureedge.net/cvt-7607767c1ff873c589c80152be151d7e5e21836b8f08459419c957ebf33849d2/pictures/pages/index/quotes/martin.jpg)
+
+"Решение Microsoft Power Platform преобразовало наш подход к работе. Мы хотели
+оптимизировать и оцифровывать наши процессы, особенно для поддержки часто
+выезжающих специалистов".
+
+Martin L
+
+Разработчик программного обеспечения и создатель решений
+
+![Eric T](//powerplatform-
+cdn.azureedge.net/cvt-b0a259db518ea46a9ae6b7e20be05c4a5361cb9bd8c642bc4fd0a2468857f094/pictures/pages/index/quotes/eric.jpg)
+
+"Я могу создавать пользовательский интерфейс, подключать его к базе данных,
+создавать автоматизации, экономящие время, и визуализировать результаты для
+заинтересованных лиц. Огромные возможности".
+
+Eric T
+
+Менеджер проектов и создатель пользы
+
+##  Нам доверяют большие и малые компании
+
+![Procter and Gamble](//powerplatform-
+cdn.azureedge.net/cvt-4c1de60d31a640927027da3c8daf291dfefda5f71ede88d87f1d44eab0136046/pictures/pages/index/logos/placeholder.png)
+
+![Lowes](//powerplatform-
+cdn.azureedge.net/cvt-4c1de60d31a640927027da3c8daf291dfefda5f71ede88d87f1d44eab0136046/pictures/pages/index/logos/placeholder.png)
+
+![Lego](//powerplatform-
+cdn.azureedge.net/cvt-4c1de60d31a640927027da3c8daf291dfefda5f71ede88d87f1d44eab0136046/pictures/pages/index/logos/placeholder.png)
+
+![Johnson and Johnson](//powerplatform-
+cdn.azureedge.net/cvt-4c1de60d31a640927027da3c8daf291dfefda5f71ede88d87f1d44eab0136046/pictures/pages/index/logos/placeholder.png)
+
+![H P](//powerplatform-
+cdn.azureedge.net/cvt-4c1de60d31a640927027da3c8daf291dfefda5f71ede88d87f1d44eab0136046/pictures/pages/index/logos/placeholder.png)
+
+![Hersheys](//powerplatform-
+cdn.azureedge.net/cvt-4c1de60d31a640927027da3c8daf291dfefda5f71ede88d87f1d44eab0136046/pictures/pages/index/logos/placeholder.png)
+
+![Berkshire](//powerplatform-
+cdn.azureedge.net/cvt-4c1de60d31a640927027da3c8daf291dfefda5f71ede88d87f1d44eab0136046/pictures/pages/index/logos/placeholder.png)
+
+![Rolls Royce](//powerplatform-
+cdn.azureedge.net/cvt-4c1de60d31a640927027da3c8daf291dfefda5f71ede88d87f1d44eab0136046/pictures/pages/index/logos/placeholder.png)
+
+![H C A Healthcare](//powerplatform-
+cdn.azureedge.net/cvt-4c1de60d31a640927027da3c8daf291dfefda5f71ede88d87f1d44eab0136046/pictures/pages/index/logos/placeholder.png)
+
+![Tech Data](//powerplatform-
+cdn.azureedge.net/cvt-4c1de60d31a640927027da3c8daf291dfefda5f71ede88d87f1d44eab0136046/pictures/pages/index/logos/placeholder.png)
+
+![Burberry](//powerplatform-
+cdn.azureedge.net/cvt-4c1de60d31a640927027da3c8daf291dfefda5f71ede88d87f1d44eab0136046/pictures/pages/index/logos/placeholder.png)
+
+![3m](//powerplatform-
+cdn.azureedge.net/cvt-4c1de60d31a640927027da3c8daf291dfefda5f71ede88d87f1d44eab0136046/pictures/pages/index/logos/placeholder.png)
+
+![D X C](//powerplatform-
+cdn.azureedge.net/cvt-4c1de60d31a640927027da3c8daf291dfefda5f71ede88d87f1d44eab0136046/pictures/pages/index/logos/placeholder.png)
+
+![Eli Lilly](//powerplatform-
+cdn.azureedge.net/cvt-4c1de60d31a640927027da3c8daf291dfefda5f71ede88d87f1d44eab0136046/pictures/pages/index/logos/placeholder.png)
+
+![Hitachi](//powerplatform-
+cdn.azureedge.net/cvt-4c1de60d31a640927027da3c8daf291dfefda5f71ede88d87f1d44eab0136046/pictures/pages/index/logos/placeholder.png)
+
+![Wellcare healthplans](//powerplatform-
+cdn.azureedge.net/cvt-4c1de60d31a640927027da3c8daf291dfefda5f71ede88d87f1d44eab0136046/pictures/pages/index/logos/placeholder.png)
+
+![Carmax](//powerplatform-
+cdn.azureedge.net/cvt-4c1de60d31a640927027da3c8daf291dfefda5f71ede88d87f1d44eab0136046/pictures/pages/index/logos/placeholder.png)
+
+![Land O Lakes](//powerplatform-
+cdn.azureedge.net/cvt-4c1de60d31a640927027da3c8daf291dfefda5f71ede88d87f1d44eab0136046/pictures/pages/index/logos/placeholder.png)
+
+![Yum Brands](//powerplatform-
+cdn.azureedge.net/cvt-4c1de60d31a640927027da3c8daf291dfefda5f71ede88d87f1d44eab0136046/pictures/pages/index/logos/placeholder.png)
+
+![Siemens](//powerplatform-
+cdn.azureedge.net/cvt-4c1de60d31a640927027da3c8daf291dfefda5f71ede88d87f1d44eab0136046/pictures/pages/index/logos/placeholder.png)
+
+![i heart media](//powerplatform-
+cdn.azureedge.net/cvt-4c1de60d31a640927027da3c8daf291dfefda5f71ede88d87f1d44eab0136046/pictures/pages/index/logos/placeholder.png)
+
+![Blackmore](//powerplatform-
+cdn.azureedge.net/cvt-4c1de60d31a640927027da3c8daf291dfefda5f71ede88d87f1d44eab0136046/pictures/pages/index/logos/placeholder.png)
+
+![Honeywell](//powerplatform-
+cdn.azureedge.net/cvt-4c1de60d31a640927027da3c8daf291dfefda5f71ede88d87f1d44eab0136046/pictures/pages/index/logos/placeholder.png)
+
+![Kraft](//powerplatform-
+cdn.azureedge.net/cvt-4c1de60d31a640927027da3c8daf291dfefda5f71ede88d87f1d44eab0136046/pictures/pages/index/logos/placeholder.png)
+
+![Mondelez](//powerplatform-
+cdn.azureedge.net/cvt-4c1de60d31a640927027da3c8daf291dfefda5f71ede88d87f1d44eab0136046/pictures/pages/index/logos/placeholder.png)
+
+![Halliburton](//powerplatform-
+cdn.azureedge.net/cvt-4c1de60d31a640927027da3c8daf291dfefda5f71ede88d87f1d44eab0136046/pictures/pages/index/logos/placeholder.png)
+
+![Hickory Farms](//powerplatform-
+cdn.azureedge.net/cvt-4c1de60d31a640927027da3c8daf291dfefda5f71ede88d87f1d44eab0136046/pictures/pages/index/logos/placeholder.png)
+
+![Coldwell](//powerplatform-
+cdn.azureedge.net/cvt-4c1de60d31a640927027da3c8daf291dfefda5f71ede88d87f1d44eab0136046/pictures/pages/index/logos/placeholder.png)
+
+![Molina Medical](//powerplatform-
+cdn.azureedge.net/cvt-4c1de60d31a640927027da3c8daf291dfefda5f71ede88d87f1d44eab0136046/pictures/pages/index/logos/placeholder.png)
+
+![Emerson](//powerplatform-
+cdn.azureedge.net/cvt-4c1de60d31a640927027da3c8daf291dfefda5f71ede88d87f1d44eab0136046/pictures/pages/index/logos/placeholder.png)
+
+##  Признанный лидер
+
+![gartner](//powerplatform-
+cdn.azureedge.net/cvt-98a2e804f6de440dfafc37a7d685bbba3203a481af4048c86d4f5ffac92a15b0/pictures/pages/index/svg-
+logos/gartner.svg)
+
+Компания Gartner признала корпорацию Microsoft лидером четырнадцатый год
+подряд в номинации "Платформы анализа и бизнес-аналитики" в рейтинге Gartner
+Magic Quadrant за 2021 г.  1
+
+[ Читать отчет  ](https://go.microsoft.com/fwlink/?LinkId=2116935&clcid=0x419)
+
+* * *
+
+Признанная лидером в номинации "Корпоративные платформы приложений с
+минимальным программированием" в отчете Gartner Magic Quadrant за 2020 г.
+корпорация Microsoft делает разработку приложений доступной для каждого.
+
+[ Читать отчет  ](https://go.microsoft.com/fwlink/?LinkId=2100178&clcid=0x419)
+
+![forrester](//powerplatform-
+cdn.azureedge.net/cvt-b93eb2afe8a5a9e4764fac9664c78ba1f590eaddb9ac9aa5af72d59a9f435547/pictures/pages/index/svg-
+logos/forrester.svg)
+
+Корпорация Microsoft признана лидером в исследовании "Forrester Wave™:
+платформы разработки приложений с минимумом программирования для специалистов
+по разработки и доставке приложений" за I квартал 2019 г.
+
+[ Читать отчет  ](https://go.microsoft.com/fwlink/?LinkId=2083007&clcid=0x419)
+
+##  Data shows Microsoft Power Platform improves business outcomes
+
+Learn how your organization prospers when you empower employees to create
+solutions for themselves and others using Microsoft Power Platform.
+
+502%
+
+ROI over three years
+
+* * *
+
+$25.9M
+
+In Net Present Value
+
+[ Read the study
+](https://go.microsoft.com/fwlink/?LinkId=2158111&clcid=0x419) [ Get the ROI
+calculator  ](https://go.microsoft.com/fwlink/?LinkId=2159900&clcid=0x419)
+
+Above data points from the February 2021 Total Economic Impact™ study
+commissioned by Forrester Consulting reflect the combined ROI and Net Present
+Value of adopting Microsoft Power Platform.
+
+##  Получите конкурентное преимущество, объединив все свои данные
+
+Подключайте сотни источников данных с помощью библиотеки соединителей и [
+Dataverse ](/ru-ru/dataverse/) , чтобы объединять данные в едином источнике
+достоверных сведений и получать комплексную аналитику, а также расширять
+возможности Office 365, Dynamics 365 и Azure.
+
+![Office 365 Outlook Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Office 365 Outlook
+
+![SharePoint Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+SharePoint
+
+![OneDrive for Business Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+OneDrive for Business
+
+![Notifications Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Notifications
+
+![Office 365 Users Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Office 365 Users
+
+![RSS Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+RSS
+
+![Outlook.com Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Outlook.com
+
+![Google Calendar Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Google Calendar
+
+![Planner Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Planner
+
+![Microsoft Forms Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Microsoft Forms
+
+![Approvals Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Approvals
+
+![OneDrive Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+OneDrive
+
+![Excel Online \(Business\) Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Excel Online \(Business\)
+
+![Dynamics 365 Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Dynamics 365
+
+![Mail Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Mail
+
+![Microsoft To-Do \(Business\) Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Microsoft To-Do \(Business\)
+
+![Gmail Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Gmail
+
+![Twitter Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Twitter
+
+![MSN Weather Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+MSN Weather
+
+![OneNote \(Business\) Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+OneNote \(Business\)
+
+![SQL Server Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+SQL Server
+
+![Outlook Tasks Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Outlook Tasks
+
+![Dropbox Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Dropbox
+
+![Dataverse Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Dataverse
+
+![Trello Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Trello
+
+![Project Online Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Project Online
+
+![Excel Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Excel
+
+![Azure DevOps Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Azure DevOps
+
+![Instagram Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Instagram
+
+![File System Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+File System
+
+![Google Drive Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Google Drive
+
+![FTP Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+FTP
+
+![Wunderlist Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Wunderlist
+
+![Yammer Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Yammer
+
+![Slack Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Slack
+
+![Google Sheets Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Google Sheets
+
+![SFTP Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+SFTP
+
+![YouTube Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+YouTube
+
+![Office 365 Groups Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Office 365 Groups
+
+![Todoist Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Todoist
+
+![Azure Blob Storage Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Azure Blob Storage
+
+![Dynamics 365 for Fin & Ops Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Dynamics 365 for Fin & Ops
+
+![Flow management Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Flow management
+
+![Salesforce Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Salesforce
+
+![Word Online \(Business\) Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Word Online \(Business\)
+
+![Azure AD Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Azure AD
+
+![Box Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Box
+
+![Google Tasks Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Google Tasks
+
+![Excel Online \(OneDrive\) Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Excel Online \(OneDrive\)
+
+![Asana Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Asana
+
+![Smartsheet Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Smartsheet
+
+![Azure Automation Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Azure Automation
+
+![HTTP with Azure AD Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+HTTP with Azure AD
+
+![Facebook Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Facebook
+
+![SMTP Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+SMTP
+
+![Twilio Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Twilio
+
+![JIRA Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+JIRA
+
+![Azure Application Insights Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Azure Application Insights
+
+![Google Contacts Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Google Contacts
+
+![Azure Queues Logo](//powerplatform-
+cdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/pictures/pages/index/connectors/1x1.png)
+
+Azure Queues
+
+[ Ознакомиться с библиотекой коннекторов
+](https://flow.microsoft.com/connectors/)
+
+![Azure](//powerplatform-
+cdn.azureedge.net/cvt-a263beb47525b6a211616582c9e914259e35ef8eddab5991be233edb44649787/pictures/pages/index/svg-
+logos/azure.svg)
+
+##  Ведите разработку на платформе без ограничений
+
+Непрерывно адаптируйтесь и развивайтесь с платформой, которая нативно
+расширяется вместе с Azure. Эффективно добавляйте возможности, элементы
+управления и функции в Power BI, Power Apps, Power Automate и Power Virtual
+Agents, а также легко создавайте соединители для устаревших систем и решений
+собственной разработки.
+
+[ Подробнее  ](https://azure.microsoft.com/services/developer-tools/power-
+platform/)
+
+1  Отчет Gartner Magic Quadrant в области платформ аналитики и бизнес-
+аналитики, James Richardson, Kurt Schlegel, Rita Sallam, Austin Kronz, Julian
+Sun, 15 февраля 2021 г.
+
+Gartner не поддерживает каких-либо поставщиков, продукты или услуги,
+представленные в исследовательских публикациях компании, и не рекомендует
+пользователям выбирать только поставщиков с самыми высокими рейтингами или
+другими отличиями. Исследовательские публикации Gartner содержат экспертные
+заключения исследовательской организации Gartner. Эта информация не должна
+рассматриваться как констатация факта. Gartner отказывается от всех гарантий,
+явных или подразумеваемых, в отношении данного исследования, включая любые
+гарантии товарной пригодности или пригодности для определенной цели.
+
+GARTNER — зарегистрированная торговая марка и знак обслуживания Gartner, Inc.
+и/или ее аффилированных лиц в США и других странах, и используется здесь с
+разрешения владельца. Все права защищены.
+
+  * [ Обзор Power Platform ](https://powerplatform.microsoft.com/ru-ru/)
+  * [ Power BI ](https://powerbi.microsoft.com/)
+  * [ Power Apps ](https://powerapps.microsoft.com/)
+  * [ Power Automate ](https://flow.microsoft.com/)
+  * [ Power Virtual Agents ](https://powervirtualagents.microsoft.com/)
+
+* * *
+
+  * © 2021 Microsoft 
+
+  * Подписывайтесь на Power Platform 
+  * [ ](https://twitter.com/mspowerplat "Подписывайтесь на эту страницу в Twitter")
+  * [ ](https://www.linkedin.com/showcase/microsoft-power-platform/ "Подписывайтесь на эту страницу в LinkedIn")
+  * [ ](https://www.youtube.com/channel/UCgc3NEslE8oISOEawhcpMCA "Подписывайтесь на эту страницу на YouTube")
+  * [ ](https://cloudblogs.microsoft.com/powerplatform/ "Подписывайтесь на эту страницу в блоге")
+
+  * [ Конфиденциальность и файлы cookie ](https://go.microsoft.com/fwlink/?LinkId=248681&clcid=0x419)
+  * [ Управление файлами cookie ](ru-ru/)
+  * [ Условия использования ](https://go.microsoft.com/fwlink/?LinkId=2112918&clcid=0x419)
+  * [ Торговые знаки ](https://www.microsoft.com/trademarks)
+

@@ -1,0 +1,868 @@
+Skip to main content
+
+[ ![Логотип Microsoft](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31)
+](https://microsoft.com)
+
+[ Power Apps ](https://powerapps.microsoft.com/ru-ru/)
+
+  * Продукт 
+    * [ AI Builder ](https://powerapps.microsoft.com/ru-ru/ai-builder/)
+    * [ Автоматизация процессов ](https://powerapps.microsoft.com/ru-ru/automate-processes/)
+    * [ Azure и Power Apps ](https://powerapps.microsoft.com/ru-ru/power-apps-and-azure/)
+    * [ Создавайте приложения ](https://powerapps.microsoft.com/ru-ru/build-powerapps/)
+    * [ Подключение данных ](https://powerplatform.microsoft.com/dataverse/)
+    * [ Порталы ](https://powerapps.microsoft.com/ru-ru/portals/)
+  * [ Цены ](https://powerapps.microsoft.com/ru-ru/pricing/)
+  * Партнеры 
+    * [ Обзор ](https://powerapps.microsoft.com/ru-ru/partners/)
+    * [ Стать партнером ](https://powerapps.microsoft.com/ru-ru/become-a-partner/)
+    * [ Найти партнера ](https://powerapps.microsoft.com/ru-ru/find-a-partner/)
+    * [ Поиск консультационных услуг ](https://go.microsoft.com/fwlink/?LinkId=874650&clcid=0x419)
+  * Обучение 
+    * [ Блог ](https://powerapps.microsoft.com/ru-ru/blog/)
+    * [ Истории клиентов ](https://powerapps.microsoft.com/ru-ru/customer-stories/)
+    * [ Документация ](https://docs.microsoft.com/powerapps/)
+    * [ Для ИТ-руководителей ](https://powerapps.microsoft.com/ru-ru/it-pro/)
+    * [ Стратегия развития ](https://powerapps.microsoft.com/ru-ru/roadmap/)
+    * [ Обучение в произвольном темпе ](https://docs.microsoft.com/learn/browse/?products=power-apps&WT.mc_id=webupdates_GEP_Powerapps-web-wwl/)
+    * [ Онлайн-тренинги ](https://docs.microsoft.com/powerapps/webinars)
+  * Поддержка 
+    * [ Обзор ](https://powerapps.microsoft.com/ru-ru/support/)
+    * [ Проблемы ](https://aka.ms/Fl_Comm_Issues/)
+    * [ Отправить отзыв ](https://go.microsoft.com/fwlink/?LinkId=787474&clcid=0x419)
+  * Сообщество 
+    * [ Обзор ](https://powerusers.microsoft.com/t5/Power-Apps-Community/ct-p/PowerApps1)
+    * [ Форумы ](https://aka.ms/PA_Comm_Forums)
+    * [ Коллекции ](https://aka.ms/PA_Comm_Galleries)
+    * [ Отправить идеи ](https://aka.ms/PA_Comm_Ideas)
+    * [ Группы пользователей ](https://aka.ms/PA_Comm_UserGroups)
+  * [ Вход ](https://make.powerapps.com/?utm_source=PAMarketing&utm_medium=header&utm_campaign=signin)
+  * Попробовать бесплатно 
+  * Больше 
+
+  * [ Вход ](https://make.powerapps.com/?utm_source=PAMarketing&utm_medium=header&utm_campaign=signin)
+  * Попробовать бесплатно 
+  * [ Купить ](https://powerapps.microsoft.com/ru-ru/pricing/?cmpid=powerappsweb-header)
+
+notes
+
+[ Watch the latest Power Apps innovations, updates, and demos from the
+Microsoft Business Applications Launch Event.
+](https://go.microsoft.com/fwlink/?LinkId=2156773&clcid=0x419)
+
+![Поезд Amtrak](//pwrappscdn.azureedge.net/cvt-
+cd14ff33898e2f3bfd283a3c33cc8242a748b8e2c5de0c018f81dfa5628ffe0d/images/page/homepage/covid-
+hero/covid_hero_desktop.jpg)
+
+#  Сейчас мир нуждается в хороших решениях.  
+Не медлите с разработкой.
+
+Теперь каждый может быстро создать приложение с минимальным написанием кода и
+предоставить к нему общий доступ. В этом поможет Microsoft Power Apps.
+
+[ Начать бесплатно
+](https://make.powerapps.com/signup?redirect=marketing&utm_source=PAMarketing&utm_medium=body&utm_campaign=getstartedfree&email=)
+[ Посмотреть обзор  ](https://dynamics.microsoft.com/en-us/guidedtour/power-
+platform/power-apps/1/1)
+
+Представляем Microsoft Power Fx — единый согласованный логический язык для
+разработки решений с минимумом программирования в Microsoft Power Platform.
+
+[ Подробнее  ](https://go.microsoft.com/fwlink/?LinkId=2154640&clcid=0x419)
+
+Узнайте, как ИТ-специалисты поставляют удобные в администрировании и
+безопасные средства, которые соответствуют требованиям клиентов.
+
+[ Читать блог  ](https://go.microsoft.com/fwlink/?LinkId=2154868&clcid=0x419)
+
+##  Простой способ разработки приложений профессионального уровня
+
+Повысьте гибкость используемых в организации подходов. Оперативно создавайте
+приложения с минимальным написанием кода. Это поможет модернизировать процессы
+и решать сложные задачи.
+
+![Изображение холста Power
+Apps](//pwrappscdn.azureedge.net/cvt-4b59f54d3656ea94a354eb482da295c758fda929b87524a885e8aa13580625c2/images/page/homepage/blade2/placeholder_1280x720.png)
+
+###  Быстрое начало работы
+
+Предоставьте своей команде возможность приступить к разработке приложений и
+сразу же запускать их с помощью готовых шаблонов, простого механизма
+перетаскивания и быстрого развертывания. Затем при необходимости вы можете
+реализовать непрерывное усовершенствование.
+
+###  Создавайте приложения без компромиссов
+
+Дайте каждому сотруднику возможность создавать требуемые приложения благодаря
+расширенным функциям \(включая предварительно созданные компоненты ИИ\),
+которые ранее были доступны только для профессиональных разработчиков.
+
+###  Обеспечьте расширяемость для разработчиков
+
+Предоставьте профессиональным разработчикам средства для простого расширения
+возможностей приложений с помощью Функций Azure и пользовательских
+соединителей для защищаемых законодательством об интеллектуальной
+собственности и локальных систем.
+
+[ Подробнее  ](/ru-ru/build-powerapps/)
+
+[ Смотреть демонстрацию  ](/ru-ru/demo/)
+
+##  Оперативно внедряйте инновации и получайте результаты
+
+  1.   2.   3.   4.   5. 
+
+![Логотип
+Capitol](//pwrappscdn.azureedge.net/cvt-0bec15e488ea675ae3272f763da689e0a5544ef8e231e04370f54dae1c2de187/images/page/homepage/svg-
+logos/capitol.svg)
+
+![Изображение
+Capitol](//pwrappscdn.azureedge.net/cvt-57f91b708b151309623439cef21afc4bd91c8c43e96df0145513511d98bcdd20/images/page/homepage/customer-
+stories/placeholder.png)
+
+###  Упрощение взаимодействия между командами
+
+Компания Capitol Records ускорила выход на рынок: благодаря службам Power Apps
+и Microsoft Power Platform более 250 сотрудников могут одновременно создавать
+решения для рабочих процессов.
+
+[ Узнать  ](https://customers.microsoft.com/en-us/story/768079-capitol-
+records-media-entertainment-power-platform)
+
+[ Узнать  ](https://customers.microsoft.com/en-us/story/768079-capitol-
+records-media-entertainment-power-platform)
+
+![Логотип
+IKEA](//pwrappscdn.azureedge.net/cvt-e7bececa33a86a231397a347ce4cff73fa57b0c56ded2458b66a52709abce5ac/images/page/homepage/svg-
+logos/ikea.svg)
+
+![Изображение
+Ikea](//pwrappscdn.azureedge.net/cvt-57f91b708b151309623439cef21afc4bd91c8c43e96df0145513511d98bcdd20/images/page/homepage/customer-
+stories/placeholder.png)
+
+###  Формирование долгосрочных отношений
+
+Компания IKEA Sweden персонализировала покупку кухонь с помощью Power Apps и
+Dynamics 365. Централизовав данные о пути клиентов, компании удалось укрепить
+взаимоотношения с ними и увеличить количество B2B-продаж.
+
+[ Узнать  ](https://powerapps.microsoft.com/blog/ikea-sweden/)
+
+[ Узнать  ](https://powerapps.microsoft.com/blog/ikea-sweden/)
+
+![Логотип Toyota](//pwrappscdn.azureedge.net/cvt-
+cb9cd8fd745cfce689497d4c15e40234525f252b77b1846cff124f26ef587448/images/page/homepage/svg-
+logos/toyota.svg)
+
+![Изображение
+Toyota](//pwrappscdn.azureedge.net/cvt-57f91b708b151309623439cef21afc4bd91c8c43e96df0145513511d98bcdd20/images/page/homepage/customer-
+stories/placeholder.png)
+
+###  Повышение эффективности и стимулирование инноваций
+
+После того как Toyota Motor Corporation внедрила Power Apps, сотрудники
+разработали более 400 уникальных инновационных приложений, которые повышают
+эффективность работы и способствуют переменам.
+
+[ Узнать  ](https://customers.microsoft.com/en-us/story/766054-toyota-
+manufacturing-power-apps)
+
+[ Узнать  ](https://customers.microsoft.com/en-us/story/766054-toyota-
+manufacturing-power-apps)
+
+![Логотип
+Hexion](//pwrappscdn.azureedge.net/cvt-c7d5037b32d5cd2e70487e5efcaa2c18e33c453df528ddb6d9adc1d31c78b3f4/images/page/homepage/svg-
+logos/hexion.svg)
+
+![Изображение
+Hexion](//pwrappscdn.azureedge.net/cvt-57f91b708b151309623439cef21afc4bd91c8c43e96df0145513511d98bcdd20/images/page/homepage/customer-
+stories/placeholder.png)
+
+###  Увеличение количества потенциальных покупателей
+
+Ответственная химическая компания Hexion собирает и консолидирует данные о
+потенциальных клиентах с помощью Power Apps. Это помогает ее 200 сотрудникам в
+14 странах привлекать больше клиентов.
+
+[ Узнать  ](https://customers.microsoft.com/en-us/story/810656-hexion-
+manufacturing-power-platform)
+
+[ Узнать  ](https://customers.microsoft.com/en-us/story/810656-hexion-
+manufacturing-power-platform)
+
+![Логотип
+Tacoma](//pwrappscdn.azureedge.net/cvt-9a4c40c9ede30dd3bb872bd24264592192263656f3836fe1ee3c5f44e110673c/images/page/homepage/svg-
+logos/tacoma.svg)
+
+![Изображение
+Tacoma](//pwrappscdn.azureedge.net/cvt-57f91b708b151309623439cef21afc4bd91c8c43e96df0145513511d98bcdd20/images/page/homepage/customer-
+stories/placeholder.png)
+
+###  Оценка навыков чтения
+
+Преподаватели Tacoma Public Schools записывали и упорядочивали данные для
+оценки навыков чтения с помощью удобных инструментов, включая Power Apps. Это
+помогло им точно определить рекомендации для учеников.
+
+[ Узнать  ](https://customers.microsoft.com/en-us/story/775193-tacoma-public-
+schools-education-power-apps)
+
+[ Узнать  ](https://customers.microsoft.com/en-us/story/775193-tacoma-public-
+schools-education-power-apps)
+
+##  Признанный лидер
+
+![Логотип Gartner](//pwrappscdn.azureedge.net/cvt-
+ac841ad24d69896811c0d579d0bb8d75f83b07c45e83c96f2484b50ca3bfc2eb/images/page/homepage/gartner-
+logo.svg)
+
+Узнайте о руководящих принципах из статьи "Лидерство через приложения:
+сделайте компоновку основой перезагрузки после Covid-19".
+
+[ Читать отчет  ](https://go.microsoft.com/fwlink/?LinkId=2154644&clcid=0x419)
+
+* * *
+
+Признанная лидером в отчете о магическом квадранте Gartner Magic Quadrant за
+2020 г. в категории, посвященной корпоративным платформам приложений с
+минимальным объемом кода, корпорация Microsoft делает разработку приложений
+доступной для каждого.
+
+[ Читать отчет  ](https://go.microsoft.com/fwlink/?LinkId=2100178&clcid=0x419)
+
+![Логотип
+Forrester](//pwrappscdn.azureedge.net/cvt-2e41009b68556739dae7e52125bf467f2c7d06ff2124e9137f2c5ad32b0ad110/images/page/homepage/forrester-
+logo.svg)
+
+Узнайте, почему аналитики Forrester уверены, что Microsoft переворачивает
+представление о платформах разработки с минимумом программирования.
+
+[ Читать отчет  ](https://go.microsoft.com/fwlink/?LinkId=2152524&clcid=0x419)
+
+* * *
+
+Узнайте, почему корпорация Microsoft признана лидером в исследовании
+"Forrester Wave™: платформы разработки приложений с минимумом программирования
+для специалистов по разработки и доставке приложений" за I квартал 2019 г.
+
+[ Читать отчет  ](https://go.microsoft.com/fwlink/?LinkId=2083007&clcid=0x419)
+
+##  Power Apps — движущая сила для преобразования бизнеса
+
+Ознакомьтесь с исследованием Forrester Consulting, проведенным по заказу, на
+основе методологии Total Economic Impact™ \(Общее экономическое влияние\). Из
+отчета вы узнаете, как предприятия сокращают расходы на разработку и повышают
+общую эффективность работы с помощью Power Apps.
+
+188 %
+
+Рентабельность инвестиций за три года
+
+* * *
+
+74 %
+
+Сокращение затрат на разработку приложений
+
+* * *
+
+3,2 часа в неделю
+
+Средний показатель повышения производительности работы сотрудников,
+занимающихся разработкой бизнес-приложений
+
+[ Читать исследование
+](https://go.microsoft.com/fwlink/?LinkId=2126953&clcid=0x419) [ Просмотреть
+вебинар  ](https://go.microsoft.com/fwlink/?LinkId=2129946&clcid=0x419)
+
+Это обобщенные результаты для условной организации на основе данных,
+полученных от опрошенных клиентов. Отчет Total Economic Impact™ \(Общее
+экономическое влияние\) о Power Apps — исследование, проведенное Forrester
+Consulting по заказу в марте 2020 г.
+
+##  Дайте каждому сотруднику возможность стать разработчиком приложений
+
+![Наз Б.](//pwrappscdn.azureedge.net/cvt-
+ed7c0c81f413c3f0230c48e1b3ef548ad131332664aa0e02b52f9df577480db5/images/page/homepage/quotes/placeholder.png)
+
+"Я обрел уверенность, о которой даже не подозревал. У меня нет опыта работы в
+ИТ или программировании, но… Вы можете придумать любую идею и превратить ее в
+реальность с помощью Power Apps".
+
+Наз Б.
+
+Специалист по страховым выплатам и гуру приложений
+
+![Самит С.](//pwrappscdn.azureedge.net/cvt-
+ed7c0c81f413c3f0230c48e1b3ef548ad131332664aa0e02b52f9df577480db5/images/page/homepage/quotes/placeholder.png)
+
+"Благодаря Power Apps мы сохранили время, деньги и бумагу, а также повысили
+эффективность работы. Результаты применения Power Apps — это просто
+фантастика".
+
+Самит С.
+
+Специалист по решениям DevOps для ИТ и пионер разработки приложений
+
+![Кортни M. C.](//pwrappscdn.azureedge.net/cvt-
+ed7c0c81f413c3f0230c48e1b3ef548ad131332664aa0e02b52f9df577480db5/images/page/homepage/quotes/placeholder.png)
+
+"У многих людей есть передовые бизнес-идеи, которые могли бы упростить
+выполнение множества ручных процессов. Я убедился, что благодаря Power Apps
+можно создать по-настоящему жизнеспособное решение".
+
+Кортни M. C.
+
+Разработчик Power Apps и специалист по решению проблем
+
+![Эйприл Д.](//pwrappscdn.azureedge.net/cvt-
+ed7c0c81f413c3f0230c48e1b3ef548ad131332664aa0e02b52f9df577480db5/images/page/homepage/quotes/placeholder.png)
+
+"Я могу взять на себя задачу, для реализации которой понадобились бы месяцы
+пользовательской разработки, и выполнить ее в Power Apps в несколько раз
+быстрее".
+
+Эйприл Д.
+
+Консультант, разработчик и гений Power Apps
+
+![Натан Б.](//pwrappscdn.azureedge.net/cvt-
+ed7c0c81f413c3f0230c48e1b3ef548ad131332664aa0e02b52f9df577480db5/images/page/homepage/quotes/placeholder.png)
+
+"Мы можем разрабатывать масштабируемые приложения бизнес-класса, не прибегая к
+помощи ИТ-отдела. Это просто, интуитивно понятно и доступно каждому".
+
+Натан Б.
+
+Старший бизнес-специалист и знаток приложений
+
+##  Получите конкурентное преимущество, объединив все свои данные
+
+Подключайте сотни источников данных с помощью библиотеки соединителей и [
+Microsoft Dataverse ](https://powerplatform.microsoft.com/dataverse/) , чтобы
+объединять данные в едином источнике достоверных сведений и получать
+комплексную аналитику, а также расширить возможности Office 365, Dynamics 365
+и Azure.
+
+![Office 365 Outlook
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Office 365 Outlook
+
+![SharePoint
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+SharePoint
+
+![OneDrive for Business
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+OneDrive for Business
+
+![Notifications
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Notifications
+
+![Office 365 Users
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Office 365 Users
+
+![RSS
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+RSS
+
+![Outlook.com
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Outlook.com
+
+![Google Calendar
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Google Calendar
+
+![Planner
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Planner
+
+![Microsoft Forms
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Microsoft Forms
+
+![Approvals
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Approvals
+
+![OneDrive
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+OneDrive
+
+![Excel Online \(Business\)
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Excel Online \(Business\)
+
+![Dynamics 365
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Dynamics 365
+
+![Mail
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Mail
+
+![Microsoft To-Do \(Business\)
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Microsoft To-Do \(Business\)
+
+![Gmail
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Gmail
+
+![Twitter
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Twitter
+
+![MSN Weather
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+MSN Weather
+
+![OneNote \(Business\)
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+OneNote \(Business\)
+
+![SQL Server
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+SQL Server
+
+![Outlook Tasks
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Outlook Tasks
+
+![Dropbox
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Dropbox
+
+![Dataverse
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Dataverse
+
+![Trello
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Trello
+
+![Project Online
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Project Online
+
+![Excel
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Excel
+
+![Azure DevOps
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Azure DevOps
+
+![Instagram
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Instagram
+
+![File System
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+File System
+
+![Google Drive
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Google Drive
+
+![FTP
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+FTP
+
+![Wunderlist
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Wunderlist
+
+![Yammer
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Yammer
+
+![Slack
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Slack
+
+![Google Sheets
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Google Sheets
+
+![SFTP
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+SFTP
+
+![YouTube
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+YouTube
+
+![Office 365 Groups
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Office 365 Groups
+
+![Todoist
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Todoist
+
+![Azure Blob Storage
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Azure Blob Storage
+
+![Dynamics 365 for Fin & Ops
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Dynamics 365 for Fin & Ops
+
+![Flow management
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Flow management
+
+![Salesforce
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Salesforce
+
+![Word Online \(Business\)
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Word Online \(Business\)
+
+![Azure AD
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Azure AD
+
+![Box
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Box
+
+![Google Tasks
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Google Tasks
+
+![Excel Online \(OneDrive\)
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Excel Online \(OneDrive\)
+
+![Asana
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Asana
+
+![Smartsheet
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Smartsheet
+
+![Azure Automation
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Azure Automation
+
+![HTTP with Azure AD
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+HTTP with Azure AD
+
+![Facebook
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Facebook
+
+![SMTP
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+SMTP
+
+![Twilio
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Twilio
+
+![JIRA
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+JIRA
+
+![Azure Application Insights
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Azure Application Insights
+
+![Google Contacts
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Google Contacts
+
+![Azure Queues
+Логотип](//pwrappscdn.azureedge.net/cvt-63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058/images/page/homepage/connectors-
+logos/1x1.png)
+
+Azure Queues
+
+[ Ознакомиться с библиотекой коннекторов
+](https://docs.microsoft.com/powerapps/maker/canvas-apps/connections-list)
+
+![Логотип
+Azure](//pwrappscdn.azureedge.net/cvt-2436d561f3062125b9e8a99e4de8809c0221b9d36505be9ad576f086cf0e5d70/images/page/homepage/svg-
+logos/mc-microsoft-azure.svg)
+
+##  Масштабирование приложений с минимумом программирования в Azure
+
+С помощью Azure вы можете расширять приложения с минимумом программирования,
+созданные с использованием Power Apps, и разрабатывать корпоративные решения,
+которые масштабируются в соответствии с потребностями вашей организации.
+Управляйте разработкой корпоративных приложений на профессиональном уровне с
+помощью Azure DevOps и используйте преимущества компонентов для многоразового
+применения, служб ИИ и всех своих данных в Azure.
+
+[ Подробнее  ](/ru-ru/power-apps-and-azure/)
+
+##  Один инструмент — хорошо. Вместе еще лучше.
+
+Создавайте мощные комплексные бизнес-решения, подключая приложения Power Apps
+на всей платформе Microsoft Power Platform, а также приложения Office 365,
+Dynamics 365, Azure и сотни других приложений, чтобы внедрять инновации в
+масштабах целой организации.
+
+[ Подробнее  ](https://powerplatform.microsoft.com/)
+
+![ Power Apps powerapps](/images/application-logos/svg/powerapps.svg)
+
+###  Power Apps
+
+За считаные часы, а не месяцы создавайте приложения, которые легко
+подключаются к данным и используют логические выражения \(как в Excel\), и
+публикуйте результаты сайтах, платформах iOS и Android.
+
+[ Начать бесплатно
+](https://make.powerapps.com/signup?redirect=marketing&email=)
+
+![ Power Apps powerbi](/images/application-logos/svg/powerbi.svg)
+
+###  Power BI
+
+Объединение данных из нескольких источников для создания интерактивных,
+иммерсивных панелей мониторинга и отчетов, которые предоставляют ценную
+практическую информацию и повышают эффективность бизнеса.
+
+[ Подробнее  ](https://powerbi.microsoft.com/)
+
+![ Power Apps powerautomate](/images/application-logos/svg/powerautomate.svg)
+
+###  Power Automate
+
+Эффективно автоматизируйте рабочие процессы непосредственно в приложениях без
+необходимости писать код. Это позволит подключаться к сотням популярных
+приложений и служб.
+
+[ Подробнее  ](https://flow.microsoft.com/)
+
+![ Power Apps powervirtualagents](/images/application-
+logos/svg/powervirtualagents.svg)
+
+###  Power Virtual Agents
+
+С легкостью создавайте чат-ботов, чтобы общаться с клиентами и сотрудниками на
+одном языке. И никакого программирования.
+
+[ Подробнее  ](https://powervirtualagents.microsoft.com/)
+
+##  Обратитесь за поддержкой и советами к сообществу
+
+Общайтесь с десятками тысяч участников сообщества Power Apps по всему миру.
+Получайте ценные аналитические сведения и советы от команды Microsoft Power
+Apps и наших лидеров сообщества Power Apps.
+
+[ Подробнее  ](https://powerusers.microsoft.com/t5/PowerApps-
+Community/ct-p/PowerApps1)
+
+##  Знакомство с Power Apps
+
+Предоставьте каждому сотруднику возможность разрабатывать собственные
+инновационные решения, без труда создавая и развертывая свои приложения, а
+также предоставляя к ним общий доступ в масштабах организации.
+
+[ Начать бесплатно
+](https://signup.microsoft.com/Start?sku=powerapps_viral&ru=https%3a%2f%2fweb.powerapps.com%2flogin%2fportal)
+
+###  Получите мобильные проигрыватели для смартфонов и планшетов.
+
+[ ![Ссылка на Apple
+Store](//pwrappscdn.azureedge.net/cvt-2fa5531117d83723e159fa52e9b06a9cd674d1dad58256dc254bb85751dba3bb/images/page/homepage/store-
+logos/apple_store.png) ](https://aka.ms/powerappsios) [ ![Ссылка на Google
+Play](//pwrappscdn.azureedge.net/cvt-55cc1788602e3cef52eb9ff17cecc6e33688455b3e5099ec713711dc3ea14f45/images/page/homepage/store-
+logos/google-play-badge.png) ](https://aka.ms/powerappsandroid)
+
+×
+
+##  Итак, приступим
+
+###  Чтобы начать работу, войдите в свою рабочую или учебную учетную запись.
+
+Отправить
+
+Регистрируясь, вы соглашаетесь с [ условиями предоставления услуг.
+](https://go.microsoft.com/fwlink/?LinkId=2103103&clcid=0x419)
+
+[ Заявление о конфиденциальности
+](https://go.microsoft.com/fwlink/?LinkId=512132&clcid=0x419)
+
+###  Power Platform
+
+  * [ Обзор ](https://powerplatform.microsoft.com/)
+  * [ Power BI ](https://powerbi.microsoft.com/)
+  * [ Power Apps ](https://powerapps.microsoft.com/ru-ru/)
+  * [ Power Automate ](https://flow.microsoft.com/)
+  * [ Power Virtual Agents ](https://powervirtualagents.microsoft.com/)
+
+* * *
+
+###  Power Apps
+
+  * [ Вход ](https://web.powerapps.com/?utm_source=PAMarketing&utm_medium=footer&utm_campaign=signin)
+  * [ Регистрация ](https://web.powerapps.com/signup?redirect=marketing&email=)
+
+###  Обзор
+
+  * [ Примеры приложений ](https://web.powerapps.com/?utm_source=PAMarketing&utm_medium=body&utm_campaign=sampleapps)
+  * [ Услуги ](https://powerapps.microsoft.com/ru-ru/tutorials/connections-list/)
+
+###  Загрузки
+
+  * [ Студия ](https://aka.ms/powerappswin)
+  * [ iOS ](https://aka.ms/powerappsios)
+  * [ Android ](https://aka.ms/powerappsandroid)
+
+###  Обучение
+
+  * [ Документация ](https://powerapps.microsoft.com/ru-ru/tutorials/getting-started/)
+  * [ Поддержка ](https://powerapps.microsoft.com/ru-ru/support/)
+  * [ Сообщество ](https://powerusers.microsoft.com/)
+  * [ Отправить отзыв ](https://powerusers.microsoft.com/t5/PowerApps-Ideas/idb-p/PowerAppsIdeas)
+  * [ Блог ](https://powerapps.microsoft.com/ru-ru/blog/)
+  * [ Партнеры ](https://powerapps.microsoft.com/ru-ru/partners/get-listed/)
+
+* * *
+
+  * © 2021 Microsoft 
+
+  * Подпишитесь на новости о Power Apps 
+  * [ ](https://twitter.com/MSPowerBI "Веб-канал")
+  * [ ](https://twitter.com/MSPowerApps "Присоединяйтесь к нам в Twitter")
+  * [ ](https://www.youtube.com/channel/UCGfWR2ekfRFckLjev6eQYLg "Присоединяйтесь к нам на YouTube")
+
+  * [ Конфиденциальность и файлы cookie ](https://go.microsoft.com/fwlink/?LinkId=248681)
+  * Управление файлами cookie 
+  * [ Условия использования ](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx)
+  * [ Торговые знаки ](https://go.microsoft.com/?linkid=9851308)
+  * English \(US\)  Čeština  Dansk  Deutsch  Español  Français  Magyar  Italiano  日本語  한국어  Nederlands  Polski  Português \(Brasil\)  Português  Pусский  Svenska  Türkçe  中文\(简体\)  中文\(繁體\) 
+
+[ Свяжитесь с нами
+](https://go.microsoft.com/fwlink/?LinkId=2138786&clcid=0x419)
+

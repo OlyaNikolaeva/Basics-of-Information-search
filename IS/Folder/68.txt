@@ -1,0 +1,973 @@
+![](https://web.vortex.data.microsoft.com:443/collect/v1/t.gif?&name=%27Ms.Webi.PageView%27&ver=%272.1%27&appId=%27JS%3AUniStore%27&cV=%27C%2FwFuC7LG0iJcHTc.0%27&ext-
+app-env=%27onerf_prod%27&ext-javascript-libver=%274.0.0-beta-10%27&ext-user-
+localId=%27t%3A21EBF45EBD2862302C7DE44BBC0063F7%27&*baseType=%27Ms.Content.PageView%27&*isJs=True&*isLoggedIn=False&*isManual=True&*serverImpressionGuid=%271fcea4fc-7ce3-4bb0-aaa6-012feb777904%27&-ver=%271.0%27&-impressionGuid=%2700000000-0000-0000-0000-000000000000%27&-pageName=%27Games%20for%20Windows%27&-uri=%27https%3A%2F%2Fwww.microsoft.com%2Fru-
+ru%2Fstore%2Fgames%2Fwindows%3Ficid%3DTopNavWindowsGames%27&-pageType=%27SFW%20Games%20Category%20Page%20Template%27&-pageTags=%27%7B%22tasId%22%3A%221fcea4fc-7ce3-4bb0-aaa6-012feb777904%22%2C%22tasMuid%22%3A%2221EBF45EBD2862302C7DE44BBC0063F7%22%2C%22browserGroup%22%3A%22uplevel.web.pc%22%2C%22isOneRf%22%3A%22True%22%7D%27&-behavior=0&-market=%27ru-
+ru%27)
+
+[ Перейти к основному контенту ](javascript:void\(0\))
+
+[ ![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31) Microsoft
+](https://www.microsoft.com)
+
+Домашняя страница
+
+[ Домашняя страница  ](https://www.microsoft.com/ru-ru/store/b/home)
+
+Домашняя страница
+
+  * [ Главная ](https://www.microsoft.com/ru-ru/store/b/home)
+  * [ Xbox ](https://www.microsoft.com/ru-ru/store/b/xbox?icid=CNavDevicesXbox)
+  * Программы 
+    * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products)
+    * [ Office ](https://www.microsoft.com/microsoft-365/office-365)
+    * [ Windows ](https://www.microsoft.com/ru-ru/store/b/windows?icid=CNavSoftwareWindows)
+    * [ Профессиональное ПО ](https://www.microsoft.com/ru-ru/store/b/software?icid=CNavSoftware)
+    * [ Приложения для Windows ](https://www.microsoft.com/ru-ru/store/apps/windows?icid=CNavAppsWindowsApps)
+    * [ Приложения для Windows Phone ](https://www.microsoft.com/ru-ru/store/apps/windows-phone?icid=CNavAppsWindowsPhoneApps)
+
+  * Игры 
+    * [ Игры для Xbox ](https://www.microsoft.com/ru-ru/store/top-paid/games/xbox?icid=CatNavXboxGames)
+    * [ Игры для Windows ](https://www.microsoft.com/ru-ru/store/games/windows?icid=CNavGamesWindowsGames)
+    * [ Игры для Windows Phone ](https://www.microsoft.com/ru-ru/store/games/windows-phone?icid=CNavGamesWindowsPhoneGames)
+
+  * [ Решения для бизнеса ](https://www.microsoft.com/ru-ru/store/b/business?icid=CNavBusinessStore)
+  * Больше 
+
+  * Все продукты Microsoft 
+    *       * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365)
+      * [ Office ](https://www.microsoft.com/microsoft-365/microsoft-office)
+      * [ Windows ](https://www.microsoft.com/ru-ru/windows/)
+      * [ Xbox ](https://www.xbox.com/)
+      * [ Поддержка ](https://support.microsoft.com/ru-ru)
+    * ПО 
+      * [ Приложения для Windows ](https://www.microsoft.com/ru-ru/store/apps/windows?icid=CNavAppsWindowsApps)
+      * [ OneDrive ](https://onedrive.live.com/about/ru-ru/)
+      * [ Outlook ](https://outlook.live.com/owa/)
+      * [ Skype ](https://www.skype.com/ru/)
+      * [ OneNote ](https://www.onenote.com/?omkt=ru-RU)
+      * [ Microsoft Teams ](https://www.microsoft.com/ru-ru/microsoft-teams/free?icid=SSM_AS_Promo_Apps_MicrosoftTeams)
+    * Компьютеры и устройства 
+      * [ Купите Xbox ](https://www.microsoft.com/ru-ru/store/b/xbox?icid=CNavDevicesXbox)
+      * [ Аксессуары ](https://www.microsoft.com/accessories/ru-ru)
+    * Развлечения 
+      * [ Xbox Game Pass Ultimate ](https://www.microsoft.com/ru-ru/p/xbox-game-pass-ultimate/cfq7ttc0khs0?WT.mc_id=CNavGamesXboxGamePassUltimate)
+      * [ Xbox Live Gold ](https://www.microsoft.com/ru-ru/p/xbox-live-gold/cfq7ttc0k5dj?WT.mc_id=CNavGamesXboxLiveGold)
+      * [ Xbox и игры ](https://www.xbox.com/ru-ru/games/xbox-one?xr=shellnav)
+      * [ Компьютерные игры ](https://www.microsoft.com/ru-ru/store/games/windows?icid=CNavGamesWindowsGames)
+      * [ Игры для Windows ](https://www.microsoft.com/ru-ru/store/games/windows?icid=TopNavWindowsGames)
+    * Для бизнеса 
+      * [ Microsoft Azure ](https://azure.microsoft.com/ru-ru/)
+      * [ Microsoft Dynamics 365 ](https://www.microsoft.com/ru-ru/dynamics365/home)
+      * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365/business/all-business)
+      * [ Microsoft Industry ](https://www.microsoft.com/ru-ru/enterprise)
+      * [ Платформа данных ](https://www.microsoft.com/ru-ru/sql-server/ )
+      * [ Power Platform ](https://powerplatform.microsoft.com/ru-ru)
+      * [ Shop Business ](https://www.microsoft.com/ru-ru/store/b/business?icid=CNavBusinessStore)
+    * Для разработчиков и ИТ 
+      * [ .NET ](https://www.microsoft.com/net/)
+      * [ Visual Studio ](https://visualstudio.microsoft.com/)
+      * [ Windows Server ](https://www.microsoft.com/cloud-platform/windows-server)
+      * [ Разработка приложений для Windows ](https://developer.microsoft.com/ru-ru/windows)
+      * [ Документы ](https://docs.microsoft.com/ru-ru/)
+      * [ Power Apps ](https://powerapps.microsoft.com/ru-ru)
+    * Другое 
+      * [ Бесплатная загрузка и средства безопасности ](https://www.microsoft.com/ru-ru/download/default.aspx)
+      * [ Образование ](https://www.microsoft.com/ru-ru/education?icid=CNavMSCOML0_Studentsandeducation)
+      * [ лицензирование ](https://www.microsoft.com/licensing/default)
+    * [ Посмотреть карту сайта ](https://www.microsoft.com/ru-ru/sitemap.aspx)
+
+Поиск  Поиск на Microsoft.com
+
+Отмена  [ 0  Корзина  0 товары в корзине  ](https://www.microsoft.com/ru-
+ru/store/buy)
+
+Войти
+
+[ Windows 10: Лучшая Windows в истории поможет вам достичь большего.
+](https://www.microsoft.com/ru-ru/store/b/windows?icid=TopStripe-windows-cat-
+page)
+
+![Сэкономьте до 60% на определенных играх для ПК](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+[
+
+##  Сэкономьте до 60% на определенных играх для ПК
+
+](/ru-ru/store/collections/gamesss21)
+
+заканчивается 15.04
+
+##  Купить
+
+  * [ Топ игр ](/ru-ru/store/top-free/games/pc)
+  * [ Подборка игр ](/ru-ru/store/spotlight/gamespotlight)
+
+![Скидки в играх](https://store-
+images.s-microsoft.com/image/global.52833.acentoprodimg.f5987093-c4b9-411d-b0f5-2d3c6b53b6fd.90d6a413-4255-4ee6-86c1-6cd13c0175be?mode=crop&q=90&h=201&w=358)
+
+###  Скидки в играх
+
+Скидки на покупки в отличных бесплатных играх
+
+[ КУПИТЬ  ](/ru-ru/store/collections/pcgf2p)
+
+![Crime Mysteries™: Поиск скрытых предметов и головоломки три в
+ряд](https://store-
+images.s-microsoft.com/image/global.14551.acentoprodimg.b99dd487-191c-4904-b7e5-5a113d4e2e42.6763d125-131e-4b45-9e68-06bfec1adfff?mode=crop&q=90&h=201&w=358)
+
+###  Crime Mysteries™: Поиск скрытых предметов и головоломки три в ряд
+
+Играйте прямо сегодня
+
+[ ЕЩЕ  ](/ru-ru/p/crime-
+mysteries-%d0%9f%d0%be%d0%b8%d1%81%d0%ba-%d1%81%d0%ba%d1%80%d1%8b%d1%82%d1%8b%d1%85-%d0%bf%d1%80%d0%b5%d0%b4%d0%bc%d0%b5%d1%82%d0%be%d0%b2-%d0%b8-%d0%b3%d0%be%d0%bb%d0%be%d0%b2%d0%be%d0%bb%d0%be%d0%bc%d0%ba%d0%b8-%d1%82%d1%80%d0%b8-%d0%b2-%d1%80%d1%8f%d0%b4/9n31bbv30l53?cid=msft_web_gamesforwindows_spotlight)
+
+![Age of Empires: Fan Preview, 10 апреля](https://store-
+images.s-microsoft.com/image/global.24163.acentoprodimg.90f67192-f4ec-493d-b2e1-4a14bfa49d20.2e1e22ae-395e-405c-a355-853809bc213a?mode=crop&q=90&h=201&w=358)
+
+###  Age of Empires: Fan Preview, 10 апреля
+
+Не пропустите
+
+[ КУПИТЬ  ](/ru-ru/store/collections/aoefanpr21)
+
+##  Топ бесплатных игр
+
+[ Показать все ](/ru-ru/store/top-free/games/pc)
+
+  * [ ![Стальной шторм: Red Alert](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Стальной шторм: Red Alert
+
+Бесплатно  \+  ](/ru-
+ru/p/%d0%a1%d1%82%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b9-%d1%88%d1%82%d0%be%d1%80%d0%bc-
+red-alert/9n13smv5rwfm?cid=msft_web_gamesforwindows_chart)
+
+  * [ ![Слава короля](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Слава короля
+
+Бесплатно  \+  ](/ru-
+ru/p/%d0%a1%d0%bb%d0%b0%d0%b2%d0%b0-%d0%ba%d0%be%d1%80%d0%be%d0%bb%d1%8f/9p5360v24xq2?cid=msft_web_gamesforwindows_chart)
+
+  * [ ![Продвижение Героев\(Advancing Heroes\)](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Продвижение Героев\(Advancing Heroes\)
+
+Бесплатно  \+  ](/ru-
+ru/p/%d0%9f%d1%80%d0%be%d0%b4%d0%b2%d0%b8%d0%b6%d0%b5%d0%bd%d0%b8%d0%b5-%d0%93%d0%b5%d1%80%d0%be%d0%b5%d0%b2-advancing-
+heroes/9pl69897003k?cid=msft_web_gamesforwindows_chart)
+
+  * [ ![Roblox](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Roblox
+
+Бесплатно  \+  ](/ru-
+ru/p/roblox/9nblgggzm6wm?cid=msft_web_gamesforwindows_chart)
+
+  * [ ![World of Tanks Blitz](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  World of Tanks Blitz
+
+Бесплатно  \+  ](/ru-ru/p/world-of-tanks-
+blitz/9nblggh202h8?cid=msft_web_gamesforwindows_chart)
+
+  * [ ![Asphalt 9: Легенды](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Asphalt 9: Легенды
+
+Бесплатно  \+  ](/ru-
+ru/p/asphalt-9-%d0%9b%d0%b5%d0%b3%d0%b5%d0%bd%d0%b4%d1%8b/9nzqpt0mwtd0?cid=msft_web_gamesforwindows_chart)
+
+  * [ ![Fancy War：место Призыватель](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Fancy War：место Призыватель
+
+Бесплатно  \+  ](/ru-ru/p/fancy-
+war-%d0%bc%d0%b5%d1%81%d1%82%d0%be-%d0%9f%d1%80%d0%b8%d0%b7%d1%8b%d0%b2%d0%b0%d1%82%d0%b5%d0%bb%d1%8c/9pbpp2hjd7gm?cid=msft_web_gamesforwindows_chart)
+
+  * [ ![Forza Horizon 4: демоверсия](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Forza Horizon 4: демоверсия
+
+Бесплатно  ](/ru-ru/p/forza-
+horizon-4-%d0%b4%d0%b5%d0%bc%d0%be%d0%b2%d0%b5%d1%80%d1%81%d0%b8%d1%8f/9p8cp1l72jxs?cid=msft_web_gamesforwindows_chart)
+
+  * [ ![Forza Street](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Forza Street
+
+Бесплатно  \+  ](/ru-ru/p/forza-
+street/9n2r1zmbx1s2?cid=msft_web_gamesforwindows_chart)
+
+  * [ ![Hello Neighbor 2 Alpha 1](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Hello Neighbor 2 Alpha 1
+
+Бесплатно  ](/ru-ru/p/hello-
+neighbor-2-alpha-1/9n65bb0ljp3w?cid=msft_web_gamesforwindows_chart)
+
+  * [ ![Angry Birds 2](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Angry Birds 2
+
+Бесплатно  \+  ](/ru-ru/p/angry-
+birds-2/9ntpjw96tsc0?cid=msft_web_gamesforwindows_chart)
+
+  * [ Показать все  ](/ru-ru/store/top-free/games/pc)
+
+##  Топ платных игр
+
+[ Показать все ](/ru-ru/store/top-paid/games/pc)
+
+  * [ ![Коллекция новичка Minecraft Windows 10](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Коллекция новичка Minecraft Windows 10
+
+USD$29.99  \+  ](/ru-
+ru/p/%d0%9a%d0%be%d0%bb%d0%bb%d0%b5%d0%ba%d1%86%d0%b8%d1%8f-%d0%bd%d0%be%d0%b2%d0%b8%d1%87%d0%ba%d0%b0-minecraft-
+windows-10/9n4km90ctzt6?cid=msft_web_gamesforwindows_chart)
+
+[ ![Among Us](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Among Us
+
+Включено  \+  со  статусом:  Game Pass  ](/ru-ru/p/among-
+us/9ng07qjnk38j?cid=msft_web_gamesforwindows_chart)
+
+[ ![Minecraft for Windows 10 Master Collection](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Minecraft for Windows 10 Master Collection
+
+USD$49.99  \+  ](/ru-ru/p/minecraft-for-windows-10-master-
+collection/9pbpd1ftzlcv?cid=msft_web_gamesforwindows_chart)
+
+  * [ ![Forza Horizon 4: стандартное издание](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Forza Horizon 4: стандартное издание
+
+Включено  \+  со  статусом:  Game Pass  ](/ru-ru/p/forza-
+horizon-4-%d1%81%d1%82%d0%b0%d0%bd%d0%b4%d0%b0%d1%80%d1%82%d0%bd%d0%be%d0%b5-%d0%b8%d0%b7%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5/9pnjxvcvwd4k?cid=msft_web_gamesforwindows_chart)
+
+[ ![Forza Horizon 4: ultimate-издание](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Forza Horizon 4: ultimate-издание
+
+Полная цена была USD$99.99  ~~USD$99.99~~ Сейчас USD$79.99  USD$79.99  \+  со
+статусом:  Game Pass  ](/ru-ru/p/forza-
+horizon-4-ultimate-%d0%b8%d0%b7%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5/9p513p4mwc71?cid=msft_web_gamesforwindows_chart)
+
+[ ![Microsoft Flight Simulator: Standard](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Microsoft Flight Simulator: Standard
+
+Включено  \+  со  статусом:  Game Pass  ](/ru-ru/p/microsoft-flight-simulator-
+standard/9nxn8gf8n9ht?cid=msft_web_gamesforwindows_chart)
+
+  * [ ![Forza Motorsport 7: ultimate-издание](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Forza Motorsport 7: ultimate-издание
+
+Полная цена была USD$79.99  ~~USD$79.99~~ Сейчас USD$63.99  USD$63.99  \+  со
+статусом:  Game Pass  ](/ru-ru/p/forza-
+motorsport-7-ultimate-%d0%b8%d0%b7%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5/9nv34nlclg81?cid=msft_web_gamesforwindows_chart)
+
+[ ![Gears of War: Ultimate Edition для Windows 10](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Gears of War: Ultimate Edition для Windows 10
+
+Включено  со  статусом:  Game Pass  ](/ru-ru/p/gears-of-war-ultimate-
+edition-%d0%b4%d0%bb%d1%8f-windows-10/9nblggh3shm5?cid=msft_web_gamesforwindows_chart)
+
+[ ![Gears of War 4](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Gears of War 4
+
+Включено  \+  со  статусом:  Game Pass  ](/ru-ru/p/gears-of-
+war-4/9nblggh4pbbm?cid=msft_web_gamesforwindows_chart)
+
+  * [ ![Forza Horizon 4: полный комплект дополнений](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Forza Horizon 4: полный комплект дополнений
+
+Полная цена была USD$49.99  ~~USD$49.99~~ Сейчас USD$44.99  USD$44.99  со
+статусом:  Game Pass  ](/ru-ru/p/forza-
+horizon-4-%d0%bf%d0%be%d0%bb%d0%bd%d1%8b%d0%b9-%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82-%d0%b4%d0%be%d0%bf%d0%be%d0%bb%d0%bd%d0%b5%d0%bd%d0%b8%d0%b9/9p7jj1fkqwxh?cid=msft_web_gamesforwindows_chart)
+
+[ ![Minecraft Dungeons: героическое издание - Windows 10](//statics-storeexp-
+wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Minecraft Dungeons: героическое издание - Windows 10
+
+Полная цена была USD$29.99  ~~USD$29.99~~ Сейчас USD$23.99  USD$23.99  \+  со
+статусом:  Game Pass  ](/ru-ru/p/minecraft-
+dungeons-%d0%b3%d0%b5%d1%80%d0%be%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%be%d0%b5-%d0%b8%d0%b7%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5-windows-10/9p2vr3k66tjx?cid=msft_web_gamesforwindows_chart)
+
+[ ![Minecraft Dungeons - Windows 10](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Minecraft Dungeons - Windows 10
+
+Включено  \+  со  статусом:  Game Pass  ](/ru-ru/p/minecraft-dungeons-
+windows-10/9p8mk4nc0ljb?cid=msft_web_gamesforwindows_chart)
+
+  * [ ![Grand Theft Auto: San Andreas](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Grand Theft Auto: San Andreas
+
+USD$6.99  ](/ru-ru/p/grand-theft-auto-san-
+andreas/9wzdncrfj1zn?cid=msft_web_gamesforwindows_chart)
+
+[ ![Age of Empires III: Definitive Edition](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Age of Empires III: Definitive Edition
+
+Включено  со  статусом:  Game Pass  ](/ru-ru/p/age-of-empires-iii-definitive-
+edition/9n1hf804qxn4?cid=msft_web_gamesforwindows_chart)
+
+[ ![Battletoads](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Battletoads
+
+Включено  со  статусом:  Game Pass  ](/ru-
+ru/p/battletoads/9n7gcf5sgcxc?cid=msft_web_gamesforwindows_chart)
+
+  * [ ![Age of Empires II: Definitive Edition](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Age of Empires II: Definitive Edition
+
+Включено  \+  со  статусом:  Game Pass  ](/ru-ru/p/age-of-empires-ii-
+definitive-edition/9njdd0jgpp2q?cid=msft_web_gamesforwindows_chart)
+
+[ ![Minecraft Dungeons: талон на сезон - Windows 10](//statics-storeexp-wcus-
+ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Minecraft Dungeons: талон на сезон - Windows 10
+
+Полная цена была USD$19.99  ~~USD$19.99~~ Сейчас USD$17.99  USD$17.99  со
+статусом:  Game Pass  ](/ru-ru/p/minecraft-
+dungeons-%d1%82%d0%b0%d0%bb%d0%be%d0%bd-%d0%bd%d0%b0-%d1%81%d0%b5%d0%b7%d0%be%d0%bd-
+windows-10/9p4bfqnxlmdr?cid=msft_web_gamesforwindows_chart)
+
+[ ![Totally Accurate Battle Simulator \(Game Preview\)](//statics-storeexp-
+wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Totally Accurate Battle Simulator \(Game Preview\)
+
+Включено  \+  со  статусом:  Game Pass  ](/ru-ru/p/totally-accurate-battle-
+simulator-game-preview/9pc4rwp34m2d?cid=msft_web_gamesforwindows_chart)
+
+  * [ Показать все  ](/ru-ru/store/top-paid/games/pc)
+
+![Бесплатные приложения для детей](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+##  Бесплатные приложения для детей  [ Показать все ](/ru-
+ru/store/collections/game.fc1)
+
+Учите цифры, буквы, цвета и много всего\! Увлекательные образовательные
+приложения для детей без сторонней рекламы и встроенных покупок\!
+
+[ ДОПОЛНИТЕЛЬНЫЕ СВЕДЕНИЯ  ](/ru-ru/store/collections/game.fc1)
+
+  * [ ![Baby Games: Piano, Baby Phone, First Words](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Baby Games: Piano, Baby Phone, First Words
+
+Бесплатно  ](/ru-ru/p/baby-games-piano-baby-phone-first-
+words/9p1hfcfzmqz0?cid=msft_web_gamesforwindows_collection)
+
+  * [ ![ABC Kids - Tracing and Phonics](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  ABC Kids - Tracing and Phonics
+
+Бесплатно  ](/ru-ru/p/abc-kids-tracing-and-
+phonics/9nr9rxv48n2s?cid=msft_web_gamesforwindows_collection)
+
+  * [ ![«Цифры 123» – счет и обведение фигур](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  «Цифры 123» – счет и обведение фигур
+
+Бесплатно  ](/ru-
+ru/p/%d0%a6%d0%b8%d1%84%d1%80%d1%8b-123-%d1%81%d1%87%d0%b5%d1%82-%d0%b8-%d0%be%d0%b1%d0%b2%d0%b5%d0%b4%d0%b5%d0%bd%d0%b8%d0%b5-%d1%84%d0%b8%d0%b3%d1%83%d1%80/9phfv62krfs4?cid=msft_web_gamesforwindows_collection)
+
+  * [ ![«Цвета и фигуры» – обучение детей цветам и фигурам](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  «Цвета и фигуры» – обучение детей цветам и фигурам
+
+Бесплатно  ](/ru-
+ru/p/%d0%a6%d0%b2%d0%b5%d1%82%d0%b0-%d0%b8-%d1%84%d0%b8%d0%b3%d1%83%d1%80%d1%8b-%d0%be%d0%b1%d1%83%d1%87%d0%b5%d0%bd%d0%b8%d0%b5-%d0%b4%d0%b5%d1%82%d0%b5%d0%b9-%d1%86%d0%b2%d0%b5%d1%82%d0%b0%d0%bc-%d0%b8-%d1%84%d0%b8%d0%b3%d1%83%d1%80%d0%b0%d0%bc/9nl6tnmj5sjs?cid=msft_web_gamesforwindows_collection)
+
+  * [ ![Игры: раскраска, рисование, рисование неоном](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Игры: раскраска, рисование, рисование неоном
+
+Бесплатно  ](/ru-
+ru/p/%d0%98%d0%b3%d1%80%d1%8b-%d1%80%d0%b0%d1%81%d0%ba%d1%80%d0%b0%d1%81%d0%ba%d0%b0-%d1%80%d0%b8%d1%81%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5-%d1%80%d0%b8%d1%81%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5-%d0%bd%d0%b5%d0%be%d0%bd%d0%be%d0%bc/9phq2rx60xgr?cid=msft_web_gamesforwindows_collection)
+
+  * [ ![ABC Spelling - Spell and Phonics](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  ABC Spelling - Spell and Phonics
+
+Бесплатно  ](/ru-ru/p/abc-spelling-spell-and-
+phonics/9nzflj9d65k4?cid=msft_web_gamesforwindows_collection)
+
+  * [ ![Sight Words: Pre-k to 3rd Grade, Reading Games, Best Sight Word Games For Kids](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Sight Words: Pre-k to 3rd Grade, Reading Games, Best Sight Word Games For
+Kids
+
+Бесплатно  ](/ru-ru/p/sight-words-pre-k-to-3rd-grade-reading-games-best-sight-
+word-games-for-kids/9n2zwx0r9ftw?cid=msft_web_gamesforwindows_collection)
+
+  * [ ![«Детские пазлы» фигурки животных и пазлы](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  «Детские пазлы» фигурки животных и пазлы
+
+Бесплатно  ](/ru-
+ru/p/%d0%94%d0%b5%d1%82%d1%81%d0%ba%d0%b8%d0%b5-%d0%bf%d0%b0%d0%b7%d0%bb%d1%8b-%d1%84%d0%b8%d0%b3%d1%83%d1%80%d0%ba%d0%b8-%d0%b6%d0%b8%d0%b2%d0%be%d1%82%d0%bd%d1%8b%d1%85-%d0%b8-%d0%bf%d0%b0%d0%b7%d0%bb%d1%8b/9pgdqz54sr89?cid=msft_web_gamesforwindows_collection)
+
+  * [ ![Multiplication Kids: Math Multiplication Tables](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Multiplication Kids: Math Multiplication Tables
+
+Бесплатно  ](/ru-ru/p/multiplication-kids-math-multiplication-
+tables/9nrnh479rtvb?cid=msft_web_gamesforwindows_collection)
+
+  * [ ![Математика для детей - сложение, вычитание, счет](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Математика для детей - сложение, вычитание, счет
+
+Бесплатно  ](/ru-
+ru/p/%d0%9c%d0%b0%d1%82%d0%b5%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b0-%d0%b4%d0%bb%d1%8f-%d0%b4%d0%b5%d1%82%d0%b5%d0%b9-%d1%81%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d0%b5-%d0%b2%d1%8b%d1%87%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d0%b5-%d1%81%d1%87%d0%b5%d1%82/9pclmcpt9cq5?cid=msft_web_gamesforwindows_collection)
+
+  * [ ![Математика: сложение, вычитание, умножение, деление](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Математика: сложение, вычитание, умножение, деление
+
+Бесплатно  ](/ru-
+ru/p/%d0%9c%d0%b0%d1%82%d0%b5%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b0-%d1%81%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d0%b5-%d0%b2%d1%8b%d1%87%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d0%b5-%d1%83%d0%bc%d0%bd%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d0%b5-%d0%b4%d0%b5%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5/9n762gz8mhqh?cid=msft_web_gamesforwindows_collection)
+
+##  Лучшие игры
+
+[ Показать все ](/ru-ru/store/best-rated/games/pc)
+
+  * [ ![Crowdy City: Survival](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Crowdy City: Survival
+
+Бесплатно  ](/ru-ru/p/crowdy-city-
+survival/9nsf5qgcswj2?cid=msft_web_gamesforwindows_chart)
+
+[ ![Fun Race 3D Game: No.1](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Fun Race 3D Game: No.1
+
+Бесплатно  ](/ru-ru/p/fun-race-3d-game-
+no1/9ndd9mbghg8l?cid=msft_web_gamesforwindows_chart)
+
+[ ![World Tour: International Competition](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  World Tour: International Competition
+
+Бесплатно  ](/ru-ru/p/world-tour-international-
+competition/9n7fvb5w2p55?cid=msft_web_gamesforwindows_chart)
+
+  * [ ![Zombie Survival - Tower Defence](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Zombie Survival - Tower Defence
+
+Бесплатно  ](/ru-ru/p/zombie-survival-tower-
+defence/9pcss7skwcb6?cid=msft_web_gamesforwindows_chart)
+
+[ ![8 ball Hero: Peakedness](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  8 ball Hero: Peakedness
+
+Бесплатно  ](/ru-ru/p/8-ball-hero-
+peakedness/9mvlt2zh3m8b?cid=msft_web_gamesforwindows_chart)
+
+[ ![Draw Climber](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Draw Climber
+
+Бесплатно  ](/ru-ru/p/draw-
+climber/9n3prb8xwqxf?cid=msft_web_gamesforwindows_chart)
+
+  * [ ![Nick Soccer Stars 2](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Nick Soccer Stars 2
+
+Бесплатно  ](/ru-ru/p/nick-soccer-
+stars-2/9p0lnd3lwdvp?cid=msft_web_gamesforwindows_chart)
+
+[ ![World War 2029: Top Alert](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  World War 2029: Top Alert
+
+Бесплатно  \+  ](/ru-ru/p/world-war-2029-top-
+alert/9p8fzw9rbxxj?cid=msft_web_gamesforwindows_chart)
+
+[ ![Homescapes](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Homescapes
+
+Бесплатно  \+  ](/ru-
+ru/p/homescapes/9nq9klznv9sh?cid=msft_web_gamesforwindows_chart)
+
+  * [ ![Sweet Sugar Match](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Sweet Sugar Match
+
+Бесплатно  ](/ru-ru/p/sweet-sugar-
+match/9nlbf4pm7b7t?cid=msft_web_gamesforwindows_chart)
+
+[ ![Microsoft Solitaire Collection](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Microsoft Solitaire Collection
+
+Бесплатно  \+  ](/ru-ru/p/microsoft-solitaire-
+collection/9wzdncrfhwd2?cid=msft_web_gamesforwindows_chart)
+
+[ ![Легенды Дракономании](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Легенды Дракономании
+
+Бесплатно  \+  ](/ru-
+ru/p/%d0%9b%d0%b5%d0%b3%d0%b5%d0%bd%d0%b4%d1%8b-%d0%94%d1%80%d0%b0%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b0%d0%bd%d0%b8%d0%b8/9wzdncrdh42t?cid=msft_web_gamesforwindows_chart)
+
+  * [ ![Кухонная Лихорадка](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Кухонная Лихорадка
+
+Бесплатно  \+  ](/ru-
+ru/p/%d0%9a%d1%83%d1%85%d0%be%d0%bd%d0%bd%d0%b0%d1%8f-%d0%9b%d0%b8%d1%85%d0%be%d1%80%d0%b0%d0%b4%d0%ba%d0%b0/9nblggh1cq7l?cid=msft_web_gamesforwindows_chart)
+
+[ ![Туземцы](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Туземцы
+
+Бесплатно  \+  ](/ru-
+ru/p/%d0%a2%d1%83%d0%b7%d0%b5%d0%bc%d1%86%d1%8b/9wzdncrdhpzc?cid=msft_web_gamesforwindows_chart)
+
+[ ![Forza Horizon 4: стандартное издание](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Forza Horizon 4: стандартное издание
+
+Включено  \+  со  статусом:  Game Pass  ](/ru-ru/p/forza-
+horizon-4-%d1%81%d1%82%d0%b0%d0%bd%d0%b4%d0%b0%d1%80%d1%82%d0%bd%d0%be%d0%b5-%d0%b8%d0%b7%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5/9pnjxvcvwd4k?cid=msft_web_gamesforwindows_chart)
+
+  * [ ![Legend of Warship: Naval Empire](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Legend of Warship: Naval Empire
+
+Бесплатно  \+  ](/ru-ru/p/legend-of-warship-naval-
+empire/9n5qfnf63d2g?cid=msft_web_gamesforwindows_chart)
+
+[ ![Филворды](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Филворды
+
+Бесплатно  \+  ](/ru-
+ru/p/%d0%a4%d0%b8%d0%bb%d0%b2%d0%be%d1%80%d0%b4%d1%8b/9nblggh1jv34?cid=msft_web_gamesforwindows_chart)
+
+[ ![Simple Mahjong](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Simple Mahjong
+
+Бесплатно  \+  ](/ru-ru/p/simple-
+mahjong/9wzdncrdkrds?cid=msft_web_gamesforwindows_chart)
+
+  * [ Показать все  ](/ru-ru/store/best-rated/games/pc)
+
+##  Популярные игры
+
+[ Показать все ](/ru-ru/store/new-and-rising/games/pc)
+
+  * [ ![Стальной шторм: Red Alert](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Стальной шторм: Red Alert
+
+Бесплатно  \+  ](/ru-
+ru/p/%d0%a1%d1%82%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b9-%d1%88%d1%82%d0%be%d1%80%d0%bc-
+red-alert/9n13smv5rwfm?cid=msft_web_gamesforwindows_chart)
+
+  * [ ![Слава короля](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Слава короля
+
+Бесплатно  \+  ](/ru-
+ru/p/%d0%a1%d0%bb%d0%b0%d0%b2%d0%b0-%d0%ba%d0%be%d1%80%d0%be%d0%bb%d1%8f/9p5360v24xq2?cid=msft_web_gamesforwindows_chart)
+
+  * [ ![Brawl Royale](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Brawl Royale
+
+Бесплатно  ](/ru-ru/p/brawl-
+royale/9p34hq5zvj95?cid=msft_web_gamesforwindows_chart)
+
+  * [ ![Genshin Impact Yander Life Simulator](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Genshin Impact Yander Life Simulator
+
+Бесплатно  ](/ru-ru/p/genshin-impact-yander-life-
+simulator/9p4dfgkdjxrg?cid=msft_web_gamesforwindows_chart)
+
+  * [ ![Mayor Match: Строительство города. 3 в ряд и стратегия](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Mayor Match: Строительство города. 3 в ряд и стратегия
+
+Бесплатно  \+  ](/ru-ru/p/mayor-
+match-%d0%a1%d1%82%d1%80%d0%be%d0%b8%d1%82%d0%b5%d0%bb%d1%8c%d1%81%d1%82%d0%b2%d0%be-%d0%b3%d0%be%d1%80%d0%be%d0%b4%d0%b0-3-%d0%b2-%d1%80%d1%8f%d0%b4-%d0%b8-%d1%81%d1%82%d1%80%d0%b0%d1%82%d0%b5%d0%b3%d0%b8%d1%8f/9p3k6169vghg?cid=msft_web_gamesforwindows_chart)
+
+  * [ ![Elvenar - Fantasy Kingdom](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Elvenar - Fantasy Kingdom
+
+Бесплатно  \+  ](/ru-ru/p/elvenar-fantasy-
+kingdom/9ns0pqpfdqk6?cid=msft_web_gamesforwindows_chart)
+
+  * [ ![Survival Free Fire Strike Wars](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Survival Free Fire Strike Wars
+
+Бесплатно  ](/ru-ru/p/survival-free-fire-strike-
+wars/9nzxq4x0cpv1?cid=msft_web_gamesforwindows_chart)
+
+  * [ ![Bounce Ball 6: Red Bounce Ball Hero](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Bounce Ball 6: Red Bounce Ball Hero
+
+Бесплатно  ](/ru-ru/p/bounce-ball-6-red-bounce-ball-
+hero/9nfzxg5l8w1f?cid=msft_web_gamesforwindows_chart)
+
+  * [ ![Brawl Stars Brawlers Soldier](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Brawl Stars Brawlers Soldier
+
+Бесплатно  ](/ru-ru/p/brawl-stars-brawlers-
+soldier/9pk6qn834hb9?cid=msft_web_gamesforwindows_chart)
+
+  * [ ![Russian Grand City Auto](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Russian Grand City Auto
+
+Бесплатно  ](/ru-ru/p/russian-grand-city-
+auto/9nxgq50jzlmj?cid=msft_web_gamesforwindows_chart)
+
+  * [ ![Impostor Kill](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Impostor Kill
+
+Бесплатно  ](/ru-ru/p/impostor-
+kill/9p14fzgk18j2?cid=msft_web_gamesforwindows_chart)
+
+  * [ Показать все  ](/ru-ru/store/new-and-rising/games/pc)
+
+![Лучшее от Xbox Game Studios](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+##  Лучшее от Xbox Game Studios  [ Показать все ](/ru-
+ru/store/collections/greatxboxgames)
+
+Играйте в известнейшие серии игр на ПК
+
+[ ДОПОЛНИТЕЛЬНЫЕ СВЕДЕНИЯ  ](/ru-ru/store/collections/greatxboxgames)
+
+  * [ ![Microsoft Flight Simulator: Standard](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Microsoft Flight Simulator: Standard
+
+Включено  \+  со  статусом:  Game Pass  ](/ru-ru/p/microsoft-flight-simulator-
+standard/9nxn8gf8n9ht?cid=msft_web_gamesforwindows_collection)
+
+  * [ ![Ori: The Collection](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Ori: The Collection
+
+Раньше  ~~USD$34.99~~ Сейчас  USD$17.49  ](/ru-ru/p/ori-the-
+collection/9p5mbbff3rnt?cid=msft_web_gamesforwindows_collection)
+
+  * [ ![Gears 5: издание «Игра года»](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Gears 5: издание «Игра года»
+
+Раньше  ~~USD$59.99~~ Сейчас  USD$47.99  \+  со  статусом:  Game Pass  ](/ru-
+ru/p/gears-5-%d0%b8%d0%b7%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5-%d0%98%d0%b3%d1%80%d0%b0-%d0%b3%d0%be%d0%b4%d0%b0/9p4kmr76pllq?cid=msft_web_gamesforwindows_collection)
+
+  * [ ![Gears Tactics](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Gears Tactics
+
+Включено  \+  со  статусом:  Game Pass  ](/ru-ru/p/gears-
+tactics/9nn3hckw5tpc?cid=msft_web_gamesforwindows_collection)
+
+  * [ ![Grounded - Предварительная версия игры](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Grounded - Предварительная версия игры
+
+Включено  со  статусом:  Game Pass  ](/ru-
+ru/p/grounded-%d0%9f%d1%80%d0%b5%d0%b4%d0%b2%d0%b0%d1%80%d0%b8%d1%82%d0%b5%d0%bb%d1%8c%d0%bd%d0%b0%d1%8f-%d0%b2%d0%b5%d1%80%d1%81%d0%b8%d1%8f-%d0%b8%d0%b3%d1%80%d1%8b/9pjthrnvh62h?cid=msft_web_gamesforwindows_collection)
+
+  * [ ![Grim Fandango Remastered](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Grim Fandango Remastered
+
+Включено  со  статусом:  Game Pass  ](/ru-ru/p/grim-fandango-
+remastered/9pc288tn7r8k?cid=msft_web_gamesforwindows_collection)
+
+  * [ ![Full Throttle Remastered](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Full Throttle Remastered
+
+Включено  со  статусом:  Game Pass  ](/ru-ru/p/full-throttle-
+remastered/9p3zrgnqvc7d?cid=msft_web_gamesforwindows_collection)
+
+  * [ ![Day of the Tentacle Remastered](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Day of the Tentacle Remastered
+
+Включено  со  статусом:  Game Pass  ](/ru-ru/p/day-of-the-tentacle-
+remastered/9nkk6cx54183?cid=msft_web_gamesforwindows_collection)
+
+  * [ ![Age of Empires III: Definitive Edition](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Age of Empires III: Definitive Edition
+
+Включено  со  статусом:  Game Pass  ](/ru-ru/p/age-of-empires-iii-definitive-
+edition/9n1hf804qxn4?cid=msft_web_gamesforwindows_collection)
+
+  * [ ![Wasteland 3 \(PC\)](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Wasteland 3 \(PC\)
+
+Включено  \+  со  статусом:  Game Pass  ](/ru-
+ru/p/wasteland-3-pc/9nlt5xr52zs7?cid=msft_web_gamesforwindows_collection)
+
+  * [ ![Battletoads](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Battletoads
+
+Включено  со  статусом:  Game Pass  ](/ru-
+ru/p/battletoads/9n7gcf5sgcxc?cid=msft_web_gamesforwindows_collection)
+
+  * [ ![Minecraft Dungeons: героическое издание - Windows 10](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Minecraft Dungeons: героическое издание - Windows 10
+
+Раньше  ~~USD$29.99~~ Сейчас  USD$23.99  \+  со  статусом:  Game Pass  ](/ru-
+ru/p/minecraft-
+dungeons-%d0%b3%d0%b5%d1%80%d0%be%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%be%d0%b5-%d0%b8%d0%b7%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5-windows-10/9p2vr3k66tjx?cid=msft_web_gamesforwindows_collection)
+
+##  Подборка коллекций
+
+![Военные игры](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Военные игры
+
+К оружию\! Мобилизуйте армии, планируйте стратегию и победите своих врагов с
+этими проверенными в бою играми.
+
+[ КУПИТЬ  ](/ru-ru/store/collections/virtualbattles)
+
+![Лучшие игры от Game Insight](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Лучшие игры от Game Insight
+
+Потрясающие бесплатные игры от Game Insight — создателей «Туземцев», «Cloud
+Raiders» и многих других. Начните играть прямо сейчас\!
+
+[ КУПИТЬ  ](/ru-ru/store/collections/gameinsight)
+
+![Постройте свой собственный мир](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Постройте свой собственный мир
+
+Создавайте свои приключения в увлекательных симуляторах.
+
+[ КУПИТЬ  ](/ru-ru/store/collections/virtualcities)
+
+![Головоломки](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Головоломки
+
+Серьезная задачка для мозга... Проверьте свои силы и навыки с этой коллекцией
+занятных головоломок.
+
+[ КУПИТЬ  ](/ru-ru/store/collections/puzzlegames)
+
+##  Категории
+
+  * [ Карточные и настольные ](/ru-ru/store/most-popular/games/pc?category=card%20%26%20board)
+  * [ Головоломки и викторины ](/ru-ru/store/most-popular/games/pc?category=puzzle%20%26%20trivia)
+  * [ Словесные игры ](/ru-ru/store/most-popular/games/pc?category=word)
+  * [ Образование ](/ru-ru/store/most-popular/games/pc?category=educational)
+  * [ Стрелялки ](/ru-ru/store/most-popular/games/pc?category=shooter)
+  * [ Гонки и авиасимуляторы ](/ru-ru/store/most-popular/games/pc?category=racing%20%26%20flying)
+  * [ Ролевые игры ](/ru-ru/store/most-popular/games/pc?category=role%20playing)
+  * [ Казино ](/ru-ru/store/most-popular/games/pc?category=casino)
+  * [ Симуляторы ](/ru-ru/store/most-popular/games/pc?category=simulation)
+  * [ Семья и дети ](/ru-ru/store/most-popular/games/pc?category=family%20%26%20kids)
+  * [ Аркады ](/ru-ru/store/most-popular/games/pc?category=platformer)
+  * [ Музыка ](/ru-ru/store/most-popular/games/pc?category=music)
+  * [ Борьба ](/ru-ru/store/most-popular/games/pc?category=fighting)
+  * [ Стратегии ](/ru-ru/store/most-popular/games/pc?category=strategy)
+  * [ Спорт ](/ru-ru/store/most-popular/games/pc?category=sports)
+  * [ Экшн и приключения ](/ru-ru/store/most-popular/games/pc?category=action%20%26%20adventure)
+  * [ Классика ](/ru-ru/store/most-popular/games/pc?category=classics)
+  * [ Компаньон ](/ru-ru/store/most-popular/games/pc?category=companion)
+  * [ Социальные ](/ru-ru/store/most-popular/games/pc?category=social)
+  * [ MOBA ](/ru-ru/store/most-popular/games/pc?category=multiplayeronlinebattlearena)
+  * [ MOBA ](/ru-ru/store/most-popular/games/pc?category=multi-player%20online%20battle%20arena)
+  * [ Другие ](/ru-ru/store/most-popular/games/pc?category=other)
+  * [ Инструменты ](/ru-ru/store/most-popular/games/pc?category=tools)
+  * [ Видео ](/ru-ru/store/most-popular/games/pc?category=video)
+
+Возникли вопросы? Обратитесь к эксперту
+
+####  Возникли вопросы? Обратитесь к эксперту
+
+Мы готовы помочь\!
+
+[ Обсудите свой заказ перед покупкой ](javascript:void\(0\))
+
+[ Найдите сведения о своем заказе ](javascript:void\(0\))
+
+[ Получить техническую поддержку или помощь по загрузке
+](javascript:void\(0\))
+
+####  Обсудите свой заказ перед покупкой
+
+Текстовый чат
+
+Позвоните, чтобы узнать информацию о продаже в Microsoft Store и получить
+консультации для клиентов
+
+[ \(8\) 800 500 9242 ](tel:\(8\) 800 500 9242)
+
+Часы работы службы поддержки Microsoft Store
+
+Понедельник — пятница:  09:00 - 18:00
+
+####  Найдите сведения о своем заказе
+
+Текстовый чат
+
+Помощь в вопросах продажи и поддержка клиентов в Microsoft Store
+
+[ \(8\) 800 500 9242 ](tel:\(8\) 800 500 9242)
+
+Вопросы по товарам, купленным в другом месте
+
+[ \(8\) 495 916 7171 ](tel:\(8\) 495 916 7171)
+
+Часы работы службы поддержки Microsoft Store
+
+Понедельник — пятница:  09:00 - 18:00
+
+####  Получить техническую поддержку или помощь по загрузке
+
+  * [ Windows ](https://support.microsoft.com/ru-ru/contact/menu/software/windows/)
+  * [ Office ](https://support.office.com/ru-ru)
+  * [ Surface ](https://www.microsoft.com/surface/ru-ru/support)
+
+  * [ Мобильные устройства ](https://support.microsoft.com/ru-ru/products/mobile-devices)
+  * [ OneDrive ](https://support.office.com/ru-ru/article/OneDrive-Help-5943c2b9-fafc-4cb4-95c0-9cc73fcabb30)
+  * [ Skype ](https://support.skype.com/skype/windows-desktop/)
+
+  * [ Xbox ](https://support.xbox.com/contact-us/)
+  * [ Outlook ](https://support.office.com/ru-ru/article/Get-help-with-Outlook-com-40676AD0-C831-45AC-A023-5BE633BE798D)
+  * [ Показать еще ](https://support.microsoft.com/ru-ru)
+
+[ Назад  ](javascript:void\(0\);) Закрыть
+
+Что нового?
+
+  * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365)
+  * [ Приложения Windows 10 ](https://www.microsoft.com/ru-ru/windows/windows-10-apps)
+
+Microsoft Store
+
+  * [ Профиль учетной записи ](https://account.microsoft.com/)
+  * [ Центр загрузки ](https://www.microsoft.com/ru-ru/download)
+  * [ Поддержка Microsoft Store ](https://go.microsoft.com/fwlink/?linkid=2139749)
+  * [ Возврат товаров ](https://go.microsoft.com/fwlink/p/?LinkID=824764&clcid=0x419)
+  * [ Отслеживание заказа ](https://account.microsoft.com/orders)
+
+Для образования
+
+  * [ Майкрософт и образование ](https://www.microsoft.com/ru-ru/education)
+  * [ Office для учащихся ](https://www.microsoft.com/ru-ru/education/products/office/default.aspx)
+  * [ Office 365 для школ ](https://products.office.com/ru-ru/academic/compare-office-365-education-plans)
+  * [ Специальные предложения для учащихся и родителей ](https://www.microsoft.com/ru-ru/store/b/student?icid=CNavfooter_Studentsandeducation)
+  * [ Microsoft Azure и образование ](https://azure.microsoft.com/ru-ru/community/education/)
+
+Для крупных предприятий
+
+  * [ Azure ](https://azure.microsoft.com/)
+  * [ AppSource ](https://go.microsoft.com/fwlink/?LinkID=808093)
+  * [ Автопромышленность ](https://www.microsoft.com/enterprise/automotive)
+  * [ Государственные учреждения ](https://www.microsoft.com/enterprise/government)
+  * [ Здравоохранение ](https://www.microsoft.com/enterprise/health)
+  * [ Промышленное производство ](https://www.microsoft.com/enterprise/manufacturing)
+  * [ Финансовые услуги ](https://www.microsoft.com/enterprise/financial-services/banking-and-capital-markets)
+  * [ Торговля ](https://www.microsoft.com/enterprise/retail-consumer-goods)
+
+Для разработчиков
+
+  * [ Microsoft Visual Studio ](https://visualstudio.microsoft.com/)
+  * [ Центр разработчиков Windows ](https://developer.microsoft.com/ru-ru/windows)
+  * [ Центр разработчиков ](https://developer.microsoft.com/)
+  * [ Программа Майкрософт для разработчиков ](https://developer.microsoft.com/ru-ru/store/register)
+  * [ Channel 9 ](https://channel9.msdn.com/)
+  * [ Центр разработчиков Office ](https://developer.microsoft.com/ru-ru/office)
+
+Компания
+
+  * [ Вакансии ](https://careers.microsoft.com/)
+  * [ О корпорации Майкрософт ](https://www.microsoft.com/ru-ru/about)
+  * [ Новости компании ](https://news.microsoft.com/ru-ru)
+  * [ Политика конфиденциальности Майкрософт ](https://privacy.microsoft.com/ru-ru)
+  * [ Инвесторы ](https://www.microsoft.com/investor/default.aspx)
+  * [ Безопасность ](https://www.microsoft.com/ru-ru/security/default.aspx)
+
+[ Русский \(Россия\) ](https://www.microsoft.com/ru-
+ru/store/locale?absoluteReturnUrl=https%3a%2f%2fwww.microsoft.com%2fru-
+ru%2fstore%2fgames%2fwindows%3ficid%3dTopNavWindowsGames)
+
+  * [ Связаться с Microsoft ](https://go.microsoft.com/fwlink/p/?LinkID=824761&clcid=0x419)
+  * [ Выходные данные ](https://www.microsoft.com/ru-ru/store/b/imprint)
+  * [ Конфиденциальность ](https://go.microsoft.com/fwlink/?LinkId=521839)
+  * Управление файлами cookie 
+  * [ Условия использования и продажи ](https://go.microsoft.com/fwlink/?LinkID=206977)
+  * [ Условия продажи ](https://www.microsoft.com/ru-ru/storedocs/terms-of-sale)
+  * [ Товарные знаки ](https://www.microsoft.com/trademarks)
+  * [ Сведения о рекламе ](https://choice.microsoft.com/)
+  * © Microsoft 2021 
+

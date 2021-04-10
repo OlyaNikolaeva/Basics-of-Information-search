@@ -1,0 +1,297 @@
+#  Программное обеспечение для малого бизнеса | Microsoft Store Россия
+
+![](https://web.vortex.data.microsoft.com:443/collect/v1/t.gif?&name=%27Ms.Webi.PageView%27&ver=%272.1%27&appId=%27JS%3AUniStore%27&cV=%27HDeyxXAJlkmHprQZ.0%27&ext-
+app-env=%27onerf_prod%27&ext-javascript-libver=%274.0.0-beta-10%27&ext-user-
+localId=%27t%3A30540009EA9C691335EC101CEBB46888%27&*baseType=%27Ms.Content.PageView%27&*isJs=True&*isLoggedIn=False&*isManual=True&*serverImpressionGuid=%27efa9b22a-dee8-4861-8618-79b0c2f5b5cc%27&-ver=%271.0%27&-impressionGuid=%2700000000-0000-0000-0000-000000000000%27&-pageName=%27Business.ru-
+ru%27&-uri=%27https%3A%2F%2Fwww.microsoft.com%2Fru-
+ru%2Fstore%2Fb%2Fbusiness%3Ficid%3DCNavBusinessStore%27&-pageType=%27Hero%20Category%20Page%27&-pageTags=%27%7B%22tasId%22%3A%22efa9b22a-dee8-4861-8618-79b0c2f5b5cc%22%2C%22tasMuid%22%3A%2230540009EA9C691335EC101CEBB46888%22%2C%22browserGroup%22%3A%22uplevel.web.pc%22%2C%22isOneRf%22%3A%22True%22%7D%27&-behavior=0&-market=%27ru-
+ru%27)
+
+[ Перейти к основному контенту ](javascript:void\(0\))
+
+[ ![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31) Microsoft
+](https://www.microsoft.com)
+
+Домашняя страница
+
+[ Домашняя страница  ](https://www.microsoft.com/ru-ru/store/b/home)
+
+Домашняя страница
+
+  * [ Главная ](https://www.microsoft.com/ru-ru/store/b/home)
+  * [ Xbox ](https://www.microsoft.com/ru-ru/store/b/xbox?icid=CNavDevicesXbox)
+  * Программы 
+    * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products)
+    * [ Office ](https://www.microsoft.com/microsoft-365/office-365)
+    * [ Windows ](https://www.microsoft.com/ru-ru/store/b/windows?icid=CNavSoftwareWindows)
+    * [ Профессиональное ПО ](https://www.microsoft.com/ru-ru/store/b/software?icid=CNavSoftware)
+    * [ Приложения для Windows ](https://www.microsoft.com/ru-ru/store/apps/windows?icid=CNavAppsWindowsApps)
+    * [ Приложения для Windows Phone ](https://www.microsoft.com/ru-ru/store/apps/windows-phone?icid=CNavAppsWindowsPhoneApps)
+
+  * Игры 
+    * [ Игры для Xbox ](https://www.microsoft.com/ru-ru/store/top-paid/games/xbox?icid=CatNavXboxGames)
+    * [ Игры для Windows ](https://www.microsoft.com/ru-ru/store/games/windows?icid=CNavGamesWindowsGames)
+    * [ Игры для Windows Phone ](https://www.microsoft.com/ru-ru/store/games/windows-phone?icid=CNavGamesWindowsPhoneGames)
+
+  * [ Решения для бизнеса ](https://www.microsoft.com/ru-ru/store/b/business?icid=CNavBusinessStore)
+  * Больше 
+
+  * Все продукты Microsoft 
+    *       * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365)
+      * [ Office ](https://www.microsoft.com/microsoft-365/microsoft-office)
+      * [ Windows ](https://www.microsoft.com/ru-ru/windows/)
+      * [ Xbox ](https://www.xbox.com/)
+      * [ Поддержка ](https://support.microsoft.com/ru-ru)
+    * ПО 
+      * [ Приложения для Windows ](https://www.microsoft.com/ru-ru/store/apps/windows?icid=CNavAppsWindowsApps)
+      * [ OneDrive ](https://onedrive.live.com/about/ru-ru/)
+      * [ Outlook ](https://outlook.live.com/owa/)
+      * [ Skype ](https://www.skype.com/ru/)
+      * [ OneNote ](https://www.onenote.com/?omkt=ru-RU)
+      * [ Microsoft Teams ](https://www.microsoft.com/ru-ru/microsoft-teams/free?icid=SSM_AS_Promo_Apps_MicrosoftTeams)
+    * Компьютеры и устройства 
+      * [ Купите Xbox ](https://www.microsoft.com/ru-ru/store/b/xbox?icid=CNavDevicesXbox)
+      * [ Аксессуары ](https://www.microsoft.com/accessories/ru-ru)
+    * Развлечения 
+      * [ Xbox Game Pass Ultimate ](https://www.microsoft.com/ru-ru/p/xbox-game-pass-ultimate/cfq7ttc0khs0?WT.mc_id=CNavGamesXboxGamePassUltimate)
+      * [ Xbox Live Gold ](https://www.microsoft.com/ru-ru/p/xbox-live-gold/cfq7ttc0k5dj?WT.mc_id=CNavGamesXboxLiveGold)
+      * [ Xbox и игры ](https://www.xbox.com/ru-ru/games/xbox-one?xr=shellnav)
+      * [ Компьютерные игры ](https://www.microsoft.com/ru-ru/store/games/windows?icid=CNavGamesWindowsGames)
+      * [ Игры для Windows ](https://www.microsoft.com/ru-ru/store/games/windows?icid=TopNavWindowsGames)
+    * Для бизнеса 
+      * [ Microsoft Azure ](https://azure.microsoft.com/ru-ru/)
+      * [ Microsoft Dynamics 365 ](https://www.microsoft.com/ru-ru/dynamics365/home)
+      * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365/business/all-business)
+      * [ Microsoft Industry ](https://www.microsoft.com/ru-ru/enterprise)
+      * [ Платформа данных ](https://www.microsoft.com/ru-ru/sql-server/ )
+      * [ Power Platform ](https://powerplatform.microsoft.com/ru-ru)
+      * [ Shop Business ](https://www.microsoft.com/ru-ru/store/b/business?icid=CNavBusinessStore)
+    * Для разработчиков и ИТ 
+      * [ .NET ](https://www.microsoft.com/net/)
+      * [ Visual Studio ](https://visualstudio.microsoft.com/)
+      * [ Windows Server ](https://www.microsoft.com/cloud-platform/windows-server)
+      * [ Разработка приложений для Windows ](https://developer.microsoft.com/ru-ru/windows)
+      * [ Документы ](https://docs.microsoft.com/ru-ru/)
+      * [ Power Apps ](https://powerapps.microsoft.com/ru-ru)
+    * Другое 
+      * [ Бесплатная загрузка и средства безопасности ](https://www.microsoft.com/ru-ru/download/default.aspx)
+      * [ Образование ](https://www.microsoft.com/ru-ru/education?icid=CNavMSCOML0_Studentsandeducation)
+      * [ лицензирование ](https://www.microsoft.com/licensing/default)
+    * [ Посмотреть карту сайта ](https://www.microsoft.com/ru-ru/sitemap.aspx)
+
+Поиск  Поиск на Microsoft.com
+
+Отмена  [ 0  Корзина  0 товары в корзине  ](https://www.microsoft.com/ru-
+ru/store/buy)
+
+Войти
+
+[ Windows 10: Лучшая Windows в истории поможет вам достичь большего.
+](https://www.microsoft.com/ru-ru/store/b/windows?icid=TopStripe-windows-cat-
+page)
+
+![Business man and women talking with two pc's on a desk in an office. | Homme
+et femmes d’affaires qui discutent et deux PC sur un bureau dans un
+local.](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE1uBqq?ver=8c3a&q=90&m=6&h=600&w=1600&b=%23FFFFFFFF&l=f&o=t&x=811&y=299&aim=true)
+
+##  Office для бизнеса
+
+Office 365 позволяет вести бизнес более удобно и эффективно
+
+[ СМОТРЕТЬ ПЛАНЫ И ЦЕНЫ  ](https://products.office.com/ru-ru/business/compare-
+office-365-for-business-plans?icid=wt.mc_id=store_null_o365_sku-
+chooser_rowcard-ru_RU)
+
+##  Смотреть категории
+
+  * [ Профессиональное ПО ](https://www.microsoft.com/ru-ru/store/b/software?icid=Cat-Business-Nav_1-Additional-software-042517-ru_RU)
+  * [ Office для бизнеса ](https://products.office.com/ru-ru/business/compare-office-365-for-business-plans)
+  * [ Windows PRO ](https://www.microsoft.com/ru-ru/store/d/windows-10-pro/DF77X4D43RKT?icid=Cat-Business-Nav_3-Windows10Pro-042517-ru_RU)
+  * [ ПК с Windows Pro ](https://microsoftstore.ru/catalog-noutbuki/os-windows-10-pro/?utm_source=HP_SMB&utm_medium=Notebooks_Pro&utm_campaign=MSStore&icid=Cat-Business-Nav_4-PCs-042517-ru_RU)
+
+![Business women typing on computer | Femmes d’affaires tapant sur
+ordinateur](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE1uJgx?ver=e3f6&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Windows 10 Pro
+
+Расширенная функциональность для вашего бизнеса.
+
+[ В МАГАЗИН  ](https://www.microsoft.com/ru-
+ru/store/d/windows-10-pro/DF77X4D43RKT?icid=Cat-Business-
+ContentPlacement_1-Windows10Pro-042517-ru_RU)
+
+!["Business software including Microsoft Project |  Visual Studio and SQL
+Server."](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE1uE1Z?ver=deac&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  SQL Server 2017
+
+Самые высокие в отрасли показатели производительности и безопасности на любых
+платформах, включая Windows, Linux и Docker.
+
+[ КУПИТЬ СЕЙЧАС  ](https://www.microsoft.com/ru-ru/store/d/sql-server-
+standard-edition-2017/dg7gmgf0dwp2?icid=Cat-Business-CP2-SQL)
+
+![Visual Studios software.](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RW5A3D?ver=4458&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Visual Studio
+
+Создание потрясающих приложений для любой платформы с совершенно новой Visual
+Studio.
+
+[ В МАГАЗИН  ](https://www.microsoft.com/ru-
+ru/store/collections/visualstudio?icid=Cat-Business-CP3-VisualStudio)
+
+##  Additional business software
+
+[ ![Windows 10 Pro](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Windows 10 Pro
+
+USD$289.00
+
+Получите в свое распоряжение все возможности ОС "Windows 10 Домашняя", а также
+удаленный рабочий стол, Windows Information Protection\*, BitLocker\*\* и
+набор средств для коммерческого использования. Лицензия для использования на
+одном ПК или компьютере Mac.  
+  
+\* Для управления параметрами Windows Information Protection требуется система
+управления мобильными устройствами или System Center Configuration Manager.
+Эти продукты продаются отдельно. Служба Active Directory упрощает управление,
+но использовать ее не обязательно.  
+\*\* Для защиты ключей на основе доверенного платформенного модуля \(TPM\)
+требуется TPM 1.2 или более поздней версии.
+
+](/ru-ru/p/windows-10-pro/df77x4d43rkt)
+
+Наши программные решения для малого бизнеса создавались с заботой о вас, и
+поэтому они позволяют оставаться на связи со своими сотрудниками — и достигать
+большего, где бы вы ни находились.
+
+Возникли вопросы? Обратитесь к эксперту
+
+####  Возникли вопросы? Обратитесь к эксперту
+
+Мы готовы помочь\!
+
+[ Обсудите свой заказ перед покупкой ](javascript:void\(0\))
+
+[ Найдите сведения о своем заказе ](javascript:void\(0\))
+
+[ Получить техническую поддержку или помощь по загрузке
+](javascript:void\(0\))
+
+####  Обсудите свой заказ перед покупкой
+
+Текстовый чат
+
+Позвоните, чтобы узнать информацию о продаже в Microsoft Store и получить
+консультации для клиентов
+
+[ \(8\) 800 500 9242 ](tel:\(8\) 800 500 9242)
+
+Часы работы службы поддержки Microsoft Store
+
+Понедельник — пятница:  09:00 - 18:00
+
+####  Найдите сведения о своем заказе
+
+Текстовый чат
+
+Помощь в вопросах продажи и поддержка клиентов в Microsoft Store
+
+[ \(8\) 800 500 9242 ](tel:\(8\) 800 500 9242)
+
+Вопросы по товарам, купленным в другом месте
+
+[ \(8\) 495 916 7171 ](tel:\(8\) 495 916 7171)
+
+Часы работы службы поддержки Microsoft Store
+
+Понедельник — пятница:  09:00 - 18:00
+
+####  Получить техническую поддержку или помощь по загрузке
+
+  * [ Windows ](https://support.microsoft.com/ru-ru/contact/menu/software/windows/)
+  * [ Office ](https://support.office.com/ru-ru)
+  * [ Surface ](https://www.microsoft.com/surface/ru-ru/support)
+
+  * [ Мобильные устройства ](https://support.microsoft.com/ru-ru/products/mobile-devices)
+  * [ OneDrive ](https://support.office.com/ru-ru/article/OneDrive-Help-5943c2b9-fafc-4cb4-95c0-9cc73fcabb30)
+  * [ Skype ](https://support.skype.com/skype/windows-desktop/)
+
+  * [ Xbox ](https://support.xbox.com/contact-us/)
+  * [ Outlook ](https://support.office.com/ru-ru/article/Get-help-with-Outlook-com-40676AD0-C831-45AC-A023-5BE633BE798D)
+  * [ Показать еще ](https://support.microsoft.com/ru-ru)
+
+[ Назад  ](javascript:void\(0\);) Закрыть
+
+Что нового?
+
+  * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365)
+  * [ Приложения Windows 10 ](https://www.microsoft.com/ru-ru/windows/windows-10-apps)
+
+Microsoft Store
+
+  * [ Профиль учетной записи ](https://account.microsoft.com/)
+  * [ Центр загрузки ](https://www.microsoft.com/ru-ru/download)
+  * [ Поддержка Microsoft Store ](https://go.microsoft.com/fwlink/?linkid=2139749)
+  * [ Возврат товаров ](https://go.microsoft.com/fwlink/p/?LinkID=824764&clcid=0x419)
+  * [ Отслеживание заказа ](https://account.microsoft.com/orders)
+
+Для образования
+
+  * [ Майкрософт и образование ](https://www.microsoft.com/ru-ru/education)
+  * [ Office для учащихся ](https://www.microsoft.com/ru-ru/education/products/office/default.aspx)
+  * [ Office 365 для школ ](https://products.office.com/ru-ru/academic/compare-office-365-education-plans)
+  * [ Специальные предложения для учащихся и родителей ](https://www.microsoft.com/ru-ru/store/b/student?icid=CNavfooter_Studentsandeducation)
+  * [ Microsoft Azure и образование ](https://azure.microsoft.com/ru-ru/community/education/)
+
+Для крупных предприятий
+
+  * [ Azure ](https://azure.microsoft.com/)
+  * [ AppSource ](https://go.microsoft.com/fwlink/?LinkID=808093)
+  * [ Автопромышленность ](https://www.microsoft.com/enterprise/automotive)
+  * [ Государственные учреждения ](https://www.microsoft.com/enterprise/government)
+  * [ Здравоохранение ](https://www.microsoft.com/enterprise/health)
+  * [ Промышленное производство ](https://www.microsoft.com/enterprise/manufacturing)
+  * [ Финансовые услуги ](https://www.microsoft.com/enterprise/financial-services/banking-and-capital-markets)
+  * [ Торговля ](https://www.microsoft.com/enterprise/retail-consumer-goods)
+
+Для разработчиков
+
+  * [ Microsoft Visual Studio ](https://visualstudio.microsoft.com/)
+  * [ Центр разработчиков Windows ](https://developer.microsoft.com/ru-ru/windows)
+  * [ Центр разработчиков ](https://developer.microsoft.com/)
+  * [ Программа Майкрософт для разработчиков ](https://developer.microsoft.com/ru-ru/store/register)
+  * [ Channel 9 ](https://channel9.msdn.com/)
+  * [ Центр разработчиков Office ](https://developer.microsoft.com/ru-ru/office)
+
+Компания
+
+  * [ Вакансии ](https://careers.microsoft.com/)
+  * [ О корпорации Майкрософт ](https://www.microsoft.com/ru-ru/about)
+  * [ Новости компании ](https://news.microsoft.com/ru-ru)
+  * [ Политика конфиденциальности Майкрософт ](https://privacy.microsoft.com/ru-ru)
+  * [ Инвесторы ](https://www.microsoft.com/investor/default.aspx)
+  * [ Безопасность ](https://www.microsoft.com/ru-ru/security/default.aspx)
+
+[ Русский \(Россия\) ](https://www.microsoft.com/ru-
+ru/store/locale?absoluteReturnUrl=https%3a%2f%2fwww.microsoft.com%2fru-
+ru%2fstore%2fb%2fbusiness%3ficid%3dCNavBusinessStore)
+
+  * [ Связаться с Microsoft ](https://go.microsoft.com/fwlink/p/?LinkID=824761&clcid=0x419)
+  * [ Выходные данные ](https://www.microsoft.com/ru-ru/store/b/imprint)
+  * [ Конфиденциальность ](https://go.microsoft.com/fwlink/?LinkId=521839)
+  * Управление файлами cookie 
+  * [ Условия использования и продажи ](https://go.microsoft.com/fwlink/?LinkID=206977)
+  * [ Условия продажи ](https://www.microsoft.com/ru-ru/storedocs/terms-of-sale)
+  * [ Товарные знаки ](https://www.microsoft.com/trademarks)
+  * [ Сведения о рекламе ](https://choice.microsoft.com/)
+  * © Microsoft 2021 
+

@@ -1,0 +1,946 @@
+![](https://web.vortex.data.microsoft.com:443/collect/v1/t.gif?&name=%27Ms.Webi.PageView%27&ver=%272.1%27&appId=%27JS%3AMicrosoft-365%27&cV=%27aHtGYuDbLUuZ6Mkw.0%27&ext-
+app-env=%27onerf_prod%27&ext-javascript-libver=%274.0.0-beta-10%27&ext-user-
+localId=%27t%3A3974BCFD555D62BF3AFDACE854F66328%27&*baseType=%27Ms.Content.PageView%27&*isJs=True&*isLoggedIn=False&*isManual=True&*serverImpressionGuid=%272b7bd5c3-cf78-46ef-
+af79-0063891b243f%27&-ver=%271.0%27&-impressionGuid=%2700000000-0000-0000-0000-000000000000%27&-pageName=%27compare-
+office-365-education-plans.ru-
+ru%27&-uri=%27https%3A%2F%2Fwww.microsoft.com%2Fru-
+ru%2Fmicrosoft-365%2Facademic%2Fcompare-office-365-education-
+plans%27&-pageType=%27DepartmentPage%27&-pageTags=%27%7B%22tasId%22%3A%222b7bd5c3-cf78-46ef-
+af79-0063891b243f%22%2C%22tasMuid%22%3A%223974BCFD555D62BF3AFDACE854F66328%22%2C%22browserGroup%22%3A%22uplevel.web.pc%22%2C%22isOneRf%22%3A%22True%22%7D%27&-behavior=0&-market=%27ru-
+ru%27)
+
+[ Перейти к основному контенту ](javascript:void\(0\))
+
+[ ![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31) Microsoft
+](https://www.microsoft.com)
+
+Microsoft 365
+
+[ Microsoft 365  ](https://www.microsoft.com/ru-ru/microsoft-365)
+
+Microsoft 365
+
+  * [ Главная ](https://www.microsoft.com/ru-ru/microsoft-365)
+  * Продукты 
+    * Для дома  Для дома 
+      * [ Планы и цены ](https://www.microsoft.com/ru-ru/microsoft-365/buy/compare-all-microsoft-365-products)
+      * [ Для семьи ](https://www.microsoft.com/ru-ru/microsoft-365/p/microsoft-365-family/cfq7ttc0k5dm)
+      * [ Для личного пользования ](https://www.microsoft.com/ru-ru/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf)
+      * [ Для учащихся ](https://www.microsoft.com/ru-ru/education/products/office)
+      * [ Смотреть все решения для дома ](https://www.microsoft.com/ru-ru/microsoft-365/explore-microsoft-365-for-home)
+    * Для бизнеса  Для бизнеса 
+      * [ Планы и цены ](https://www.microsoft.com/ru-ru/microsoft-365/business/compare-all-microsoft-365-business-products)
+      * [ Малый бизнес ](https://www.microsoft.com/ru-ru/microsoft-365/business)
+      * [ Учебные заведения ](https://go.microsoft.com/fwlink/p/?linkid=864773)
+    * Для крупных предприятий  Для крупных предприятий 
+      * [ Планы и цены ](https://www.microsoft.com/ru-ru/microsoft-365/compare-microsoft-365-enterprise-plans)
+      * [ Крупный бизнес ](https://www.microsoft.com/ru-ru/microsoft-365/enterprise)
+      * [ Сотрудники без компьютеров ](https://www.microsoft.com/ru-ru/microsoft-365/enterprise/frontline)
+    * Приложения и службы  Приложения и службы 
+      * [ Excel ](https://www.microsoft.com/ru-ru/microsoft-365/excel)
+      * [ Microsoft Family Safety ](https://www.microsoft.com/ru-ru/microsoft-365/family-safety)
+      * [ Microsoft Teams ](https://www.microsoft.com/ru-ru/microsoft-teams/group-chat-software)
+      * [ OneDrive ](https://www.microsoft.com/ru-ru/microsoft-365/onedrive/online-cloud-storage)
+      * [ Outlook ](https://www.microsoft.com/ru-ru/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook)
+      * [ PowerPoint ](https://www.microsoft.com/ru-ru/microsoft-365/powerpoint)
+      * [ SharePoint ](https://www.microsoft.com/ru-ru/microsoft-365/sharepoint/collaboration)
+      * [ Word ](https://www.microsoft.com/ru-ru/microsoft-365/word)
+      * [ Посмотреть все приложения и службы ](https://www.microsoft.com/ru-ru/microsoft-365/products-apps-services)
+    * Еще  Еще 
+      * [ Microsoft Office ](https://www.microsoft.com/ru-ru/microsoft-365/microsoft-office)
+      * [ Office 365 ](https://www.microsoft.com/ru-ru/microsoft-365/office-365)
+      * [ Windows ](https://www.microsoft.com/ru-ru/microsoft-365/windows)
+      * [ Enterprise Mobility + Security ](https://www.microsoft.com/ru-ru/microsoft-365/enterprise-mobility-security)
+
+  * [ Планы и цены ](https://www.microsoft.com/ru-ru/microsoft-365/compare-all-microsoft-365-plans)
+  * Отрасль 
+    * [ Медицина ](https://www.microsoft.com/ru-ru/microsoft-365/solutions/health)
+    * [ Государственные организации ](https://www.microsoft.com/ru-ru/microsoft-365/government/)
+    * [ Финансовые услуги ](https://www.microsoft.com/ru-ru/industry/financial-services/banking)
+    * [ Розничная торговля ](https://www.microsoft.com/ru-ru/microsoft-365/solutions/retail)
+    * [ Производство ](https://www.microsoft.com/ru-ru/microsoft-365/solutions/manufacturing)
+
+  * Ресурсы 
+    * [ Снижение издержек ](https://www.microsoft.com/ru-ru/microsoft-365/cost-savings)
+    * [ FastTrack и развертывание ](https://www.microsoft.com/ru-ru/fasttrack)
+    * [ Внедрение ](https://adoption.microsoft.com/microsoft-365/)
+    * [ Microsoft Learn ](https://docs.microsoft.com/ru-ru/learn/m365/)
+    * [ Блог Tech Community ](https://techcommunity.microsoft.com/t5/microsoft-365/ct-p/microsoft365)
+    * [ Центр управления безопасностью ](https://www.microsoft.com/ru-ru/trust-center)
+    * [ Истории клиентов ](https://www.microsoft.com/ru-ru/microsoft-365/customer-stories)
+    * [ WorkLab ](https://www.microsoft.com/en-us/worklab)
+
+  * [ Поддержка ](https://support.microsoft.com/ru-ru/microsoft-365)
+  * [ Блог ](https://www.microsoft.com/ru-ru/microsoft-365/blog/)
+  * Больше 
+
+  * Все продукты Microsoft 
+    *       * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365)
+      * [ Office ](https://www.microsoft.com/microsoft-365/microsoft-office)
+      * [ Windows ](https://www.microsoft.com/ru-ru/windows/)
+      * [ Xbox ](https://www.xbox.com/)
+      * [ Поддержка ](https://support.microsoft.com/ru-ru)
+    * ПО  ПО 
+      * [ Приложения для Windows ](https://www.microsoft.com/ru-ru/store/apps/windows?icid=CNavAppsWindowsApps)
+      * [ OneDrive ](https://onedrive.live.com/about/ru-ru/)
+      * [ Outlook ](https://outlook.live.com/owa/)
+      * [ Skype ](https://www.skype.com/ru/)
+      * [ OneNote ](https://www.onenote.com/?omkt=ru-RU)
+      * [ Microsoft Teams ](https://www.microsoft.com/ru-ru/microsoft-teams/free?icid=SSM_AS_Promo_Apps_MicrosoftTeams)
+    * Компьютеры и устройства  Компьютеры и устройства 
+      * [ Купите Xbox ](https://www.microsoft.com/ru-ru/store/b/xbox?icid=CNavDevicesXbox)
+      * [ Аксессуары ](https://www.microsoft.com/accessories/ru-ru)
+    * Развлечения  Развлечения 
+      * [ Xbox Game Pass Ultimate ](https://www.microsoft.com/ru-ru/p/xbox-game-pass-ultimate/cfq7ttc0khs0?WT.mc_id=CNavGamesXboxGamePassUltimate)
+      * [ Xbox Live Gold ](https://www.microsoft.com/ru-ru/p/xbox-live-gold/cfq7ttc0k5dj?WT.mc_id=CNavGamesXboxLiveGold)
+      * [ Xbox и игры ](https://www.xbox.com/ru-ru/games/xbox-one?xr=shellnav)
+      * [ Компьютерные игры ](https://www.microsoft.com/ru-ru/store/games/windows?icid=CNavGamesWindowsGames)
+      * [ Игры для Windows ](https://www.microsoft.com/ru-ru/store/games/windows?icid=TopNavWindowsGames)
+    * Для бизнеса  Для бизнеса 
+      * [ Microsoft Azure ](https://azure.microsoft.com/ru-ru/)
+      * [ Microsoft Dynamics 365 ](https://www.microsoft.com/ru-ru/dynamics365/home)
+      * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365/business/all-business)
+      * [ Microsoft Industry ](https://www.microsoft.com/ru-ru/enterprise)
+      * [ Платформа данных ](https://www.microsoft.com/ru-ru/sql-server/ )
+      * [ Power Platform ](https://powerplatform.microsoft.com/ru-ru)
+      * [ Shop Business ](https://www.microsoft.com/ru-ru/store/b/business?icid=CNavBusinessStore)
+    * Для разработчиков и ИТ  Для разработчиков и ИТ 
+      * [ .NET ](https://www.microsoft.com/net/)
+      * [ Visual Studio ](https://visualstudio.microsoft.com/)
+      * [ Windows Server ](https://www.microsoft.com/cloud-platform/windows-server)
+      * [ Разработка приложений для Windows ](https://developer.microsoft.com/ru-ru/windows)
+      * [ Документы ](https://docs.microsoft.com/ru-ru/)
+      * [ Power Apps ](https://powerapps.microsoft.com/ru-ru)
+    * Другое  Другое 
+      * [ Бесплатная загрузка и средства безопасности ](https://www.microsoft.com/ru-ru/download/default.aspx)
+      * [ Образование ](https://www.microsoft.com/ru-ru/education?icid=CNavMSCOML0_Studentsandeducation)
+      * [ лицензирование ](https://www.microsoft.com/licensing/default)
+    * [ Посмотреть карту сайта ](https://www.microsoft.com/ru-ru/sitemap.aspx)
+
+Поиск  Поиск решений Microsoft 365
+
+Отмена
+
+Войти
+
+Россия  Беларусь  Казахстан  Киргизия  Таджикистан  Туркмения  Узбекистан
+
+#  Office 365 бесплатно для всего учебного заведения
+
+Оптимизируйте совместную работу на занятиях и во всем учебном заведении с
+помощью бесплатных инструментов. Чтобы воспользоваться этим предложением, вам
+потребуется подтвердить, что вы представляете аккредитованное образовательное
+учреждение.
+
+[ Начать использовать бесплатно
+](https://go.microsoft.com/fwlink/p/?LinkID=787538&clcid=0x419&culture=ru-
+ru&country=RU)
+
+  
+
+[ Учащиеся и преподаватели регистрируются самостоятельно
+](https://go.microsoft.com/fwlink/p/?LinkID=2100038&clcid=0x419&culture=ru-
+ru&country=RU)
+
+[ Для учащихся ](/ru-ru/microsoft-365/academic/compare-office-365-education-
+plans?activetab=tab%3aprimaryr1) [ Для преподавателей и сотрудников ](/ru-
+ru/microsoft-365/academic/compare-office-365-education-
+plans?activetab=tab%3aprimaryr2)
+
+Таблица, позволяющая сравнить три плана Office 365 для учащихся.
+
+|  Office 365 A1  |  Office 365 A3  |  Office 365 A5  
+---|---|---|---  
+|  |  |  
+  
+###
+
+Office 365 A1
+
+|
+
+###
+
+Office 365 A3
+
+|
+
+###
+
+Office 365 A5  
+  
+Бесплатно
+
+\(единовременный платеж\)
+
+Office 365 A1, Бесплатно \(единовременный платеж\)
+
+|
+
+156,00 ₽  на пользователя в месяц
+
+\(подписка на год\)
+
+Office 365 A3, 156,00 ₽ на пользователя в месяц \(подписка на год\)
+
+Цена не включает налоги.
+
+|
+
+375,00 ₽  на пользователя в месяц
+
+\(подписка на год\)
+
+Office 365 A5, 375,00 ₽ на пользователя в месяц \(подписка на год\)
+
+Цена не включает налоги.  
+  
+Бесплатный Office 365 для Интернета с популярными приложениями \(Outlook,
+Word, PowerPoint, Excel, OneNote и др.\) позволяет преподавателям и учащимся
+работать вместе, свободно общаться и создавать интересный контент.
+
+|
+
+Все функции и возможности плана A1, а также классические приложения Office и
+дополнительные средства управления и безопасности.
+
+|
+
+Все функции и возможности плана A3, а также лучшие в своем классе
+интеллектуальные решения для управления безопасностью, соблюдения требований и
+аналитики от корпорации Майкрософт.  
+  
+**Приложения Office**
+
+  * __ Microsoft  Outlook 
+  * __ Microsoft  Word 
+  * __ Microsoft  Excel 
+  * __ Microsoft  PowerPoint 
+  * __ Microsoft  OneNote 
+
+|
+
+**Приложения Office**
+
+  * __ Microsoft  Outlook 
+  * __ Microsoft  Word 
+  * __ Microsoft  Excel 
+  * __ Microsoft  PowerPoint 
+  * __ Microsoft  OneNote 
+  * __ Microsoft  Publisher  \(только для ПК с Windows\) 
+  * __ Microsoft  Access  \(только для ПК\) 
+
+|
+
+**Приложения Office**
+
+  * __ Microsoft  Outlook 
+  * __ Microsoft  Word 
+  * __ Microsoft  Excel 
+  * __ Microsoft  PowerPoint 
+  * __ Microsoft  OneNote 
+  * __ Microsoft  Publisher  \(только для ПК с Windows\) 
+  * __ Microsoft  Access  \(только для ПК\) 
+
+  
+  
+**Службы**
+
+  * __ Microsoft  Exchange 
+  * __ Microsoft  OneDrive 
+  * __ Microsoft  SharePoint 
+  * __ Microsoft  Teams 
+  * __ Microsoft  Sway 
+  * __ Microsoft  Forms 
+  * __ Microsoft  Stream 
+  * __ Microsoft  Power Automate 
+  * __ Microsoft  Power Apps 
+  * __ Синхронизация сведений о школе  \(Майкрософт\) 
+  * __ Microsoft  Yammer 
+
+|
+
+**Службы**
+
+  * __ Microsoft  Exchange 
+  * __ Microsoft  OneDrive 
+  * __ Microsoft  SharePoint 
+  * __ Microsoft  Teams 
+  * __ Microsoft  Sway 
+  * __ Microsoft  Forms 
+  * __ Microsoft  Stream 
+  * __ Microsoft  Power Automate 
+  * __ Microsoft  Power Apps 
+  * __ Синхронизация сведений о школе  \(Майкрософт\) 
+  * __ Microsoft  Bookings 
+  * __ Microsoft  Yammer 
+
+|
+
+**Службы**
+
+  * __ Microsoft  Exchange 
+  * __ Microsoft  OneDrive 
+  * __ Microsoft  SharePoint 
+  * __ Microsoft  Teams 
+  * __ Microsoft  Sway 
+  * __ Microsoft  Forms 
+  * __ Microsoft  Stream 
+  * __ Microsoft  Power Automate 
+  * __ Microsoft  Power Apps 
+  * __ Синхронизация сведений о школе  \(Майкрософт\) 
+  * __ Microsoft  Bookings 
+  * __ Microsoft  Power BI 
+  * __ Microsoft  Yammer 
+
+  
+  
+Преимущества для учащихся
+
+  * Групповая работа в любимых веб-приложениях и приложениях Word, PowerPoint и Excel с функциями совместного редактирования в реальном времени, автосохранения и общего доступа. 
+  * Outlook в Интернете и почтовый ящик объемом 50 ГБ — позволяют эффективно вести переписку.  1 
+  * Microsoft Teams — цифровая платформа, позволяющая вести беседы и обмениваться звонками и предоставляющая доступ к контенту и приложениям, которые необходимы вашему учебному заведению для еще более увлеченной совместной работы. 
+  * Более высокие результаты обучения за счет встроенных специальных возможностей и средств обучения с поддержкой чтения, письма, математических выражений и взаимодействия. 
+  * OneNote — цифровая записная книжка. 
+  * Эффективное взаимодействие с помощью групп "Класс" и записных книжек OneNote. 
+  * Forms для получения аутентичных оценок. 
+  * Sway для создания сюжетов в цифровом формате. 
+  * Персональное облачное хранилище неограниченного объема.  2 
+
+|
+
+Все преимущества плана A1 для учащихся, а также:
+
+  * Установка классических приложений Office на пять компьютеров Windows или Mac для каждого пользователя.  3 
+  * Установка приложений Office на пять планшетов и пять телефонов для каждого пользователя.  4 
+
+|
+
+Включает все преимущества плана A3 для учащихся.  
+  
+Для просмотра других планов проводите пальцем по экрану
+
+  * ### 
+
+Office 365 A1
+
+Бесплатно
+
+\(без обязательств\)
+
+Office 365 A1, Бесплатно \(без обязательств\)
+
+Бесплатный Office 365 для Интернета с популярными приложениями \(Outlook,
+Word, PowerPoint, Excel, OneNote и др.\) позволяет преподавателям и учащимся
+работать вместе, свободно общаться и создавать интересный контент.
+
+**Приложения Office**
+
+    * __ Microsoft  Outlook 
+    * __ Microsoft  Word 
+    * __ Microsoft  Excel 
+    * __ Microsoft  PowerPoint 
+    * __ Microsoft  OneNote 
+    * **Службы**
+
+    * __ Microsoft  Exchange 
+    * __ Microsoft  OneDrive 
+    * __ Microsoft  SharePoint 
+    * __ Microsoft  Teams 
+    * __ Microsoft  Sway 
+    * __ Microsoft  Forms 
+    * __ Microsoft  Stream 
+    * __ Microsoft  Power Automate 
+    * __ Microsoft  Power Apps 
+    * __ Синхронизация сведений о школе  \(Майкрософт\) 
+    * __ Microsoft  Yammer 
+    * Преимущества для учащихся 
+
+    * Групповая работа в любимых веб-приложениях и приложениях Word, PowerPoint и Excel с функциями совместного редактирования в реальном времени, автосохранения и общего доступа. 
+    * Outlook в Интернете и почтовый ящик объемом 50 ГБ — позволяют эффективно вести переписку.  1 
+    * Microsoft Teams — цифровая платформа, позволяющая вести беседы и обмениваться звонками и предоставляющая доступ к контенту и приложениям, которые необходимы вашему учебному заведению для еще более увлеченной совместной работы. 
+    * Более высокие результаты обучения за счет встроенных специальных возможностей и средств обучения с поддержкой чтения, письма, математических выражений и взаимодействия. 
+    * OneNote — цифровая записная книжка. 
+    * Эффективное взаимодействие с помощью групп "Класс" и записных книжек OneNote. 
+    * Forms для получения аутентичных оценок. 
+    * Sway для создания сюжетов в цифровом формате. 
+    * Персональное облачное хранилище неограниченного объема.  2 
+
+  * ### 
+
+Office 365 A3
+
+156,00 ₽  на пользователя в месяц
+
+\(подписка на год\)
+
+Office 365 A3, 156,00 ₽ на пользователя в месяц \(подписка на год\)
+
+Цена не включает налоги.
+
+Все функции и возможности плана A1, а также классические приложения Office и
+дополнительные средства управления и безопасности.
+
+**Приложения Office**
+
+    * __ Microsoft  Outlook 
+    * __ Microsoft  Word 
+    * __ Microsoft  Excel 
+    * __ Microsoft  PowerPoint 
+    * __ Microsoft  OneNote 
+    * __ Microsoft  Publisher  \(только для ПК с Windows\) 
+    * __ Microsoft  Access  \(только для ПК\) 
+    * **Службы**
+
+    * __ Microsoft  Exchange 
+    * __ Microsoft  OneDrive 
+    * __ Microsoft  SharePoint 
+    * __ Microsoft  Teams 
+    * __ Microsoft  Sway 
+    * __ Microsoft  Forms 
+    * __ Microsoft  Stream 
+    * __ Microsoft  Power Automate 
+    * __ Microsoft  Power Apps 
+    * __ Синхронизация сведений о школе  \(Майкрософт\) 
+    * __ Microsoft  Bookings 
+    * __ Microsoft  Yammer 
+    * Все преимущества плана A1 для учащихся, а также: 
+
+    * Установка классических приложений Office на пять компьютеров Windows или Mac для каждого пользователя.  3 
+    * Установка приложений Office на пять планшетов и пять телефонов для каждого пользователя.  4 
+
+  * ### 
+
+Office 365 A5
+
+375,00 ₽  на пользователя в месяц
+
+\(подписка на год\)
+
+Office 365 A5, 375,00 ₽ на пользователя в месяц \(подписка на год\)
+
+Цена не включает налоги.
+
+Все функции и возможности плана A3, а также лучшие в своем классе
+интеллектуальные решения для управления безопасностью, соблюдения требований и
+аналитики от корпорации Майкрософт.
+
+**Приложения Office**
+
+    * __ Microsoft  Outlook 
+    * __ Microsoft  Word 
+    * __ Microsoft  Excel 
+    * __ Microsoft  PowerPoint 
+    * __ Microsoft  OneNote 
+    * __ Microsoft  Publisher  \(только для ПК с Windows\) 
+    * __ Microsoft  Access  \(только для ПК\) 
+    * **Службы**
+
+    * __ Microsoft  Exchange 
+    * __ Microsoft  OneDrive 
+    * __ Microsoft  SharePoint 
+    * __ Microsoft  Teams 
+    * __ Microsoft  Sway 
+    * __ Microsoft  Forms 
+    * __ Microsoft  Stream 
+    * __ Microsoft  Power Automate 
+    * __ Microsoft  Power Apps 
+    * __ Синхронизация сведений о школе  \(Майкрософт\) 
+    * __ Microsoft  Bookings 
+    * __ Microsoft  Power BI 
+    * __ Microsoft  Yammer 
+    * Включает все преимущества плана A3 для учащихся. 
+
+Таблица, позволяющая сравнить три плана Office 365 для преподавателей и
+сотрудников.
+
+|  Office 365 A1  |  Office 365 A3  |  Office 365 A5  
+---|---|---|---  
+|  |  |  
+  
+###
+
+Office 365 A1
+
+|
+
+###
+
+Office 365 A3
+
+|
+
+###
+
+Office 365 A5  
+  
+Бесплатно
+
+\(единовременный платеж\)
+
+Office 365 A1, Бесплатно \(единовременный платеж\)
+
+|
+
+203,00 ₽  на пользователя в месяц
+
+\(подписка на год\)
+
+Office 365 A3, 203,00 ₽ на пользователя в месяц \(подписка на год\)
+
+Цена не включает налоги.
+
+|
+
+500,00 ₽  на пользователя в месяц
+
+\(подписка на год\)
+
+Office 365 A5, 500,00 ₽ на пользователя в месяц \(подписка на год\)
+
+Цена не включает налоги.  
+  
+Бесплатный Office 365 для Интернета с популярными веб-приложениями \(Outlook,
+Word, PowerPoint, Excel, OneNote и др.\) позволяет преподавателям и учащимся
+работать вместе, свободно общаться и создавать интересный контент.
+
+|
+
+Все функции и возможности плана A1, а также классические приложения Office и
+дополнительные средства управления и безопасности.
+
+|
+
+Все функции и возможности плана A3, а также лучшие в своем классе
+интеллектуальные решения для управления безопасностью, соблюдения требований и
+аналитики от корпорации Майкрософт.  
+  
+**Приложения Office**
+
+  * __ Microsoft  Outlook 
+  * __ Microsoft  Word 
+  * __ Microsoft  Excel 
+  * __ Microsoft  PowerPoint 
+  * __ Microsoft  OneNote 
+
+|
+
+**Приложения Office**
+
+  * __ Microsoft  Outlook 
+  * __ Microsoft  Word 
+  * __ Microsoft  Excel 
+  * __ Microsoft  PowerPoint 
+  * __ Microsoft  OneNote 
+  * __ Microsoft  Publisher  \(только для ПК с Windows\) 
+  * __ Microsoft  Access  \(только для ПК\) 
+
+|
+
+**Приложения Office**
+
+  * __ Microsoft  Outlook 
+  * __ Microsoft  Word 
+  * __ Microsoft  Excel 
+  * __ Microsoft  PowerPoint 
+  * __ Microsoft  OneNote 
+  * __ Microsoft  Publisher  \(только для ПК с Windows\) 
+  * __ Microsoft  Access  \(только для ПК\) 
+
+  
+  
+**Службы**
+
+  * __ Microsoft  Exchange 
+  * __ Microsoft  OneDrive 
+  * __ Microsoft  SharePoint 
+  * __ Microsoft  Teams 
+  * __ Microsoft  Sway 
+  * __ Microsoft  Forms 
+  * __ Microsoft  Stream 
+  * __ Microsoft  Power Automate 
+  * __ Microsoft  Power Apps 
+  * __ Синхронизация сведений о школе  \(Майкрософт\) 
+  * __ Microsoft  Yammer 
+
+|
+
+**Службы**
+
+  * __ Microsoft  Exchange 
+  * __ Microsoft  OneDrive 
+  * __ Microsoft  SharePoint 
+  * __ Microsoft  Teams 
+  * __ Microsoft  Sway 
+  * __ Microsoft  Forms 
+  * __ Microsoft  Stream 
+  * __ Microsoft  Power Automate 
+  * __ Microsoft  Power Apps 
+  * __ Синхронизация сведений о школе  \(Майкрософт\) 
+  * __ Microsoft  Bookings 
+  * __ Microsoft  Yammer 
+
+|
+
+**Службы**
+
+  * __ Microsoft  Exchange 
+  * __ Microsoft  OneDrive 
+  * __ Microsoft  SharePoint 
+  * __ Microsoft  Teams 
+  * __ Microsoft  Sway 
+  * __ Microsoft  Forms 
+  * __ Microsoft  Stream 
+  * __ Microsoft  Power Automate 
+  * __ Microsoft  Power Apps 
+  * __ Синхронизация сведений о школе  \(Майкрософт\) 
+  * __ Microsoft  Bookings 
+  * __ Microsoft  Power BI 
+  * __ Microsoft  Yammer 
+
+  
+  
+Преимущества для преподавателей
+
+  * Групповая работа в любимых веб-приложениях и приложениях Word, PowerPoint и Excel с функциями совместного редактирования в реальном времени, автосохранения и общего доступа. 
+  * Outlook в Интернете и почтовый ящик объемом 50 ГБ — позволяют эффективно вести переписку.  1 
+  * Microsoft Teams — цифровая платформа, позволяющая вести беседы и обмениваться звонками и предоставляющая доступ к контенту и приложениям, которые необходимы вашему учебному заведению для еще более увлеченной совместной работы. 
+  * Более высокие результаты обучения за счет встроенных специальных возможностей и средств обучения с поддержкой чтения, письма, математических выражений и взаимодействия. 
+  * OneNote — цифровая записная книжка. 
+  * Группы "Класс", "Сотрудники", "Профессиональное учебное сообщество" \(PLC\) и записные книжки OneNote для взаимодействия с коллегами. 
+  * Forms для проведения и получения аутентичных оценок. 
+  * Sway для создания сюжетов в цифровом формате. 
+  * Персональное облачное хранилище неограниченного объема.  2 
+
+Преимущества для преподавателей и сотрудников
+
+  * SharePoint — информирование и мотивирование персонала с помощью интрасети, информационных сайтов и сайтов групп. 
+  * Соблюдение нормативных требований благодаря решениям из единого центра обнаружения электронных данных. 
+  * Обеспечение безопасности систем за счет управления правами, защиты от потери данных и шифрования. 
+  * Корпоративная видеослужба для создания видеороликов, управления ими и безопасной публикации в рамках учебного заведения. 
+  * Разработка собственных мобильных и веб-приложений с расширенными возможностями для работы с бизнес-данными без написания программного кода. 
+  * Автоматизация рабочих бизнес-процессов в приложениях и службах без написания программного кода. 
+  * Комфортное общение с помощью видеоконференций в высоком разрешении. 
+  * Безлимитное хранилище для электронной почты с функцией архивации на месте. 
+  * Расширенные возможности электронной почты, в том числе функции архивации и удержания по юридическим причинам. 
+  * Неограниченное число пользователей. 
+
+  
+
+|
+
+Все преимущества плана A1 для преподавателей, а также:
+
+  * Установка классических приложений Office на пять компьютеров Windows или Mac для каждого пользователя.  3 
+  * Установка приложений Office на пять планшетов и пять телефонов для каждого пользователя.  4 
+
+Все преимущества плана A1 для преподавателей и сотрудников, а также:
+
+  * Трансляции в Microsoft Teams с возможностью подключения до 10 000 человек. 
+  * Оценка рисков и анализ потенциальных угроз с помощью Office 365 Cloud App Security. 
+  * Служба Microsoft Bookings, с помощью которой учащиеся, их родители и опекуны могут договариваться о встречах с преподавателями через Интернет. 
+  * Расширенная личная аналитика в MyAnalytics. 
+
+|
+
+Включает все преимущества плана A3 для преподавателей.
+
+Включает все преимущества плана A3 для административных работников, а также:
+
+  * Защищенное хранилище — контроль за доступом представителей службы поддержки к вашему почтовому ящику. 
+  * Защита от самых сложных угроз, включая фишинг и вредоносные программы нулевого дня, а также автоматический анализ атак и восстановление работоспособности. 
+  * MyAnalytics и Power BI Pro — расширенная аналитика персональных и корпоративных данных. 
+  * Более эффективные инструменты для наблюдения и контроля за средой Office 365. 
+  * Аудиоконференции позволяют участникам подключаться к собраниям с помощью звонка на телефонный номер.  5 
+  * Тарифный план — возможность совершать, принимать и передавать вызовы с использованием различных устройств  5  . [ Подробнее ](https://go.microsoft.com/fwlink/p/?linkid=2081843) . 
+  * Установка приложений Office на пять компьютеров Windows или Mac для каждого пользователя.  3 
+  * Установка приложений Office на пять планшетов и пять телефонов для каждого пользователя.  4 
+  * Microsoft Teams — приложение для управления расписаниями и координации повседневных задач. 
+  * Электронная почта с почтовым ящиком объемом 100 ГБ.  1 
+  * Персональное облачное хранилище неограниченного объема.  2 
+
+  
+  
+Для просмотра других планов проводите пальцем по экрану
+
+  * ### 
+
+Office 365 A1
+
+Бесплатно
+
+\(без обязательств\)
+
+Office 365 A1, Бесплатно \(без обязательств\)
+
+Бесплатный Office 365 для Интернета с популярными веб-приложениями \(Outlook,
+Word, PowerPoint, Excel, OneNote и др.\) позволяет преподавателям и учащимся
+работать вместе, свободно общаться и создавать интересный контент.
+
+**Приложения Office**
+
+    * __ Microsoft  Outlook 
+    * __ Microsoft  Word 
+    * __ Microsoft  Excel 
+    * __ Microsoft  PowerPoint 
+    * __ Microsoft  OneNote 
+    * **Службы**
+
+    * __ Microsoft  Exchange 
+    * __ Microsoft  OneDrive 
+    * __ Microsoft  SharePoint 
+    * __ Microsoft  Teams 
+    * __ Microsoft  Sway 
+    * __ Microsoft  Forms 
+    * __ Microsoft  Stream 
+    * __ Microsoft  Power Automate 
+    * __ Microsoft  Power Apps 
+    * __ Синхронизация сведений о школе  \(Майкрософт\) 
+    * __ Microsoft  Yammer 
+    * Преимущества для преподавателей 
+
+    * Групповая работа в любимых веб-приложениях и приложениях Word, PowerPoint и Excel с функциями совместного редактирования в реальном времени, автосохранения и общего доступа. 
+    * Outlook в Интернете и почтовый ящик объемом 50 ГБ — позволяют эффективно вести переписку.  1 
+    * Microsoft Teams — цифровая платформа, позволяющая вести беседы и обмениваться звонками и предоставляющая доступ к контенту и приложениям, которые необходимы вашему учебному заведению для еще более увлеченной совместной работы. 
+    * Более высокие результаты обучения за счет встроенных специальных возможностей и средств обучения с поддержкой чтения, письма, математических выражений и взаимодействия. 
+    * OneNote — цифровая записная книжка. 
+    * Группы "Класс", "Сотрудники", "Профессиональное учебное сообщество" \(PLC\) и записные книжки OneNote для взаимодействия с коллегами. 
+    * Forms для проведения и получения аутентичных оценок. 
+    * Sway для создания сюжетов в цифровом формате. 
+    * Персональное облачное хранилище неограниченного объема.  2 
+
+Преимущества для преподавателей и сотрудников
+
+    * SharePoint — информирование и мотивирование персонала с помощью интрасети, информационных сайтов и сайтов групп. 
+    * Соблюдение нормативных требований благодаря решениям из единого центра обнаружения электронных данных. 
+    * Обеспечение безопасности систем за счет управления правами, защиты от потери данных и шифрования. 
+    * Корпоративная видеослужба для создания видеороликов, управления ими и безопасной публикации в рамках учебного заведения. 
+    * Разработка собственных мобильных и веб-приложений с расширенными возможностями для работы с бизнес-данными без написания программного кода. 
+    * Автоматизация рабочих бизнес-процессов в приложениях и службах без написания программного кода. 
+    * Комфортное общение с помощью видеоконференций в высоком разрешении. 
+    * Безлимитное хранилище для электронной почты с функцией архивации на месте. 
+    * Расширенные возможности электронной почты, в том числе функции архивации и удержания по юридическим причинам. 
+    * Неограниченное число пользователей. 
+
+  
+
+  * ### 
+
+Office 365 A3
+
+203,00 ₽  на пользователя в месяц
+
+\(подписка на год\)
+
+Office 365 A3, 203,00 ₽ на пользователя в месяц \(подписка на год\)
+
+Цена не включает налоги.
+
+Все функции и возможности плана A1, а также классические приложения Office и
+дополнительные средства управления и безопасности.
+
+**Приложения Office**
+
+    * __ Microsoft  Outlook 
+    * __ Microsoft  Word 
+    * __ Microsoft  Excel 
+    * __ Microsoft  PowerPoint 
+    * __ Microsoft  OneNote 
+    * __ Microsoft  Publisher  \(только для ПК с Windows\) 
+    * __ Microsoft  Access  \(только для ПК\) 
+    * **Службы**
+
+    * __ Microsoft  Exchange 
+    * __ Microsoft  OneDrive 
+    * __ Microsoft  SharePoint 
+    * __ Microsoft  Teams 
+    * __ Microsoft  Sway 
+    * __ Microsoft  Forms 
+    * __ Microsoft  Stream 
+    * __ Microsoft  Power Automate 
+    * __ Microsoft  Power Apps 
+    * __ Синхронизация сведений о школе  \(Майкрософт\) 
+    * __ Microsoft  Bookings 
+    * __ Microsoft  Yammer 
+    * Все преимущества плана A1 для преподавателей, а также: 
+
+    * Установка классических приложений Office на пять компьютеров Windows или Mac для каждого пользователя.  3 
+    * Установка приложений Office на пять планшетов и пять телефонов для каждого пользователя.  4 
+
+Все преимущества плана A1 для преподавателей и сотрудников, а также:
+
+    * Трансляции в Microsoft Teams с возможностью подключения до 10 000 человек. 
+    * Оценка рисков и анализ потенциальных угроз с помощью Office 365 Cloud App Security. 
+    * Служба Microsoft Bookings, с помощью которой учащиеся, их родители и опекуны могут договариваться о встречах с преподавателями через Интернет. 
+    * Расширенная личная аналитика в MyAnalytics. 
+
+  * ### 
+
+Office 365 A5
+
+500,00 ₽  на пользователя в месяц
+
+\(подписка на год\)
+
+Office 365 A5, 500,00 ₽ на пользователя в месяц \(подписка на год\)
+
+Цена не включает налоги.
+
+Все функции и возможности плана A3, а также лучшие в своем классе
+интеллектуальные решения для управления безопасностью, соблюдения требований и
+аналитики от корпорации Майкрософт.
+
+**Приложения Office**
+
+    * __ Microsoft  Outlook 
+    * __ Microsoft  Word 
+    * __ Microsoft  Excel 
+    * __ Microsoft  PowerPoint 
+    * __ Microsoft  OneNote 
+    * __ Microsoft  Publisher  \(только для ПК с Windows\) 
+    * __ Microsoft  Access  \(только для ПК\) 
+    * **Службы**
+
+    * __ Microsoft  Exchange 
+    * __ Microsoft  OneDrive 
+    * __ Microsoft  SharePoint 
+    * __ Microsoft  Teams 
+    * __ Microsoft  Sway 
+    * __ Microsoft  Forms 
+    * __ Microsoft  Stream 
+    * __ Microsoft  Power Automate 
+    * __ Microsoft  Power Apps 
+    * __ Синхронизация сведений о школе  \(Майкрософт\) 
+    * __ Microsoft  Bookings 
+    * __ Microsoft  Power BI 
+    * __ Microsoft  Yammer 
+    * Включает все преимущества плана A3 для преподавателей. 
+
+Включает все преимущества плана A3 для административных работников, а также:
+
+    * Защищенное хранилище — контроль за доступом представителей службы поддержки к вашему почтовому ящику. 
+    * Защита от самых сложных угроз, включая фишинг и вредоносные программы нулевого дня, а также автоматический анализ атак и восстановление работоспособности. 
+    * MyAnalytics и Power BI Pro — расширенная аналитика персональных и корпоративных данных. 
+    * Более эффективные инструменты для наблюдения и контроля за средой Office 365. 
+    * Аудиоконференции позволяют участникам подключаться к собраниям с помощью звонка на телефонный номер.  5 
+    * Тарифный план — возможность совершать, принимать и передавать вызовы с использованием различных устройств  5  . [ Подробнее ](https://go.microsoft.com/fwlink/p/?linkid=2081843) . 
+    * Установка приложений Office на пять компьютеров Windows или Mac для каждого пользователя.  3 
+    * Установка приложений Office на пять планшетов и пять телефонов для каждого пользователя.  4 
+    * Microsoft Teams — приложение для управления расписаниями и координации повседневных задач. 
+    * Электронная почта с почтовым ящиком объемом 100 ГБ.  1 
+    * Персональное облачное хранилище неограниченного объема.  2 
+
+1\. **Пользователи подписок, которые не включают в себя классическую версию
+Office,** могут работать со своей корпоративной почтой с помощью следующих
+версий клиентского приложения Outlook, поддерживающего широкий набор хорошо
+знакомых возможностей и функций: последняя версия Outlook, Outlook 2013 и
+Outlook 2011 для Mac. Предыдущие версии Outlook, такие как Outlook 2010 и
+Outlook 2007, могут работать со службами Office 365 с некоторыми
+функциональными ограничениями. Совместимость с Outlook не поддерживается для
+базовой подписки на Exchange Online и плана Office 365 K1.
+
+2\. Безлимитное личное облачное хранилище предоставляется в рамках
+определенных планов для подписок на пять и более пользователей. В остальных
+случаях объем хранилища составляет 1 ТБ на пользователя. Изначально корпорация
+Майкрософт предоставляет каждому пользователю OneDrive для бизнеса по 1 ТБ
+места, но эту квоту можно увеличить до 5 ТБ на пользователя, обратившись в
+службу поддержки Майкрософт. Объемы до 25 ТБ на пользователя выделяются в
+рамках OneDrive для бизнеса. Если пользователю нужно больше, то в качестве
+хранилища предоставляются сайты групп SharePoint размером 25 ТБ.
+
+Клиент синхронизации OneDrive для бизнеса доступен в составе Office 2016 или в
+рамках подписки на Office 365, которая включает приложения Office 2016. Если у
+вас нет Office 2016, можно [ бесплатно скачать
+](https://go.microsoft.com/fwlink/p/?LinkID=321300) клиент синхронизации
+OneDrive для бизнеса.
+
+3\. **Publisher и Access:** только клиентские приложения и/или функции для
+компьютеров с Windows, которые не могут использоваться на других устройствах.
+
+Большинство планов, не включающих классические приложения Office, работают с
+последней версией Office, Office 2013 и Office 2011 для Mac. Предыдущие версии
+Office, такие как Office 2010 и Office 2007, работают со службами Office 365 с
+некоторыми функциональными ограничениями. Совместимость с Office не
+поддерживается для базовой подписки на Exchange Online и плана Office 365 F3.
+
+4\. Подробнее о [ мобильных приложениях Microsoft 365 для бизнеса
+](https://www.microsoft.com/ru-ru/microsoft-365/business/mobile-productivity)
+. Ознакомьтесь со [ списком устройств и приложений
+](https://go.microsoft.com/fwlink/p/?LinkID=524873) .
+
+5\. 1. Аудиоконференции и тарифные планы доступны не во всех регионах.
+Ознакомьтесь с текущим списком [ стран и регионов
+](https://go.microsoft.com/fwlink/p/?LinkID=839556) .
+
+* * *
+
+Следите за новостями Microsoft 365
+
+  * [ ![Логотип LinkedIn](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/30de2af0/office.testdrive/images/social/LinkedIn.png) ![Логотип LinkedIn](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/e9682e51/office.testdrive/images/social/LinkedIn-high-contrast.png) ](https://go.microsoft.com/fwlink/?linkid=2144764)
+  * [ ![Логотип Twitter](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/10609c90/office.testdrive/images/social/Twitter.png) ![Логотип Twitter](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/6edf9aa7/office.testdrive/images/social/Twitter-high-contrast.png) ](https://go.microsoft.com/fwlink/p/?LinkId=2000804)
+  * [ ![Логотип Blog](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/f3229d48/office.testdrive/images/social/Blog.png) ![Логотип Blog](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/fa9a23e2/office.testdrive/images/social/Blog-high-contrast.png) ](https://go.microsoft.com/fwlink/p/?LinkID=2000803)
+  * [ ![Логотип VKontakte](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/881f11de/office.testdrive/images/social/VKontakte.png) ](https://vk.com/officerussia)
+
+Что нового?
+
+  * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365)
+  * [ Приложения Windows 10 ](https://www.microsoft.com/ru-ru/windows/windows-10-apps)
+
+Microsoft Store
+
+  * [ Профиль учетной записи ](https://account.microsoft.com/)
+  * [ Центр загрузки ](https://www.microsoft.com/ru-ru/download)
+  * [ Поддержка Microsoft Store ](https://go.microsoft.com/fwlink/?linkid=2139749)
+  * [ Возврат товаров ](https://go.microsoft.com/fwlink/p/?LinkID=824764&clcid=0x419)
+  * [ Отслеживание заказа ](https://account.microsoft.com/orders)
+
+Для образования
+
+  * [ Майкрософт и образование ](https://www.microsoft.com/ru-ru/education)
+  * [ Office для учащихся ](https://www.microsoft.com/ru-ru/education/products/office/default.aspx)
+  * [ Office 365 для школ ](https://products.office.com/ru-ru/academic/compare-office-365-education-plans)
+  * [ Специальные предложения для учащихся и родителей ](https://www.microsoft.com/ru-ru/store/b/student?icid=CNavfooter_Studentsandeducation)
+  * [ Microsoft Azure и образование ](https://azure.microsoft.com/ru-ru/community/education/)
+
+Для крупных предприятий
+
+  * [ Azure ](https://azure.microsoft.com/)
+  * [ AppSource ](https://go.microsoft.com/fwlink/?LinkID=808093)
+  * [ Автопромышленность ](https://www.microsoft.com/enterprise/automotive)
+  * [ Государственные учреждения ](https://www.microsoft.com/enterprise/government)
+  * [ Здравоохранение ](https://www.microsoft.com/enterprise/health)
+  * [ Промышленное производство ](https://www.microsoft.com/enterprise/manufacturing)
+  * [ Финансовые услуги ](https://www.microsoft.com/enterprise/financial-services/banking-and-capital-markets)
+  * [ Торговля ](https://www.microsoft.com/enterprise/retail-consumer-goods)
+
+Для разработчиков
+
+  * [ Microsoft Visual Studio ](https://visualstudio.microsoft.com/)
+  * [ Центр разработчиков Windows ](https://developer.microsoft.com/ru-ru/windows)
+  * [ Центр разработчиков ](https://developer.microsoft.com/)
+  * [ Программа Майкрософт для разработчиков ](https://developer.microsoft.com/ru-ru/store/register)
+  * [ Channel 9 ](https://channel9.msdn.com/)
+  * [ Центр разработчиков Office ](https://developer.microsoft.com/ru-ru/office)
+
+Компания
+
+  * [ Вакансии ](https://careers.microsoft.com/)
+  * [ О корпорации Майкрософт ](https://www.microsoft.com/ru-ru/about)
+  * [ Новости компании ](https://news.microsoft.com/ru-ru)
+  * [ Политика конфиденциальности Майкрософт ](https://privacy.microsoft.com/ru-ru)
+  * [ Инвесторы ](https://www.microsoft.com/investor/default.aspx)
+  * [ Безопасность ](https://www.microsoft.com/ru-ru/security/default.aspx)
+
+[ Русский \(Россия\) ](https://www.microsoft.com/ru-
+RU/microsoft-365/locale?absoluteReturnUrl=https%3a%2f%2fwww.microsoft.com%2fru-
+ru%2fmicrosoft-365%2facademic%2fcompare-office-365-education-plans)
+
+  * [ Связаться с Microsoft ](https://support.microsoft.com/contactus)
+  * [ Конфиденциальность ](https://go.microsoft.com/fwlink/?LinkId=521839)
+  * Управление файлами cookie 
+  * [ Условия использования ](https://go.microsoft.com/fwlink/?LinkID=206977)
+  * [ Товарные знаки ](https://www.microsoft.com/trademarks)
+  * [ Сведения о рекламе ](https://choice.microsoft.com/)
+  * © Microsoft 2021 
+

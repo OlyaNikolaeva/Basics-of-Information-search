@@ -1,0 +1,911 @@
+![](https://web.vortex.data.microsoft.com:443/collect/v1/t.gif?&name=%27Ms.Webi.PageView%27&ver=%272.1%27&appId=%27JS%3AUniStore%27&cV=%279l8g4Bl1MECDGkGo.0%27&ext-
+app-env=%27onerf_prod%27&ext-javascript-libver=%274.0.0-beta-10%27&ext-user-
+localId=%27t%3A398BFA0A51136D0603DDEA1F503B6C78%27&*baseType=%27Ms.Content.PageView%27&*isJs=True&*isLoggedIn=False&*isManual=True&*serverImpressionGuid=%2778c5c2d3-e766-4f31-a626-b19ead40b3de%27&-ver=%271.0%27&-impressionGuid=%2700000000-0000-0000-0000-000000000000%27&-pageName=%27Xbox%20Live%20Gold%27&-uri=%27https%3A%2F%2Fwww.microsoft.com%2Fru-
+ru%2Fp%2Fxbox-live-
+gold%2Fcfq7ttc0k5dj%3FWT.mc_id%3DCNavGamesXboxLiveGold%27&-pageType=%27PDP%20Subscriptions%20Tabs%27&-pageTags=%27%7B%22tasId%22%3A%2278c5c2d3-e766-4f31-a626-b19ead40b3de%22%2C%22tasMuid%22%3A%22398BFA0A51136D0603DDEA1F503B6C78%22%2C%22browserGroup%22%3A%22uplevel.web.pc%22%2C%22isOneRf%22%3A%22True%22%7D%27&-behavior=0&-market=%27ru-
+ru%27)
+
+[ Перейти к основному контенту ](javascript:void\(0\))
+
+[ ![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE1MmB8?ver=6c43g) Microsoft
+](https://www.microsoft.com)
+
+Домашняя страница
+
+[ Домашняя страница  ](https://www.microsoft.com/ru-ru/store/b/home)
+
+Домашняя страница
+
+  * [ Главная ](https://www.microsoft.com/ru-ru/store/b/home)
+  * [ Xbox ](https://www.microsoft.com/ru-ru/store/b/xbox?icid=CNavDevicesXbox)
+  * Программы 
+    * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products)
+    * [ Office ](https://www.microsoft.com/microsoft-365/office-365)
+    * [ Windows ](https://www.microsoft.com/ru-ru/store/b/windows?icid=CNavSoftwareWindows)
+    * [ Профессиональное ПО ](https://www.microsoft.com/ru-ru/store/b/software?icid=CNavSoftware)
+    * [ Приложения для Windows ](https://www.microsoft.com/ru-ru/store/apps/windows?icid=CNavAppsWindowsApps)
+    * [ Приложения для Windows Phone ](https://www.microsoft.com/ru-ru/store/apps/windows-phone?icid=CNavAppsWindowsPhoneApps)
+
+  * Игры 
+    * [ Игры для Xbox ](https://www.microsoft.com/ru-ru/store/top-paid/games/xbox?icid=CatNavXboxGames)
+    * [ Игры для Windows ](https://www.microsoft.com/ru-ru/store/games/windows?icid=CNavGamesWindowsGames)
+    * [ Игры для Windows Phone ](https://www.microsoft.com/ru-ru/store/games/windows-phone?icid=CNavGamesWindowsPhoneGames)
+
+  * [ Решения для бизнеса ](https://www.microsoft.com/ru-ru/store/b/business?icid=CNavBusinessStore)
+  * Больше 
+
+  * Все продукты Microsoft 
+    *       * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365)
+      * [ Office ](https://www.microsoft.com/microsoft-365/microsoft-office)
+      * [ Windows ](https://www.microsoft.com/ru-ru/windows/)
+      * [ Xbox ](https://www.xbox.com/)
+      * [ Поддержка ](https://support.microsoft.com/ru-ru)
+    * ПО 
+      * [ Приложения для Windows ](https://www.microsoft.com/ru-ru/store/apps/windows?icid=CNavAppsWindowsApps)
+      * [ OneDrive ](https://onedrive.live.com/about/ru-ru/)
+      * [ Outlook ](https://outlook.live.com/owa/)
+      * [ Skype ](https://www.skype.com/ru/)
+      * [ OneNote ](https://www.onenote.com/?omkt=ru-RU)
+      * [ Microsoft Teams ](https://www.microsoft.com/ru-ru/microsoft-teams/free?icid=SSM_AS_Promo_Apps_MicrosoftTeams)
+    * Компьютеры и устройства 
+      * [ Купите Xbox ](https://www.microsoft.com/ru-ru/store/b/xbox?icid=CNavDevicesXbox)
+      * [ Аксессуары ](https://www.microsoft.com/accessories/ru-ru)
+    * Развлечения 
+      * [ Xbox Game Pass Ultimate ](https://www.microsoft.com/ru-ru/p/xbox-game-pass-ultimate/cfq7ttc0khs0?WT.mc_id=CNavGamesXboxGamePassUltimate)
+      * [ Xbox Live Gold ](https://www.microsoft.com/ru-ru/p/xbox-live-gold/cfq7ttc0k5dj?WT.mc_id=CNavGamesXboxLiveGold)
+      * [ Xbox и игры ](https://www.xbox.com/ru-ru/games/xbox-one?xr=shellnav)
+      * [ Компьютерные игры ](https://www.microsoft.com/ru-ru/store/games/windows?icid=CNavGamesWindowsGames)
+      * [ Игры для Windows ](https://www.microsoft.com/ru-ru/store/games/windows?icid=TopNavWindowsGames)
+    * Для бизнеса 
+      * [ Microsoft Azure ](https://azure.microsoft.com/ru-ru/)
+      * [ Microsoft Dynamics 365 ](https://www.microsoft.com/ru-ru/dynamics365/home)
+      * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365/business/all-business)
+      * [ Microsoft Industry ](https://www.microsoft.com/ru-ru/enterprise)
+      * [ Платформа данных ](https://www.microsoft.com/ru-ru/sql-server/ )
+      * [ Power Platform ](https://powerplatform.microsoft.com/ru-ru)
+      * [ Shop Business ](https://www.microsoft.com/ru-ru/store/b/business?icid=CNavBusinessStore)
+    * Для разработчиков и ИТ 
+      * [ .NET ](https://www.microsoft.com/net/)
+      * [ Visual Studio ](https://visualstudio.microsoft.com/)
+      * [ Windows Server ](https://www.microsoft.com/cloud-platform/windows-server)
+      * [ Разработка приложений для Windows ](https://developer.microsoft.com/ru-ru/windows)
+      * [ Документы ](https://docs.microsoft.com/ru-ru/)
+      * [ Power Apps ](https://powerapps.microsoft.com/ru-ru)
+    * Другое 
+      * [ Бесплатная загрузка и средства безопасности ](https://www.microsoft.com/ru-ru/download/default.aspx)
+      * [ Образование ](https://www.microsoft.com/ru-ru/education?icid=CNavMSCOML0_Studentsandeducation)
+      * [ лицензирование ](https://www.microsoft.com/licensing/default)
+    * [ Посмотреть карту сайта ](https://www.microsoft.com/ru-ru/sitemap.aspx)
+
+Поиск  Поиск на Microsoft.com
+
+Отмена  [ 0  Корзина  0 товары в корзине  ](https://www.microsoft.com/ru-
+ru/store/buy)
+
+Войти
+
+![](https://compass-
+ssl.xboxlive.com/assets/e1/4a/e14aa291-61a4-4333-a789-ba53a3f29fc7.png?n=XboxLiveProdImage_720x1080.png)
+
+#  Xbox Live Gold
+
+Корпорация Майкрософт
+
+Играйте в сети со статусом Gold. На консоли Xbox лучше играется, если у вас
+Xbox Live Gold. \(Подписка продолжается автоматически по обычной цене.\)
+Присоединяйтесь к самому лучшему сообществу игроков в наиболее быстрой и
+надежной сети для консольных игр. Без промедления находите людей, с которыми
+будет приятно играть, с помощью функций "Клубы" и "Поиск группы". Получайте
+ежемесячно от 2 до 4 бесплатных игр и пользуйтесь скидками в размере 50-75%
+для покупок в Store на Xbox One. ​ После окончания любого рекламного периода
+подписка предлагается по обычной цене \(плюс применимые налоги, возможны
+изменения\), пока она не будет отменена в учетной записи Майкрософт. Обо всех
+изменениях цены вы будете уведомлены заранее. См. положения и сведения о Xbox
+Live Gold в следующем описании продукта.
+
+Продукт Xbox Live Gold сейчас недоступен.
+
+Активировать код
+
+Требуется учетная запись Microsoft и профиль Xbox. [ Зарегистрируйтесь здесь.
+](http://go.microsoft.com/fwlink?linkid=2036027)
+
+#  Xbox Live Gold
+
+[ Обзор ](/ru-ru/p/xbox-live-
+gold/cfq7ttc0k5dj?WT.mc_id=CNavGamesXboxLiveGold&activetab=pivot%3aoverviewtab)
+[ Игры и специальные предложения ](/ru-ru/p/xbox-live-
+gold/cfq7ttc0k5dj?WT.mc_id=CNavGamesXboxLiveGold&activetab=pivot%3agamesanddealstab)
+
+##  Xbox Live Gold: играй вместе с друзьями
+
+Вместе с друзьями строй удивительные и поражающие воображение миры\!
+Состязайся в азартных матчах, требующих быстрой реакции и молниеносных
+решений\! Золотой статус Xbox Live Gold выводит соревновательные и
+кооперативные игры на консоли на совершенно новый уровень. В одиночку ты
+можешь многое. А в компании — все\!  
+
+![Monster Hunter World](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Кооперативная игра
+
+Monster Hunter: World
+
+Сражайся с самыми страшными чудовищами и получай максимум удовольствия в
+процветающем сетевом сообществе.
+
+![Tetris Ultimate](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Многопользовательские головоломки
+
+Tetris Ultimate
+
+Решай нетривиальные головоломки и обставляй соперников в уникальных
+испытаниях.
+
+  
+
+![Call of Duty: Advanced Warfare](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Командный мультиплеер
+
+Call of Duty: Advanced Warfare
+
+Помоги своей команде доминировать в напряженных соревновательных схватках.
+
+  
+
+![Sea of Thieves](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Играйте в лучшее
+
+Sea of Thieves
+
+Благодаря уникальной системе репутации на основе характеристик игроков Xbox
+Live позволяет лучше контролировать, с кем ты играешь. Играй в более
+интеллектуальный мультиплеер и получай от игр максимум, избегая читеров.  
+
+##  Бесплатные игры каждый месяц. Это настоящее золото Gold.
+
+Получи бесплатные игры на сумму до 40 000 р за год подписки, включая обратно
+совместимые игры Xbox 360 для Xbox One.
+
+[ Доступ к бесплатным играм  ](https://www.xbox.com/ru-ru/live/games-with-
+gold)
+
+![GamesWithGold-Banner-2120x1190.jpg](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+![Terraria](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Твори и создавай
+
+Terraria
+
+Строй, исследуй и делись фантастическими мирами с другими игроками.
+
+![ForzaHorizon3-screenshot-1920x1080.jpg](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Гонки на 12 игроков
+
+Forza Horizon 3
+
+Узнай, кто сможет вырваться вперед.
+
+![Killer Instinct](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Поединки на двоих
+
+Killer Instinct
+
+Испытай себя в бескомпромиссной борьбе за превосходство\!
+
+![Halo 5: Guardians. Многопользовательская битва спартанцев](//statics-
+storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Проверенная в боях производительность
+
+Halo 5
+
+Каждый месяц в Xbox Live проходит более миллиарда многопользовательских
+матчей. Эта служба — воплощение производительности, скорости и надежности.
+Благодаря постоянному улучшению и добавлению новых функций возможностей
+становится все больше и больше\!
+
+![Предложения со статусом Gold](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+##  Эксклюзивные скидки по предложениям со статусом Gold
+
+Экономь до 50–75 % на играх, дополнениях и других товарах в Store\!
+
+[ Получить предложения  ](https://www.xbox.com/ru-ru/live/deals-with-gold)
+
+##  Анонсы
+
+  * Member discounts on games 
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+](javascript:void\(0\))
+
+  * How to get your free games 
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+](javascript:void\(0\))
+
+  * Share with your household 
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+](javascript:void\(0\))
+
+  * What you get with Gold 
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+](javascript:void\(0\))
+
+![Лучшее от Xbox Game Studios](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+##  Лучшее от Xbox Game Studios  [ Показать все ](/ru-
+ru/store/collections/greatxboxgames)
+
+Играйте в известнейшие серии игр на ПК
+
+[ ДОПОЛНИТЕЛЬНЫЕ СВЕДЕНИЯ  ](/ru-ru/store/collections/greatxboxgames)
+
+  * [ ![Microsoft Flight Simulator: Standard](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Microsoft Flight Simulator: Standard
+
+Включено  \+  со  статусом:  Game Pass  ](/ru-ru/p/microsoft-flight-simulator-
+standard/9nxn8gf8n9ht)
+
+  * [ ![Ori: The Collection](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Ori: The Collection
+
+Раньше  ~~USD$34.99~~ Сейчас  USD$17.49  ](/ru-ru/p/ori-the-
+collection/9p5mbbff3rnt)
+
+  * [ ![Gears 5: издание «Игра года»](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Gears 5: издание «Игра года»
+
+Раньше  ~~USD$59.99~~ Сейчас  USD$47.99  \+  со  статусом:  Game Pass  ](/ru-
+ru/p/gears-5-%d0%b8%d0%b7%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5-%d0%98%d0%b3%d1%80%d0%b0-%d0%b3%d0%be%d0%b4%d0%b0/9p4kmr76pllq)
+
+  * [ ![Gears Tactics](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Gears Tactics
+
+Включено  \+  со  статусом:  Game Pass  ](/ru-ru/p/gears-tactics/9nn3hckw5tpc)
+
+  * [ ![Grounded - Предварительная версия игры](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Grounded - Предварительная версия игры
+
+Включено  со  статусом:  Game Pass  ](/ru-
+ru/p/grounded-%d0%9f%d1%80%d0%b5%d0%b4%d0%b2%d0%b0%d1%80%d0%b8%d1%82%d0%b5%d0%bb%d1%8c%d0%bd%d0%b0%d1%8f-%d0%b2%d0%b5%d1%80%d1%81%d0%b8%d1%8f-%d0%b8%d0%b3%d1%80%d1%8b/9pjthrnvh62h)
+
+  * [ ![Grim Fandango Remastered](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Grim Fandango Remastered
+
+Включено  со  статусом:  Game Pass  ](/ru-ru/p/grim-fandango-
+remastered/9pc288tn7r8k)
+
+  * [ ![Full Throttle Remastered](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Full Throttle Remastered
+
+Включено  со  статусом:  Game Pass  ](/ru-ru/p/full-throttle-
+remastered/9p3zrgnqvc7d)
+
+  * [ ![Day of the Tentacle Remastered](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Day of the Tentacle Remastered
+
+Включено  со  статусом:  Game Pass  ](/ru-ru/p/day-of-the-tentacle-
+remastered/9nkk6cx54183)
+
+  * [ ![Age of Empires III: Definitive Edition](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Age of Empires III: Definitive Edition
+
+Включено  со  статусом:  Game Pass  ](/ru-ru/p/age-of-empires-iii-definitive-
+edition/9n1hf804qxn4)
+
+  * [ ![Wasteland 3 \(PC\)](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Wasteland 3 \(PC\)
+
+Включено  \+  со  статусом:  Game Pass  ](/ru-
+ru/p/wasteland-3-pc/9nlt5xr52zs7)
+
+  * [ ![Battletoads](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Battletoads
+
+Включено  со  статусом:  Game Pass  ](/ru-ru/p/battletoads/9n7gcf5sgcxc)
+
+  * [ ![Minecraft Dungeons: героическое издание - Windows 10](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Minecraft Dungeons: героическое издание - Windows 10
+
+Раньше  ~~USD$29.99~~ Сейчас  USD$23.99  \+  со  статусом:  Game Pass  ](/ru-
+ru/p/minecraft-
+dungeons-%d0%b3%d0%b5%d1%80%d0%be%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%be%d0%b5-%d0%b8%d0%b7%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5-windows-10/9p2vr3k66tjx)
+
+##  Описание
+
+Участники со статусом Xbox Live Gold получают многопользовательский режим игры
+с наиболее передовыми функциями, бонусные игры и эксклюзивные скидки в
+Microsoft Store. Благодаря Xbox Live Gold вы можете поддерживать связь с
+друзьями, родственниками и участниками Xbox Live по всему миру. \(После
+окончания любого рекламного периода подписка предлагается по обычной цене
+\(плюс применимые налоги, возможны изменения\), пока она не будет отменена в
+учетной записи Майкрософт. Обо всех изменениях цены вы будете уведомлены
+заранее.\) Положения и сведения о Xbox Live Gold: Некоторые функции Xbox Live
+Gold требуют наличия дополнительных подписок и выполнения дополнительных
+условий. См. страницу Xbox.com/live. Услуги по предоставлению широкополосного
+доступа к Интернету, игры и мультимедийное содержимое продаются отдельно.
+Предложение по бонусным играм: только для участников с оплаченным статусом
+Gold. Если используется консоль Xbox One, играть в скачанные бонусные игры
+можно только при наличии действующего статуса Gold. Услуга, функции и
+требования могут быть изменены или отменены. Применяются условия соглашения об
+использовании служб Майкрософт, приведенные на странице www.microsoft.com/msa.
+Чтобы просмотреть доступные предложения, нужно войти в учетную запись.
+Рекламные акции могут быть доступны не для всех участников, действуют
+ограниченное время и не применяются в Квебеке и России. Могут применяться и
+другие региональные ограничения.
+
+Развернуть
+
+##  Дополнительные сведения
+
+####  Издатель:
+
+Корпорация Майкрософт  
+
+Дополнительно
+
+#  Издатель:
+
+Корпорация Майкрософт  
+
+Закрыть
+
+  
+
+####  Дополнительные условия
+
+[ Xbox Live: правила поведения ](https://www.xbox.com/ru-
+ru/legal/codeofconduct)  
+[ Условия транзакции ](https://www.microsoft.com/ru-RU/store/b/terms-of-sale)  
+
+Дополнительно
+
+#  Дополнительные условия
+
+[ Xbox Live: правила поведения ](https://www.xbox.com/ru-
+ru/legal/codeofconduct)  
+[ Условия транзакции ](https://www.microsoft.com/ru-RU/store/b/terms-of-sale)  
+
+Закрыть
+
+  
+
+####  Сообщить об этом продукте
+
+Сообщить в Майкрософт об этом продукте  
+Благодарим за проявленное внимание. Наши специалисты изучат этот вопрос и
+примут необходимые меры.  
+[ Войти ](https://www.microsoft.com/ru-
+ru/store/signin?rru=https:%2f%2fwww.microsoft.com%2fru-ru%2fp%2fxbox-live-
+gold%2fcfq7ttc0k5dj%3fWT.mc_id%3dCNavGamesXboxLiveGold%26reportthisapp%3d1%23app-
+details) чтобы сообщить корпорации Майкрософт об этом продукте
+
+  
+
+Сообщить в Майкрософт об этом продукте
+
+![Xbox Live Gold](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE1HZln?ver=f087&m=6&w=96&h=96&n=t&q=60&o=f)
+
+##  Xbox Live Gold
+
+###  Сообщить в Майкрософт об этом продукте
+
+Возможное нарушение
+
+  * Оскорбительное содержимое 
+  * Эксплуатация детей 
+  * Вредоносное ПО или вирус 
+  * Проблемы с конфиденциальностью 
+  * Ложное приложение 
+  * Низкая производительность 
+
+Обстоятельства, при которых выявлено нарушение, и другая полезная информация.
+
+0/1000
+
+Отправить  Отмена
+
+##  Игры для Gold
+
+  * [ ![Vikings - Wolves of Midgard](https://store-images.s-microsoft.com/image/apps.40613.66380257811695088.4b865282-c4ab-4971-ac7d-e12dc2400910.3e46ef31-cfd2-4ec5-9957-219cfdfaecb3?w=720&h=1080&q=60&mode=crop&format=jpg)
+
+###  Vikings - Wolves of Midgard
+
+~~ Полная цена была USD$39.99  USD$39.99 ~~ Бесплатно  \+  с  подпиской  Gold
+](/ru-ru/p/vikings-wolves-of-midgard/c32xk5tg6rnm)
+
+  * [ ![Vicious Attack Llama Apocalypse](https://store-images.s-microsoft.com/image/apps.4654.13963209768718880.d5a4a4a9-99d4-48d6-aedb-de681b924f7e.b3192256-0715-4734-95c6-939051bff0ad?w=720&h=1080&q=60&mode=crop&format=jpg)
+
+###  Vicious Attack Llama Apocalypse
+
+~~ Полная цена была USD$14.99  USD$14.99 ~~ Бесплатно  с  подпиской  Gold
+](/ru-ru/p/vicious-attack-llama-apocalypse/9n253pvj49wt)
+
+  * [ ![Dark Void](https://store-images.s-microsoft.com/image/apps.37890.66470813064463631.52642a7a-2f34-495d-892f-0fdd1586e61f.664e551d-afc8-452c-8fc5-7cac00c99358?w=720&h=1080&q=60&mode=crop&format=jpg)
+
+###  Dark Void
+
+~~ Полная цена была USD$13.99  USD$13.99 ~~ Бесплатно  \+  с  подпиской  Gold
+](/ru-ru/p/dark-void/c47vk1fqbpnd)
+
+##  предложения со статусом Gold
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Hunt: Showdown
+
+Полная цена была USD$39.99  ~~USD$39.99~~ Сейчас USD$15.99  USD$15.99  \+  со
+статусом:  Gold  ](/ru-ru/p/hunt-showdown/9ncmq9dxgxf6)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  World War Z
+
+Полная цена была USD$29.99  ~~USD$29.99~~ Сейчас USD$8.99  USD$8.99  \+  со
+статусом:  Gold  ](/ru-ru/p/world-war-z/bwq5fc9wdj6h)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Paw Patrol: On a Roll
+
+Полная цена была USD$39.99  ~~USD$39.99~~ Сейчас USD$19.99  USD$19.99  со
+статусом:  Gold  ](/ru-ru/p/paw-patrol-on-a-roll/bpg82pz92fl0)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Blasphemous
+
+Полная цена была USD$24.99  ~~USD$24.99~~ Сейчас USD$9.99  USD$9.99  \+  со
+статусом:  Gold  ](/ru-ru/p/blasphemous/9p0478ztxlz4)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Trials® Rising
+
+Полная цена была USD$19.99  ~~USD$19.99~~ Сейчас USD$9.99  USD$9.99  \+  со
+статусом:  Gold  ](/ru-ru/p/trials-rising/bp6v6qzbmfp0)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Overcooked\! 2 - Gourmet Edition
+
+Полная цена была USD$48.49  ~~USD$48.49~~ Сейчас USD$24.24  USD$24.24  \+  со
+статусом:  Gold  ](/ru-ru/p/overcooked-2-gourmet-edition/9p3stqmkns70)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Assassin’s Creed Единство
+
+Полная цена была USD$29.99  ~~USD$29.99~~ Сейчас USD$8.99  USD$8.99  \+  со
+статусом:  Gold  ](/ru-ru/p/assassins-
+creed-%d0%95%d0%b4%d0%b8%d0%bd%d1%81%d1%82%d0%b2%d0%be/brqh27c9rgxs)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Dead Island Definitive Edition
+
+Полная цена была USD$19.99  ~~USD$19.99~~ Сейчас USD$4.99  USD$4.99  со
+статусом:  Gold  ](/ru-ru/p/dead-island-definitive-edition/bs7f51g3dp8r)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Ben 10
+
+Полная цена была USD$19.99  ~~USD$19.99~~ Сейчас USD$9.99  USD$9.99  со
+статусом:  Gold  ](/ru-ru/p/ben-10/c2tkn8h27m78)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Aggelos
+
+Полная цена была USD$13.99  ~~USD$13.99~~ Сейчас USD$9.37  USD$9.37  со
+статусом:  Gold  ](/ru-ru/p/aggelos/9p2vcblzg73k)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Assassin's Creed® Изгой. Обновленная версия
+
+Полная цена была USD$29.99  ~~USD$29.99~~ Сейчас USD$9.89  USD$9.89  со
+статусом:  Gold  ](/ru-ru/p/assassins-
+creed-%d0%98%d0%b7%d0%b3%d0%be%d0%b9-%d0%9e%d0%b1%d0%bd%d0%be%d0%b2%d0%bb%d0%b5%d0%bd%d0%bd%d0%b0%d1%8f-%d0%b2%d0%b5%d1%80%d1%81%d0%b8%d1%8f/bwt5l9p3l60x)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Close to the Sun
+
+Полная цена была USD$24.99  ~~USD$24.99~~ Сейчас USD$12.49  USD$12.49  со
+статусом:  Gold  ](/ru-ru/p/close-to-the-sun/9n67qth4z1gp)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Cook, Serve, Delicious\! 2/3 Bundle\!\!
+
+Полная цена была USD$24.99  ~~USD$24.99~~ Сейчас USD$12.49  USD$12.49  со
+статусом:  Gold  ](/ru-ru/p/cook-serve-delicious-2-3-bundle/9nw3vq0c5lf4)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Darksiders
+
+Полная цена была USD$10.49  ~~USD$10.49~~ Сейчас USD$2.62  USD$2.62  со
+статусом:  Gold  ](/ru-ru/p/darksiders/btxc0rgtt3xn)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Deponia Doomsday
+
+Полная цена была USD$12.99  ~~USD$12.99~~ Сейчас USD$1.29  USD$1.29  со
+статусом:  Gold  ](/ru-ru/p/deponia-doomsday/9pbsctzkg0z1)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Dirt Rally
+
+Полная цена была USD$29.99  ~~USD$29.99~~ Сейчас USD$7.49  USD$7.49  \+  со
+статусом:  Gold  ](/ru-ru/p/dirt-rally/bzr9gx1mvhcg)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Double Cross
+
+Полная цена была USD$19.99  ~~USD$19.99~~ Сейчас USD$4.99  USD$4.99  со
+статусом:  Gold  ](/ru-ru/p/double-cross/9mznxnw0277z)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Edna & Harvey: Harvey's New Eyes
+
+Полная цена была USD$19.99  ~~USD$19.99~~ Сейчас USD$1.99  USD$1.99  со
+статусом:  Gold  ](/ru-ru/p/edna-harvey-harveys-new-eyes/9p7gh69g7s8z)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Far Cry Primal
+
+Полная цена была USD$49.99  ~~USD$49.99~~ Сейчас USD$16.49  USD$16.49  \+  со
+статусом:  Gold  ](/ru-ru/p/far-cry-primal/bv6brslfjw3w)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Farming Simulator 19 - Anderson Group Equipment Pack
+
+Полная цена была USD$9.99  ~~USD$9.99~~ Сейчас USD$6.69  USD$6.69  со
+статусом:  Gold  ](/ru-ru/p/farming-simulator-19-anderson-group-equipment-
+pack/btqr2g0gqwj5)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Farming Simulator 19 - John Deere Cotton DLC
+
+Полная цена была USD$4.99  ~~USD$4.99~~ Сейчас USD$3.34  USD$3.34  со
+статусом:  Gold  ](/ru-ru/p/farming-simulator-19-john-deere-cotton-
+dlc/c28fvhjgc9sn)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Farming Simulator 19 - Kverneland & Vicon Equipment Pack
+
+Полная цена была USD$14.99  ~~USD$14.99~~ Сейчас USD$10.04  USD$10.04  со
+статусом:  Gold  ](/ru-ru/p/farming-simulator-19-kverneland-vicon-equipment-
+pack/9pl2pvmnx6vs)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Farming Simulator 19 - Platinum Expansion
+
+Полная цена была USD$21.99  ~~USD$21.99~~ Сейчас USD$14.73  USD$14.73  со
+статусом:  Gold  ](/ru-ru/p/farming-simulator-19-platinum-
+expansion/c4c1mpsrkdd4)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Frontlines:Fuel of War
+
+Полная цена была USD$8.39  ~~USD$8.39~~ Сейчас USD$2.09  USD$2.09  \+  со
+статусом:  Gold  ](/ru-ru/p/frontlines-fuel-of-war/c535g04wlz9r)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Hasbro Family Fun Pack - Super Edition
+
+Полная цена была USD$59.99  ~~USD$59.99~~ Сейчас USD$14.99  USD$14.99  \+  со
+статусом:  Gold  ](/ru-ru/p/hasbro-family-fun-pack-super-edition/bt21z933pqch)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Headspun
+
+Полная цена была USD$11.99  ~~USD$11.99~~ Сейчас USD$7.19  USD$7.19  со
+статусом:  Gold  ](/ru-ru/p/headspun/9ncrncpztm76)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Indiecalypse
+
+Полная цена была USD$12.99  ~~USD$12.99~~ Сейчас USD$6.49  USD$6.49  со
+статусом:  Gold  ](/ru-ru/p/indiecalypse/9n9shj8ptxwg)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Lumini
+
+Полная цена была USD$9.99  ~~USD$9.99~~ Сейчас USD$3.99  USD$3.99  со
+статусом:  Gold  ](/ru-ru/p/lumini/9nrv657360v3)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Lunch A Palooza
+
+Полная цена была USD$19.99  ~~USD$19.99~~ Сейчас USD$13.99  USD$13.99  со
+статусом:  Gold  ](/ru-ru/p/lunch-a-palooza/9p2fhkkdpz03)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  MONOPOLY PLUS
+
+Полная цена была USD$14.99  ~~USD$14.99~~ Сейчас USD$4.49  USD$4.49  \+  со
+статусом:  Gold  ](/ru-ru/p/monopoly-plus/c0cb2cvzvsnr)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  MX Nitro: Unleashed
+
+Полная цена была USD$9.99  ~~USD$9.99~~ Сейчас USD$2.49  USD$2.49  \+  со
+статусом:  Gold  ](/ru-ru/p/mx-nitro-unleashed/9npggv8ls9r4)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Outbreak: Epidemic Definitive Edition
+
+Полная цена была USD$14.99  ~~USD$14.99~~ Сейчас USD$7.49  USD$7.49  со
+статусом:  Gold  ](/ru-ru/p/outbreak-epidemic-definitive-edition/9nqv9c7frqpq)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Outbreak: The Nightmare Chronicles Definitive Edition
+
+Полная цена была USD$14.99  ~~USD$14.99~~ Сейчас USD$7.49  USD$7.49  со
+статусом:  Gold  ](/ru-ru/p/outbreak-the-nightmare-chronicles-definitive-
+edition/9n9swghz5sbb)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Party Arcade
+
+Полная цена была USD$14.99  ~~USD$14.99~~ Сейчас USD$9.74  USD$9.74  \+  со
+статусом:  Gold  ](/ru-ru/p/party-arcade/9n3wwjv5fc8h)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Project Cars
+
+Полная цена была USD$14.99  ~~USD$14.99~~ Сейчас USD$3.74  USD$3.74  \+  со
+статусом:  Gold  ](/ru-ru/p/project-cars/bth1tvqq39lr)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Райан и его гонки. Необычайное турне
+
+Полная цена была USD$39.99  ~~USD$39.99~~ Сейчас USD$19.99  USD$19.99  \+  со
+статусом:  Gold  ](/ru-
+ru/p/%d0%a0%d0%b0%d0%b9%d0%b0%d0%bd-%d0%b8-%d0%b5%d0%b3%d0%be-%d0%b3%d0%be%d0%bd%d0%ba%d0%b8-%d0%9d%d0%b5%d0%be%d0%b1%d1%8b%d1%87%d0%b0%d0%b9%d0%bd%d0%be%d0%b5-%d1%82%d1%83%d1%80%d0%bd%d0%b5/9n1wwtkmh0gw)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Restless Hero
+
+Полная цена была USD$9.99  ~~USD$9.99~~ Сейчас USD$2.99  USD$2.99  со
+статусом:  Gold  ](/ru-ru/p/restless-hero/9n1khmgvnls1)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Save Your Nuts
+
+Полная цена была USD$5.49  ~~USD$5.49~~ Сейчас USD$2.74  USD$2.74  со
+статусом:  Gold  ](/ru-ru/p/save-your-nuts/9mw740n6z78h)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Steel Rats™
+
+Полная цена была USD$9.99  ~~USD$9.99~~ Сейчас USD$2.99  USD$2.99  со
+статусом:  Gold  ](/ru-ru/p/steel-rats/c24wp4dmnnwj)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Subdivision Infinity DX
+
+Полная цена была USD$14.99  ~~USD$14.99~~ Сейчас USD$7.49  USD$7.49  со
+статусом:  Gold  ](/ru-ru/p/subdivision-infinity-dx/9mtp483jt6dv)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  TRIVIAL PURSUIT LIVE\!
+
+Полная цена была USD$14.99  ~~USD$14.99~~ Сейчас USD$5.99  USD$5.99  со
+статусом:  Gold  ](/ru-ru/p/trivial-pursuit-live/bq0fvqf4mv8z)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Trollhunters: Defenders of Arcadia
+
+Полная цена была USD$39.99  ~~USD$39.99~~ Сейчас USD$19.99  USD$19.99  со
+статусом:  Gold  ](/ru-ru/p/trollhunters-defenders-of-arcadia/9nv8mjz96j4k)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Watch Dogs®2 - Deluxe Edition
+
+Полная цена была USD$69.99  ~~USD$69.99~~ Сейчас USD$13.99  USD$13.99  \+  со
+статусом:  Gold  ](/ru-ru/p/watch-dogs-2-deluxe-edition/bpg50rx2gqf0)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Wizards: Wand of Epicosity
+
+Полная цена была USD$19.99  ~~USD$19.99~~ Сейчас USD$9.99  USD$9.99  \+  со
+статусом:  Gold  ](/ru-ru/p/wizards-wand-of-epicosity/9n5vvxgmfxkj)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  World War Z - Game of the Year Edition
+
+Полная цена была USD$49.99  ~~USD$49.99~~ Сейчас USD$19.99  USD$19.99  \+  со
+статусом:  Gold  ](/ru-ru/p/world-war-z-game-of-the-year-edition/9n4bhf879lwq)
+
+[ ![](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  World War Z - Season Pass
+
+Полная цена была USD$29.99  ~~USD$29.99~~ Сейчас USD$14.99  USD$14.99  со
+статусом:  Gold  ](/ru-ru/p/world-war-z-season-pass/9n9lghjzjsk9)
+
+Что нового?
+
+  * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365)
+  * [ Приложения Windows 10 ](https://www.microsoft.com/ru-ru/windows/windows-10-apps)
+
+Microsoft Store
+
+  * [ Профиль учетной записи ](https://account.microsoft.com/)
+  * [ Центр загрузки ](https://www.microsoft.com/ru-ru/download)
+  * [ Поддержка Microsoft Store ](https://go.microsoft.com/fwlink/?linkid=2139749)
+  * [ Возврат товаров ](https://go.microsoft.com/fwlink/p/?LinkID=824764&clcid=0x419)
+  * [ Отслеживание заказа ](https://account.microsoft.com/orders)
+
+Для образования
+
+  * [ Майкрософт и образование ](https://www.microsoft.com/ru-ru/education)
+  * [ Office для учащихся ](https://www.microsoft.com/ru-ru/education/products/office/default.aspx)
+  * [ Office 365 для школ ](https://products.office.com/ru-ru/academic/compare-office-365-education-plans)
+  * [ Специальные предложения для учащихся и родителей ](https://www.microsoft.com/ru-ru/store/b/student?icid=CNavfooter_Studentsandeducation)
+  * [ Microsoft Azure и образование ](https://azure.microsoft.com/ru-ru/community/education/)
+
+Для крупных предприятий
+
+  * [ Azure ](https://azure.microsoft.com/)
+  * [ AppSource ](https://go.microsoft.com/fwlink/?LinkID=808093)
+  * [ Автопромышленность ](https://www.microsoft.com/enterprise/automotive)
+  * [ Государственные учреждения ](https://www.microsoft.com/enterprise/government)
+  * [ Здравоохранение ](https://www.microsoft.com/enterprise/health)
+  * [ Промышленное производство ](https://www.microsoft.com/enterprise/manufacturing)
+  * [ Финансовые услуги ](https://www.microsoft.com/enterprise/financial-services/banking-and-capital-markets)
+  * [ Торговля ](https://www.microsoft.com/enterprise/retail-consumer-goods)
+
+Для разработчиков
+
+  * [ Microsoft Visual Studio ](https://visualstudio.microsoft.com/)
+  * [ Центр разработчиков Windows ](https://developer.microsoft.com/ru-ru/windows)
+  * [ Центр разработчиков ](https://developer.microsoft.com/)
+  * [ Программа Майкрософт для разработчиков ](https://developer.microsoft.com/ru-ru/store/register)
+  * [ Channel 9 ](https://channel9.msdn.com/)
+  * [ Центр разработчиков Office ](https://developer.microsoft.com/ru-ru/office)
+
+Компания
+
+  * [ Вакансии ](https://careers.microsoft.com/)
+  * [ О корпорации Майкрософт ](https://www.microsoft.com/ru-ru/about)
+  * [ Новости компании ](https://news.microsoft.com/ru-ru)
+  * [ Политика конфиденциальности Майкрософт ](https://privacy.microsoft.com/ru-ru)
+  * [ Инвесторы ](https://www.microsoft.com/investor/default.aspx)
+  * [ Безопасность ](https://www.microsoft.com/ru-ru/security/default.aspx)
+
+[ Русский \(Россия\) ](https://www.microsoft.com/ru-
+ru/store/locale?absoluteReturnUrl=https%3a%2f%2fwww.microsoft.com%2fru-
+ru%2fp%2fxbox-live-gold%2fcfq7ttc0k5dj%3fWT.mc_id%3dCNavGamesXboxLiveGold)
+
+  * [ Связаться с Microsoft ](https://go.microsoft.com/fwlink/p/?LinkID=824761&clcid=0x419)
+  * [ Выходные данные ](https://www.microsoft.com/ru-ru/store/b/imprint)
+  * [ Конфиденциальность ](https://go.microsoft.com/fwlink/?LinkId=521839)
+  * Управление файлами cookie 
+  * [ Условия использования и продажи ](https://go.microsoft.com/fwlink/?LinkID=206977)
+  * [ Условия продажи ](https://www.microsoft.com/ru-ru/storedocs/terms-of-sale)
+  * [ Товарные знаки ](https://www.microsoft.com/trademarks)
+  * [ Сведения о рекламе ](https://choice.microsoft.com/)
+  * © Microsoft 2021 
+

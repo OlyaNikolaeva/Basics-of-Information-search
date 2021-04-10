@@ -1,0 +1,3269 @@
+![](https://web.vortex.data.microsoft.com:443/collect/v1/t.gif?&name=%27Ms.Webi.PageView%27&ver=%272.1%27&appId=%27JS%3AMicrosoft-365%27&cV=%27LXaKpxYojkSmKwsE.0%27&ext-
+app-env=%27onerf_prod%27&ext-javascript-libver=%274.0.0-beta-10%27&ext-user-
+localId=%27t%3A16D857392C7A65A1146C472C2DD16413%27&*baseType=%27Ms.Content.PageView%27&*isJs=True&*isLoggedIn=False&*isManual=True&*serverImpressionGuid=%27c4878309-dbeb-43b2-bf93-ce857763ba62%27&-ver=%271.0%27&-impressionGuid=%2700000000-0000-0000-0000-000000000000%27&-pageName=%27business.ru-
+ru%27&-uri=%27https%3A%2F%2Fwww.microsoft.com%2Fru-
+ru%2Fmicrosoft-365%2Fbusiness%3Frtc%3D1%27&-pageType=%27Office.PillarTemplate%27&-pageTags=%27%7B%22tasId%22%3A%22826e6c66-2c30-493c-8d61-f5dc7623f014%22%2C%22tasMuid%22%3A%2216D857392C7A65A1146C472C2DD16413%22%2C%22browserGroup%22%3A%22uplevel.web.pc%22%2C%22isOneRf%22%3A%22True%22%7D%27&-behavior=0&-market=%27ru-
+ru%27)
+
+[ Перейти к основному контенту ](javascript:void\(0\))
+
+[ ![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31) Microsoft
+](https://www.microsoft.com)
+
+Microsoft 365
+
+[ Microsoft 365  ](https://www.microsoft.com/ru-ru/microsoft-365)
+
+Microsoft 365
+
+  * [ Главная ](https://www.microsoft.com/ru-ru/microsoft-365)
+  * Продукты 
+    * Для дома  Для дома 
+      * [ Планы и цены ](https://www.microsoft.com/ru-ru/microsoft-365/buy/compare-all-microsoft-365-products)
+      * [ Для семьи ](https://www.microsoft.com/ru-ru/microsoft-365/p/microsoft-365-family/cfq7ttc0k5dm)
+      * [ Для личного пользования ](https://www.microsoft.com/ru-ru/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf)
+      * [ Для учащихся ](https://www.microsoft.com/ru-ru/education/products/office)
+      * [ Смотреть все решения для дома ](https://www.microsoft.com/ru-ru/microsoft-365/explore-microsoft-365-for-home)
+    * Для бизнеса  Для бизнеса 
+      * [ Планы и цены ](https://www.microsoft.com/ru-ru/microsoft-365/business/compare-all-microsoft-365-business-products)
+      * [ Малый бизнес ](https://www.microsoft.com/ru-ru/microsoft-365/business)
+      * [ Учебные заведения ](https://go.microsoft.com/fwlink/p/?linkid=864773)
+    * Для крупных предприятий  Для крупных предприятий 
+      * [ Планы и цены ](https://www.microsoft.com/ru-ru/microsoft-365/compare-microsoft-365-enterprise-plans)
+      * [ Крупный бизнес ](https://www.microsoft.com/ru-ru/microsoft-365/enterprise)
+      * [ Сотрудники без компьютеров ](https://www.microsoft.com/ru-ru/microsoft-365/enterprise/frontline)
+    * Приложения и службы  Приложения и службы 
+      * [ Excel ](https://www.microsoft.com/ru-ru/microsoft-365/excel)
+      * [ Microsoft Family Safety ](https://www.microsoft.com/ru-ru/microsoft-365/family-safety)
+      * [ Microsoft Teams ](https://www.microsoft.com/ru-ru/microsoft-teams/group-chat-software)
+      * [ OneDrive ](https://www.microsoft.com/ru-ru/microsoft-365/onedrive/online-cloud-storage)
+      * [ Outlook ](https://www.microsoft.com/ru-ru/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook)
+      * [ PowerPoint ](https://www.microsoft.com/ru-ru/microsoft-365/powerpoint)
+      * [ SharePoint ](https://www.microsoft.com/ru-ru/microsoft-365/sharepoint/collaboration)
+      * [ Word ](https://www.microsoft.com/ru-ru/microsoft-365/word)
+      * [ Посмотреть все приложения и службы ](https://www.microsoft.com/ru-ru/microsoft-365/products-apps-services)
+    * Еще  Еще 
+      * [ Microsoft Office ](https://www.microsoft.com/ru-ru/microsoft-365/microsoft-office)
+      * [ Office 365 ](https://www.microsoft.com/ru-ru/microsoft-365/office-365)
+      * [ Windows ](https://www.microsoft.com/ru-ru/microsoft-365/windows)
+      * [ Enterprise Mobility + Security ](https://www.microsoft.com/ru-ru/microsoft-365/enterprise-mobility-security)
+
+  * Ресурсы 
+    * [ Истории клиентов ](https://customers.microsoft.com/ru-ru/search?sq=&ff=language%26%3E%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%26%26story_product_categories%26%3EMicrosoft%20365&p=0&so=story_publish_date%20desc)
+    * [ Установка и настройка ](https://support.office.com/ru-ru/article/download-and-install-or-reinstall-office-365-or-office-2016-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658)
+    * [ Обучение ](https://support.office.com/ru-ru/office-training-center?ms.officeurl=training)
+    * [ Центр управления безопасностью ](https://www.microsoft.com/ru-ru/trust-center)
+    * [ Блог Microsoft 365 ](https://go.microsoft.com/fwlink/p/?LinkID=2000803)
+    * [ Вопросы и ответы ](https://www.microsoft.com/ru-ru/microsoft-365/business/microsoft-365-frequently-asked-questions)
+
+  * Поддержка 
+    * Для личного использования и семьи  Для личного использования и семьи 
+      * [ Ресурсы для самостоятельного решения проблем ](https://support.microsoft.com/)
+      * [ Помощь с выставлением счетов ](https://support.microsoft.com/ru-ru/account-and-billing)
+      * [ Сообщество ](https://answers.microsoft.com/ru-ru/)
+    * Для работы  Для работы 
+      * [ Ресурсы для самостоятельного решения проблем ](https://support.microsoft.com/)
+      * [ Ресурсы для самостоятельного решения проблем администраторов ](https://docs.microsoft.com/ru-ru/microsoft-365/?view=o365-worldwide)
+      * [ Помощь с выставлением счетов ](https://docs.microsoft.com/ru-ru/microsoft-365/commerce/?view=o365-worldwide)
+      * [ Найти партнера ](https://www.microsoft.com/ru-ru/microsoft-365/find-a-partner)
+    * Для учебы  Для учебы 
+      * [ Ресурсы для самостоятельного решения проблем ](https://support.microsoft.com/ru-ru/education)
+      * [ Центр преподавателей ](https://education.microsoft.com/ru-ru/)
+      * [ Запросить помощь ](https://aka.ms/edusupport)
+    * Для партнеров  Для партнеров 
+      * [ Стать партнером ](https://partner.microsoft.com/ru-ru/)
+      * [ Ресурсы для партнеров ](https://partner.microsoft.com/ru-ru/)
+
+  * Больше 
+
+  * [ Купить ](https://www.microsoft.com/ru-ru/microsoft-365/business/compare-all-microsoft-365-business-products)
+
+  * Все продукты Microsoft 
+    *       * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365)
+      * [ Office ](https://www.microsoft.com/microsoft-365/microsoft-office)
+      * [ Windows ](https://www.microsoft.com/ru-ru/windows/)
+      * [ Xbox ](https://www.xbox.com/)
+      * [ Поддержка ](https://support.microsoft.com/ru-ru)
+    * ПО  ПО 
+      * [ Приложения для Windows ](https://www.microsoft.com/ru-ru/store/apps/windows?icid=CNavAppsWindowsApps)
+      * [ OneDrive ](https://onedrive.live.com/about/ru-ru/)
+      * [ Outlook ](https://outlook.live.com/owa/)
+      * [ Skype ](https://www.skype.com/ru/)
+      * [ OneNote ](https://www.onenote.com/?omkt=ru-RU)
+      * [ Microsoft Teams ](https://www.microsoft.com/ru-ru/microsoft-teams/free?icid=SSM_AS_Promo_Apps_MicrosoftTeams)
+    * Компьютеры и устройства  Компьютеры и устройства 
+      * [ Купите Xbox ](https://www.microsoft.com/ru-ru/store/b/xbox?icid=CNavDevicesXbox)
+      * [ Аксессуары ](https://www.microsoft.com/accessories/ru-ru)
+    * Развлечения  Развлечения 
+      * [ Xbox Game Pass Ultimate ](https://www.microsoft.com/ru-ru/p/xbox-game-pass-ultimate/cfq7ttc0khs0?WT.mc_id=CNavGamesXboxGamePassUltimate)
+      * [ Xbox Live Gold ](https://www.microsoft.com/ru-ru/p/xbox-live-gold/cfq7ttc0k5dj?WT.mc_id=CNavGamesXboxLiveGold)
+      * [ Xbox и игры ](https://www.xbox.com/ru-ru/games/xbox-one?xr=shellnav)
+      * [ Компьютерные игры ](https://www.microsoft.com/ru-ru/store/games/windows?icid=CNavGamesWindowsGames)
+      * [ Игры для Windows ](https://www.microsoft.com/ru-ru/store/games/windows?icid=TopNavWindowsGames)
+    * Для бизнеса  Для бизнеса 
+      * [ Microsoft Azure ](https://azure.microsoft.com/ru-ru/)
+      * [ Microsoft Dynamics 365 ](https://www.microsoft.com/ru-ru/dynamics365/home)
+      * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365/business/all-business)
+      * [ Microsoft Industry ](https://www.microsoft.com/ru-ru/enterprise)
+      * [ Платформа данных ](https://www.microsoft.com/ru-ru/sql-server/ )
+      * [ Power Platform ](https://powerplatform.microsoft.com/ru-ru)
+      * [ Shop Business ](https://www.microsoft.com/ru-ru/store/b/business?icid=CNavBusinessStore)
+    * Для разработчиков и ИТ  Для разработчиков и ИТ 
+      * [ .NET ](https://www.microsoft.com/net/)
+      * [ Visual Studio ](https://visualstudio.microsoft.com/)
+      * [ Windows Server ](https://www.microsoft.com/cloud-platform/windows-server)
+      * [ Разработка приложений для Windows ](https://developer.microsoft.com/ru-ru/windows)
+      * [ Документы ](https://docs.microsoft.com/ru-ru/)
+      * [ Power Apps ](https://powerapps.microsoft.com/ru-ru)
+    * Другое  Другое 
+      * [ Бесплатная загрузка и средства безопасности ](https://www.microsoft.com/ru-ru/download/default.aspx)
+      * [ Образование ](https://www.microsoft.com/ru-ru/education?icid=CNavMSCOML0_Studentsandeducation)
+      * [ лицензирование ](https://www.microsoft.com/licensing/default)
+    * [ Посмотреть карту сайта ](https://www.microsoft.com/ru-ru/sitemap.aspx)
+
+Поиск  Поиск решений Microsoft 365
+
+Отмена
+
+Войти
+
+Россия  Беларусь  Казахстан  Киргизия  Таджикистан  Туркмения  Узбекистан
+
+![Person sitting on a blue couch using laptop](https://img-prod-cms-rt-
+microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4FrK0?ver=3144&q=90&m=6&h=500&w=1920&b=%23FFFFFFFF&l=f&o=t&x=1440&y=250&aim=true)
+
+#  Microsoft 365 для бизнеса
+
+Узнайте, как Microsoft 365 и Microsoft Teams могут помочь вашему бизнесу
+обеспечить безопасную удаленную работу и сократить расходы.
+
+Планы и цены
+
+[ Помощь в выборе  ](https://www.microsoft.com/ru-
+ru/microsoft-365/business/microsoft-365-plan-chooser)
+
+[ Посмотреть видео о Microsoft 365 для бизнеса  ](javascript:void\(0\);)
+
+Всплывающее окно
+
+##  Новый подход к работе с Microsoft 365 и Microsoft Teams
+
+Общайтесь в чате, совершайте звонки, проводите онлайн-собрания и работайте
+вместе с коллегами в режиме реального времени в офисе или удаленно. Получите
+одно интегрированное решение, в состав которого входят Teams, облачное
+хранилище OneDrive и приложения Office с расширенными функциями безопасности,
+по подходящей для вашего бизнеса цене.
+
+##  Продуктивная работа, где бы вы ни находились
+
+Используйте решения для продуктивной работы и оставайтесь на связи со своими
+сотрудниками и клиентами, независимо от того, работаете ли вы удаленно или в
+офисе.
+
+![Person sitting on the floor holding a piece of clothing while speaking with
+four other individuals on a video call in Microsoft Teams.](https://img-prod-
+cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4FmSS?ver=1aae&q=60&m=2&h=1292&w=646&b=%23FFFFFFFF&aim=true)
+
+  * ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Чат, звонки и собрания
+
+Проводите онлайн-собрания, совершайте звонки, общайтесь в чате, делитесь
+файлами и работайте вместе с коллегами в Microsoft Teams.
+
+[ Подробнее  ](https://www.microsoft.com/ru-ru/microsoft-365/microsoft-
+teams/group-chat-software)
+
+  * ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Облачное хранилище
+
+Управляйте файлами в хранилище OneDrive объемом 1 ТБ в любой точке мира и с
+любого устройства.
+
+  * ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Приложения и службы Office
+
+Используйте файлы Word, Excel и PowerPoint, предоставляйте к ними общий доступ
+и работайте над ними вместе с коллегами прямо в Microsoft Teams.
+
+  * ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Электронная почта и календари
+
+Взаимодействуйте с клиентами и коллегами с помощью служб Outlook и Exchange.
+
+##  Защита вашего бизнеса
+
+Защитите данные компании с помощью облачной платформы со встроенными
+инструментами для безопасной удаленной работы.
+
+![Two people wearing masks sitting at a desk with their laptops having a
+conversation.](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4Fcj2?ver=968c&q=60&m=2&h=1292&w=646&b=%23FFFFFFFF&aim=true)
+
+  * ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Защита от кибератак
+
+Обезопасьте свою компанию от вирусов, вредоносных программ, фишинга, программ-
+шантажистов, спама и других угроз.
+
+[ Подробнее  ](https://www.microsoft.com/ru-ru/microsoft-365/business/threat-
+protection)
+
+  * ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Безопасность данных клиентов
+
+Защитите информацию от киберпреступников, несанкционированного доступа и
+случайного удаления.
+
+[ Подробнее  ](https://www.microsoft.com/ru-ru/microsoft-365/business/data-
+protection)
+
+  * ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Защита устройства
+
+Обеспечьте безопасность данных даже при доступе с личных устройств
+сотрудников.
+
+[ Подробнее  ](https://www.microsoft.com/ru-
+ru/microsoft-365/business/security-management)
+
+  * ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Управление идентификацией и доступом
+
+Простые средства настройки и управления пользователями, устройствами и данными
+позволяют сосредоточиться на развитии бизнеса.
+
+[ Подробнее  ](https://www.microsoft.com/ru-
+ru/microsoft-365/business/identity-and-access-management)
+
+##  Комплексное экономичное решение
+
+Оптимизируйте инструменты совместной работы, упрощайте настройку ИТ-
+инфраструктуры и управление ей, а также сокращайте расходы с помощью единого
+эффективного решения.
+
+![Person sitting at a desk signing in to their Microsoft account on a
+laptop.](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4Fk89?ver=3361&q=60&m=2&h=1292&w=646&b=%23FFFFFFFF&aim=true)
+
+  * ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Три направления экономии
+
+Объединяйте приложения и сокращайте расходы.
+
+[ Подробнее
+](https://go.microsoft.com/fwlink/p/?LinkID=2142180&clcid=0x419&culture=ru-
+ru&country=RU)
+
+  * ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Расчет рентабельности инвестиций
+
+Контролируйте экономию средств с помощью Microsoft 365.
+
+[ Подробнее
+](https://go.microsoft.com/fwlink/p/?LinkID=2141986&clcid=0x419&culture=ru-
+ru&country=RU)
+
+  * ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Настройка ИТ-инфраструктуры и управление ей
+
+Без труда настраивайте и развертывайте нужные инструменты, а также управляйте
+ими.
+
+  * ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Простая автоматизация повторяющихся задач
+
+Оптимизируйте ежедневные рабочие процессы с помощью Power Automate.
+
+##  Выберите подходящее бизнес-решение для продуктивной работы
+
+Сравните различные планы для компаний наподобие вашей и подберите лучший
+вариант.
+
+Перейти к предыдущему блоку карусели
+
+Для просмотра других планов проводите пальцем по экрану
+
+Посмотреть слайд 1  Посмотреть слайд 2  Посмотреть слайд 3
+
+Перейти к следующему блоку карусели
+
+  * ###  Microsoft 365 бизнес базовый 
+
+312,50 ₽  на пользователя в месяц
+
+\(подписка на год\)
+
+Microsoft 365 бизнес базовый, 312,50 ₽ на пользователя в месяц \(подписка на
+год\)
+
+Цена не включает налоги.
+
+###  Microsoft 365 бизнес базовый
+
+[ Купить
+](https://go.microsoft.com/fwlink/p/?LinkID=510933&clcid=0x419&culture=ru-
+ru&country=RU)
+
+[ Бесплатная пробная версия на месяц
+](https://go.microsoft.com/fwlink/p/?LinkID=2147547&clcid=0x419&culture=ru-
+ru&country=RU) 3
+
+![Значок фрагмента галочки указывает на то, что возможность частично
+включена](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RWrWMY) ![Значок фрагмента галочки
+указывает на то, что возможность частично включена](https://img-prod-cms-rt-
+microsoft-com.akamaized.net/cms/api/am/imageFileData/RE32er2) Частично
+включено  ![Значок галочки указывает на то, что возможность
+включена](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![Значок галочки указывает
+на то, что возможность включена](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE30tG1) Включено
+
+    * Мобильные и веб-версии приложений Office 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Пользуйтесь веб-версиями Outlook, Word, Excel, PowerPoint и OneNote 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Используйте всегда актуальные версии Outlook, Word, Excel, PowerPoint и OneNote для устройств с iOS и Android®  4  для пяти телефонов и пяти планшетов  1 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Организуйте совместную работу с функциями редактирования в реальном времени \(несколько пользователей могут вместе работать над одним документом\) 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+    * Электронная почта и календари 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Получите почтовые ящики размером 50 ГБ 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Используйте собственное доменное имя \(например, ваше\_имя@ваша\_компания.com\) 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Пользуйтесь корпоративной почтой на телефонах, планшетах, компьютерах и в браузере с приложением Exchange 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Управляйте своим календарем, планируйте собрания на основе сведений об удобном для сотрудников времени, настраивайте напоминания 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Легко назначайте собрания и отвечайте на приглашения с помощью общих календарей 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Настраивайте новые адреса электронной почты, восстанавливайте недавно удаленные учетные записи, создавайте пользовательские сценарии и делайте многое другое, где бы вы ни находились 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+    * Хранение и совместное использование файлов 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Храните файлы в облачном хранилище OneDrive размером 1 ТБ и предоставляйте к ним общий доступ 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Работайте с файлами и сохраняйте их в OneDrive или SharePoint — ваши изменения будут отражаться на всех синхронизируемых устройствах 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Делитесь файлами с внешними пользователями с помощью ссылок для доступа и гостевых ссылок 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Пользуйтесь безопасными средствами для предоставления общего доступа к документам и отправки сообщений — ваша информация будет доступна только пользователю с соответствующими правами 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Работайте с файлами и синхронизируйте их на компьютерах с Windows или macOS и мобильных устройствах 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+    * Командная работа и взаимодействие 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Проводите онлайн-собрания и осуществляйте видеозвонки с участием до 300 пользователей в Microsoft Teams  2 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Беседуйте со своими коллегами в чате Microsoft Teams, даже если вы не за компьютером, а в пути 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Общайтесь и сотрудничайте легко и непринужденно — Microsoft Teams обеспечит вам и вашей команде единую централизованную платформу для бесед в чате, проведения собраний, работы с файлами и приложениями 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Используйте SharePoint, чтобы создавать сайты групп и обмениваться информацией, контентом и файлами в интрасети 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Присоединяйтесь к собраниям в пути по номеру телефонного подключения с помощью Аудиоконференций  5 
+
+Доступно в качестве [ надстройки ](https://www.microsoft.com/ru-
+ru/microsoft-365/microsoft-teams/audio-conferencing)
+
+    * Безопасность и соответствие требованиям 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Защитите свою электронную почту от спама, вредоносных программ и известных угроз с помощью Exchange Online Protection 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Более тысячи инструментов для управления безопасностью и конфиденциальностью помогут вам обеспечить соответствие требованиям международных, региональных и отраслевых нормативов и стандартов 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Группы безопасности и настраиваемые разрешения позволяют контролировать доступ к бизнес-информации — именно вы будете определять, кто и когда может пользоваться вашими файлами 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Создавайте политики паролей, чтобы обязать пользователей менять пароли через определенные промежутки времени 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+    * Поддержка и развертывание 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Пользуйтесь услугами круглосуточной поддержки по телефону и через Интернет 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Доступность в течение 99,9 % времени, подкрепленная финансовыми гарантиями, не оставит вам причин для беспокойства. 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Максимальное число пользователей 
+
+300
+
+      * Лицензии для коммерческого использования 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+    * Средства для развития бизнеса и управления им 
+
+Эта функция или возможность поддерживается частично  ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWrxgh)
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE32eqY)
+
+      * Microsoft Teams — приложение для управления расписаниями и координации повседневных задач 
+
+Включено
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Microsoft Lists позволяет отслеживать информацию и контролировать задачи, наиболее важные для вашей команды 
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Microsoft Forms позволит собирать отзывы и предложения от клиентов и сотрудников 
+
+Включено
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Microsoft Bookings поможет вашим клиентам назначать встречи с представителями компании и управлять ими 
+
+    * Классические версии приложений Office для компьютеров Windows и Mac 
+
+      * Используйте полностью установленные и всегда актуальные версии Outlook, Word, Excel, PowerPoint, OneNote для ПК с Windows и компьютеров Mac \(а также Access и Publisher только для ПК с Windows\) 
+
+      * Устанавливайте приложения Office на пять ПК с Windows или компьютеров Mac для каждого пользователя  1 
+
+    * Расширенная безопасность 
+
+      * Защититесь от сложных угроз, скрытых во вложениях электронной почты и ссылках, и получите доступ к передовым средствам защиты от угроз нулевого дня, программ-шантажистов и других изощренных атак вредоносного ПО с Microsoft Defender для Office 365 
+
+      * Дистанционно удаляйте корпоративные данные с потерянных и украденных устройств с помощью функции Selective Wipe в Intune 
+
+      * Ограничьте копирование и сохранение корпоративной информации в посторонних приложениях и местах с помощью функции защиты мобильных приложений Office 
+
+      * Контролируйте доступ к корпоративной информации с помощью ограничений типа "Не копировать" и "Не пересылать" на базе технологии управления правами на доступ к данным 
+
+      * Применяйте политики Windows 10 для защиты от угроз еще до их проникновения в сеть с помощью функции Exploit Guard в Microsoft Defender 
+
+      * Организуйте защиту от вредоносного ПО, чтобы обезопасить свои устройства на базе Windows 10 от вирусов, шпионских и других вредоносных программ с помощью Защитника Windows 
+
+      * Получите доступ к неограниченному облачному хранилищу для архивирования и долгосрочным политикам сохранения, гарантирующим, что вы не потеряете ни одного электронного письма, с помощью службы Exchange Online Archiving 
+
+    * Управление устройствами 
+
+      * Настройте функции и параметры безопасности на компьютерах с Windows 10 и мобильных устройствах с iOS или Android®  4  с помощью простого и удобного мастера настройки. 
+
+      * Используйте упрощенные средства управления, чтобы контролировать политики на компьютерах с Windows 10 
+
+      * Автоматически развертывайте приложения Office на ПК с Windows 10 
+
+      * Настройте свои компьютеры для автоматической установки обновлений Office и Windows 10 
+
+      * Применяйте политики безопасности для защиты корпоративных данных на всех устройствах, включая платформы iOS, Android®  4  и Windows, с помощью средств управления мобильными устройствами от Intune 
+
+[ Купить
+](https://go.microsoft.com/fwlink/p/?LinkID=510933&clcid=0x419&culture=ru-
+ru&country=RU)
+
+[ Подробнее  ](https://www.microsoft.com/ru-
+ru/microsoft-365/business/microsoft-365-business-basic)
+
+[ Бесплатная пробная версия на месяц
+](https://go.microsoft.com/fwlink/p/?LinkID=2147547&clcid=0x419&culture=ru-
+ru&country=RU) 3
+
+  * ###  Microsoft 365 бизнес стандарт 
+
+781,30 ₽  на пользователя в месяц
+
+\(подписка на год\)
+
+Microsoft 365 бизнес стандарт, 781,30 ₽ на пользователя в месяц \(подписка на
+год\)
+
+Цена не включает налоги.
+
+###  Microsoft 365 бизнес стандарт
+
+[ Купить
+](https://go.microsoft.com/fwlink/p/?LinkID=510935&clcid=0x419&culture=ru-
+ru&country=RU)
+
+[ Бесплатная пробная версия на месяц
+](https://go.microsoft.com/fwlink/p/?LinkID=510938&clcid=0x419&culture=ru-
+ru&country=RU) 3
+
+![Значок фрагмента галочки указывает на то, что возможность частично
+включена](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RWrWMY) ![Значок фрагмента галочки
+указывает на то, что возможность частично включена](https://img-prod-cms-rt-
+microsoft-com.akamaized.net/cms/api/am/imageFileData/RE32er2) Частично
+включено  ![Значок галочки указывает на то, что возможность
+включена](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![Значок галочки указывает
+на то, что возможность включена](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE30tG1) Включено
+
+    * Мобильные и веб-версии приложений Office 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Пользуйтесь веб-версиями Outlook, Word, Excel, PowerPoint и OneNote 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Используйте всегда актуальные версии Outlook, Word, Excel, PowerPoint и OneNote для устройств с iOS и Android®  4  для пяти телефонов и пяти планшетов  1 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Организуйте совместную работу с функциями редактирования в реальном времени \(несколько пользователей могут вместе работать над одним документом\) 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+    * Электронная почта и календари 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Получите почтовые ящики размером 50 ГБ 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Используйте собственное доменное имя \(например, ваше\_имя@ваша\_компания.com\) 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Пользуйтесь корпоративной почтой на телефонах, планшетах, компьютерах и в браузере с приложением Exchange 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Управляйте своим календарем, планируйте собрания на основе сведений об удобном для сотрудников времени, настраивайте напоминания 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Легко назначайте собрания и отвечайте на приглашения с помощью общих календарей 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Настраивайте новые адреса электронной почты, восстанавливайте недавно удаленные учетные записи, создавайте пользовательские сценарии и делайте многое другое, где бы вы ни находились 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+    * Хранение и совместное использование файлов 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Храните файлы в облачном хранилище OneDrive размером 1 ТБ и предоставляйте к ним общий доступ 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Работайте с файлами и сохраняйте их в OneDrive или SharePoint — ваши изменения будут отражаться на всех синхронизируемых устройствах 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Делитесь файлами с внешними пользователями с помощью ссылок для доступа и гостевых ссылок 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Пользуйтесь безопасными средствами для предоставления общего доступа к документам и отправки сообщений — ваша информация будет доступна только пользователю с соответствующими правами 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Работайте с файлами и синхронизируйте их на компьютерах с Windows или macOS и мобильных устройствах 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+    * Командная работа и взаимодействие 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Проводите онлайн-собрания и осуществляйте видеозвонки с участием до 300 пользователей в Microsoft Teams  2 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Беседуйте со своими коллегами в чате Microsoft Teams, даже если вы не за компьютером, а в пути 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Общайтесь и сотрудничайте легко и непринужденно — Microsoft Teams обеспечит вам и вашей команде единую централизованную платформу для бесед в чате, проведения собраний, работы с файлами и приложениями 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Используйте SharePoint, чтобы создавать сайты групп и обмениваться информацией, контентом и файлами в интрасети 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Присоединяйтесь к собраниям в пути по номеру телефонного подключения с помощью Аудиоконференций  5 
+
+Доступно в качестве [ надстройки ](https://www.microsoft.com/ru-
+ru/microsoft-365/microsoft-teams/audio-conferencing)
+
+    * Безопасность и соответствие требованиям 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Защитите свою электронную почту от спама, вредоносных программ и известных угроз с помощью Exchange Online Protection 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Более тысячи инструментов для управления безопасностью и конфиденциальностью помогут вам обеспечить соответствие требованиям международных, региональных и отраслевых нормативов и стандартов 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Группы безопасности и настраиваемые разрешения позволяют контролировать доступ к бизнес-информации — именно вы будете определять, кто и когда может пользоваться вашими файлами 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Создавайте политики паролей, чтобы обязать пользователей менять пароли через определенные промежутки времени 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+    * Поддержка и развертывание 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Пользуйтесь услугами круглосуточной поддержки по телефону и через Интернет 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Доступность в течение 99,9 % времени, подкрепленная финансовыми гарантиями, не оставит вам причин для беспокойства. 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Максимальное число пользователей 
+
+300
+
+      * Лицензии для коммерческого использования 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+    * Средства для развития бизнеса и управления им 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Microsoft Teams — приложение для управления расписаниями и координации повседневных задач 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Microsoft Lists позволяет отслеживать информацию и контролировать задачи, наиболее важные для вашей команды 
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Microsoft Forms позволит собирать отзывы и предложения от клиентов и сотрудников 
+
+Включено
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Microsoft Bookings поможет вашим клиентам назначать встречи с представителями компании и управлять ими 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+    * Классические версии приложений Office для компьютеров Windows и Mac 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Используйте полностью установленные и всегда актуальные версии Outlook, Word, Excel, PowerPoint, OneNote для ПК с Windows и компьютеров Mac \(а также Access и Publisher только для ПК с Windows\) 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Устанавливайте приложения Office на пять ПК с Windows или компьютеров Mac для каждого пользователя  1 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+    * Расширенная безопасность 
+
+      * Защититесь от сложных угроз, скрытых во вложениях электронной почты и ссылках, и получите доступ к передовым средствам защиты от угроз нулевого дня, программ-шантажистов и других изощренных атак вредоносного ПО с Microsoft Defender для Office 365 
+
+      * Дистанционно удаляйте корпоративные данные с потерянных и украденных устройств с помощью функции Selective Wipe в Intune 
+
+      * Ограничьте копирование и сохранение корпоративной информации в посторонних приложениях и местах с помощью функции защиты мобильных приложений Office 
+
+      * Контролируйте доступ к корпоративной информации с помощью ограничений типа "Не копировать" и "Не пересылать" на базе технологии управления правами на доступ к данным 
+
+      * Применяйте политики Windows 10 для защиты от угроз еще до их проникновения в сеть с помощью функции Exploit Guard в Microsoft Defender 
+
+      * Организуйте защиту от вредоносного ПО, чтобы обезопасить свои устройства на базе Windows 10 от вирусов, шпионских и других вредоносных программ с помощью Защитника Windows 
+
+      * Получите доступ к неограниченному облачному хранилищу для архивирования и долгосрочным политикам сохранения, гарантирующим, что вы не потеряете ни одного электронного письма, с помощью службы Exchange Online Archiving 
+
+    * Управление устройствами 
+
+      * Настройте функции и параметры безопасности на компьютерах с Windows 10 и мобильных устройствах с iOS или Android®  4  с помощью простого и удобного мастера настройки. 
+
+      * Используйте упрощенные средства управления, чтобы контролировать политики на компьютерах с Windows 10 
+
+      * Автоматически развертывайте приложения Office на ПК с Windows 10 
+
+      * Настройте свои компьютеры для автоматической установки обновлений Office и Windows 10 
+
+      * Применяйте политики безопасности для защиты корпоративных данных на всех устройствах, включая платформы iOS, Android®  4  и Windows, с помощью средств управления мобильными устройствами от Intune 
+
+[ Купить
+](https://go.microsoft.com/fwlink/p/?LinkID=510935&clcid=0x419&culture=ru-
+ru&country=RU)
+
+[ Подробнее  ](https://www.microsoft.com/ru-
+ru/microsoft-365/business/microsoft-365-business-standard)
+
+[ Бесплатная пробная версия на месяц
+](https://go.microsoft.com/fwlink/p/?LinkID=510938&clcid=0x419&culture=ru-
+ru&country=RU) 3
+
+  * ###  Microsoft 365 бизнес премиум 
+
+1 250,00 ₽  на пользователя в месяц
+
+\(подписка на год\)
+
+Microsoft 365 бизнес премиум, 1 250,00 ₽ на пользователя в месяц \(подписка на
+год\)
+
+Цена не включает налоги.
+
+###  Microsoft 365 бизнес премиум
+
+[ Купить
+](https://go.microsoft.com/fwlink/p/?LinkID=2005953&clcid=0x419&culture=ru-
+ru&country=RU)
+
+[ Бесплатная пробная версия на месяц
+](https://go.microsoft.com/fwlink/p/?LinkID=2102309&clcid=0x419&culture=ru-
+ru&country=RU) 3
+
+![Значок фрагмента галочки указывает на то, что возможность частично
+включена](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RWrWMY) ![Значок фрагмента галочки
+указывает на то, что возможность частично включена](https://img-prod-cms-rt-
+microsoft-com.akamaized.net/cms/api/am/imageFileData/RE32er2) Частично
+включено  ![Значок галочки указывает на то, что возможность
+включена](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![Значок галочки указывает
+на то, что возможность включена](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE30tG1) Включено
+
+    * Мобильные и веб-версии приложений Office 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Пользуйтесь веб-версиями Outlook, Word, Excel, PowerPoint и OneNote 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Используйте всегда актуальные версии Outlook, Word, Excel, PowerPoint и OneNote для устройств с iOS и Android®  4  для пяти телефонов и пяти планшетов  1 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Организуйте совместную работу с функциями редактирования в реальном времени \(несколько пользователей могут вместе работать над одним документом\) 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+    * Электронная почта и календари 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Получите почтовые ящики размером 50 ГБ 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Используйте собственное доменное имя \(например, ваше\_имя@ваша\_компания.com\) 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Пользуйтесь корпоративной почтой на телефонах, планшетах, компьютерах и в браузере с приложением Exchange 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Управляйте своим календарем, планируйте собрания на основе сведений об удобном для сотрудников времени, настраивайте напоминания 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Легко назначайте собрания и отвечайте на приглашения с помощью общих календарей 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Настраивайте новые адреса электронной почты, восстанавливайте недавно удаленные учетные записи, создавайте пользовательские сценарии и делайте многое другое, где бы вы ни находились 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+    * Хранение и совместное использование файлов 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Храните файлы в облачном хранилище OneDrive размером 1 ТБ и предоставляйте к ним общий доступ 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Работайте с файлами и сохраняйте их в OneDrive или SharePoint — ваши изменения будут отражаться на всех синхронизируемых устройствах 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Делитесь файлами с внешними пользователями с помощью ссылок для доступа и гостевых ссылок 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Пользуйтесь безопасными средствами для предоставления общего доступа к документам и отправки сообщений — ваша информация будет доступна только пользователю с соответствующими правами 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Работайте с файлами и синхронизируйте их на компьютерах с Windows или macOS и мобильных устройствах 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+    * Командная работа и взаимодействие 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Проводите онлайн-собрания и осуществляйте видеозвонки с участием до 300 пользователей в Microsoft Teams  2 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Беседуйте со своими коллегами в чате Microsoft Teams, даже если вы не за компьютером, а в пути 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Общайтесь и сотрудничайте легко и непринужденно — Microsoft Teams обеспечит вам и вашей команде единую централизованную платформу для бесед в чате, проведения собраний, работы с файлами и приложениями 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Используйте SharePoint, чтобы создавать сайты групп и обмениваться информацией, контентом и файлами в интрасети 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Присоединяйтесь к собраниям в пути по номеру телефонного подключения с помощью Аудиоконференций  5 
+
+Доступно в качестве [ надстройки ](https://www.microsoft.com/ru-
+ru/microsoft-365/microsoft-teams/audio-conferencing)
+
+    * Безопасность и соответствие требованиям 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Защитите свою электронную почту от спама, вредоносных программ и известных угроз с помощью Exchange Online Protection 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Более тысячи инструментов для управления безопасностью и конфиденциальностью помогут вам обеспечить соответствие требованиям международных, региональных и отраслевых нормативов и стандартов 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Группы безопасности и настраиваемые разрешения позволяют контролировать доступ к бизнес-информации — именно вы будете определять, кто и когда может пользоваться вашими файлами 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Создавайте политики паролей, чтобы обязать пользователей менять пароли через определенные промежутки времени 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+    * Поддержка и развертывание 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Пользуйтесь услугами круглосуточной поддержки по телефону и через Интернет 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Доступность в течение 99,9 % времени, подкрепленная финансовыми гарантиями, не оставит вам причин для беспокойства. 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Максимальное число пользователей 
+
+300
+
+      * Лицензии для коммерческого использования 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+    * Средства для развития бизнеса и управления им 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Microsoft Teams — приложение для управления расписаниями и координации повседневных задач 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Microsoft Lists позволяет отслеживать информацию и контролировать задачи, наиболее важные для вашей команды 
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Microsoft Forms позволит собирать отзывы и предложения от клиентов и сотрудников 
+
+Включено
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Microsoft Bookings поможет вашим клиентам назначать встречи с представителями компании и управлять ими 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+    * Классические версии приложений Office для компьютеров Windows и Mac 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Используйте полностью установленные и всегда актуальные версии Outlook, Word, Excel, PowerPoint, OneNote для ПК с Windows и компьютеров Mac \(а также Access и Publisher только для ПК с Windows\) 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Устанавливайте приложения Office на пять ПК с Windows или компьютеров Mac для каждого пользователя  1 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+    * Расширенная безопасность 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Защититесь от сложных угроз, скрытых во вложениях электронной почты и ссылках, и получите доступ к передовым средствам защиты от угроз нулевого дня, программ-шантажистов и других изощренных атак вредоносного ПО с Microsoft Defender для Office 365 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Дистанционно удаляйте корпоративные данные с потерянных и украденных устройств с помощью функции Selective Wipe в Intune 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Ограничьте копирование и сохранение корпоративной информации в посторонних приложениях и местах с помощью функции защиты мобильных приложений Office 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Контролируйте доступ к корпоративной информации с помощью ограничений типа "Не копировать" и "Не пересылать" на базе технологии управления правами на доступ к данным 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Применяйте политики Windows 10 для защиты от угроз еще до их проникновения в сеть с помощью функции Exploit Guard в Microsoft Defender 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Организуйте защиту от вредоносного ПО, чтобы обезопасить свои устройства на базе Windows 10 от вирусов, шпионских и других вредоносных программ с помощью Защитника Windows 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Получите доступ к неограниченному облачному хранилищу для архивирования и долгосрочным политикам сохранения, гарантирующим, что вы не потеряете ни одного электронного письма, с помощью службы Exchange Online Archiving 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+    * Управление устройствами 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Настройте функции и параметры безопасности на компьютерах с Windows 10 и мобильных устройствах с iOS или Android®  4  с помощью простого и удобного мастера настройки. 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Используйте упрощенные средства управления, чтобы контролировать политики на компьютерах с Windows 10 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Автоматически развертывайте приложения Office на ПК с Windows 10 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Настройте свои компьютеры для автоматической установки обновлений Office и Windows 10 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+      * Применяйте политики безопасности для защиты корпоративных данных на всех устройствах, включая платформы iOS, Android®  4  и Windows, с помощью средств управления мобильными устройствами от Intune 
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+[ Купить
+](https://go.microsoft.com/fwlink/p/?LinkID=2005953&clcid=0x419&culture=ru-
+ru&country=RU)
+
+[ Подробнее  ](https://www.microsoft.com/ru-
+ru/microsoft-365/business/microsoft-365-business-premium)
+
+[ Бесплатная пробная версия на месяц
+](https://go.microsoft.com/fwlink/p/?LinkID=2102309&clcid=0x419&culture=ru-
+ru&country=RU) 3
+
+Возможности продукта  |
+
+Not applicable
+
+|  Microsoft 365 бизнес базовый  |  Microsoft 365 бизнес стандарт  |
+Microsoft 365 бизнес премиум  
+---|---|---|---|---  
+  
+Not applicable
+
+|
+
+###  Microsoft 365 бизнес базовый
+
+312,50 ₽  на пользователя в месяц
+
+\(подписка на год\)
+
+Microsoft 365 бизнес базовый, 312,50 ₽ на пользователя в месяц \(подписка на
+год\)
+
+Цена не включает налоги.
+
+###  Microsoft 365 бизнес базовый
+
+|
+
+###  Microsoft 365 бизнес стандарт
+
+781,30 ₽  на пользователя в месяц
+
+\(подписка на год\)
+
+Microsoft 365 бизнес стандарт, 781,30 ₽ на пользователя в месяц \(подписка на
+год\)
+
+Цена не включает налоги.
+
+###  Microsoft 365 бизнес стандарт
+
+|
+
+###  Microsoft 365 бизнес премиум
+
+1 250,00 ₽  на пользователя в месяц
+
+\(подписка на год\)
+
+Microsoft 365 бизнес премиум, 1 250,00 ₽ на пользователя в месяц \(подписка на
+год\)
+
+Цена не включает налоги.
+
+###  Microsoft 365 бизнес премиум  
+  
+Not applicable
+
+|
+
+[ Купить
+](https://go.microsoft.com/fwlink/p/?LinkID=510933&clcid=0x419&culture=ru-
+ru&country=RU)
+
+|
+
+[ Купить
+](https://go.microsoft.com/fwlink/p/?LinkID=510935&clcid=0x419&culture=ru-
+ru&country=RU)
+
+|
+
+[ Купить
+](https://go.microsoft.com/fwlink/p/?LinkID=2005953&clcid=0x419&culture=ru-
+ru&country=RU)  
+  
+![Значок фрагмента галочки указывает на то, что возможность частично
+включена](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RWrWMY) ![Значок фрагмента галочки
+указывает на то, что возможность частично включена](https://img-prod-cms-rt-
+microsoft-com.akamaized.net/cms/api/am/imageFileData/RE32er2) Частично
+включено  ![Значок галочки указывает на то, что возможность
+включена](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![Значок галочки указывает
+на то, что возможность включена](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE30tG1) Включено
+
+|
+
+[ Бесплатная пробная версия на месяц
+](https://go.microsoft.com/fwlink/p/?LinkID=2147547&clcid=0x419&culture=ru-
+ru&country=RU) 3
+
+|
+
+[ Бесплатная пробная версия на месяц
+](https://go.microsoft.com/fwlink/p/?LinkID=510938&clcid=0x419&culture=ru-
+ru&country=RU) 3
+
+|
+
+[ Бесплатная пробная версия на месяц
+](https://go.microsoft.com/fwlink/p/?LinkID=2102309&clcid=0x419&culture=ru-
+ru&country=RU) 3  
+  
+Мобильные и веб-версии приложений Office
+
+|
+
+Мобильные и веб-версии приложений Office
+
+Кнопка в заголовке для развертывания 3 строк таблицы ниже
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Пользуйтесь веб-версиями Outlook, Word, Excel, PowerPoint и OneNote
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Используйте всегда актуальные версии Outlook, Word, Excel, PowerPoint и
+OneNote для устройств с iOS и Android®  4  для пяти телефонов и пяти планшетов
+1
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Организуйте совместную работу с функциями редактирования в реальном времени
+\(несколько пользователей могут вместе работать над одним документом\)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Электронная почта и календари
+
+|
+
+Электронная почта и календари
+
+Кнопка в заголовке для развертывания 6 строк таблицы ниже
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Получите почтовые ящики размером 50 ГБ
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Используйте собственное доменное имя \(например,
+ваше\_имя@ваша\_компания.com\)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Пользуйтесь корпоративной почтой на телефонах, планшетах, компьютерах и в
+браузере с приложением Exchange
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Управляйте своим календарем, планируйте собрания на основе сведений об удобном
+для сотрудников времени, настраивайте напоминания
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Легко назначайте собрания и отвечайте на приглашения с помощью общих
+календарей
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Настраивайте новые адреса электронной почты, восстанавливайте недавно
+удаленные учетные записи, создавайте пользовательские сценарии и делайте
+многое другое, где бы вы ни находились
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Хранение и совместное использование файлов
+
+|
+
+Хранение и совместное использование файлов
+
+Кнопка в заголовке для развертывания 5 строк таблицы ниже
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Храните файлы в облачном хранилище OneDrive размером 1 ТБ и предоставляйте к
+ним общий доступ
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Работайте с файлами и сохраняйте их в OneDrive или SharePoint — ваши изменения
+будут отражаться на всех синхронизируемых устройствах
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Делитесь файлами с внешними пользователями с помощью ссылок для доступа и
+гостевых ссылок
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Пользуйтесь безопасными средствами для предоставления общего доступа к
+документам и отправки сообщений — ваша информация будет доступна только
+пользователю с соответствующими правами
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Работайте с файлами и синхронизируйте их на компьютерах с Windows или macOS и
+мобильных устройствах
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Командная работа и взаимодействие
+
+|
+
+Командная работа и взаимодействие
+
+Кнопка в заголовке для развертывания 5 строк таблицы ниже
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Проводите онлайн-собрания и осуществляйте видеозвонки с участием до 300
+пользователей в Microsoft Teams  2
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Беседуйте со своими коллегами в чате Microsoft Teams, даже если вы не за
+компьютером, а в пути
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Общайтесь и сотрудничайте легко и непринужденно — Microsoft Teams обеспечит
+вам и вашей команде единую централизованную платформу для бесед в чате,
+проведения собраний, работы с файлами и приложениями
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Используйте SharePoint, чтобы создавать сайты групп и обмениваться
+информацией, контентом и файлами в интрасети
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Присоединяйтесь к собраниям в пути по номеру телефонного подключения с помощью
+Аудиоконференций  5
+
+|
+
+Доступно в качестве [ надстройки ](https://www.microsoft.com/ru-
+ru/microsoft-365/microsoft-teams/audio-conferencing)
+
+|
+
+Доступно в качестве [ надстройки ](https://www.microsoft.com/ru-
+ru/microsoft-365/microsoft-teams/audio-conferencing)
+
+|
+
+Доступно в качестве [ надстройки ](https://www.microsoft.com/ru-
+ru/microsoft-365/microsoft-teams/audio-conferencing)  
+  
+Безопасность и соответствие требованиям
+
+|
+
+Безопасность и соответствие требованиям
+
+Кнопка в заголовке для развертывания 4 строк таблицы ниже
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Защитите свою электронную почту от спама, вредоносных программ и известных
+угроз с помощью Exchange Online Protection
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Более тысячи инструментов для управления безопасностью и конфиденциальностью
+помогут вам обеспечить соответствие требованиям международных, региональных и
+отраслевых нормативов и стандартов
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Группы безопасности и настраиваемые разрешения позволяют контролировать доступ
+к бизнес-информации — именно вы будете определять, кто и когда может
+пользоваться вашими файлами
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Создавайте политики паролей, чтобы обязать пользователей менять пароли через
+определенные промежутки времени
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Поддержка и развертывание
+
+|
+
+Поддержка и развертывание
+
+Кнопка в заголовке для развертывания 4 строк таблицы ниже
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Пользуйтесь услугами круглосуточной поддержки по телефону и через Интернет
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Доступность в течение 99,9 % времени, подкрепленная финансовыми гарантиями, не
+оставит вам причин для беспокойства.
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Максимальное число пользователей
+
+|
+
+300
+
+|
+
+300
+
+|
+
+300  
+  
+Лицензии для коммерческого использования
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Средства для развития бизнеса и управления им
+
+|
+
+Средства для развития бизнеса и управления им
+
+Кнопка в заголовке для развертывания 4 строк таблицы ниже
+
+|
+
+Эта функция или возможность поддерживается частично  ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWrxgh)
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE32eqY)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Microsoft Teams — приложение для управления расписаниями и координации
+повседневных задач
+
+|
+
+Включено
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Microsoft Lists позволяет отслеживать информацию и контролировать задачи,
+наиболее важные для вашей команды
+
+|
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Microsoft Forms позволит собирать отзывы и предложения от клиентов и
+сотрудников
+
+|
+
+Включено
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Включено
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Включено
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Microsoft Bookings поможет вашим клиентам назначать встречи с представителями
+компании и управлять ими
+
+|
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Классические версии приложений Office для компьютеров Windows и Mac
+
+|
+
+Классические версии приложений Office для компьютеров Windows и Mac
+
+Кнопка в заголовке для развертывания 2 строк таблицы ниже
+
+|
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Используйте полностью установленные и всегда актуальные версии Outlook, Word,
+Excel, PowerPoint, OneNote для ПК с Windows и компьютеров Mac \(а также Access
+и Publisher только для ПК с Windows\)
+
+|
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Устанавливайте приложения Office на пять ПК с Windows или компьютеров Mac для
+каждого пользователя  1
+
+|
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Расширенная безопасность
+
+|
+
+Расширенная безопасность
+
+Кнопка в заголовке для развертывания 7 строк таблицы ниже
+
+|
+
+|
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Защититесь от сложных угроз, скрытых во вложениях электронной почты и ссылках,
+и получите доступ к передовым средствам защиты от угроз нулевого дня,
+программ-шантажистов и других изощренных атак вредоносного ПО с Microsoft
+Defender для Office 365
+
+|
+
+|
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Дистанционно удаляйте корпоративные данные с потерянных и украденных устройств
+с помощью функции Selective Wipe в Intune
+
+|
+
+|
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Ограничьте копирование и сохранение корпоративной информации в посторонних
+приложениях и местах с помощью функции защиты мобильных приложений Office
+
+|
+
+|
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Контролируйте доступ к корпоративной информации с помощью ограничений типа "Не
+копировать" и "Не пересылать" на базе технологии управления правами на доступ
+к данным
+
+|
+
+|
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Применяйте политики Windows 10 для защиты от угроз еще до их проникновения в
+сеть с помощью функции Exploit Guard в Microsoft Defender
+
+|
+
+|
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Организуйте защиту от вредоносного ПО, чтобы обезопасить свои устройства на
+базе Windows 10 от вирусов, шпионских и других вредоносных программ с помощью
+Защитника Windows
+
+|
+
+|
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Получите доступ к неограниченному облачному хранилищу для архивирования и
+долгосрочным политикам сохранения, гарантирующим, что вы не потеряете ни
+одного электронного письма, с помощью службы Exchange Online Archiving
+
+|
+
+|
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Управление устройствами
+
+|
+
+Управление устройствами
+
+Кнопка в заголовке для развертывания 5 строк таблицы ниже
+
+|
+
+|
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Настройте функции и параметры безопасности на компьютерах с Windows 10 и
+мобильных устройствах с iOS или Android®  4  с помощью простого и удобного
+мастера настройки.
+
+|
+
+|
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Используйте упрощенные средства управления, чтобы контролировать политики на
+компьютерах с Windows 10
+
+|
+
+|
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Автоматически развертывайте приложения Office на ПК с Windows 10
+
+|
+
+|
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Настройте свои компьютеры для автоматической установки обновлений Office и
+Windows 10
+
+|
+
+|
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Применяйте политики безопасности для защиты корпоративных данных на всех
+устройствах, включая платформы iOS, Android®  4  и Windows, с помощью средств
+управления мобильными устройствами от Intune
+
+|
+
+|
+
+|
+
+Included
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2ohWZ) ![](https://img-prod-cms-
+rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE30tG1)  
+  
+Not applicable
+
+|
+
+[ Купить
+](https://go.microsoft.com/fwlink/p/?LinkID=510933&clcid=0x419&culture=ru-
+ru&country=RU)
+
+[ Подробнее  ](https://www.microsoft.com/ru-
+ru/microsoft-365/business/microsoft-365-business-basic)
+
+[ Бесплатная пробная версия на месяц
+](https://go.microsoft.com/fwlink/p/?LinkID=2147547&clcid=0x419&culture=ru-
+ru&country=RU) 3
+
+|
+
+[ Купить
+](https://go.microsoft.com/fwlink/p/?LinkID=510935&clcid=0x419&culture=ru-
+ru&country=RU)
+
+[ Подробнее  ](https://www.microsoft.com/ru-
+ru/microsoft-365/business/microsoft-365-business-standard)
+
+[ Бесплатная пробная версия на месяц
+](https://go.microsoft.com/fwlink/p/?LinkID=510938&clcid=0x419&culture=ru-
+ru&country=RU) 3
+
+|
+
+[ Купить
+](https://go.microsoft.com/fwlink/p/?LinkID=2005953&clcid=0x419&culture=ru-
+ru&country=RU)
+
+[ Подробнее  ](https://www.microsoft.com/ru-
+ru/microsoft-365/business/microsoft-365-business-premium)
+
+[ Бесплатная пробная версия на месяц
+](https://go.microsoft.com/fwlink/p/?LinkID=2102309&clcid=0x419&culture=ru-
+ru&country=RU) 3  
+  
+##  Вам нужны только приложения Office? Мы можем вам кое-что предложить
+
+###  Приложения Microsoft 365 для бизнеса
+
+новая цена 515,60 ₽  515,60 ₽  на пользователя в месяц
+
+\(подписка на год\)
+
+Цена не включает налоги.
+
+[ Купить
+](https://go.microsoft.com/fwlink/p/?LinkID=404308&clcid=0x419&culture=ru-
+ru&country=RU)
+
+[ Бесплатная пробная версия на месяц
+](https://go.microsoft.com/fwlink/p/?LinkID=507653&clcid=0x419&culture=ru-
+ru&country=RU) 3
+
+[ Подробнее  ](https://www.microsoft.com/ru-
+ru/microsoft-365/business/microsoft-365-apps-for-business)
+
+###  Приложения Microsoft 365 для бизнеса включают:
+
+  * Постоянно обновляемые версии приложений Office для компьютеров и мобильных устройств: Outlook, Word, Excel, PowerPoint, OneNote \(а также Access и Publisher только для компьютеров c Windows\). 
+  * Веб-версии Word, Excel и PowerPoint 
+  * Хранение и совместное использование файлов: 1 ТБ места в облачном хранилище OneDrive. 
+  * Одна лицензия дает право на полную установку приложений Office на 5 телефонов, 5 планшетов и 5 ПК с Windows или компьютеров Mac для одного пользователя  1  . 
+
+##  Узнайте, что говорят наши клиенты о Microsoft 365
+
+![No Data Available](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Specta Interpak
+
+**“Уровень безопасности данных повысился, создание резервных копий стало
+надежнее и все работает лучше, чем в локальном решении.”**
+
+Дмитрий Леваков, системный администратор
+
+[ Ознакомиться с историей  ](https://customers.microsoft.com/ru-
+ru/story/851758-specta-interpak-manufacturing-azure-ru-russia)
+
+![No Data Available](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Российско-Германская ВТП - German-Russian Chamber of Commerce \(AHK
+Russland\)
+
+**“Наши команды стали более самостоятельными и решают задачи на 40% быстрее,
+что позволяет им вести больше проектов.”**
+
+Ханнес Фарлок, генеральный директор ООО «Инфоцентр» в Москве
+
+[ Ознакомиться с историей  ](https://customers.microsoft.com/ru-
+ru/story/851285-german-russian-chamber-of-commerce-ahk-russland-professional-
+services-azure-ru-russia)
+
+![No Data Available](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Компьютерный учебный центр «Специалист»
+
+**“Теперь преподаватели и студенты могут использовать одно решение, чтобы
+работать вместе в режиме реального времени или офлайн в зависимости от своих
+задач.”**
+
+Данил Динцис, руководитель проекта
+
+[ Ознакомиться с историей  ](https://customers.microsoft.com/ru-
+ru/story/728718-computer-training-center-professional-services-teams-
+office365-russia-russian)
+
+![No Data Available](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  ООО МК Невский
+
+**“Нам удалось избежать капитальных затрат при расширении сети
+представительств, при этом получить современную платформу для коммуникаций,
+совместной работы и автоматизации бизнес-процессов.”**
+
+Вадим Мешков, руководитель
+
+[ Ознакомиться с историей  ](https://customers.microsoft.com/ru-
+ru/story/microfinance-nevsky-office365-teams-ru-russia)
+
+###  Microsoft 365 — это больше, чем просто решение для совместной работы
+
+![](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+[ Скачать бесплатную электронную книгу
+](https://go.microsoft.com/fwlink/p/?LinkID=2132695&clcid=0x419&culture=ru-
+ru&country=RU)
+
+###  Экспресс-курс по Microsoft 365 для бизнеса
+
+![](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+[ Скачать бесплатную электронную книгу
+](https://go.microsoft.com/fwlink/p/?LinkID=2142093&clcid=0x419&culture=ru-
+ru&country=RU)
+
+##  Вопросы и ответы
+
+Развернуть все  |  Свернуть все
+
+Что такое Microsoft 365?
+
+Microsoft 365 — это облачное решение для продуктивной работы, которое создано,
+чтобы помогать людям добиваться большего на работе и в личной жизни. В него
+входят лучшие в своем классе приложения Office, интеллектуальные облачные
+службы и расширенные инструменты защиты данных.
+
+Что произошло с планами Office 365 бизнес?
+
+Планы Office 365 бизнес преобразованы в планы Microsoft 365 бизнес. Название
+сменилось, но приложения и службы все так же эффективны и предоставляются по
+той же цене.
+
+  * Microsoft 365 бизнес базовый — это новое название набора решений Office 365 бизнес базовый 
+  * Microsoft 365 бизнес стандарт — это новое название набора решений Office 365 бизнес премиум 
+  * Microsoft 365 бизнес премиум — это новое название набора решений Microsoft 365 бизнес 
+  * Приложения Microsoft 365 для бизнеса — это новое название набора решений Office 365 бизнес 
+
+Почему название изменилось с Office 365 на Microsoft 365?
+
+Мы изменили название, чтобы оно точнее отражало тот набор функций и
+возможностей, которые входят в состав подписки. Наборы решений Microsoft 365
+включают те же преимущества, которыми вы пользовались в рамках подписок Office
+365, в том числе лучшие в своем классе приложения Office, интеллектуальные
+облачные службы и расширенные инструменты защиты данных.
+
+Если изменились названия планов для бизнеса, то цены и сами продукты тоже
+изменились?
+
+В планах для малого и среднего бизнеса цены и компоненты решений не менялись.
+Вам доступны те же самые планы, только под другими названиями.
+
+У моей компании уже есть подписка на Office 365 бизнес. Что изменится при
+переходе на Microsoft 365?
+
+Вам ничего не придется делать. Ваша подписка Office 365 будет автоматически
+переименована в Microsoft 365. Новое название будет использоваться на портале
+администрирования и указываться в ежемесячно выставляемых счетах.
+
+Как Microsoft 365 и Microsoft Teams помогают клиентам организовывать удаленную
+работу?
+
+[ Ознакомиться с отчетом о тенденциях в удаленной работе
+](https://www.microsoft.com/ru-ru/microsoft-365/work-productivity-trends-
+report) и узнайте, как люди по всему миру приспосабливаются к постоянной
+удаленной работе.
+
+##  Найти партнера
+
+Обратитесь к партнеру корпорации Майкрософт, чтобы успешно перевести свою
+компанию на Microsoft 365.
+
+[ Найти партнера
+](https://go.microsoft.com/fwlink/p/?LinkID=841249&clcid=0x419&culture=ru-
+ru&country=RU)
+
+##  Microsoft 365 для крупных предприятий
+
+У вас больше 300 сотрудников, и вы ищете подходящий набор Microsoft 365?
+Ознакомьтесь с планами для предприятий.
+
+[ Подробнее  ](https://www.microsoft.com/ru-ru/microsoft-365/enterprise)
+
+##  Запланировать живую демонстрацию
+
+Запросите демонстрацию от одного из наших экспертов и ознакомьтесь с
+возможностями Microsoft 365 на практике.
+
+[ Запросить демонстрацию
+](https://go.microsoft.com/fwlink/p/?LinkID=2142191&clcid=0x419&culture=ru-
+ru&country=RU)
+
+1\. Поддерживаются система Windows 10 и более поздние версии. Полный список
+требований для компьютеров Windows и Mac см. в [ требованиях к системе
+](https://www.microsoft.com/ru-ru/microsoft-365/microsoft-365-and-office-
+resources/#coreui-heading-5dcqxz4) .  
+2\. Этот план поддерживает Office 2019, Office 2016, Office 2013 и Office 2011
+для Mac. Предыдущие версии Office, такие как Office 2010 и Office 2007, могут
+работать со службами Microsoft 365 с некоторыми функциональными ограничениями.
+Совместимость с Office не поддерживается для планов Office 365 F3.  
+3\. После завершения бесплатного месячного пробного периода вам будет
+выставлен счет за соответствующую подписку. Требуется кредитная карта. Вы
+можете остановить выставление счетов в любое время.  
+4\. Мобильные приложения доступны не во всех странах и регионах.  
+5\. Аудиоконференции и тарифные планы доступны не во всех странах и регионах.
+Чтобы узнать больше, [ ознакомьтесь со списком поддерживаемых стран и регионов
+](https://go.microsoft.com/fwlink/p/?linkid=839556) .
+
+* * *
+
+Следите за новостями Microsoft 365
+
+  * [ ![Логотип LinkedIn](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/30de2af0/office.testdrive/images/social/LinkedIn.png) ![Логотип LinkedIn](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/e9682e51/office.testdrive/images/social/LinkedIn-high-contrast.png) ](https://go.microsoft.com/fwlink/?linkid=2144764)
+  * [ ![Логотип Twitter](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/10609c90/office.testdrive/images/social/Twitter.png) ![Логотип Twitter](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/6edf9aa7/office.testdrive/images/social/Twitter-high-contrast.png) ](https://go.microsoft.com/fwlink/p/?LinkId=2000804)
+  * [ ![Логотип Blog](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/f3229d48/office.testdrive/images/social/Blog.png) ![Логотип Blog](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/fa9a23e2/office.testdrive/images/social/Blog-high-contrast.png) ](https://go.microsoft.com/fwlink/p/?LinkID=2000803)
+  * [ ![Логотип VKontakte](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/881f11de/office.testdrive/images/social/VKontakte.png) ](https://vk.com/officerussia)
+
+Что нового?
+
+  * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365)
+  * [ Приложения Windows 10 ](https://www.microsoft.com/ru-ru/windows/windows-10-apps)
+
+Microsoft Store
+
+  * [ Профиль учетной записи ](https://account.microsoft.com/)
+  * [ Центр загрузки ](https://www.microsoft.com/ru-ru/download)
+  * [ Поддержка Microsoft Store ](https://go.microsoft.com/fwlink/?linkid=2139749)
+  * [ Возврат товаров ](https://go.microsoft.com/fwlink/p/?LinkID=824764&clcid=0x419)
+  * [ Отслеживание заказа ](https://account.microsoft.com/orders)
+
+Для образования
+
+  * [ Майкрософт и образование ](https://www.microsoft.com/ru-ru/education)
+  * [ Office для учащихся ](https://www.microsoft.com/ru-ru/education/products/office/default.aspx)
+  * [ Office 365 для школ ](https://products.office.com/ru-ru/academic/compare-office-365-education-plans)
+  * [ Специальные предложения для учащихся и родителей ](https://www.microsoft.com/ru-ru/store/b/student?icid=CNavfooter_Studentsandeducation)
+  * [ Microsoft Azure и образование ](https://azure.microsoft.com/ru-ru/community/education/)
+
+Для крупных предприятий
+
+  * [ Azure ](https://azure.microsoft.com/)
+  * [ AppSource ](https://go.microsoft.com/fwlink/?LinkID=808093)
+  * [ Автопромышленность ](https://www.microsoft.com/enterprise/automotive)
+  * [ Государственные учреждения ](https://www.microsoft.com/enterprise/government)
+  * [ Здравоохранение ](https://www.microsoft.com/enterprise/health)
+  * [ Промышленное производство ](https://www.microsoft.com/enterprise/manufacturing)
+  * [ Финансовые услуги ](https://www.microsoft.com/enterprise/financial-services/banking-and-capital-markets)
+  * [ Торговля ](https://www.microsoft.com/enterprise/retail-consumer-goods)
+
+Для разработчиков
+
+  * [ Microsoft Visual Studio ](https://visualstudio.microsoft.com/)
+  * [ Центр разработчиков Windows ](https://developer.microsoft.com/ru-ru/windows)
+  * [ Центр разработчиков ](https://developer.microsoft.com/)
+  * [ Программа Майкрософт для разработчиков ](https://developer.microsoft.com/ru-ru/store/register)
+  * [ Channel 9 ](https://channel9.msdn.com/)
+  * [ Центр разработчиков Office ](https://developer.microsoft.com/ru-ru/office)
+
+Компания
+
+  * [ Вакансии ](https://careers.microsoft.com/)
+  * [ О корпорации Майкрософт ](https://www.microsoft.com/ru-ru/about)
+  * [ Новости компании ](https://news.microsoft.com/ru-ru)
+  * [ Политика конфиденциальности Майкрософт ](https://privacy.microsoft.com/ru-ru)
+  * [ Инвесторы ](https://www.microsoft.com/investor/default.aspx)
+  * [ Безопасность ](https://www.microsoft.com/ru-ru/security/default.aspx)
+
+[ Русский \(Россия\) ](https://www.microsoft.com/ru-
+RU/microsoft-365/locale?absoluteReturnUrl=https%3a%2f%2fwww.microsoft.com%2fru-
+ru%2fmicrosoft-365%2fbusiness%3frtc%3d1)
+
+  * [ Связаться с Microsoft ](https://support.microsoft.com/contactus)
+  * [ Конфиденциальность ](https://go.microsoft.com/fwlink/?LinkId=521839)
+  * Управление файлами cookie 
+  * [ Условия использования ](https://go.microsoft.com/fwlink/?LinkID=206977)
+  * [ Товарные знаки ](https://www.microsoft.com/trademarks)
+  * [ Сведения о рекламе ](https://choice.microsoft.com/)
+  * © Microsoft 2021 
+

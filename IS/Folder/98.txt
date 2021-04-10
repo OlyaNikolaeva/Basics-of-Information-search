@@ -1,0 +1,798 @@
+Skip Navigation
+
+[ ](https://azure.microsoft.com/en-us/)
+
+  * [ Contact Sales  ](https://azure.microsoft.com/en-us/overview/contact-azure-sales/ "Contact Sales")
+  *   * Search 
+  * [ Search  ](https://azure.microsoft.com/en-us/search/)
+  * [ My account ](https://azure.microsoft.com/en-us/account/ "My account")
+  * [ Portal ](https://portal.azure.com/ "Portal")
+  * [ Sign in ](/auth/signin/?loginProvider=Microsoft&redirectUri=%2Fen-us%2F "Sign in")
+  *   * 
+
+  * [ Sales:  ](tel:) : [ Find a local number ](https://azure.microsoft.com/en-us/overview/sales-number/ "Find a local number")
+  * [ My account ](https://azure.microsoft.com/en-us/account/ "My account")
+  * [ Portal ](https://portal.azure.com/ "Portal")
+  * [ Sign in ](/auth/signin/?loginProvider=Microsoft&redirectUri=%2Fen-us%2F "Sign in")
+  * [ Free account ](https://azure.microsoft.com/en-us/free/ "Free account")
+  * [ Overview ](https://azure.microsoft.com/en-us/overview/ "Overview")
+  * [ Solutions ](https://azure.microsoft.com/en-us/solutions/ "Solutions")
+  * Products 
+    *       * Featured  Featured  Explore some of the most popular Azure products 
+        * [ Virtual Machines  Provision Windows and Linux virtual machines in seconds  ](https://azure.microsoft.com/en-us/services/virtual-machines/ "Virtual Machines")
+        * [ Windows Virtual Desktop  The best virtual desktop experience, delivered on Azure  ](https://azure.microsoft.com/en-us/services/virtual-desktop/ "Windows Virtual Desktop")
+        * [ Azure SQL  Managed, always up-to-date SQL instance in the cloud  ](https://azure.microsoft.com/en-us/services/azure-sql/ "Azure SQL")
+        * [ App Service  Quickly create powerful cloud apps for web and mobile  ](https://azure.microsoft.com/en-us/services/app-service/ "App Service")
+        * [ Azure Cosmos DB  Fast NoSQL database with open APIs for any scale  ](https://azure.microsoft.com/en-us/services/cosmos-db/ "Azure Cosmos DB")
+        * [ PlayFab  The complete LiveOps back-end platform for building and operating live games  ](https://azure.microsoft.com/en-us/services/playfab/ "PlayFab")
+        * [ Azure Kubernetes Service \(AKS\)  Simplify the deployment, management, and operations of Kubernetes  ](https://azure.microsoft.com/en-us/services/kubernetes-service/ "Azure Kubernetes Service \(AKS\)")
+        * [ Azure Functions  Process events with serverless code  ](https://azure.microsoft.com/en-us/services/functions/ "Azure Functions")
+        * [ Azure Cognitive Services  Add smart API capabilities to enable contextual interactions  ](https://azure.microsoft.com/en-us/services/cognitive-services/ "Azure Cognitive Services")
+        * [ Azure Quantum  Experience quantum impact today on Azure  ](https://azure.microsoft.com/en-us/services/quantum/ "Azure Quantum")
+        * [ See more ](https://azure.microsoft.com/en-us/services/#featured "See more")
+      * AI + Machine Learning  [ AI + Machine Learning ](https://azure.microsoft.com/en-us/overview/ai-platform/ "AI + Machine Learning") Create the next generation of applications using artificial intelligence capabilities for any developer and any scenario 
+        * [ Azure Cognitive Services  Add smart API capabilities to enable contextual interactions  ](https://azure.microsoft.com/en-us/services/cognitive-services/ "Azure Cognitive Services")
+        * [ Azure Bot Services  Intelligent, serverless bot services that scale on demand  ](https://azure.microsoft.com/en-us/services/bot-services/ "Azure Bot Services")
+        * [ Machine Learning  Build, train, and deploy models from the cloud to the edge  ](https://azure.microsoft.com/en-us/services/machine-learning/ "Machine Learning")
+        * [ Azure Databricks  Fast, easy, and collaborative Apache Spark-based analytics platform  ](https://azure.microsoft.com/en-us/services/databricks/ "Azure Databricks")
+        * [ Azure Cognitive Search  AI-powered cloud search service for mobile and web app development  ](https://azure.microsoft.com/en-us/services/search/ "Azure Cognitive Search")
+        * [ Azure Percept  Accelerate edge intelligence from silicon to service  ](https://azure.microsoft.com/en-us/services/azure-percept/ "Azure Percept")
+        * [ See more ](https://azure.microsoft.com/en-us/services/#ai-machine-learning "See more")
+      * Analytics  [ Analytics ](https://azure.microsoft.com/en-us/product-categories/analytics/ "Analytics") Gather, store, process, analyze, and visualize data of any variety, volume, or velocity 
+        * [ Azure Synapse Analytics  Limitless analytics service with unmatched time to insight  ](https://azure.microsoft.com/en-us/services/synapse-analytics/ "Azure Synapse Analytics")
+        * [ Azure Databricks  Fast, easy, and collaborative Apache Spark-based analytics platform  ](https://azure.microsoft.com/en-us/services/databricks/ "Azure Databricks")
+        * [ Azure Purview  Maximize business value with unified data governance  ](https://azure.microsoft.com/en-us/services/purview/ "Azure Purview")
+        * [ Azure Data Factory  Hybrid data integration at enterprise scale, made easy  ](https://azure.microsoft.com/en-us/services/data-factory/ "Azure Data Factory")
+        * [ HDInsight  Provision cloud Hadoop, Spark, R Server, HBase, and Storm clusters  ](https://azure.microsoft.com/en-us/services/hdinsight/ "HDInsight")
+        * [ Azure Stream Analytics  Real-time analytics on fast moving streams of data from applications and devices  ](https://azure.microsoft.com/en-us/services/stream-analytics/ "Azure Stream Analytics")
+        * [ Machine Learning  Build, train, and deploy models from the cloud to the edge  ](https://azure.microsoft.com/en-us/services/machine-learning/ "Machine Learning")
+        * [ Azure Analysis Services  Enterprise-grade analytics engine as a service  ](https://azure.microsoft.com/en-us/services/analysis-services/ "Azure Analysis Services")
+        * [ Azure Data Lake Storage  Massively scalable, secure data lake functionality built on Azure Blob Storage  ](https://azure.microsoft.com/en-us/services/storage/data-lake-storage/ "Azure Data Lake Storage")
+        * [ See more ](https://azure.microsoft.com/en-us/services/#analytics "See more")
+        * [ See more ](https://azure.microsoft.com/en-us/services/#analytics "See more")
+      * Blockchain  Blockchain  Build and manage blockchain based applications with a suite of integrated tools 
+        * [ Azure Blockchain Service  Build, govern, and expand consortium blockchain networks  ](https://azure.microsoft.com/en-us/services/blockchain-service/ "Azure Blockchain Service")
+        * [ Azure Blockchain Workbench  Easily prototype blockchain apps in the cloud  ](https://azure.microsoft.com/en-us/features/blockchain-workbench/ "Azure Blockchain Workbench")
+        * [ Azure Logic Apps  Automate the access and use of data across clouds without writing code  ](https://azure.microsoft.com/en-us/services/logic-apps/ "Azure Logic Apps")
+        * [ Azure Cosmos DB  Fast NoSQL database with open APIs for any scale  ](https://azure.microsoft.com/en-us/services/cosmos-db/ "Azure Cosmos DB")
+        * [ See more ](https://azure.microsoft.com/en-us/services/#blockchain "See more")
+      * Compute  [ Compute ](https://azure.microsoft.com/en-us/product-categories/compute/ "Compute") Access cloud compute capacity and scale on demand—and only pay for the resources you use 
+        * [ Virtual Machines  Provision Windows and Linux virtual machines in seconds  ](https://azure.microsoft.com/en-us/services/virtual-machines/ "Virtual Machines")
+        * [ Virtual Machine Scale Sets  Manage and scale up to thousands of Linux and Windows virtual machines  ](https://azure.microsoft.com/en-us/services/virtual-machine-scale-sets/ "Virtual Machine Scale Sets")
+        * [ Azure Kubernetes Service \(AKS\)  Simplify the deployment, management, and operations of Kubernetes  ](https://azure.microsoft.com/en-us/services/kubernetes-service/ "Azure Kubernetes Service \(AKS\)")
+        * [ Azure Spring Cloud  A fully managed Spring Cloud service, jointly built and operated with VMware  ](https://azure.microsoft.com/en-us/services/spring-cloud/ "Azure Spring Cloud")
+        * [ App Service  Quickly create powerful cloud apps for web and mobile  ](https://azure.microsoft.com/en-us/services/app-service/ "App Service")
+        * [ Azure Functions  Process events with serverless code  ](https://azure.microsoft.com/en-us/services/functions/ "Azure Functions")
+        * [ Azure Dedicated Host  A dedicated physical server to host your Azure VMs for Windows and Linux  ](https://azure.microsoft.com/en-us/services/virtual-machines/dedicated-host/ "Azure Dedicated Host")
+        * [ Batch  Cloud-scale job scheduling and compute management  ](https://azure.microsoft.com/en-us/services/batch/ "Batch")
+        * [ SQL Server on Virtual Machines  Host enterprise SQL Server apps in the cloud  ](https://azure.microsoft.com/en-us/services/virtual-machines/sql-server/ "SQL Server on Virtual Machines")
+        * [ See more ](https://azure.microsoft.com/en-us/services/#compute "See more")
+        * [ See more ](https://azure.microsoft.com/en-us/services/#compute "See more")
+      * Containers  [ Containers ](https://azure.microsoft.com/en-us/product-categories/containers/ "Containers") Develop and manage your containerized applications faster with integrated tools 
+        * [ Azure Kubernetes Service \(AKS\)  Simplify the deployment, management, and operations of Kubernetes  ](https://azure.microsoft.com/en-us/services/kubernetes-service/ "Azure Kubernetes Service \(AKS\)")
+        * [ Container Instances  Easily run containers on Azure without managing servers  ](https://azure.microsoft.com/en-us/services/container-instances/ "Container Instances")
+        * [ Service Fabric  Develop microservices and orchestrate containers on Windows or Linux  ](https://azure.microsoft.com/en-us/services/service-fabric/ "Service Fabric")
+        * [ Container Registry  Store and manage container images across all types of Azure deployments  ](https://azure.microsoft.com/en-us/services/container-registry/ "Container Registry")
+        * [ Web App for Containers  Easily deploy and run containerized web apps that scale with your business  ](https://azure.microsoft.com/en-us/services/app-service/containers/ "Web App for Containers")
+        * [ Azure Functions  Process events with serverless code  ](https://azure.microsoft.com/en-us/services/functions/ "Azure Functions")
+        * [ Azure Red Hat OpenShift  Fully managed OpenShift service, jointly operated with Red Hat  ](https://azure.microsoft.com/en-us/services/openshift/ "Azure Red Hat OpenShift")
+        * [ See more ](https://azure.microsoft.com/en-us/services/#containers "See more")
+      * Databases  [ Databases ](https://azure.microsoft.com/en-us/product-categories/databases/ "Databases") Support rapid growth and innovate faster with secure, enterprise-grade, and fully managed database services 
+        * [ Azure SQL  Managed, always up-to-date SQL instance in the cloud  ](https://azure.microsoft.com/en-us/services/azure-sql/ "Azure SQL")
+        * [ Azure Cosmos DB  Fast NoSQL database with open APIs for any scale  ](https://azure.microsoft.com/en-us/services/cosmos-db/ "Azure Cosmos DB")
+        * [ Azure SQL Database  Managed, intelligent SQL in the cloud  ](https://azure.microsoft.com/en-us/services/sql-database/ "Azure SQL Database")
+        * [ Azure Database for PostgreSQL  Fully managed, intelligent, and scalable PostgreSQL  ](https://azure.microsoft.com/en-us/services/postgresql/ "Azure Database for PostgreSQL")
+        * [ Azure SQL Managed Instance  Managed, always up-to-date SQL instance in the cloud  ](https://azure.microsoft.com/en-us/services/azure-sql/sql-managed-instance/ "Azure SQL Managed Instance")
+        * [ Azure Database for MySQL  Fully managed, scalable MySQL Database  ](https://azure.microsoft.com/en-us/services/mysql/ "Azure Database for MySQL")
+        * [ SQL Server on Virtual Machines  Host enterprise SQL Server apps in the cloud  ](https://azure.microsoft.com/en-us/services/virtual-machines/sql-server/ "SQL Server on Virtual Machines")
+        * [ Azure Cache for Redis  Accelerate applications with high-throughput, low-latency data caching  ](https://azure.microsoft.com/en-us/services/cache/ "Azure Cache for Redis")
+        * [ Azure Database Migration Service  Simplify on-premises database migration to the cloud  ](https://azure.microsoft.com/en-us/services/database-migration/ "Azure Database Migration Service")
+        * [ See more ](https://azure.microsoft.com/en-us/services/#databases "See more")
+        * [ See more ](https://azure.microsoft.com/en-us/services/#databases "See more")
+      * DevOps  [ DevOps ](https://azure.microsoft.com/en-us/product-categories/devops/ "DevOps") Deliver innovation faster with simple, reliable tools for continuous delivery 
+        * [ Azure DevOps  Services for teams to share code, track work, and ship software  ](https://azure.microsoft.com/en-us/services/devops/ "Azure DevOps")
+        * [ Azure Pipelines  Continuously build, test, and deploy to any platform and cloud  ](https://azure.microsoft.com/en-us/services/devops/pipelines/ "Azure Pipelines")
+        * [ Azure Boards  Plan, track, and discuss work across your teams  ](https://azure.microsoft.com/en-us/services/devops/boards/ "Azure Boards")
+        * [ Azure Repos  Get unlimited, cloud-hosted private Git repos for your project  ](https://azure.microsoft.com/en-us/services/devops/repos/ "Azure Repos")
+        * [ Azure Artifacts  Create, host, and share packages with your team  ](https://azure.microsoft.com/en-us/services/devops/artifacts/ "Azure Artifacts")
+        * [ Azure Test Plans  Test and ship with confidence with a manual and exploratory testing toolkit  ](https://azure.microsoft.com/en-us/services/devops/test-plans/ "Azure Test Plans")
+        * [ Azure DevTest Labs  Quickly create environments using reusable templates and artifacts  ](https://azure.microsoft.com/en-us/services/devtest-lab/ "Azure DevTest Labs")
+        * [ DevOps tool integrations  Use your favorite DevOps tools with Azure  ](https://azure.microsoft.com/en-us/products/devops-tool-integrations/ "DevOps tool integrations")
+        * [ Azure Monitor  Full observability into your applications, infrastructure, and network  ](https://azure.microsoft.com/en-us/services/monitor/ "Azure Monitor")
+        * [ See more ](https://azure.microsoft.com/en-us/services/#devops "See more")
+      * Developer Tools  [ Developer Tools ](https://azure.microsoft.com/en-us/product-categories/developer-tools/ "Developer Tools") Build, manage, and continuously deliver cloud applications—using any platform or language 
+        * [ Visual Studio  The powerful and flexible environment for developing applications in the cloud  ](https://azure.microsoft.com/en-us/products/visual-studio/ "Visual Studio")
+        * [ Visual Studio Code  A powerful, lightweight code editor for cloud development  ](https://azure.microsoft.com/en-us/products/visual-studio-code/ "Visual Studio Code")
+        * [ GitHub and Azure  World’s leading developer platform, seamlessly integrated with Azure  ](https://azure.microsoft.com/en-us/products/github/ "GitHub and Azure")
+        * [ Visual Studio Subscriptions  Access Visual Studio, Azure credits, Azure DevOps, and many other resources for creating, deploying, and managing applications.  ](https://azure.microsoft.com/en-us/services/developer-tools/visual-studio-subscriptions/ "Visual Studio Subscriptions")
+        * [ Power Apps  A powerful, low-code platform for building apps quickly  ](https://azure.microsoft.com/en-us/products/powerapps/ "Power Apps")
+        * [ SDKs  Get the SDKs and command-line tools you need  ](https://azure.microsoft.com/en-us/downloads/ "SDKs")
+        * [ Visual Studio App Center  Continuously build, test, release, and monitor your mobile and desktop apps  ](https://azure.microsoft.com/en-us/services/app-center/ "Visual Studio App Center")
+        * [ Azure Monitor  Full observability into your applications, infrastructure, and network  ](https://azure.microsoft.com/en-us/services/monitor/ "Azure Monitor")
+        * [ App Configuration  Fast, scalable parameter storage for app configuration  ](https://azure.microsoft.com/en-us/services/app-configuration/ "App Configuration")
+        * [ See more ](https://azure.microsoft.com/en-us/services/#developer-tools "See more")
+      * Hybrid + Multicloud  [ Hybrid + Multicloud ](https://azure.microsoft.com/en-us/solutions/hybrid-cloud-app/ "Hybrid + Multicloud") Get Azure innovation everywhere—bring the agility and innovation of cloud computing to your on-premises workloads. 
+        * [ Azure Arc  Extend Azure management and services anywhere  ](https://azure.microsoft.com/en-us/services/azure-arc/ "Azure Arc")
+        * [ Azure Sentinel  Put cloud-native SIEM and intelligent security analytics to work to help protect your enterprise  ](https://azure.microsoft.com/en-us/services/azure-sentinel/ "Azure Sentinel")
+        * [ Azure Stack  Build and run innovative hybrid applications across cloud boundaries  ](https://azure.microsoft.com/en-us/overview/azure-stack/ "Azure Stack")
+        * [ Security Center  Unify security management and enable advanced threat protection across hybrid cloud workloads  ](https://azure.microsoft.com/en-us/services/security-center/ "Security Center")
+        * [ Azure ExpressRoute  Dedicated private network fiber connections to Azure  ](https://azure.microsoft.com/en-us/services/expressroute/ "Azure ExpressRoute")
+        * [ Azure Active Directory  Synchronize on-premises directories and enable single sign-on  ](https://azure.microsoft.com/en-us/services/active-directory/ "Azure Active Directory")
+        * [ Azure SQL  Managed, always up-to-date SQL instance in the cloud  ](https://azure.microsoft.com/en-us/services/azure-sql/ "Azure SQL")
+        * [ Azure DevOps  Services for teams to share code, track work, and ship software  ](https://azure.microsoft.com/en-us/services/devops/ "Azure DevOps")
+        * [ Azure Database for PostgreSQL  Fully managed, intelligent, and scalable PostgreSQL  ](https://azure.microsoft.com/en-us/services/postgresql/ "Azure Database for PostgreSQL")
+        * [ Azure IoT Edge  Extend cloud intelligence and analytics to edge devices managed by Azure IoT Hub  ](https://azure.microsoft.com/en-us/services/iot-edge/ "Azure IoT Edge")
+        * [ See more ](https://azure.microsoft.com/en-us/services/#hybrid-multicloud "See more")
+      * Identity  [ Identity ](https://azure.microsoft.com/en-us/product-categories/identity/ "Identity") Manage user identities and access to protect against advanced threats across devices, data, apps, and infrastructure 
+        * [ Azure Active Directory  Synchronize on-premises directories and enable single sign-on  ](https://azure.microsoft.com/en-us/services/active-directory/ "Azure Active Directory")
+        * [ Azure Active Directory External Identities  Consumer identity and access management in the cloud  ](https://azure.microsoft.com/en-us/services/active-directory/external-identities/ "Azure Active Directory External Identities")
+        * [ Azure Active Directory Domain Services  Join Azure virtual machines to a domain without domain controllers  ](https://azure.microsoft.com/en-us/services/active-directory-ds/ "Azure Active Directory Domain Services")
+        * [ Azure Information Protection  Better protect your sensitive information—anytime, anywhere  ](https://azure.microsoft.com/en-us/services/information-protection/ "Azure Information Protection")
+        * [ See more ](https://azure.microsoft.com/en-us/services/#identity "See more")
+      * Integration  [ Integration ](https://azure.microsoft.com/en-us/product-categories/integration/ "Integration") Seamlessly integrate on-premises and cloud-based applications, data, and processes across your enterprise 
+        * [ Azure Logic Apps  Automate the access and use of data across clouds without writing code  ](https://azure.microsoft.com/en-us/services/logic-apps/ "Azure Logic Apps")
+        * [ Service Bus  Connect across private and public cloud environments  ](https://azure.microsoft.com/en-us/services/service-bus/ "Service Bus")
+        * [ API Management  Publish APIs to developers, partners, and employees securely and at scale  ](https://azure.microsoft.com/en-us/services/api-management/ "API Management")
+        * [ Event Grid  Get reliable event delivery at massive scale  ](https://azure.microsoft.com/en-us/services/event-grid/ "Event Grid")
+        * [ See more ](https://azure.microsoft.com/en-us/services/#integration "See more")
+    *       * Internet of Things  [ Internet of Things ](https://azure.microsoft.com/en-us/overview/iot/ "Internet of Things") Connect assets or environments, discover insights, and drive informed actions to transform your business 
+        * [ Azure IoT Hub  Connect, monitor, and manage IoT assets with a scalable platform  ](https://azure.microsoft.com/en-us/services/iot-hub/ "Azure IoT Hub")
+        * [ Azure IoT Edge  Extend cloud intelligence and analytics to edge devices managed by Azure IoT Hub  ](https://azure.microsoft.com/en-us/services/iot-edge/ "Azure IoT Edge")
+        * [ Azure IoT Central  Accelerate the creation of IoT solutions  ](https://azure.microsoft.com/en-us/services/iot-central/ "Azure IoT Central")
+        * [ Azure Percept  Accelerate edge intelligence from silicon to service  ](https://azure.microsoft.com/en-us/services/azure-percept/ "Azure Percept")
+        * [ Azure Sphere  Securely connect embedded MCU-powered devices from silicon to cloud  ](https://azure.microsoft.com/en-us/services/azure-sphere/ "Azure Sphere")
+        * [ Azure Digital Twins  Build next-generation IoT solutions that model entire environments in real time  ](https://azure.microsoft.com/en-us/services/digital-twins/ "Azure Digital Twins")
+        * [ Azure Time Series Insights  Monitor, analyze, and visualize your industrial IoT data at scale  ](https://azure.microsoft.com/en-us/services/time-series-insights/ "Azure Time Series Insights")
+        * [ Azure RTOS  Making embedded IoT development and connectivity easy  ](https://azure.microsoft.com/en-us/services/rtos/ "Azure RTOS")
+        * [ Azure Machine Learning  Bring AI to everyone with an end-to-end, scalable, trusted platform with experimentation and model management  ](https://azure.microsoft.com/en-us/services/machine-learning/ "Azure Machine Learning")
+        * [ See more ](https://azure.microsoft.com/en-us/services/#iot "See more")
+        * [ See more ](https://azure.microsoft.com/en-us/services/#iot "See more")
+      * Management and Governance  [ Management and Governance ](https://azure.microsoft.com/en-us/product-categories/management-tools/ "Management and Governance") Simplify, automate, and optimize the management and compliance of your cloud resources 
+        * [ Microsoft Azure portal  Build, manage, and monitor all Azure products in a single, unified console  ](https://azure.microsoft.com/en-us/features/azure-portal/ "Microsoft Azure portal")
+        * [ Azure Purview  Maximize business value with unified data governance  ](https://azure.microsoft.com/en-us/services/purview/ "Azure Purview")
+        * [ Azure mobile app  Stay connected to your Azure resources—anytime, anywhere  ](https://azure.microsoft.com/en-us/features/azure-portal/mobile-app/ "Azure mobile app")
+        * [ Cloud Shell  Streamline Azure administration with a browser-based shell  ](https://azure.microsoft.com/en-us/features/cloud-shell/ "Cloud Shell")
+        * [ Azure Advisor  Your personalized Azure best practices recommendation engine  ](https://azure.microsoft.com/en-us/services/advisor/ "Azure Advisor")
+        * [ Azure Backup  Simplify data protection and protect against ransomware  ](https://azure.microsoft.com/en-us/services/backup/ "Azure Backup")
+        * [ Azure Cost Management and Billing  Manage your cloud spending with confidence  ](https://azure.microsoft.com/en-us/services/cost-management/ "Azure Cost Management and Billing")
+        * [ Azure Policy  Implement corporate governance and standards at scale for Azure resources  ](https://azure.microsoft.com/en-us/services/azure-policy/ "Azure Policy")
+        * [ Azure Site Recovery  Keep your business running with built-in disaster recovery service  ](https://azure.microsoft.com/en-us/services/site-recovery/ "Azure Site Recovery")
+        * [ See more ](https://azure.microsoft.com/en-us/services/#management-tools "See more")
+        * [ See more ](https://azure.microsoft.com/en-us/services/#management-tools "See more")
+      * Media  Media  Deliver high-quality video content anywhere, any time, and on any device 
+        * [ Live Video Analytics  Build intelligent video-based applications using the AI of your choice  ](https://azure.microsoft.com/en-us/services/media-services/live-video-analytics/ "Live Video Analytics")
+        * [ Media Services  Encode, store, and stream video and audio at scale  ](https://azure.microsoft.com/en-us/services/media-services/ "Media Services")
+        * [ Encoding  Studio grade encoding at cloud scale  ](https://azure.microsoft.com/en-us/services/media-services/encoding/ "Encoding")
+        * [ Azure Media Player  A single player for all your playback needs  ](https://azure.microsoft.com/en-us/services/media-services/media-player/ "Azure Media Player")
+        * [ Live and On-Demand Streaming  Deliver content to virtually all devices with scale to meet business needs  ](https://azure.microsoft.com/en-us/services/media-services/live-on-demand/ "Live and On-Demand Streaming")
+        * [ Content Protection  Securely deliver content using AES, PlayReady, Widevine, and Fairplay  ](https://azure.microsoft.com/en-us/services/media-services/content-protection/ "Content Protection")
+        * [ Video Indexer  Unlock video insights  ](https://azure.microsoft.com/en-us/services/media-services/video-indexer/ "Video Indexer")
+        * [ Content Delivery Network  Ensure secure, reliable content delivery with broad global reach  ](https://azure.microsoft.com/en-us/services/cdn/ "Content Delivery Network")
+        * [ See more ](https://azure.microsoft.com/en-us/services/#media "See more")
+      * Migration  [ Migration ](https://azure.microsoft.com/en-us/migration/ "Migration") Simplify and accelerate your migration to the cloud with guidance, tools, and resources 
+        * [ Azure Migrate  Easily discover, assess, right-size, and migrate your on-premises VMs to Azure  ](https://azure.microsoft.com/en-us/services/azure-migrate/ "Azure Migrate")
+        * [ Azure Site Recovery  Keep your business running with built-in disaster recovery service  ](https://azure.microsoft.com/en-us/services/site-recovery/ "Azure Site Recovery")
+        * [ Azure Database Migration Service  Simplify on-premises database migration to the cloud  ](https://azure.microsoft.com/en-us/services/database-migration/ "Azure Database Migration Service")
+        * [ Azure Data Box  Appliances and solutions for offline data transfer to Azure​  ](https://azure.microsoft.com/en-us/services/databox/ "Azure Data Box")
+        * [ Azure Cost Management and Billing  Manage your cloud spending with confidence  ](https://azure.microsoft.com/en-us/services/cost-management/ "Azure Cost Management and Billing")
+        * [ See more ](https://azure.microsoft.com/en-us/services/#migration "See more")
+      * Mixed Reality  [ Mixed Reality ](https://azure.microsoft.com/en-us/topic/mixed-reality/ "Mixed Reality") Blend your physical and digital worlds to create immersive, collaborative experiences 
+        * [ Spatial Anchors  Create multi-user, spatially aware mixed reality experiences  ](https://azure.microsoft.com/en-us/services/spatial-anchors/ "Spatial Anchors")
+        * [ Azure Remote Rendering  Render high-quality, interactive 3D content, and stream it to your devices in real time  ](https://azure.microsoft.com/en-us/services/remote-rendering/ "Azure Remote Rendering")
+        * [ Azure Digital Twins  Build next-generation IoT solutions that model entire environments in real time  ](https://azure.microsoft.com/en-us/services/digital-twins/ "Azure Digital Twins")
+        * [ Kinect DK  Build computer vision and speech models using a developer kit with advanced AI sensors  ](https://azure.microsoft.com/en-us/services/kinect-dk/ "Kinect DK")
+        * [ Object Anchors  Automatically align and anchor 3D content to objects in the physical world  ](https://azure.microsoft.com/en-us/services/object-anchors/ "Object Anchors")
+        * [ See more ](https://azure.microsoft.com/en-us/services/#mixed-reality "See more")
+      * Mobile  [ Mobile ](https://azure.microsoft.com/en-us/product-categories/mobile/ "Mobile") Build and deploy cross-platform and native apps for any mobile device 
+        * [ Notification Hubs  Send push notifications to any platform from any back end  ](https://azure.microsoft.com/en-us/services/notification-hubs/ "Notification Hubs")
+        * [ Visual Studio App Center  Continuously build, test, release, and monitor your mobile and desktop apps  ](https://azure.microsoft.com/en-us/services/app-center/ "Visual Studio App Center")
+        * [ Xamarin  Create cloud-powered mobile apps faster  ](https://azure.microsoft.com/en-us/features/xamarin/ "Xamarin")
+        * [ Azure Maps  Simple and secure location APIs provide geospatial context to data  ](https://azure.microsoft.com/en-us/services/azure-maps/ "Azure Maps")
+        * [ API Management  Publish APIs to developers, partners, and employees securely and at scale  ](https://azure.microsoft.com/en-us/services/api-management/ "API Management")
+        * [ Azure Cognitive Search  AI-powered cloud search service for mobile and web app development  ](https://azure.microsoft.com/en-us/services/search/ "Azure Cognitive Search")
+        * [ Azure Cognitive Services  Add smart API capabilities to enable contextual interactions  ](https://azure.microsoft.com/en-us/services/cognitive-services/ "Azure Cognitive Services")
+        * [ Spatial Anchors  Create multi-user, spatially aware mixed reality experiences  ](https://azure.microsoft.com/en-us/services/spatial-anchors/ "Spatial Anchors")
+        * [ App Service  Quickly create powerful cloud apps for web and mobile  ](https://azure.microsoft.com/en-us/services/app-service/ "App Service")
+        * [ Azure Communication Services  Build rich communication experiences with the same secure platform used by Microsoft Teams  ](https://azure.microsoft.com/en-us/services/communication-services/ "Azure Communication Services")
+        * [ See more ](https://azure.microsoft.com/en-us/services/#mobile "See more")
+      * Networking  [ Networking ](https://azure.microsoft.com/en-us/product-categories/networking/ "Networking") Connect cloud and on-premises infrastructure and services to provide your customers and users the best possible experience 
+        * [ Virtual Network  Provision private networks, optionally connect to on-premises datacenters  ](https://azure.microsoft.com/en-us/services/virtual-network/ "Virtual Network")
+        * [ Load Balancing  Deliver high availability and network performance to your applications  ](https://azure.microsoft.com/en-us/products/azure-load-balancing/ "Load Balancing")
+        * [ VPN Gateway  Establish secure, cross-premises connectivity  ](https://azure.microsoft.com/en-us/services/vpn-gateway/ "VPN Gateway")
+        * [ Azure DNS  Host your DNS domain in Azure  ](https://azure.microsoft.com/en-us/services/dns/ "Azure DNS")
+        * [ Content Delivery Network  Ensure secure, reliable content delivery with broad global reach  ](https://azure.microsoft.com/en-us/services/cdn/ "Content Delivery Network")
+        * [ Azure DDoS Protection  Protect your applications from Distributed Denial of Service \(DDoS\) attacks  ](https://azure.microsoft.com/en-us/services/ddos-protection/ "Azure DDoS Protection")
+        * [ Azure Orbital  Satellite ground station and scheduling service connected to Azure for fast downlinking of data  ](https://azure.microsoft.com/en-us/services/orbital/ "Azure Orbital")
+        * [ Azure ExpressRoute  Dedicated private network fiber connections to Azure  ](https://azure.microsoft.com/en-us/services/expressroute/ "Azure ExpressRoute")
+        * [ Network Watcher  Network performance monitoring and diagnostics solution  ](https://azure.microsoft.com/en-us/services/network-watcher/ "Network Watcher")
+        * [ See more ](https://azure.microsoft.com/en-us/services/#networking "See more")
+        * [ See more ](https://azure.microsoft.com/en-us/services/#networking "See more")
+      * Security  [ Security ](https://azure.microsoft.com/en-us/product-categories/security/ "Security") Protect your enterprise from advanced threats across hybrid cloud workloads 
+        * [ Azure Sentinel  Put cloud-native SIEM and intelligent security analytics to work to help protect your enterprise  ](https://azure.microsoft.com/en-us/services/azure-sentinel/ "Azure Sentinel")
+        * [ Security Center  Unify security management and enable advanced threat protection across hybrid cloud workloads  ](https://azure.microsoft.com/en-us/services/security-center/ "Security Center")
+        * [ Azure Defender  Protect hybrid cloud workloads  ](https://azure.microsoft.com/en-us/services/azure-defender/ "Azure Defender")
+        * [ Application Gateway  Build secure, scalable, and highly available web front ends in Azure  ](https://azure.microsoft.com/en-us/services/application-gateway/ "Application Gateway")
+        * [ Key Vault  Safeguard and maintain control of keys and other secrets  ](https://azure.microsoft.com/en-us/services/key-vault/ "Key Vault")
+        * [ VPN Gateway  Establish secure, cross-premises connectivity  ](https://azure.microsoft.com/en-us/services/vpn-gateway/ "VPN Gateway")
+        * [ Azure Information Protection  Better protect your sensitive information—anytime, anywhere  ](https://azure.microsoft.com/en-us/services/information-protection/ "Azure Information Protection")
+        * [ Azure DDoS Protection  Protect your applications from Distributed Denial of Service \(DDoS\) attacks  ](https://azure.microsoft.com/en-us/services/ddos-protection/ "Azure DDoS Protection")
+        * [ Azure Active Directory  Synchronize on-premises directories and enable single sign-on  ](https://azure.microsoft.com/en-us/services/active-directory/ "Azure Active Directory")
+        * [ See more ](https://azure.microsoft.com/en-us/services/#security "See more")
+        * [ See more ](https://azure.microsoft.com/en-us/services/#security "See more")
+      * Storage  [ Storage ](https://azure.microsoft.com/en-us/product-categories/storage/ "Storage") Get secure, massively scalable cloud storage for your data, apps, and workloads 
+        * [ Azure Disk Storage  High-performance, highly durable block storage for Azure Virtual Machines  ](https://azure.microsoft.com/en-us/services/storage/disks/ "Azure Disk Storage")
+        * [ Azure Data Lake Storage  Massively scalable, secure data lake functionality built on Azure Blob Storage  ](https://azure.microsoft.com/en-us/services/storage/data-lake-storage/ "Azure Data Lake Storage")
+        * [ Azure Files  File shares that use the standard SMB 3.0 protocol  ](https://azure.microsoft.com/en-us/services/storage/files/ "Azure Files")
+        * [ Azure NetApp Files  Enterprise-grade Azure file shares, powered by NetApp  ](https://azure.microsoft.com/en-us/services/netapp/ "Azure NetApp Files")
+        * [ Azure Backup  Simplify data protection and protect against ransomware  ](https://azure.microsoft.com/en-us/services/backup/ "Azure Backup")
+        * [ Azure Blob Storage  REST-based object storage for unstructured data  ](https://azure.microsoft.com/en-us/services/storage/blobs/ "Azure Blob Storage")
+        * [ Azure Data Box  Appliances and solutions for offline data transfer to Azure​  ](https://azure.microsoft.com/en-us/services/databox/ "Azure Data Box")
+        * [ Archive Storage  Industry leading price point for storing rarely accessed data  ](https://azure.microsoft.com/en-us/services/storage/archive/ "Archive Storage")
+        * [ StorSimple  Lower costs with an enterprise hybrid cloud storage solution  ](https://azure.microsoft.com/en-us/services/storsimple/ "StorSimple")
+        * [ See more ](https://azure.microsoft.com/en-us/services/#storage "See more")
+        * [ See more ](https://azure.microsoft.com/en-us/services/#storage "See more")
+      * Web  [ Web ](https://azure.microsoft.com/en-us/product-categories/web/ "Web") Build, deploy, and scale powerful web applications quickly and efficiently 
+        * [ Web Apps  Quickly create and deploy mission critical web apps at scale  ](https://azure.microsoft.com/en-us/services/app-service/web/ "Web Apps")
+        * [ API Management  Publish APIs to developers, partners, and employees securely and at scale  ](https://azure.microsoft.com/en-us/services/api-management/ "API Management")
+        * [ Content Delivery Network  Ensure secure, reliable content delivery with broad global reach  ](https://azure.microsoft.com/en-us/services/cdn/ "Content Delivery Network")
+        * [ Azure Cognitive Search  AI-powered cloud search service for mobile and web app development  ](https://azure.microsoft.com/en-us/services/search/ "Azure Cognitive Search")
+        * [ Azure SignalR Service  Add real-time web functionalities easily  ](https://azure.microsoft.com/en-us/services/signalr-service/ "Azure SignalR Service")
+        * [ Azure Maps  Simple and secure location APIs provide geospatial context to data  ](https://azure.microsoft.com/en-us/services/azure-maps/ "Azure Maps")
+        * [ Static Web Apps  A modern web app service that offers streamlined full-stack development from source code to global high availability  ](https://azure.microsoft.com/en-us/services/app-service/static/ "Static Web Apps")
+        * [ Azure Communication Services  Build rich communication experiences with the same secure platform used by Microsoft Teams  ](https://azure.microsoft.com/en-us/services/communication-services/ "Azure Communication Services")
+        * [ See more ](https://azure.microsoft.com/en-us/services/#web "See more")
+      * Windows Virtual Desktop  Windows Virtual Desktop  The best virtual desktop experience, delivered on Azure 
+        * [ Windows Virtual Desktop  The best virtual desktop experience, delivered on Azure  ](https://azure.microsoft.com/en-us/services/virtual-desktop/ "Windows Virtual Desktop")
+        * [ VMware Horizon Cloud on Microsoft Azure  Provision Windows desktops and apps with VMware and Windows Virtual Desktop  ](https://azure.microsoft.com/en-us/services/virtual-desktop/vmware-horizon-cloud/ "VMware Horizon Cloud on Microsoft Azure")
+        * [ Citrix Virtual Apps and Desktops for Azure  Provision Windows desktops and apps on Azure with Citrix and Windows Virtual Desktop  ](https://azure.microsoft.com/en-us/services/virtual-desktop/citrix-virtual-apps-desktops-for-azure/ "Citrix Virtual Apps and Desktops for Azure")
+        * [ See more ](https://azure.microsoft.com/en-us/services/#windows-virtual-desktop "See more")
+    * [ See all \(200+\) ](https://azure.microsoft.com/en-us/services/ "See all products")
+
+Search Results:  "  "
+
+    * [ See all products ](https://azure.microsoft.com/en-us/services/ "See all products")
+  * [ Documentation ](https://docs.microsoft.com/en-us/azure/ "Documentation")
+  * Pricing 
+    * [ Azure pricing  Get the best value at every stage of your cloud journey  ](https://azure.microsoft.com/en-us/pricing/ "Azure pricing")
+    * [ Azure cost optimization  Learn how to manage and optimize your cloud spending  ](https://azure.microsoft.com/en-us/overview/cost-optimization/ "Azure cost optimization")
+    * [ Azure pricing calculator  Estimate costs for Azure products and services  ](https://azure.microsoft.com/en-us/pricing/calculator/ "Azure pricing calculator")
+    * [ Total cost of ownership calculator  Estimate the cost savings of migrating to Azure  ](https://azure.microsoft.com/en-us/pricing/tco/calculator/ "Total cost of ownership calculator")
+  * [ Training  Explore free online learning resources from videos to hands-on-labs  ](https://docs.microsoft.com/en-us/learn/azure/ "Training")
+  * [ Marketplace ](https://azure.microsoft.com/en-us/marketplace/ "Marketplace")
+  * Partners 
+    * [ Find a partner  Get up and running in the cloud with help from an experienced partner  ](https://azure.microsoft.com/en-us/partners/ "Find a partner")
+    * [ Azure technology partners  Build and scale your apps on the trusted cloud platform  ](https://azure.microsoft.com/en-us/isv/ "Azure technology partners")
+    * [ Azure Partner Zone  Find the latest content, news, and guidance to lead customers to the cloud  ](https://azure.com/partners "Azure Partner Zone")
+  * Support 
+    * [ Azure support  Find the support options you need  ](https://azure.microsoft.com/en-us/support/options/ "Azure support")
+    * [ Compare support plans  Explore and purchase technical support  ](https://azure.microsoft.com/en-us/support/plans/ "Compare support plans")
+    * [ Get support  Create a support ticket  ](https://azure.microsoft.com/en-us/support/create-ticket/ "Get support")
+    * [ Community support  Get answers to your questions from Microsoft and community experts  ](https://azure.microsoft.com/en-us/support/community/ "Community support")
+    * [ Knowledge Center  Get answers to common support questions  ](https://azure.microsoft.com/en-us/resources/knowledge-center/ "Knowledge Center")
+    * [ Azure status dashboard  View the current Azure health status and view past incidents  ](https://status.azure.com "Azure status dashboard")
+  * [ Blog  Read the latest posts from the Azure team  ](https://azure.microsoft.com/en-us/blog/ "Blog")
+  * [ Resources  Find downloads, white papers, templates, and events  ](https://azure.microsoft.com/en-us/resources/ "Resources")
+  * [ Trusted  Learn about Azure security, compliance, and privacy  ](https://azure.microsoft.com/en-us/overview/trusted-cloud/ "Trusted")
+  * [ Legal  View legal terms and conditions  ](https://azure.microsoft.com/en-us/support/legal/ "Legal")
+  * More 
+
+[ Free account ](https://azure.microsoft.com/en-us/free/ "Free account")
+
+  * [ Portal ](https://portal.azure.com/)
+  * [ ](https://azure.microsoft.com/en-us/search/)
+  * [ ](https://azure.microsoft.com/en-us/overview/sales-number/ "Contact Sales")
+
+[ We're in this together. Explore Azure resources and tools to help you
+navigate COVID-19 ](/en-us/overview/covid-19/)
+
+INVENT WITH PURPOSE
+
+#  We provide the tools. You change the world.
+
+Create amazing solutions with powerful capabilities, training, and support.
+Start exploring with an Azure free account and get 12 months of popular, free
+cloud services—plus a  $200  credit.
+
+[ Try Azure for free ](/en-us/free/)
+
+##  On-premises, hybrid, multicloud, or at the edge—create secure, future-
+ready cloud solutions on Azure
+
+###  [ Expand your cloud skills with Microsoft Learn
+](https://docs.microsoft.com/en-us/learn/azure/)
+
+Learn to build, deploy, and manage your apps and infrastructure with training,
+certifications, and communities.
+
+###  [ Get instant clarity from your data ](/en-us/services/synapse-
+analytics/)
+
+Experience unmatched time to insight and apply machine learning models to your
+apps with Azure Synapse Analytics.
+
+###  [ Register for Game Stack Live, April 20–21
+](https://developer.microsoft.com/games/events/game-stack-
+live/?OCID=AID3029149&)
+
+Join developers from around the world to explore the latest advancements in
+gaming technology.
+
+  * New to Azure? 
+  * [ Get an overview ](/en-us/overview/)
+
+##  Start putting your ideas into action with Azure products and services
+
+  1. Featured at Microsoft Ignite 
+  2. AI + machine learning 
+  3. Compute 
+  4. Containers 
+  5. Hybrid + multicloud 
+  6. Internet of Things \(IoT\) 
+
+  * [ See all products \(200+\) ](/en-us/services/)
+
+Featured at Microsoft Ignite
+
+  * Unify on-premises, hybrid, and cross-cloud infrastructure 
+
+[ Azure Arc ](/en-us/services/azure-arc/)
+
+  * Add video, voice, SMS, chat, and other communication APIs to apps 
+
+[ Azure Communication Services ](/en-us/services/communication-services/)
+
+  * Get unmatched time to insights with a limitless analytics service 
+
+[ Azure Synapse Analytics ](/en-us/services/synapse-analytics/)
+
+  * Maximize the business value of data with unified  data governance 
+
+[ Azure Purview ](/en-us/services/purview/)
+
+  * Add cognitive capabilities to apps with APIs 
+
+[ Azure Cognitive Services ](/en-us/services/cognitive-services/)
+
+  * Build and manage edge AI solutions 
+
+[ Azure Percept ](/en-us/services/azure-percept/)
+
+AI + machine learning
+
+  * Build, train, and deploy machine learning 
+
+[ Azure Machine Learning ](/en-us/services/machine-learning/)
+
+  * Detect content with vision and speech functions 
+
+[ Azure Cognitive Search ](/en-us/services/search/)
+
+  * Add cognitive capabilities to apps with APIs 
+
+[ Azure Cognitive Services ](/en-us/services/cognitive-services/)
+
+  * Create bots and connect them across channels 
+
+[ Azure Bot Services ](/en-us/services/bot-service/)
+
+  * Design AI with Apache Spark  TM  -based analytics 
+
+[ Azure Databricks ](/en-us/services/databricks/)
+
+  * Build for mixed reality using AI sensors 
+
+[ Azure Kinect DK ](/en-us/services/kinect-dk/)
+
+Compute
+
+  * Deploy VMs in seconds 
+
+[ Azure Virtual Machines ](/en-us/services/virtual-machines/)
+
+  * Create open-source, enterprise-grade apps 
+
+[ Linux Virtual Machines on Azure ](/en-us/services/virtual-machines/linux/)
+
+  * Get industry-leading performance for SQL 
+
+[ SQL Server on Azure Virtual Machines ](/en-us/services/virtual-machines/sql-
+server/)
+
+  * Deploy scalable, protected virtualized infrastructure 
+
+[ Windows Virtual Machines ](/en-us/services/virtual-machines/windows/)
+
+  * Trigger apps with serverless computing 
+
+[ Azure Functions ](/en-us/services/functions/)
+
+  * Expand apps to additional locations 
+
+[ Azure App Service ](/en-us/services/app-service/)
+
+Containers
+
+  * Build, deploy, and scale web apps on a fully managed platform 
+
+[ Azure App Service ](/en-us/services/app-service/)
+
+  * Trigger apps with serverless computing 
+
+[ Azure Functions ](/en-us/services/functions/)
+
+  * Build and scale apps with managed Kubernetes 
+
+[ Azure Kubernetes Service \(AKS\) ](/en-us/services/kubernetes-service/)
+
+  * Run containers without managing servers 
+
+[ Azure Container Instances ](/en-us/services/container-instances/)
+
+  * Stay compliant with managed app updates 
+
+[ Azure Red Hat OpenShift ](/en-us/services/openshift/)
+
+  * Bring modern microservice patterns to Spring Boot apps 
+
+[ Azure Spring Cloud ](/en-us/services/spring-cloud/)
+
+Hybrid + multicloud
+
+  * Unify on-premises, hybrid, and cross-cloud infrastructure 
+
+[ Azure Arc ](/en-us/services/azure-arc/)
+
+  * Build apps across on-premises, cloud, and the edge 
+
+[ Azure Stack ](/en-us/overview/azure-stack/)
+
+  * Stop threats with intelligent security analytics 
+
+[ Azure Sentinel ](/en-us/services/azure-sentinel/)
+
+  * Extend threat protection to any infrastructure 
+
+[ Azure Security Center ](/en-us/services/security-center/)
+
+  * Create secure, private clouds 
+
+[ Azure ExpressRoute ](/en-us/services/expressroute/)
+
+  * Enable single sign-on and multifactor identification 
+
+[ Azure Active Directory \(Azure AD\) ](/en-us/services/active-directory/)
+
+Internet of Things \(IoT\)
+
+  * Build IoT solutions on a hosted platform 
+
+[ Azure IoT Central ](/en-us/services/iot-central/)
+
+  * Deploy cloud intelligence on local edge devices 
+
+[ Azure IoT Edge ](/en-us/services/iot-edge/)
+
+  * Authenticate communication across devices, edge, and cloud 
+
+[ Azure IoT Hub ](/en-us/services/iot-hub/)
+
+  * Create models of physical environments 
+
+[ Azure Digital Twins ](/en-us/services/digital-twins/)
+
+  * Secure your IoT hardware and software 
+
+[ Azure Sphere ](/en-us/services/azure-sphere/)
+
+  * Visualize IoT data in real time 
+
+[ Azure Time Series Insights ](/en-us/services/time-series-insights/)
+
+![](//azurecomcdn.azureedge.net/cvt-5b186237846d7b00c26675f7f4dde80f1ebdfecd943bea9a33f3d93be2cc17eb/images/page/home/portal-
+screenshots/featured-at-ignite.png) View Azure portal screenshot in full
+screen
+
+![](//azurecomcdn.azureedge.net/cvt-5b186237846d7b00c26675f7f4dde80f1ebdfecd943bea9a33f3d93be2cc17eb/images/page/home/portal-
+screenshots/featured-at-ignite.png) ×
+
+[ See all products \(200+\) ](/en-us/services/)
+
+##  Find out how these customers are innovating with Azure
+
+![Make-A-
+Wish](//azurecomcdn.azureedge.net/cvt-5b186237846d7b00c26675f7f4dde80f1ebdfecd943bea9a33f3d93be2cc17eb/images/page/home/customer-
+tabs/make-a-wish-logo.svg)
+
+![Child in a firefighter costume standing in front of a fire
+truck.](//azurecomcdn.azureedge.net/cvt-5b186237846d7b00c26675f7f4dde80f1ebdfecd943bea9a33f3d93be2cc17eb/images/page/home/customer-
+tabs/make-a-wish-desktop.jpg)
+
+Make-A-Wish® transitioned to remote work within a week with Azure, Microsoft
+365, and Microsoft Teams and continues to make wishes come true.
+
+  * [ Case study ](https://customers.microsoft.com/en-us/story/811781-make-a-wish-foundation-nonprofit)
+
+![American Cancer
+Society](//azurecomcdn.azureedge.net/cvt-5b186237846d7b00c26675f7f4dde80f1ebdfecd943bea9a33f3d93be2cc17eb/images/page/home/customer-
+tabs/american-cancer-society-logo.svg)
+
+![Cancer researcher in scrubs and a mask looking through a
+microscope.](//azurecomcdn.azureedge.net/cvt-5b186237846d7b00c26675f7f4dde80f1ebdfecd943bea9a33f3d93be2cc17eb/images/page/home/customer-
+tabs/american-cancer-society-desktop.jpg)
+
+American Cancer Society has kept resources flowing to patients and researchers
+during the global pandemic by transitioning their infrastructure to Azure.
+
+  * [ Case study ](https://customers.microsoft.com/en-us/story/1336196537651221107-american-cancer-society-nonprofit-azure)
+
+![Walgreens Boots
+Alliance](//azurecomcdn.azureedge.net/cvt-5b186237846d7b00c26675f7f4dde80f1ebdfecd943bea9a33f3d93be2cc17eb/images/page/home/customer-
+tabs/walgreens-boots-alliance-logo.svg)
+
+![Person using the Walgreens app on their cell phone to take a COVID-19 risk
+assessment.](//azurecomcdn.azureedge.net/cvt-5b186237846d7b00c26675f7f4dde80f1ebdfecd943bea9a33f3d93be2cc17eb/images/page/home/customer-
+tabs/walgreens-boots-alliance-desktop.jpg)
+
+Walgreens Boots Alliance uses Microsoft Healthcare Bot service to help
+customers quickly find answers to healthcare questions—including about
+COVID-19.
+
+  * [ Case study ](https://customers.microsoft.com/en-us/story/812836-walgreens-boots-alliance-retailers-azure-bot-service-cognitive-services)
+
+![Bosch](//azurecomcdn.azureedge.net/cvt-5b186237846d7b00c26675f7f4dde80f1ebdfecd943bea9a33f3d93be2cc17eb/images/page/home/customer-
+tabs/bosch-logo.svg)
+
+![Person in a factory using a tablet to check the performance data of a
+robotic manufacturing
+arm.](//azurecomcdn.azureedge.net/cvt-5b186237846d7b00c26675f7f4dde80f1ebdfecd943bea9a33f3d93be2cc17eb/images/page/home/customer-
+tabs/bosch-desktop.jpg)
+
+Bosch Building Technologies used Azure to expand and globally deploy a
+platform that analyzes energy consumption and helps pursue ongoing energy
+efficiency.
+
+  * [ Case study ](https://customers.microsoft.com/en-us/story/790031-bosch-building-technologies-smart-spaces-azure)
+
+![BBC](//azurecomcdn.azureedge.net/cvt-5b186237846d7b00c26675f7f4dde80f1ebdfecd943bea9a33f3d93be2cc17eb/images/page/home/customer-
+tabs/bbc-logo.svg)
+
+![Person using the beeb app on their smartphone. The app text says, "Or if
+you’re curious like me, you might like a BBC
+podcast."](//azurecomcdn.azureedge.net/cvt-5b186237846d7b00c26675f7f4dde80f1ebdfecd943bea9a33f3d93be2cc17eb/images/page/home/customer-
+tabs/bbc-desktop.jpg)
+
+The BBC uses Azure AI and Azure Bot Service to deliver news with Beeb, a voice
+assistant that understands the broad range of UK accents and dialects.
+
+  * [ Case study ](https://customers.microsoft.com/en-us/story/754836-bbc-media-entertainment-azure)
+
+  1. ![](//azurecomcdn.azureedge.net/cvt-5b186237846d7b00c26675f7f4dde80f1ebdfecd943bea9a33f3d93be2cc17eb/images/page/home/customer-tabs/make-a-wish-logo.svg)
+  2. ![](//azurecomcdn.azureedge.net/cvt-5b186237846d7b00c26675f7f4dde80f1ebdfecd943bea9a33f3d93be2cc17eb/images/page/home/customer-tabs/american-cancer-society-logo.svg)
+  3. ![](//azurecomcdn.azureedge.net/cvt-5b186237846d7b00c26675f7f4dde80f1ebdfecd943bea9a33f3d93be2cc17eb/images/page/home/customer-tabs/walgreens-boots-alliance-logo.svg)
+  4. ![](//azurecomcdn.azureedge.net/cvt-5b186237846d7b00c26675f7f4dde80f1ebdfecd943bea9a33f3d93be2cc17eb/images/page/home/customer-tabs/bosch-logo.svg)
+  5. ![](//azurecomcdn.azureedge.net/cvt-5b186237846d7b00c26675f7f4dde80f1ebdfecd943bea9a33f3d93be2cc17eb/images/page/home/customer-tabs/bbc-logo.svg)
+
+![Child in a firefighter costume standing in front of a fire
+truck.](//azurecomcdn.azureedge.net/cvt-5b186237846d7b00c26675f7f4dde80f1ebdfecd943bea9a33f3d93be2cc17eb/images/page/home/customer-
+tabs/make-a-wish-desktop.jpg)
+
+Make-A-Wish® transitioned to remote work within a week with Azure, Microsoft
+365, and Microsoft Teams and continues to make wishes come true.
+
+[ Case study ](https://customers.microsoft.com/en-us/story/811781-make-a-wish-
+foundation-nonprofit)
+
+![Cancer researcher in scrubs and a mask looking through a
+microscope.](//azurecomcdn.azureedge.net/cvt-5b186237846d7b00c26675f7f4dde80f1ebdfecd943bea9a33f3d93be2cc17eb/images/page/home/customer-
+tabs/american-cancer-society-desktop.jpg)
+
+American Cancer Society has kept resources flowing to patients and researchers
+during the global pandemic by transitioning their infrastructure to Azure.
+
+[ Case study ](https://customers.microsoft.com/en-
+us/story/1336196537651221107-american-cancer-society-nonprofit-azure)
+
+![Person using the Walgreens app on their cell phone to take a COVID-19 risk
+assessment.](//azurecomcdn.azureedge.net/cvt-5b186237846d7b00c26675f7f4dde80f1ebdfecd943bea9a33f3d93be2cc17eb/images/page/home/customer-
+tabs/walgreens-boots-alliance-desktop.jpg)
+
+Walgreens Boots Alliance uses Microsoft Healthcare Bot service to help
+customers quickly find answers to healthcare questions—including about
+COVID-19.
+
+[ Case study ](https://customers.microsoft.com/en-us/story/812836-walgreens-
+boots-alliance-retailers-azure-bot-service-cognitive-services)
+
+![Person in a factory using a tablet to check the performance data of a
+robotic manufacturing
+arm.](//azurecomcdn.azureedge.net/cvt-5b186237846d7b00c26675f7f4dde80f1ebdfecd943bea9a33f3d93be2cc17eb/images/page/home/customer-
+tabs/bosch-desktop.jpg)
+
+Bosch Building Technologies used Azure to expand and globally deploy a
+platform that analyzes energy consumption and helps pursue ongoing energy
+efficiency.
+
+[ Case study ](https://customers.microsoft.com/en-us/story/790031-bosch-
+building-technologies-smart-spaces-azure)
+
+![Person using the beeb app on their smartphone. The app text says, "Or if
+you’re curious like me, you might like a BBC
+podcast."](//azurecomcdn.azureedge.net/cvt-5b186237846d7b00c26675f7f4dde80f1ebdfecd943bea9a33f3d93be2cc17eb/images/page/home/customer-
+tabs/bbc-desktop.jpg)
+
+The BBC uses Azure AI and Azure Bot Service to deliver news with Beeb, a voice
+assistant that understands the broad range of UK accents and dialects.
+
+[ Case study ](https://customers.microsoft.com/en-us/story/754836-bbc-media-
+entertainment-azure)
+
+![](//azurecomcdn.azureedge.net/cvt-5b186237846d7b00c26675f7f4dde80f1ebdfecd943bea9a33f3d93be2cc17eb/images/page/home/limitless.svg)
+
+##  Go limitless with Azure data
+
+[ See how to maximize the value of your data ](/en-us/solutions/limitless-
+data/)
+
+##  Discover what’s happening on Azure
+
+INTRODUCING AZURE PERCEPT
+
+[ Bring AI and machine learning to the edge with out-of-the-box IoT devices
+and services. ](/en-us/blog/azure-percept-edge-intelligence-from-silicon-to-
+service/)
+
+MICROSOFT IGNITE SESSIONS
+
+[ Explore the latest technology and learn new skills from more than 100
+Microsoft Ignite sessions—watch now.
+](https://myignite.microsoft.com/sessions)
+
+SUSTAINABLE CLOUD INFRASTRUCTURE
+
+[ Learn how moving on-premises datacenter operations to Azure can reduce your
+carbon footprint up to 98 percent. ](/en-us/global-
+infrastructure/sustainability/)
+
+PATH TO CARBON NEGATIVE
+
+[ Microsoft has committed to being carbon negative by 2030. Learn about our
+progress so far and next steps.
+](https://blogs.microsoft.com/blog/2021/01/28/one-year-later-the-path-to-
+carbon-negative-a-progress-report-on-our-climate-moonshot/)
+
+AZURE REGIONS
+
+[ Go beyond the limits of your on-premises datacenter with more than 60 Azure
+regions. ](/en-us/global-infrastructure/)
+
+AZURE MARKETPLACE
+
+[ Accelerate innovation with a catalog of more than 17,000 certified apps and
+services—even sell your own. ](/en-us/marketplace/)
+
+![An elephant standing amongst
+greenery.](//azurecomcdn.azureedge.net/cvt-5b186237846d7b00c26675f7f4dde80f1ebdfecd943bea9a33f3d93be2cc17eb/images/page/home/dev-
+stories/desktop.jpg)
+
+When she learned that the planet loses an elephant every 15 minutes, solutions
+architect Sarah Maston co-founded Project 15 with Daisuke Nakahara to help
+save them.
+
+  * Watch the story  \(3:34\) 
+  * [ Check out more inventor stories ](/en-us/developer/stories/)
+
+When she learned that the planet loses an elephant every 15 minutes, solutions
+architect Sarah Maston co-founded Project 15 with Daisuke Nakahara to help
+save them.
+
+  * [ Check out more inventor stories ](/en-us/developer/stories/)
+
+###  [ Start building on Azure free ](/en-us/free/)
+
+Get popular services free for 12 months and 25+ other services free
+always—plus  $200  credit to use in your first 30 days.
+
+![](//azurecomcdn.azureedge.net/cvt-5b186237846d7b00c26675f7f4dde80f1ebdfecd943bea9a33f3d93be2cc17eb/images/page/home/icons/icon-
+chat.svg)
+
+###  [ Contact an Azure sales specialist ](/en-us/overview/contact-azure-
+sales/)
+
+Get the answers you need—from how to get started to questions about your
+unique scenario—by talking to an Azure sales specialist.
+
+###  [ New to Azure? Learn at your own pace ](https://docs.microsoft.com/en-
+us/learn/paths/az-900-describe-cloud-concepts/)
+
+Learn the basics of cloud computing and Azure with self-paced modules on
+Microsoft Learn.
+
+Go Social
+
+  * [ Facebook  ](https://www.facebook.com/microsoftazure)
+  * [ Instagram  ](https://www.instagram.com/microsoftdeveloper/)
+  * [ Twitter  ](https://twitter.com/azure)
+  * [ YouTube  ](https://www.youtube.com/user/windowsazure)
+  * [ LinkedIn  ](https://www.linkedin.com/company/16188386)
+  * [ Rss  ](https://azurecomcdn.azureedge.net/en-us/blog/feed/)
+
+Microsoft Azure
+
+[ Microsoft Azure ](https://azure.microsoft.com/en-us/)
+
+  * [ Solutions ](https://azure.microsoft.com/en-us/solutions/)
+  * [ Products ](https://azure.microsoft.com/en-us/services/)
+  * [ Datacenter regions ](https://azure.microsoft.com/en-us/global-infrastructure/geographies/)
+  * [ Case Studies ](https://azure.microsoft.com/en-us/case-studies/)
+  * [ Pricing ](https://azure.microsoft.com/en-us/pricing/)
+  * [ Calculator ](https://azure.microsoft.com/en-us/pricing/calculator/)
+  * [ Documentation ](https://docs.microsoft.com/en-us/azure/)
+  * [ Downloads ](https://azure.microsoft.com/en-us/downloads/?sdk=net)
+  * [ Samples ](https://azure.microsoft.com/en-us/resources/samples/)
+  * [ Marketplace ](https://azuremarketplace.microsoft.com/en-us/marketplace/)
+  * [ Global infrastructure ](https://azure.microsoft.com/en-us/global-infrastructure/)
+
+Community
+
+[ Community ](https://azure.microsoft.com/en-us/blog/)
+
+  * [ Blog ](https://azure.microsoft.com/en-us/blog/)
+  * [ Azure Updates ](https://azure.microsoft.com/en-us/updates/)
+  * [ Tech Community ](https://techcommunity.microsoft.com/t5/Azure/ct-p/Azure)
+  * [ Events ](https://azure.microsoft.com/en-us/community/events/)
+  * [ Careers ](https://news.microsoft.com/features/azure/?wt.mc_id=azuremktg_hp_careers)
+  * [ Education ](https://azure.microsoft.com/en-us/education/)
+  * [ Students ](https://azure.microsoft.com/en-us/free/students/)
+  * [ Startups ](https://startups.microsoft.com/)
+
+Support
+
+[ Support ](https://azure.microsoft.com/en-us/support/options/)
+
+  * [ Forums ](https://azure.microsoft.com/en-us/support/community/)
+  * [ Azure Status Dashboard ](https://status.azure.com/)
+  * [ Support ](https://azure.microsoft.com/en-us/support/options/)
+
+Account
+
+[ Account ](https://azure.microsoft.com/en-us/account/)
+
+  * [ Microsoft Azure portal ](https://portal.azure.com/)
+  * [ Preview Features ](https://azure.microsoft.com/en-us/updates/?status=inpreview)
+  * [ Privacy data management ](https://azure.microsoft.com/en-us/privacy-data-management/)
+  * [ Download Azure Mobile App ](https://azure.microsoft.com/en-us/features/azure-portal/mobile-app/)
+
+Trusted
+
+[ Trusted ](https://azure.microsoft.com/en-us/overview/trusted-cloud/)
+
+  * [ Security ](https://go.microsoft.com/fwlink/?LinkId=717954&clcid=0x409)
+  * [ Privacy ](https://go.microsoft.com/fwlink/?LinkId=717953&clcid=0x409)
+  * [ Compliance ](https://go.microsoft.com/fwlink/?LinkId=837787&clcid=0x409)
+  * Manage cookies 
+
+Hello from Seattle.
+
+English \(US\)  Čeština  Dansk  Deutsch  English \(Australia\)  English
+\(Canada\)  English \(India\)  English \(UK\)  Español  Español \(MX\)
+Français  Français \(Canada\)  Italiano  Magyar  Norsk  Nederlands  Polski
+Português \(Brasil\)  Português  Svenska  Türkçe  Pусский  日本語  한국어  中文\(简体\)
+中文\(繁體\)
+
+US Dollar \($\)  Euro \(€\)  British Pound \(£\)  Australian Dollar \($\)
+Indian Rupee \(₹\)  Canadian Dollar \($\)  Argentine Peso \($\)  Australian
+Dollar \($\)  Brazilian Real \(R$\)  British Pound \(£\)  Canadian Dollar
+\($\)  Danish Krone \(kr\)  Euro \(€\)  Hong Kong Dollar \(HK$\)  Indian Rupee
+\(₹\)  Indonesian Rupiah \(Rp\)  Japanese Yen \(¥\)  Korean Won \(₩\)
+Malaysian Ringgit \(RM$\)  Mexican Peso \(MXN$\)  New Zealand Dollar \($\)
+Norwegian Krone \(kr\)  Russian Ruble \(руб\)  Saudi Riyal \(SR\)  South
+African Rand \(R\)  Swedish Krona \(kr\)  Swiss Franc \(chf\)  Taiwanese
+Dollar \(NT$\)  Turkish Lira \(TL\)  US Dollar \($\)
+
+  * [ Contact Us ](https://azure.microsoft.com/en-us/overview/contact-azure-sales/)
+  * [ Trademarks ](https://www.microsoft.com/en-us/legal/intellectualproperty/Trademarks/)
+  * [ Privacy & Cookies  ](https://go.microsoft.com/fwlink/?LinkId=248681&clcid=0x409)
+  * [ Terms of use ](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx)
+
+[ ](https://www.microsoft.com) © 2021 Microsoft
+

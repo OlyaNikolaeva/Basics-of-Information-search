@@ -1,0 +1,1167 @@
+Skip to content
+
+[ Skip to main content ](javascript:void\(0\))
+
+[ ![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31) Microsoft
+](https://www.microsoft.com)
+
+Visual Studio
+
+[ Visual Studio  ](https://visualstudio.microsoft.com/)
+
+Visual Studio
+
+  * [ Home ](https://visualstudio.microsoft.com/)
+  * Products 
+    * Visual Studio 2019  Visual Studio 2019 
+      * [ Overview ](https://visualstudio.microsoft.com/vs/)
+      * [ Windows Apps ](https://visualstudio.microsoft.com/vs/features/windows-apps-games/)
+      * [ Mobile Apps ](https://visualstudio.microsoft.com/vs/features/mobile-app-development/)
+      * [ Azure Apps ](https://visualstudio.microsoft.com/vs/features/azure/)
+      * [ Web Apps ](https://visualstudio.microsoft.com/vs/features/web/)
+      * [ All Features ](https://visualstudio.microsoft.com/vs/features/)
+      * [ Pricing ](https://visualstudio.microsoft.com/vs/pricing/)
+    * Visual Studio Code  Visual Studio Code 
+      * [ Overview ](https://code.visualstudio.com/?wt.mc_id=DX_841432)
+      * [ Intelligent Editing ](https://code.visualstudio.com/?wt.mc_id=DX_841432#meet-intellisense)
+      * [ Powerful Debugging ](https://code.visualstudio.com/?wt.mc_id=DX_841432#powerful-debugging)
+      * [ macOS, Linux, Windows ](https://code.visualstudio.com/?wt.mc_id=DX_841432#alt-downloads)
+      * [ Download ](https://code.visualstudio.com/download?wt.mc_id=DX_841432)
+    * Visual Studio for Mac  Visual Studio for Mac 
+      * [ Overview ](https://visualstudio.microsoft.com/vs/mac/)
+      * [ Documentation ](https://docs.microsoft.com/en-us/visualstudio/mac/?view=vsmac-2019)
+    * Subscriptions & Programs  Subscriptions & Programs 
+      * [ Dev Essentials ](https://visualstudio.microsoft.com/dev-essentials/)
+      * [ Subscriptions ](https://visualstudio.microsoft.com/subscriptions/)
+
+  * [ Downloads ](https://visualstudio.microsoft.com/downloads/)
+  * Buy 
+    * [ Buy Visual Studio ](https://visualstudio.microsoft.com/vs/pricing/)
+    * [ Marketplace ](https://marketplace.visualstudio.com/)
+
+  * Support 
+    * [ Visual Studio 2019 ](https://visualstudio.microsoft.com/vs/support/)
+    * [ Visual Studio Code ](https://support.serviceshub.microsoft.com/supportforbusiness/create?sapId=d66407ed-3967-b000-4cfb-2c318cad363d)
+    * [ Visual Studio for Mac ](https://visualstudio.microsoft.com/vs/support/mac/)
+    * [ Accounts and Subscriptions ](https://visualstudio.microsoft.com/subscriptions/support/)
+    * [ Visual Studio Services status ](https://aka.ms/vsstatus)
+
+  * [ Subscriber Access ](https://my.visualstudio.com/Benefits?wt.mc_id=o~msft~vscom~nav&campaign=o~msft~vscom~nav)
+  * More 
+
+  * [ Free Visual Studio ](https://visualstudio.microsoft.com/free-developer-offers/)
+
+  * All Microsoft 
+    *       * [ Microsoft 365 ](https://www.microsoft.com/en-us/microsoft-365/business/all-business)
+      * [ Azure ](https://azure.microsoft.com)
+      * [ Office 365 ](https://products.office.com/en-us/business/office)
+      * [ Dynamics 365 ](https://dynamics.microsoft.com/en-us/)
+      * [ Power Platform ](https://powerplatform.microsoft.com/en-us)
+      * [ Windows 10 ](https://www.microsoft.com/en-us/microsoft-365/windows)
+    * Products & Services  Products & Services 
+      * [ Windows Server ](https://www.microsoft.com/cloud-platform/windows-server)
+      * [ Enterprise Mobility + Security ](https://www.microsoft.com/cloud-platform/enterprise-mobility-security)
+      * [ Power BI ](https://powerbi.microsoft.com/en-us/)
+      * [ Teams ](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)
+      * [ Visual Studio ](https://visualstudio.microsoft.com/)
+      * [ Microsoft Advertising ](https://go.microsoft.com/fwlink/?linkid=2026462)
+    * Emerging Technologies  Emerging Technologies 
+      * [ AI ](https://www.microsoft.com/ai/)
+      * [ Internet of Things ](https://www.microsoft.com/internet-of-things/)
+      * [ Azure Cognitive Services ](https://azure.microsoft.com/services/cognitive-services/)
+      * [ Quantum ](https://www.microsoft.com/quantum/)
+      * [ Microsoft HoloLens ](https://www.microsoft.com/en-us/hololens)
+      * [ Mixed Reality ](https://www.microsoft.com/en-us/mixed-reality)
+    * Developer & IT  Developer & IT 
+      * [ Docs ](https://docs.microsoft.com/en-us/)
+      * [ Developer Center ](https://developer.microsoft.com/)
+      * [ Windows Dev Center ](https://developer.microsoft.com/en-us/windows)
+      * [ Windows IT Pro Center ](https://www.microsoft.com/en-us/itpro/windows)
+      * [ FastTrack ](https://fasttrack.microsoft.com/office)
+      * [ Power Platform ](https://powerplatform.microsoft.com/en-us)
+    * Partner  Partner 
+      * [ Partner Network ](https://partner.microsoft.com/)
+      * [ Solution Providers ](https://www.microsoft.com/en-us/solution-providers)
+      * [ Partner Center ](https://partnercenter.microsoft.com/partner/home)
+      * [ Cloud Hosting ](https://www.microsoft.com/en-us/cloudandhosting)
+    * Industries  Industries 
+      * [ Education ](https://www.microsoft.com/en-us/education?icid=CNavMSCOML0_Studentsandeducation)
+      * [ Financial services ](https://www.microsoft.com/en-us/enterprise/financial-services/banking-and-capital-markets)
+      * [ Government ](https://www.microsoft.com/en-us/enterprise/government)
+      * [ Health ](https://www.microsoft.com/en-us/enterprise/health)
+      * [ Manufacturing & resources ](https://www.microsoft.com/en-us/enterprise/manufacturing)
+      * [ Retail ](https://www.microsoft.com/en-us/enterprise/retail-consumer-goods)
+    * Other  Other 
+      * [ Security ](https://www.microsoft.com/security/)
+      * [ Licensing ](https://www.microsoft.com/licensing/)
+      * [ AppSource ](https://appsource.microsoft.com/)
+      * [ Azure Marketplace ](https://azuremarketplace.microsoft.com/marketplace/)
+      * [ Events ](https://events.microsoft.com/)
+      * [ Research ](https://www.microsoft.com/research/)
+    * [ View Sitemap ](https://www.microsoft.com/en-us/sitemap.aspx)
+
+Search  Search
+
+Cancel
+
+Sign in
+
+__
+
+##  This device is not currently supported for these products.
+
+[ ![](https://visualstudio.microsoft.com/wp-
+content/uploads/2019/02/BrandVisualStudioWin2019-2.svg) Visual Studio IDE __
+](/vs/) [ ![](https://visualstudio.microsoft.com/wp-
+content/uploads/2019/09/VSforMacIcon2019-2.svg) Visual Studio for Mac __
+](/vs/mac) [ ![](https://visualstudio.microsoft.com/wp-
+content/uploads/2019/09/vs-code-responsive-01-1.png) Visual Studio Code __
+](https://code.visualstudio.com/?wt.mc_id=DX_841432)
+
+To continue downloading, click here __
+
+Visual Studio IDE, Code Editor, Azure DevOps, & App Center
+2021-03-29T13:40:33-07:00
+
+#  Visual Studio
+
+Best-in-class tools for any developer
+
+Let us help you find the right download and tutorials
+
+I want to develop for
+
+app type  __
+
+  * __ Mobile \(Android/iOS\) 
+  * __ Web/cloud 
+  * __ Desktop 
+  * __ Games & VR/AR 
+  * __ Machine Learning/AI 
+
+using
+
+technology  __
+
+  * __ .NET \(C\#/F\#\) 
+  * __ .NET \(C\#/F\#/VB.NET\) 
+  * __ .NET \(C\#\) 
+  * __ C++ 
+  * __ JavaScript/TypeScript 
+  * __ Node.js 
+  * __ Python 
+  * __ Java 
+  * __ Electron \(JavaScript/TypeScript\) 
+
+on my
+
+dev box OS  __
+
+  * __ Windows 
+  * ![Apple logo](https://visualstudio.microsoft.com/wp-content/uploads/2020/04/apple-gray.svg) macOS 
+  * __ Linux 
+
+machine
+
+###  Visual Studio 2019 & Xamarin
+
+Download Visual Studio  __
+
+  * [ Community 2019  __ ](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16 "Free for individual developers, academic uses, and open source")
+
+  * [ Professional 2019  __ ](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Professional&rel=16 "Free trial for individual use")
+
+  * [ Enterprise 2019  __ ](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Enterprise&rel=16 "Free trial for organizations")
+
+Highlights
+
+  * Full-featured IDE on Windows 
+  * Build and deploy iOS and Android apps 
+  * Code in C\#/F\# using .NET 
+
+Learn more
+
+  * [ __ Visual Studio welcome guide  __ ](https://docs.microsoft.com/visualstudio/get-started/visual-studio-ide?utm_source=vscom-download)
+  * [ __ Xamarin quick start  __ ](https://docs.microsoft.com/xamarin/get-started/quickstarts/?utm_source=vscom-download)
+  * [ __ Xamarin tutorials  __ ](https://dotnet.microsoft.com/learn/xamarin)
+
+Start over
+
+###  Visual Studio for Mac & Xamarin
+
+[ Download Visual Studio for Mac  __ ](/thank-you-downloading-visual-studio-
+mac/?sku=communitymac&rel=16)
+
+Highlights
+
+  * Full-featured IDE on macOS 
+  * Build and deploy iOS and Android apps 
+  * Code in C\#/F\# using .NET 
+
+Learn more
+
+  * [ __ Visual Studio for Mac welcome guide  __ ](https://docs.microsoft.com/visualstudio/mac/ide-tour?view=vsmac-2019&utm_source=vscom-download)
+  * [ __ Xamarin quick start  __ ](https://docs.microsoft.com/xamarin/get-started/quickstarts/?utm_source=vscom-download)
+  * [ __ Xamarin tutorials  __ ](https://dotnet.microsoft.com/learn/xamarin)
+
+Start over
+
+###  Visual Studio & Mobile C++
+
+Download Visual Studio  __
+
+  * [ Community 2019  __ ](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16 "Free for individual developers, academic uses, and open source")
+
+  * [ Professional 2019  __ ](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Professional&rel=16 "Free trial for individual use")
+
+  * [ Enterprise 2019  __ ](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Enterprise&rel=16 "Free trial for organizations")
+
+Highlights
+
+  * Full-featured IDE on Windows 
+  * Build and deploy iOS and Android apps 
+  * Code in C++ 
+
+Learn more
+
+  * [ __ Visual Studio welcome guide  __ ](https://docs.microsoft.com/visualstudio/get-started/visual-studio-ide?utm_source=vscom-download)
+  * [ __ C++ on mobile quick start  __ ](https://docs.microsoft.com/cpp/cross-platform/?utm_source=vscom-download)
+  * [ __ C++ on mobile - code examples tutorials  __ ](https://docs.microsoft.com/cpp/cross-platform/?utm_source=vscom-download)
+
+Start over
+
+###  Visual Studio Code & React Native
+
+[ Download Visual Studio Code  __
+](https://code.visualstudio.com/docs/?dv=win)
+
+Highlights
+
+  * Free code editor for Windows 
+  * Build and debug React Native apps 
+  * Code in JavaScript and TypeScript 
+
+Learn more
+
+  * [ __ VS Code welcome guide  __ ](https://code.visualstudio.com/docs)
+  * [ __ React Native quick start  __ ](https://github.com/microsoft/vscode-react-native/blob/master/README.md#getting-started)
+  * [ __ React Native tutorial  __ ](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
+
+Start over
+
+###  Visual Studio Code & React Native
+
+[ Download Visual Studio Code  __
+](https://code.visualstudio.com/docs/?dv=osx)
+
+Highlights
+
+  * Free code editor for macOS 
+  * Build and debug React Native apps 
+  * Code in JavaScript and TypeScript 
+
+Learn more
+
+  * [ __ VS Code welcome guide  __ ](https://code.visualstudio.com/docs)
+  * [ __ React Native quick start  __ ](https://github.com/microsoft/vscode-react-native/blob/master/README.md#getting-started)
+  * [ __ React Native tutorial  __ ](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
+
+Start over
+
+###  Visual Studio Code & React Native
+
+Download Visual Studio Code  __
+
+  * [ Linux x64 .deb  __ ](https://code.visualstudio.com/docs/?dv=linux64_deb)
+
+  * [ Linux x64 .rpm  __ ](https://code.visualstudio.com/docs/?dv=linux64_rpm)
+
+Highlights
+
+  * Free code editor for Linux 
+  * Build and debug React Native apps 
+  * Code in JavaScript and TypeScript 
+
+Learn more
+
+  * [ __ VS Code welcome guide  __ ](https://code.visualstudio.com/docs)
+  * [ __ React Native quick start  __ ](https://github.com/microsoft/vscode-react-native/blob/master/README.md#getting-started)
+  * [ __ React Native tutorial  __ ](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
+
+Start over
+
+###  Visual Studio 2019 & ASP.NET
+
+Download Visual Studio  __
+
+  * [ Community 2019  __ ](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16 "Free for individual developers, academic uses, and open source")
+
+  * [ Professional 2019  __ ](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Professional&rel=16 "Free trial for individual use")
+
+  * [ Enterprise 2019  __ ](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Enterprise&rel=16 "Free trial for organizations")
+
+Highlights
+
+  * Full-featured IDE on Windows 
+  * Build and deploy ASP.NET web apps 
+  * Deploy and test your app on Azure 
+
+Learn more
+
+  * [ __ Visual Studio welcome guide  __ ](https://docs.microsoft.com/visualstudio/get-started/visual-studio-ide?utm_source=vscom-download)
+  * [ __ ASP.NET quick start  __ ](https://docs.microsoft.com/aspnet/core/introduction-to-aspnet-core?utm_source=vscom-download)
+  * [ __ ASP.NET tutorials  __ ](https://docs.microsoft.com/aspnet/core/tutorials?utm_source=vscom-download)
+
+Start over
+
+###  Visual Studio 2019 for Mac & .NET Core
+
+[ Download Visual Studio for Mac  __ ](/thank-you-downloading-visual-studio-
+mac/?sku=communitymac&rel=16)
+
+Highlights
+
+  * Full-featured IDE on macOS 
+  * Build and deploy ASP.NET Core web apps 
+  * Azure extensions make it easy to deploy your app to the cloud 
+
+Learn more
+
+  * [ __ Visual Studio for Mac welcome guide  __ ](https://docs.microsoft.com/visualstudio/mac/ide-tour?utm_source=vscom-download)
+  * [ __ ASP.NET quick start  __ ](https://docs.microsoft.com/visualstudio/mac/asp-net-core?utm_source=vscom-download)
+  * [ __ ASP.NET tutorials  __ ](https://docs.microsoft.com/aspnet/core/tutorials?utm_source=vscom-download)
+
+Start over
+
+###  Visual Studio Code & Node
+
+[ Download Visual Studio Code  __
+](https://code.visualstudio.com/docs/?dv=win)
+
+Highlights
+
+  * Free code editor for Windows 
+  * Build and debug Node.js web apps 
+  * Azure extensions make it easy to deploy your app to the cloud 
+
+Learn more
+
+  * [ __ VS Code welcome guide  __ ](https://code.visualstudio.com/docs)
+  * [ __ Node.js tutorials  __ ](https://code.visualstudio.com/docs/nodejs/nodejs-tutorial)
+
+Start over
+
+###  Visual Studio Code & Node
+
+[ Download Visual Studio Code  __
+](https://code.visualstudio.com/docs/?dv=osx)
+
+Highlights
+
+  * Free code editor for macOS 
+  * Build and debug Node.js web apps 
+  * Azure extensions make it easy to deploy your app to the cloud 
+
+Learn more
+
+  * [ __ VS Code welcome guide  __ ](https://code.visualstudio.com/docs)
+  * [ __ Node.js tutorials  __ ](https://code.visualstudio.com/docs/nodejs/nodejs-tutorial)
+
+Start over
+
+###  Visual Studio Code & Node
+
+Download Visual Studio Code  __
+
+  * [ Linux x64 .deb  __ ](https://code.visualstudio.com/docs/?dv=linux64_deb)
+
+  * [ Linux x64 .rpm  __ ](https://code.visualstudio.com/docs/?dv=linux64_rpm)
+
+Highlights
+
+  * Free code editor for Linux 
+  * Build and debug Node.js web apps 
+  * Azure extensions make it easy to deploy your app to the cloud 
+
+Learn more
+
+  * [ __ VS Code welcome guide  __ ](https://code.visualstudio.com/docs)
+  * [ __ Node.js tutorials  __ ](https://code.visualstudio.com/docs/nodejs/nodejs-tutorial)
+
+Start over
+
+###  Visual Studio Code & Python
+
+[ Download Visual Studio Code  __
+](https://code.visualstudio.com/docs/?dv=win)
+
+Highlights
+
+  * Free code editor for Windows 
+  * Build and debug Python web apps 
+  * Azure extensions make it easy to deploy your app to the cloud 
+
+Learn more
+
+  * [ __ VS Code welcome guide  __ ](https://code.visualstudio.com/docs)
+  * [ __ Python quick start  __ ](https://code.visualstudio.com/docs/languages/python)
+  * [ __ Python tutorial  __ ](https://code.visualstudio.com/docs/python/python-tutorial#_create-a-python-hello-world-source-code-file)
+
+Start over
+
+###  Visual Studio Code & Python
+
+[ Download Visual Studio Code  __
+](https://code.visualstudio.com/docs/?dv=osx)
+
+Highlights
+
+  * Free code editor for macOS 
+  * Build and debug Python web apps 
+  * Azure extensions make it easy to deploy your app to the cloud 
+
+Learn more
+
+  * [ __ VS Code welcome guide  __ ](https://code.visualstudio.com/docs)
+  * [ __ Python quick start  __ ](https://code.visualstudio.com/docs/languages/python)
+  * [ __ Python tutorial  __ ](https://code.visualstudio.com/docs/python/python-tutorial#_create-a-python-hello-world-source-code-file)
+
+Start over
+
+###  Visual Studio Code & Python
+
+Download Visual Studio Code  __
+
+  * [ Linux x64 .deb  __ ](https://code.visualstudio.com/docs/?dv=linux64_deb)
+
+  * [ Linux x64 .rpm  __ ](https://code.visualstudio.com/docs/?dv=linux64_rpm)
+
+Highlights
+
+  * Free code editor for Linux 
+  * Build and debug Python web apps 
+  * Azure extensions make it easy to deploy your app to the cloud 
+
+Learn more
+
+  * [ __ VS Code welcome guide  __ ](https://code.visualstudio.com/docs)
+  * [ __ Python quick start  __ ](https://code.visualstudio.com/docs/languages/python)
+  * [ __ Python tutorial  __ ](https://code.visualstudio.com/docs/python/python-tutorial#_create-a-python-hello-world-source-code-file)
+
+Start over
+
+###  Visual Studio Code & Python
+
+Download Visual Studio Code  __
+
+  * [ Linux x64 .deb  __ ](https://code.visualstudio.com/docs/?dv=linux64_deb)
+
+  * [ Linux x64 .rpm  __ ]()
+
+Highlights
+
+  * Free code editor for Linux 
+  * Build Machine Learning and AI models 
+  * Code in Python 
+
+Learn more
+
+  * [ __ VS Code welcome guide  __ ](https://code.visualstudio.com/docs)
+  * [ __ Python quick start  __ ](https://code.visualstudio.com/docs/languages/python)
+  * [ __ Python – data science tutorials  __ ](https://code.visualstudio.com/docs/python/data-science-tutorial)
+
+Start over
+
+###  Visual Studio Code & Python
+
+[ Download Visual Studio Code  __
+](https://code.visualstudio.com/docs/?dv=osx)
+
+Highlights
+
+  * Free code editor for macOS 
+  * Build Machine Learning and AI models 
+  * Code in Python 
+
+Learn more
+
+  * [ __ VS Code welcome guide  __ ](https://code.visualstudio.com/docs)
+  * [ __ Python quick start  __ ](https://code.visualstudio.com/docs/languages/python)
+  * [ __ Python – data science tutorials  __ ](https://code.visualstudio.com/docs/python/data-science-tutorial)
+
+Start over
+
+###  Visual Studio Code & Python
+
+[ Download Visual Studio Code  __
+](https://code.visualstudio.com/docs/?dv=win)
+
+Highlights
+
+  * Free code editor for Windows 
+  * Build Machine Learning and AI models 
+  * Code in Python 
+
+Learn more
+
+  * [ __ VS Code welcome guide  __ ](https://code.visualstudio.com/docs)
+  * [ __ Python quick start  __ ](https://code.visualstudio.com/docs/languages/python)
+  * [ __ Python – data science tutorials  __ ](https://code.visualstudio.com/docs/python/data-science-tutorial)
+
+Start over
+
+###  Visual Studio 2019 for Mac & ML.NET
+
+[ Download Visual Studio for Mac  __ ](/thank-you-downloading-visual-studio-
+mac/?sku=communitymac&rel=16)
+
+Highlights
+
+  * Full-featured IDE on macOS 
+  * Build Machine Learning and AI models with ML.NET 
+  * Code in C\#/F\# 
+
+Learn more
+
+  * [ __ Visual Studio welcome guide  __ ](https://docs.microsoft.com/visualstudio/get-started/visual-studio-ide?utm_source=vscom-download)
+  * [ __ Machine Learning quick start  __ ](https://docs.microsoft.com/dotnet/machine-learning/?utm_source=vscom-download)
+  * [ __ Machine Learning tutorials  __ ](https://docs.microsoft.com/dotnet/machine-learning/tutorials?utm_source=vscom-download)
+
+Start over
+
+###  Visual Studio 2019 & ML.NET
+
+Download Visual Studio  __
+
+  * [ Community 2019  __ ](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16 "Free for individual developers, academic uses, and open source")
+
+  * [ Professional 2019  __ ](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Professional&rel=16 "Free trial for individual use")
+
+  * [ Enterprise 2019  __ ](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Enterprise&rel=16 "Free trial for organizations")
+
+Highlights
+
+  * Full-featured IDE on Windows 
+  * Build Machine Learning and AI models with ML.NET 
+  * Code in C\#/F\# 
+
+Learn more
+
+  * [ __ Visual Studio welcome guide  __ ](https://docs.microsoft.com/visualstudio/get-started/visual-studio-ide?utm_source=vscom-download)
+  * [ __ Machine Learning quick start  __ ](https://docs.microsoft.com/dotnet/machine-learning/?utm_source=vscom-download)
+  * [ __ Machine Learning tutorials  __ ](https://docs.microsoft.com/dotnet/machine-learning/tutorials?utm_source=vscom-download)
+
+Start over
+
+###  Visual Studio 2019 & Game C++
+
+Download Visual Studio  __
+
+  * [ Community 2019  __ ](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16 "Free for individual developers, academic uses, and open source")
+
+  * [ Professional 2019  __ ](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Professional&rel=16 "Free trial for individual use")
+
+  * [ Enterprise 2019  __ ](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Enterprise&rel=16 "Free trial for organizations")
+
+Highlights
+
+  * Full-featured IDE on Windows 
+  * Build and debug games with DirectX, Unreal Engine, and more 
+  * Code in C++ 
+
+Learn more
+
+  * [ __ Visual Studio welcome guide  __ ](https://docs.microsoft.com/visualstudio/get-started/visual-studio-ide?utm_source=vscom-download)
+  * [ __ C++ Game development quick start  __ ](https://docs.microsoft.com/windows/uwp/gaming/directx-getting-started?utm_source=vscom-download)
+  * [ __ C++ Game development tutorial  __ ](https://docs.microsoft.com/windows/uwp/gaming/tutorial--create-your-first-uwp-directx-game?utm_source=vscom-download)
+
+Start over
+
+###  Visual Studio 2019 for Mac & Unity
+
+[ Download Visual Studio for Mac  __ ](/thank-you-downloading-visual-studio-
+mac/?sku=communitymac&rel=16)
+
+Highlights
+
+  * Full-featured IDE on macOS 
+  * Build and debug cross-platform games with Unity framework 
+  * Code in C\# 
+
+Learn more
+
+  * [ __ Visual Studio for Mac welcome guide  __ ](https://docs.microsoft.com/visualstudio/mac/ide-tour?utm_source=vscom-download)
+  * [ __ Unity quick start  __ ](https://docs.microsoft.com/visualstudio/mac/unity-walkthrough?utm_source=vscom-download)
+
+Start over
+
+###  Visual Studio 2019 & Unity
+
+Download Visual Studio  __
+
+  * [ Community 2019  __ ](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16 "Free for individual developers, academic uses, and open source")
+
+  * [ Professional 2019  __ ](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Professional&rel=16 "Free trial for individual use")
+
+  * [ Enterprise 2019  __ ](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Enterprise&rel=16 "Free trial for organizations")
+
+Highlights
+
+  * Full-featured IDE on Windows 
+  * Build and debug cross-platform games with Unity framework 
+  * Code in C\# 
+
+Learn more
+
+  * [ __ Visual Studio welcome guide  __ ](https://docs.microsoft.com/visualstudio/get-started/visual-studio-ide?utm_source=vscom-download)
+  * [ __ Unity quick start  __ ](https://dotnet.microsoft.com/learn/games/unity-tutorial/intro)
+
+Start over
+
+###  Visual Studio Code
+
+Download Visual Studio Code  __
+
+  * [ Linux x64 .deb  __ ](https://code.visualstudio.com/docs/?dv=linux64_deb)
+
+  
+
+  * [ Linux x64 .rpm  __ ](https://code.visualstudio.com/docs/?dv=linux64_rpm)
+
+Highlights
+
+  * Free code editor for Linux 
+  * Build and debug Electron apps 
+  * Code in JavaScript and TypeScript 
+
+Learn more
+
+  * [ __ VS Code welcome guide  __ ](https://code.visualstudio.com/docs)
+  * [ __ Electron quick start  __ ](https://github.com/microsoft/vscode-recipes/tree/master/Electron#getting-started)
+
+Start over
+
+###  Visual Studio Code
+
+[ Download Visual Studio Code  __
+](https://code.visualstudio.com/docs/?dv=osx)
+
+Highlights
+
+  * Free code editor for macOS 
+  * Build and debug Electron apps 
+  * Code in JavaScript and TypeScript 
+
+Learn more
+
+  * [ __ VS Code welcome guide  __ ](https://code.visualstudio.com/docs)
+  * [ __ Electron quick start  __ ](https://github.com/microsoft/vscode-recipes/tree/master/Electron#getting-started)
+
+Start over
+
+###  Visual Studio Code
+
+[ Download Visual Studio Code  __
+](https://code.visualstudio.com/docs/?dv=win)
+
+Highlights
+
+  * Free code editor for Windows 
+  * Build and debug Electron apps 
+  * Code in JavaScript and TypeScript 
+
+Learn more
+
+  * [ __ VS Code welcome guide  __ ](https://code.visualstudio.com/docs)
+  * [ __ Electron quick start  __ ](https://github.com/microsoft/vscode-recipes/tree/master/Electron#getting-started)
+
+Start over
+
+###  Visual Studio Code & C++
+
+Download Visual Studio Code  __
+
+  * [ Linux x64 .deb  __ ](https://code.visualstudio.com/docs/?dv=linux64_deb)
+
+  * [ Linux x64 .rpm  __ ](https://code.visualstudio.com/docs/?dv=linux64_rpm)
+
+Highlights
+
+  * Free code editor for Linux 
+  * Build and debug C++ apps 
+  * Works with your existing tools 
+
+Learn more
+
+  * [ __ VS Code welcome guide  __ ](https://code.visualstudio.com/docs)
+  * [ __ C++ using GCC compiler - quick Start  __ ](https://code.visualstudio.com/docs/cpp/config-linux)
+
+Start over
+
+###  Visual Studio Code & C++
+
+[ Download Visual Studio Code  __
+](https://code.visualstudio.com/docs/?dv=osx)
+
+Highlights
+
+  * Free code editor for macOS 
+  * Build and debug C++ apps 
+  * Works with your existing tools 
+
+Learn more
+
+  * [ __ VS Code welcome guide  __ ](https://code.visualstudio.com/docs)
+  * [ __ C++ Using Clang quick start  __ ](https://code.visualstudio.com/docs/cpp/config-clang-mac)
+
+Start over
+
+###  Visual Studio 2019 & Desktop C++
+
+Download Visual Studio  __
+
+  * [ Community 2019  __ ](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16 "Free for individual developers, academic uses, and open source")
+
+  * [ Professional 2019  __ ](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Professional&rel=16 "Free trial for individual use")
+
+  * [ Enterprise 2019  __ ](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Enterprise&rel=16 "Free trial for organizations")
+
+Highlights
+
+  * Full-featured IDE on Windows 
+  * Build and debug C++ apps 
+  * Target Windows and Linux with CMake 
+
+Learn more
+
+  * [ __ Visual Studio welcome guide  __ ](https://docs.microsoft.com/visualstudio/get-started/visual-studio-ide?utm_source=vscom-download)
+  * [ __ Getting started with C++  __ ](https://docs.microsoft.com/cpp/overview/visual-cpp-in-visual-studio?utm_source=vscom-download)
+  * [ __ C++ tutorials  __ ](https://docs.microsoft.com/cpp/get-started/tutorial-console-cpp?utm_source=vscom-download)
+
+Start over
+
+###  Visual Studio 2019 & .NET Core
+
+Download Visual Studio  __
+
+  * [ Community 2019  __ ](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16 "Free for individual developers, academic uses, and open source")
+
+  * [ Professional 2019  __ ](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Professional&rel=16 "Free trial for individual use")
+
+  * [ Enterprise 2019  __ ](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Enterprise&rel=16 "Free trial for organizations")
+
+Highlights
+
+  * Full-featured IDE on Windows 
+  * Build and debug desktop apps 
+  * Code in C\#/F\#/VB.NET 
+
+Learn more
+
+  * [ __ Visual Studio welcome guide  __ ](https://docs.microsoft.com/visualstudio/get-started/visual-studio-ide?utm_source=vscom-download)
+  * [ __ .NET Core quick start  __ ](https://dotnet.microsoft.com/apps/desktop)
+  * [ __ .NET Core tutorial  __ ](https://docs.microsoft.com/dotnet/core/tutorials/with-visual-studio?utm_source=vscom-download)
+
+Start over
+
+###  Visual Studio Code & Java
+
+Download Visual Studio Code  __
+
+  * [ Linux x64 .deb  __ ](https://code.visualstudio.com/docs/?dv=linux64_deb)
+
+  * [ Linux x64 .rpm  __ ](https://code.visualstudio.com/docs/?dv=linux64_rpm)
+
+Highlights
+
+  * Free code editor for Linux 
+  * Build and debug Java web apps, including Spring Boot 
+  * Azure extensions make it easy to deploy your app to the cloud 
+
+Learn more
+
+  * [ __ VS Code welcome guide  __ ](https://code.visualstudio.com/docs)
+  * [ __ Java quick start  __ ](https://code.visualstudio.com/docs/languages/java)
+  * [ __ Java tutorial  __ ](https://code.visualstudio.com/docs/java/java-tutorial)
+
+Start over
+
+###  Visual Studio Code & Java
+
+[ Download Visual Studio Code  __
+](https://code.visualstudio.com/docs/?dv=osx)
+
+Highlights
+
+  * Free code editor for macOS 
+  * Build and debug Java web apps, including Spring Boot 
+  * Azure extensions make it easy to deploy your app to the cloud 
+
+Learn more
+
+  * [ __ VS Code welcome guide  __ ](https://code.visualstudio.com/docs)
+  * [ __ Java quick start  __ ](https://code.visualstudio.com/docs/languages/java)
+  * [ __ Java tutorial  __ ](https://code.visualstudio.com/docs/java/java-tutorial)
+
+Start over
+
+###  Visual Studio Code & Java
+
+[ Download Visual Studio Code  __
+](https://code.visualstudio.com/docs/?dv=win)
+
+Highlights
+
+  * Free code editor for Windows 
+  * Build and debug Java web apps, including Spring Boot 
+  * Azure extensions make it easy to deploy your app to the cloud 
+
+Learn more
+
+  * [ __ VS Code welcome guide  __ ](https://code.visualstudio.com/docs)
+  * [ __ Java quick start  __ ](https://code.visualstudio.com/docs/languages/java)
+  * [ __ Java tutorial  __ ](https://code.visualstudio.com/docs/java/java-tutorial)
+
+Start over
+
+![Visual Studio Win 2019 logo](https://visualstudio.microsoft.com/wp-
+content/uploads/2019/06/BrandVisualStudioWin2019-3.svg) __
+
+##  Visual Studio
+
+Full-featured IDE to code, debug, test, and deploy to any platform.  [ Learn
+more  ](https://visualstudio.microsoft.com/vs/)
+
+![Screenshot of Visual Studio](https://visualstudio.microsoft.com/wp-
+content/uploads/2020/09/image-vs.png)
+
+Download Visual Studio  __
+
+  * [ Community 2019  __ ](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16 "Free for individual developers, academic uses, and open source")
+
+  * [ Professional 2019  __ ](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Professional&rel=16 "Free trial for individual use")
+
+  * [ Enterprise 2019  __ ](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Enterprise&rel=16 "Free trial for organizations")
+
+![Visual Studio Code logo](https://visualstudio.microsoft.com/wp-
+content/uploads/2019/09/vs-code-responsive-01-1.png) __ __ macOS
+
+##  Visual Studio Code
+
+Editing and debugging on any OS.  [ Learn more
+](https://code.visualstudio.com/?wt.mc_id=DX_841432)
+
+![Screenshot of Visual Studio Code](https://visualstudio.microsoft.com/wp-
+content/uploads/2020/09/image-code.png)
+
+By using Visual Studio Code you agree to its [ license and privacy statement
+](https://code.visualstudio.com/?wt.mc_id=DX_841432#home-terms)
+
+Download Visual Studio Code  __
+
+  * [ Windows x64  User Installer  __ ](https://code.visualstudio.com/docs/?dv=win)
+
+  * [ macOS Universal  Package  __ ](https://code.visualstudio.com/docs/?dv=osx)
+
+  * [ Linux x64  .deb  __ ](https://code.visualstudio.com/docs/?dv=linux64_deb)
+
+  * [ Linux x64  .rpm  __ ](https://code.visualstudio.com/docs/?dv=linux64_rpm)
+
+  * [ More  __ ](https://code.visualstudio.com/download)
+
+![Visual Studio for Mac logo](https://visualstudio.microsoft.com/wp-
+content/uploads/2019/09/VSforMacIcon2019-2.svg) macOS
+
+##  Visual Studio for Mac
+
+Develop apps and games for iOS, Android, and web using .NET.  [ Learn more
+](https://visualstudio.microsoft.com/vs/mac)
+
+![Screenshot of Visual Studio for Mac](https://visualstudio.microsoft.com/wp-
+content/uploads/2020/09/image-vs4mac.png)
+
+[ Read more about activating your license ](/vs/mac/activation)
+
+[ Download Visual Studio for Mac  __ ](/thank-you-downloading-visual-studio-
+mac/?sku=communitymac&rel=16)
+
+##  Part of the developer cloud from Microsoft
+
+[ ![Microsoft account logo](https://visualstudio.microsoft.com/wp-
+content/uploads/2019/09/Microsoft-Account.svg)
+
+##  Microsoft Azure
+
+](https://azure.microsoft.com/en-us/free/?ref=VisualStudio)
+
+The productive cloud that integrates with your tools
+
+[ Get started for free  __ ](https://azure.microsoft.com/en-
+us/free/?ref=VisualStudio)
+
+[ ![GitHub logo](https://visualstudio.microsoft.com/wp-
+content/uploads/2019/07/GitHubIcon.svg)
+
+##  GitHub
+
+](https://github.com/join?plan=business_plus&setup_organization=true&source=enterprise-
+hero/)
+
+Increase collaboration with your teams and the open-source community
+
+[ Get started for free  __
+](https://github.com/join?plan=business_plus&setup_organization=true&source=enterprise-
+hero/)
+
+  * [ GitHub Codespaces  ](javascript:void\(0\))
+  * [ Rich Code Navigation  ](javascript:void\(0\))
+  * [ Visual Studio 2019 version 16.9  ](javascript:void\(0\))
+  * [ Visual Studio Live Share  ](javascript:void\(0\))
+  * [ Visual Studio IntelliCode  ](javascript:void\(0\))
+  * 
+
+BETA
+
+##  Cloud-hosted dev environments​ accessible from anywhere​
+
+####  GitHub Codespaces​
+
+Get productive fast with cloud-hosted dev environments that can handle
+everything from small tasks to large, long-term projects. GitHub Codespaces
+works with your favorite tools, and also includes a browser-based editor\!​
+
+Get productive fast with cloud-hosted, on-demand development environments.
+
+[ Learn more  __ ](https://aka.ms/codespaces-signup)
+
+PRODUCT PREVIEW
+
+##  Rich Code Navigation
+
+####  Cloud Backed Code Navigation
+
+Try Rich Code Navigation to instantly see high precision navigation actions in
+your workflow. Find exact references, definitions, and implementations without
+having to wait for codebases to load locally.
+
+Try Rich Code Navigation to instantly see high precision navigation actions in
+your workflow.
+
+[ Learn more  __ ](https://visualstudio.microsoft.com/services/rich-code-
+navigation)
+
+PRODUCT ANNOUNCEMENT
+
+##  Upgrade to the latest version
+
+####  Visual Studio 2019 version 16.9
+
+Experience new enhancements in GitHub Actions tooling, frictionless
+suggestions with IntelliCode, address sanitizer support for Windows, new
+memory dump analyzers, .NET Productivity, and among many other improvements.
+
+[ Learn more about Visual Studio 2019  __ ](/vs/)
+
+Experience the latest improvements.  
+[ Download now  __ ](/downloads/)
+
+[ Download now  __ ](/downloads/)
+
+PRODUCT ANNOUNCEMENT
+
+##  Collaborate in real-time with anyone in your favorite tools
+
+####  Visual Studio Live Share
+
+Enjoy collaborative editing and debugging in real-time. Pair programming, code
+reviews, and more made easy with shared servers, terminals, diffs, and
+comments.
+
+Enjoy collaborative coding in real-time.
+
+[ Read more  __ ](/services/live-share/)
+
+PRODUCT PREVIEW
+
+##  AI-assisted development
+
+####  IntelliCode suggestions
+
+Try IntelliCode suggestions — it learns from your edits locally and lets you
+know where else in your code you could apply the same change.
+
+Try IntelliCode suggestions — it learns from your edits locally.
+
+[ Read more  __ ](/services/intellicode/)
+
+##  Visual Studio
+
+###  Develop apps for Android, iOS, Mac, Windows, web, and cloud
+
+  * Write your code fast 
+  * Debug and diagnose with ease 
+  * Test often, release with confidence 
+  * Extend and customize to your liking 
+  * Collaborate efficiently 
+
+[ Learn more about Visual Studio  __ ](/vs)
+
+![](https://visualstudio.microsoft.com/wp-content/themes/Avada-Child-
+Theme/assets/img/vscom-img-placeholder.png)
+
+![](https://visualstudio.microsoft.com/wp-content/themes/Avada-Child-
+Theme/assets/img/vscom-img-placeholder.png)
+
+##  Visual Studio Code
+
+###  Code editing, redefined
+
+  * Edit and debug apps on any OS 
+  * Built-in Git support 
+  * Over 20,000 [ extensions ](https://marketplace.visualstudio.com/VSCode)
+  * Free and built on [ open source ](https://github.com/Microsoft/vscode/)
+
+[ Learn more about Visual Studio Code  __
+](https://code.visualstudio.com?wt.mc_id=DX_841432)
+
+##  Visual Studio for Mac
+
+  * Be productive using a fast and fluid code editor 
+  * Fix issues with advanced debugging capabilities 
+  * Identify problems with comprehensive testing 
+  * Customize using themes, fonts, and more 
+  * Collaborate effectively with built-in source control 
+
+[ Learn more about Visual Studio for Mac  __ ](/vs/mac)
+
+![](https://visualstudio.microsoft.com/wp-content/themes/Avada-Child-
+Theme/assets/img/vscom-img-placeholder.png)
+
+![](https://visualstudio.microsoft.com/wp-
+content/uploads/2020/11/CLO20b_informal_work_outside_office_001-2-2.png)
+
+##  Visual Studio Subscriptions
+
+###  Developer tools, Azure, Dev/test software, training, and so much more
+
+  * Access to the latest and past versions of Visual Studio 
+  * Monthly Azure credit for Dev/test 
+  * Access to thousands of software downloads 
+  * Services to help support your development 
+  * Training resources including Pluralsight and LinkedIn Learning 
+  * Support benefits 
+
+[ Learn more  __ ](/subscriptions/)
+
+![Subscribe Newsletter](https://visualstudio.microsoft.com/wp-
+content/uploads/2020/12/subscribe-e1608657368327.png)
+
+##  Sign up for the developer community newsletter
+
+Get the latest articles, documentation, and events from Microsoft.Source – the
+curated monthly developer community newsletter. Learn about new technologies
+and find opportunities to connect with other developers online and near you.
+
+[ Subscribe  __ ](https://azure.microsoft.com/en-us/resources/join-the-azure-
+developer-community/)
+
+##  Visual Studio Community 2019
+
+Full-featured IDE to code, debug, test, and deploy to any platform
+
+[ Free download  __ ](https://visualstudio.microsoft.com/thank-you-
+downloading-visual-studio/?sku=Community&rel=16)
+
+##  Visual Studio Code
+
+Editing and debugging on any OS  \(By using Visual Studio Code you agree to
+its [ license and privacy statement
+](https://code.visualstudio.com/?wt.mc_id=DX_841432#home-terms) \)
+
+[ Free download  __
+](https://go.microsoft.com/fwlink/?LinkID=534107&wt.mc_id=DX_841432&sku=codewin)
+
+##  Visual Studio for Mac Community
+
+Develop apps and games for iOS, Android, and web using .NET
+
+[ Free download  __ ](https://visualstudio.microsoft.com/thank-you-
+downloading-visual-studio-mac/?sku=communitymac&rel=16)
+
+[ Learn more about the Visual Studio family of products __ ](/products/)
+
+What's new
+
+  * [ Surface Duo ](https://www.microsoft.com/en-us/surface/devices/surface-duo)
+  * [ Surface Laptop Go ](https://www.microsoft.com/en-us/p/surface-laptop-go/94FC0BDGQ7WV)
+  * [ Surface Pro X ](https://www.microsoft.com/en-us/p/surface-pro-x/8QG3BMRHNWHK)
+  * [ Surface Go 2 ](https://www.microsoft.com/en-us/p/surface-go-2/8PT3S2VJMDR6)
+  * [ Surface Book 3 ](https://www.microsoft.com/en-us/p/surface-book-3/8XBW9G3Z71F1)
+  * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365)
+  * [ Windows 10 apps ](https://www.microsoft.com/en-us/windows/windows-10-apps)
+  * [ HoloLens 2 ](https://www.microsoft.com/en-us/hololens)
+
+Microsoft Store
+
+  * [ Account profile ](https://account.microsoft.com/)
+  * [ Download Center ](https://www.microsoft.com/en-us/download)
+  * [ Microsoft Store support ](https://go.microsoft.com/fwlink/?linkid=2139749)
+  * [ Returns ](https://go.microsoft.com/fwlink/p/?LinkID=824764&clcid=0x409)
+  * [ Order tracking ](https://account.microsoft.com/orders)
+  * [ Virtual workshops and training ](https://www.microsoft.com/en-us/store/workshops-training-and-events?icid=vl_uf_932020)
+  * [ Microsoft Store Promise ](https://www.microsoft.com/en-us/store/b/why-microsoft-store?icid=footer_why-msft-store_7102020)
+  * [ Financing ](https://www.microsoft.com/en-us/store/b/financing?icid=footer_financing_10142020)
+
+Education
+
+  * [ Microsoft in education ](https://www.microsoft.com/en-us/education)
+  * [ Office for students ](https://www.microsoft.com/en-us/education/products/office/default.aspx)
+  * [ Office 365 for schools ](https://products.office.com/en-us/academic/compare-office-365-education-plans)
+  * [ Deals for students & parents ](https://www.microsoft.com/en-us/store/b/education?icid=CNavfooter_Studentsandeducation)
+  * [ Microsoft Azure in education ](https://azure.microsoft.com/en-us/community/education/)
+
+Enterprise
+
+  * [ Azure ](https://azure.microsoft.com/)
+  * [ AppSource ](https://go.microsoft.com/fwlink/?LinkID=808093)
+  * [ Automotive ](https://www.microsoft.com/en-us/enterprise/automotive)
+  * [ Government ](https://www.microsoft.com/en-us/enterprise/government)
+  * [ Healthcare ](https://www.microsoft.com/en-us/enterprise/health)
+  * [ Manufacturing ](https://www.microsoft.com/en-us/enterprise/manufacturing)
+  * [ Financial services ](https://www.microsoft.com/en-us/enterprise/financial-services/banking-and-capital-markets)
+  * [ Retail ](https://www.microsoft.com/en-us/enterprise/retail-consumer-goods)
+
+Developer
+
+  * [ Microsoft Visual Studio ](https://visualstudio.microsoft.com/)
+  * [ Windows Dev Center ](https://developer.microsoft.com/en-us/windows)
+  * [ Developer Center ](https://developer.microsoft.com/)
+  * [ Microsoft developer program ](https://developer.microsoft.com/en-us/store/register)
+  * [ Channel 9 ](https://channel9.msdn.com/)
+  * [ Office Dev Center ](https://developer.microsoft.com/en-us/office)
+  * [ Microsoft Garage ](https://www.microsoft.com/en-us/garage/)
+
+Company
+
+  * [ Careers ](https://careers.microsoft.com/)
+  * [ About Microsoft ](https://www.microsoft.com/en-us/about)
+  * [ Company news ](https://news.microsoft.com/)
+  * [ Privacy at Microsoft ](https://privacy.microsoft.com/en-us)
+  * [ Investors ](https://www.microsoft.com/investor/default.aspx)
+  * [ Diversity and inclusion ](https://www.microsoft.com/en-us/diversity/)
+  * [ Accessibility ](https://www.microsoft.com/en-us/accessibility)
+  * [ Security ](https://www.microsoft.com/en-us/security/default.aspx)
+
+English \(United States\)
+
+  * [ Contact us ](https://visualstudio.microsoft.com/support/)
+  * [ Privacy & cookies ](https://go.microsoft.com/fwlink/?LinkId=521839)
+  * [ Terms of use ](https://azure.microsoft.com/en-us/support/legal/)
+  * [ Trademarks ](https://www.microsoft.com/trademarks)
+  * [ About our ads ](https://choice.microsoft.com/)
+  * © Microsoft 2021 
+
+Feedback ![](https://visualstudio.microsoft.com/wp-content/themes/Avada-Child-
+Theme/assets/img/edit-outline.svg)
+

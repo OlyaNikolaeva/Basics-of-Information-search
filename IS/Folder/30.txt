@@ -1,0 +1,306 @@
+![](https://web.vortex.data.microsoft.com:443/collect/v1/t.gif?&name=%27Ms.Webi.PageView%27&ver=%272.1%27&appId=%27JS%3Amicrosoft-
+viva%27&cV=%27fmxeJ4CP0EStV9fL.0%27&ext-app-env=%27onerf_prod%27&ext-
+javascript-libver=%274.0.0-beta-10%27&ext-user-
+localId=%27t%3A07BF15EC342964B433BB05F9358265F2%27&*baseType=%27Ms.Content.PageView%27&*isJs=True&*isLoggedIn=False&*isManual=True&*serverImpressionGuid=%27a9f6dc5e-3960-4d66-aba2-5c930b362bab%27&-ver=%271.0%27&-impressionGuid=%2700000000-0000-0000-0000-000000000000%27&-pageName=%27overview.ru-
+ru%27&-uri=%27https%3A%2F%2Fwww.microsoft.com%2Fru-ru%2Fmicrosoft-
+viva%2Foverview%3Ficid%3Dmscom_marcom_CPW2a_MicrosoftViva%27&-pageType=%27Office.ProductTemplate%27&-pageTags=%27%7B%22tasId%22%3A%22a9f6dc5e-3960-4d66-aba2-5c930b362bab%22%2C%22tasMuid%22%3A%2207BF15EC342964B433BB05F9358265F2%22%2C%22browserGroup%22%3A%22uplevel.web.pc%22%2C%22isOneRf%22%3A%22True%22%7D%27&-behavior=0&-market=%27ru-
+ru%27)
+
+[ Перейти к основному контенту ](javascript:void\(0\))
+
+[ ![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31) Microsoft
+](https://www.microsoft.com)
+
+Microsoft Viva
+
+[ Microsoft Viva  ](https://www.microsoft.com/ru-ru/microsoft-viva)
+
+Microsoft Viva
+
+  * [ Главная ](https://www.microsoft.com/ru-ru/microsoft-viva)
+  * [ Обзор ](https://www.microsoft.com/ru-ru/microsoft-viva/overview)
+  * Модули 
+    * [ Знания и опыт ](https://www.microsoft.com/ru-ru/microsoft-viva/topics/overview)
+    * [ Продуктивность и баланс ](https://insights.office.com/VivaInsights/)
+    * [ Обучение и развитие ](https://resources.techcommunity.microsoft.com/viva-learning/)
+    * [ Корпоративная культура и общение ](https://resources.techcommunity.microsoft.com/viva-connections)
+    * [ Посмотреть все ](https://www.microsoft.com/ru-ru/microsoft-viva)
+
+  * ИТ-ресурсы 
+    * [ Документация по Viva Темам ](https://docs.microsoft.com/ru-ru/microsoft-365/knowledge/)
+    * [ Документация по Viva Аналитике ](https://docs.microsoft.com/ru-ru/insights/teams-app)
+    * [ Документация по Viva Связям ](https://docs.microsoft.com/ru-ru/sharepoint/viva-connections)
+
+  * [ Подробнее о Microsoft 365 ](https://www.microsoft.com/ru-ru/microsoft-365/enterprise)
+  * Больше 
+
+  * Все продукты Microsoft 
+    *       * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365)
+      * [ Office ](https://www.microsoft.com/microsoft-365/microsoft-office)
+      * [ Windows ](https://www.microsoft.com/ru-ru/windows/)
+      * [ Xbox ](https://www.xbox.com/)
+      * [ Поддержка ](https://support.microsoft.com/ru-ru)
+    * ПО  ПО 
+      * [ Приложения для Windows ](https://www.microsoft.com/ru-ru/store/apps/windows?icid=CNavAppsWindowsApps)
+      * [ OneDrive ](https://onedrive.live.com/about/ru-ru/)
+      * [ Outlook ](https://outlook.live.com/owa/)
+      * [ Skype ](https://www.skype.com/ru/)
+      * [ OneNote ](https://www.onenote.com/?omkt=ru-RU)
+      * [ Microsoft Teams ](https://www.microsoft.com/ru-ru/microsoft-teams/free?icid=SSM_AS_Promo_Apps_MicrosoftTeams)
+    * Компьютеры и устройства  Компьютеры и устройства 
+      * [ Купите Xbox ](https://www.microsoft.com/ru-ru/store/b/xbox?icid=CNavDevicesXbox)
+      * [ Аксессуары ](https://www.microsoft.com/accessories/ru-ru)
+    * Развлечения  Развлечения 
+      * [ Xbox Game Pass Ultimate ](https://www.microsoft.com/ru-ru/p/xbox-game-pass-ultimate/cfq7ttc0khs0?WT.mc_id=CNavGamesXboxGamePassUltimate)
+      * [ Xbox Live Gold ](https://www.microsoft.com/ru-ru/p/xbox-live-gold/cfq7ttc0k5dj?WT.mc_id=CNavGamesXboxLiveGold)
+      * [ Xbox и игры ](https://www.xbox.com/ru-ru/games/xbox-one?xr=shellnav)
+      * [ Компьютерные игры ](https://www.microsoft.com/ru-ru/store/games/windows?icid=CNavGamesWindowsGames)
+      * [ Игры для Windows ](https://www.microsoft.com/ru-ru/store/games/windows?icid=TopNavWindowsGames)
+    * Для бизнеса  Для бизнеса 
+      * [ Microsoft Azure ](https://azure.microsoft.com/ru-ru/)
+      * [ Microsoft Dynamics 365 ](https://www.microsoft.com/ru-ru/dynamics365/home)
+      * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365/business/all-business)
+      * [ Microsoft Industry ](https://www.microsoft.com/ru-ru/enterprise)
+      * [ Платформа данных ](https://www.microsoft.com/ru-ru/sql-server/ )
+      * [ Power Platform ](https://powerplatform.microsoft.com/ru-ru)
+      * [ Shop Business ](https://www.microsoft.com/ru-ru/store/b/business?icid=CNavBusinessStore)
+    * Для разработчиков и ИТ  Для разработчиков и ИТ 
+      * [ .NET ](https://www.microsoft.com/net/)
+      * [ Visual Studio ](https://visualstudio.microsoft.com/)
+      * [ Windows Server ](https://www.microsoft.com/cloud-platform/windows-server)
+      * [ Разработка приложений для Windows ](https://developer.microsoft.com/ru-ru/windows)
+      * [ Документы ](https://docs.microsoft.com/ru-ru/)
+      * [ Power Apps ](https://powerapps.microsoft.com/ru-ru)
+    * Другое  Другое 
+      * [ Бесплатная загрузка и средства безопасности ](https://www.microsoft.com/ru-ru/download/default.aspx)
+      * [ Образование ](https://www.microsoft.com/ru-ru/education?icid=CNavMSCOML0_Studentsandeducation)
+      * [ лицензирование ](https://www.microsoft.com/licensing/default)
+    * [ Посмотреть карту сайта ](https://www.microsoft.com/ru-ru/sitemap.aspx)
+
+Поиск  Поиск решений Microsoft 365
+
+Отмена
+
+Войти
+
+#  Более человечная рабочая среда
+
+Люди — не роботы, они гораздо сложнее. Мы уникальны, обладаем множеством
+граней и полны жизни — и сохраняем эти качества даже на работе. Пришло время
+пересмотреть подход к рабочему опыту сотрудников и создать культуру труда,
+которая учитывает все наши различия и позволяет сотрудникам и командам
+раскрыть весь свой потенциал.
+
+[ Ознакомиться с онлайн-событием  ](javascript:void\(0\);)
+
+Всплывающее окно
+
+[ Скачать электронную книгу \(на английском\)
+](https://go.microsoft.com/fwlink/p/?LinkID=2153939&clcid=0x419&culture=ru-
+ru&country=RU)
+
+##  Представляем Microsoft Viva
+
+Microsoft Viva — платформа рабочей среды для сотрудников, которая помогает
+создать условия труда, где в центре всего — пользователь, и тем самым улучшить
+бизнес-результаты.
+
+[ Подробнее  ](https://www.microsoft.com/ru-ru/microsoft-viva)
+
+![vision_empower](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+vision\_empower
+
+##  Новые возможности для сотрудников и команд
+
+###  Высокий уровень культуры и общения
+
+Общение, координация и мотивация для максимального раскрытия потенциала
+каждого работника с помощью Microsoft Viva Связей.
+
+###  Баланс между работой и отдыхом
+
+Создайте условия, в которых ваши сотрудники смогут работать с максимальной
+эффективностью, а организации — расти и развиваться, с помощью Microsoft Viva
+Аналитики.
+
+###  Успешное использование знаний и опыта
+
+Обеспечьте сотрудникам доступ к знаниям и полезному опыту в приложениях, с
+которыми они работают каждый день, с помощью Microsoft Viva Тем.
+
+###  Ускоренный профессиональный рост и отработка навыков
+
+Сделайте обучение и личное развитие неотъемлемой составляющие рабочего
+процесса с Microsoft Viva Обучением.
+
+##  Что дальше?
+
+Узнайте больше о Microsoft Viva и о том, как эта служба помогает повысить
+продуктивность и степень мотивации.
+
+[ Начать работу  ](https://www.microsoft.com/ru-ru/microsoft-viva)
+
+##  Весь потенциал сотрудников на благо вашего бизнеса
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4MzTP?ver=4d71&q=90&h=40&b=%23FFFFFFFF&aim=true)
+
+94% сотрудников признаются, что готовы связать свою карьеру с компанией на
+более продолжительный срок, если руководство вкладывает деньги в их обучение и
+развитие  1  .
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4MmAE?ver=1313&q=90&h=40&b=%23FFFFFFFF&aim=true)
+
+Правильно развернутый набор инструментов для поиска информации и знаний
+позволяет повысить ежедневную продуктивность сотрудников на 11–14%  2  .
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4MmAH?ver=a1d9&q=90&h=40&b=%23FFFFFFFF&aim=true)
+
+Организации с высоким уровнем мотивации сотрудников могут похвастаться на 21%
+более высокой прибыльностью  3  .
+
+  *   * 
+
+  * ![CocaCola](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+##  "Эпидемия COVID-19 показала нам, что рабочую среду можно упростить.
+Платформы, лежащие в основе, играют ключевую роль. Мы пытаемся понять, как эти
+решения можно интегрировать максимально удобным способом, чтобы упростить
+работу всем нашим сотрудникам".
+
+Нирадж Толмаре \(Neeraj Tolmare\), глобальный директор по информационным
+технологиям, The Coca-Cola Company
+
+  * ![Unilever](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+##  "Очевидно, что баланс между работой и личной жизнью очень важен. Сегодня
+границы между домом и работой размываются и нам важно понять, как люди с этим
+справляются. Мы анализируем обобщенные данные, чтобы увидеть, где именно можем
+предложить поддержку".
+
+Стив МакКристал \(Steve McCrystal\), директор по корпоративным технологиям,
+Unilever
+
+##  Подробнее о Microsoft Viva
+
+Узнайте больше о том, как взаимодействуют интегрированные инструменты и службы
+Microsoft Viva, помогающие отдельным сотрудникам и командам работать с
+максимальной эффективностью.
+
+[ Скачать электронную книгу \(на английском\)
+](https://go.microsoft.com/fwlink/p/?LinkID=2153939&clcid=0x419&culture=ru-
+ru&country=RU)
+
+![](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Добивайтесь большего с Microsoft 365
+
+Оставайтесь на связи и успевайте больше благодаря интеллектуальным приложениям
+и инструментам, интегрированным облачным службам и встроенным средствами
+безопасности.
+
+[ Подробнее  ](https://www.microsoft.com/ru-ru/microsoft-365/enterprise)
+
+###  Абсолютно новый опыт сотрудников благодаря Microsoft Viva
+
+Узнайте, почему новая платформа рабочей среды для сотрудников, функционирующая
+на базе данных и аналитики, играет сегодня все более важную роль.
+
+[ Прочитать статью в блоге
+](https://go.microsoft.com/fwlink/p/?LinkID=2153341&clcid=0x419&culture=ru-
+ru&country=RU)
+
+###  Практический пример EXP
+
+Прошедший год показал, что многие компании переводят своих сотрудников в
+полностью цифровую рабочую среду.
+
+[ Прочитать статью
+](https://go.microsoft.com/fwlink/p/?LinkID=2154036&clcid=0x419&culture=ru-
+ru&country=RU)
+
+1\. [ Отчет об обучении на рабочем месте LinkedIn за 2019 г.
+](https://go.microsoft.com/fwlink/p/?linkid=2153659)  
+2\. [ Распространение знаний в меняющемся мире, Spiceworks/Ziff Davis, февраль
+2021 г. \(по заказу Майкрософт\)
+](https://go.microsoft.com/fwlink/p/?linkid=2153940)  
+3\. [ Правильная культура: удовлетворенность сотрудников — не единственный
+фактор \(gallup.com\) ](https://go.microsoft.com/fwlink/p/?linkid=2153552)
+
+* * *
+
+Следите за новостями Microsoft 365
+
+  * [ ![Логотип LinkedIn](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/30de2af0/office.testdrive/images/social/LinkedIn.png) ![Логотип LinkedIn](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/e9682e51/office.testdrive/images/social/LinkedIn-high-contrast.png) ](https://go.microsoft.com/fwlink/?linkid=2144764)
+  * [ ![Логотип Twitter](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/10609c90/office.testdrive/images/social/Twitter.png) ![Логотип Twitter](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/6edf9aa7/office.testdrive/images/social/Twitter-high-contrast.png) ](https://go.microsoft.com/fwlink/p/?LinkId=2000804)
+  * [ ![Логотип Blog](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/f3229d48/office.testdrive/images/social/Blog.png) ![Логотип Blog](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/fa9a23e2/office.testdrive/images/social/Blog-high-contrast.png) ](https://go.microsoft.com/fwlink/p/?LinkID=2000803)
+  * [ ![Логотип VKontakte](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/881f11de/office.testdrive/images/social/VKontakte.png) ](https://vk.com/officerussia)
+
+Что нового?
+
+  * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365)
+  * [ Приложения Windows 10 ](https://www.microsoft.com/ru-ru/windows/windows-10-apps)
+
+Microsoft Store
+
+  * [ Профиль учетной записи ](https://account.microsoft.com/)
+  * [ Центр загрузки ](https://www.microsoft.com/ru-ru/download)
+  * [ Поддержка Microsoft Store ](https://go.microsoft.com/fwlink/?linkid=2139749)
+  * [ Возврат товаров ](https://go.microsoft.com/fwlink/p/?LinkID=824764&clcid=0x419)
+  * [ Отслеживание заказа ](https://account.microsoft.com/orders)
+
+Для образования
+
+  * [ Майкрософт и образование ](https://www.microsoft.com/ru-ru/education)
+  * [ Office для учащихся ](https://www.microsoft.com/ru-ru/education/products/office/default.aspx)
+  * [ Office 365 для школ ](https://products.office.com/ru-ru/academic/compare-office-365-education-plans)
+  * [ Специальные предложения для учащихся и родителей ](https://www.microsoft.com/ru-ru/store/b/student?icid=CNavfooter_Studentsandeducation)
+  * [ Microsoft Azure и образование ](https://azure.microsoft.com/ru-ru/community/education/)
+
+Для крупных предприятий
+
+  * [ Azure ](https://azure.microsoft.com/)
+  * [ AppSource ](https://go.microsoft.com/fwlink/?LinkID=808093)
+  * [ Автопромышленность ](https://www.microsoft.com/enterprise/automotive)
+  * [ Государственные учреждения ](https://www.microsoft.com/enterprise/government)
+  * [ Здравоохранение ](https://www.microsoft.com/enterprise/health)
+  * [ Промышленное производство ](https://www.microsoft.com/enterprise/manufacturing)
+  * [ Финансовые услуги ](https://www.microsoft.com/enterprise/financial-services/banking-and-capital-markets)
+  * [ Торговля ](https://www.microsoft.com/enterprise/retail-consumer-goods)
+
+Для разработчиков
+
+  * [ Microsoft Visual Studio ](https://visualstudio.microsoft.com/)
+  * [ Центр разработчиков Windows ](https://developer.microsoft.com/ru-ru/windows)
+  * [ Центр разработчиков ](https://developer.microsoft.com/)
+  * [ Программа Майкрософт для разработчиков ](https://developer.microsoft.com/ru-ru/store/register)
+  * [ Channel 9 ](https://channel9.msdn.com/)
+  * [ Центр разработчиков Office ](https://developer.microsoft.com/ru-ru/office)
+
+Компания
+
+  * [ Вакансии ](https://careers.microsoft.com/)
+  * [ О корпорации Майкрософт ](https://www.microsoft.com/ru-ru/about)
+  * [ Новости компании ](https://news.microsoft.com/ru-ru)
+  * [ Политика конфиденциальности Майкрософт ](https://privacy.microsoft.com/ru-ru)
+  * [ Инвесторы ](https://www.microsoft.com/investor/default.aspx)
+  * [ Безопасность ](https://www.microsoft.com/ru-ru/security/default.aspx)
+
+[ Русский \(Россия\) ](https://www.microsoft.com/ru-
+RU/microsoft-365/locale?absoluteReturnUrl=https%3a%2f%2fwww.microsoft.com%2fru-
+ru%2fmicrosoft-viva%2foverview%3ficid%3dmscom_marcom_CPW2a_MicrosoftViva)
+
+  * [ Связаться с Microsoft ](https://support.microsoft.com/contactus)
+  * [ Конфиденциальность ](https://go.microsoft.com/fwlink/?LinkId=521839)
+  * Управление файлами cookie 
+  * [ Условия использования ](https://go.microsoft.com/fwlink/?LinkID=206977)
+  * [ Товарные знаки ](https://www.microsoft.com/trademarks)
+  * [ Сведения о рекламе ](https://choice.microsoft.com/)
+  * © Microsoft 2021 
+

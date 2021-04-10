@@ -1,0 +1,545 @@
+Skip Navigation
+
+#  Primary Navigation
+
+[ Channel 9 Home  ](/)
+
+Site Navigation
+
+  * [ All Content ](/Browse/AllContent)
+  * [ Shows ](/Browse/AllShows)
+  * [ Events ](/Browse/Events)
+
+Toggle Search
+
+Search Channel 9  Search
+
+[ Sign In
+](https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1618054882&rver=6.6.6577.0&wp=MBI_SSL&wreply=https:%2F%2Fchannel9.msdn.com%2F&id=47159)
+
+[ ![Live broadcast starts
+soon](https://f.ch9.ms/thumbnail/b03879ec-47cf-4762-9f66-72e5620f8697.png)
+](https://docs.microsoft.com/en-
+us/learn/tv/?WT.mc_id=academic-19991-cxa&ocid=minibanner)
+
+#  Channel 9 Homepage
+
+##  Featured Content
+
+[ Data Exposed ](/Shows/Data-Exposed)
+
+###  [ Get Started with Accessing Azure Data Explorer using Apache Spark for
+Azure Synapse… ](/Shows/Data-Exposed/Get-Started-with-Accessing-Azure-Data-
+Explorer-using-Apache-Spark-for-Azure-Synapse-Analytics)
+
+[ View Episode ](/Shows/Data-Exposed/Get-Started-with-Accessing-Azure-Data-
+Explorer-using-Apache-Spark-for-Azure-Synapse-Analytics) [ ![Get Started with
+Accessing Azure Data Explorer using Apache Spark for Azure Synapse
+Analytics](https://sec.ch9.ms/ch9/3493/5175c4cb-
+bca6-4f14-8ef1-38706aa93493/GetStartedwithAccessingAzureDataExplorerusingApac_512.jpg)
+11:15  ](/Shows/Data-Exposed/Get-Started-with-Accessing-Azure-Data-Explorer-
+using-Apache-Spark-for-Azure-Synapse-Analytics)
+
+[ Internet of Things Show ](/Shows/Internet-of-Things-Show)
+
+###  [ Rapidly move your Vision AI project to production with VisionOnEdge
+](/Shows/Internet-of-Things-Show/Rapidly-move-your-Vision-AI-project-to-
+production-with-VisionOnEdge)
+
+[ ![Rapidly move your Vision AI project to production with
+VisionOnEdge](https://sec.ch9.ms/ch9/956e/a35eb06a-f8a6-4d82-9e3c-89fdbcde956e/VisionOnEdge_512.jpg)
+21:03  ](/Shows/Internet-of-Things-Show/Rapidly-move-your-Vision-AI-project-
+to-production-with-VisionOnEdge)
+
+[ The DevOps Lab ](/Shows/DevOps-Lab)
+
+###  [ On Prem To The Cloud: Migrating to App Service \(episode 6\)
+](/Shows/DevOps-Lab/On-Prem-To-The-Cloud-Migrating-to-App-Service-episode-6)
+
+[ ![On Prem To The Cloud: Migrating to App Service \(episode
+6\)](https://sec.ch9.ms/ch9/3456/b1d8413c-3713-408b-ac25-4e2c86b83456/OnPremToTheCloudMigratingtoAppServiceepisode6_512.jpg)
+16:32  ](/Shows/DevOps-Lab/On-Prem-To-The-Cloud-Migrating-to-App-Service-
+episode-6)
+
+[ On .NET ](/Shows/On-NET)
+
+###  [ A Journey to .NET MAUI ](/Shows/On-NET/A-Journey-to-NET-MAUI)
+
+[ ![A Journey to .NET MAUI](https://sec.ch9.ms/ch9/009b/b7819fdf-
+adba-4fd6-8012-d530754c009b/AJourneytoNETMAUI_512.jpg) 18:48  ](/Shows/On-
+NET/A-Journey-to-NET-MAUI)
+
+[ Azure Friday ](/Shows/Azure-Friday)
+
+###  [ Building a balancing robot with Azure Sphere ](/Shows/Azure-
+Friday/Building-a-balancing-robot-with-Azure-Sphere)
+
+[ ![Building a balancing robot with Azure
+Sphere](https://sec.ch9.ms/ch9/33e2/3404fa46-d7f1-4e10-99d1-8bb2991333e2/azfr672_512.jpg)
+23:28  ](/Shows/Azure-Friday/Building-a-balancing-robot-with-Azure-Sphere)
+
+##  [ Fresh Content ](/Browse/AllContent) [ View All  Fresh Content
+](/Browse/AllContent)
+
+[ The Xamarin Show ](/Shows/XamarinShow)
+
+###  [ XAML Hot Reload Updates | Xamarin Show ](/Shows/XamarinShow/XAML-Hot-
+Reload-Updates--Xamarin-Show)
+
+[ ![XAML Hot Reload Updates | Xamarin
+Show](https://sec.ch9.ms/ch9/27e2/800c2b48-5920-4036-b843-0d3f537c27e2/XAMLHotReloadUpdates_512.jpg)
+21:07  ](/Shows/XamarinShow/XAML-Hot-Reload-Updates--Xamarin-Show)
+
+[ IT Ops Talk ](/Shows/IT-Ops-Talk)
+
+###  [ Azure Landing Zone Q&A ](/Shows/IT-Ops-Talk/Azure-Landing-Zone-QA)
+
+[ ![Azure Landing Zone
+Q&A](https://f.ch9.ms/thumbnail/65238a44-fae5-4e4f-b06c-8c9667f93bf8.jpg)
+29:58  ](/Shows/IT-Ops-Talk/Azure-Landing-Zone-QA)
+
+[ On .NET ](/Shows/On-NET)
+
+###  [ Integrating PowerApps with .NET Web APIs ](/Shows/On-NET/Integrating-
+PowerApps-with-NET-Web-APIs)
+
+[ ![Integrating PowerApps with .NET Web
+APIs](https://sec.ch9.ms/ch9/237f/b29cc620-1177-44bd-9657-24a1fc3c237f/ntegratingPowerAppswithDotNETWebAPIs_512.jpg)
+14:46  ](/Shows/On-NET/Integrating-PowerApps-with-NET-Web-APIs)
+
+[ The Xamarin Show ](/Shows/XamarinShow)
+
+###  [ Platform Perfect Popups - Part 2 \(Xamarin Community Toolkit\)
+](/Shows/XamarinShow/Xamarin-Community-Toolkit-Platform-Perfect-Popups-Part-2)
+
+[ ![Platform Perfect Popups - Part 2 \(Xamarin Community
+Toolkit\)](https://sec.ch9.ms/ch9/284e/649f9bdb-9410-4d72-950f-007595bf284e/XamarinCommunityToolkit-
+PlatformPerfectPopupsPart_512.jpg) 15:01  ](/Shows/XamarinShow/Xamarin-
+Community-Toolkit-Platform-Perfect-Popups-Part-2)
+
+[ Azure Enablement ](/Shows/Azure-Enablement)
+
+###  [ DevSecOps: bringing security into your DevOps practice on Azure
+](/Shows/Azure-Enablement/DevSecOps-bringing-security-into-your-DevOps-
+practice-on-Azure)
+
+[ ![DevSecOps: bringing security into your DevOps practice on
+Azure](https://sec.ch9.ms/ch9/77c7/3593ea7d-e11c-48e3-bb4b-fa34430777c7/DevSecOpsBringingsecurityintoyourDevOpspracticeon_512.jpg)
+09:21  ](/Shows/Azure-Enablement/DevSecOps-bringing-security-into-your-DevOps-
+practice-on-Azure)
+
+[ Data Exposed ](/Shows/Data-Exposed)
+
+###  [ Easy Ways to Refresh Tabular Models ](/Shows/Data-Exposed/Easy-Ways-to-
+Refresh-Tabular-Models)
+
+[ ![Easy Ways to Refresh Tabular
+Models](https://sec.ch9.ms/ch9/f5a2/646c6835-36fd-4b48-bdcf-
+bb7aa779f5a2/EasyWaystoRefreshTabularModelsDataExposedMVPEditi_512.jpg) 14:15
+](/Shows/Data-Exposed/Easy-Ways-to-Refresh-Tabular-Models)
+
+[ AI Show ](/Shows/AI-Show)
+
+###  [ Extract information from your documents with new capabilities in Form
+Recognizer ](/Shows/AI-Show/Extract-information-from-your-documents-with-new-
+capabilities-in-Form-Recognizer)
+
+[ ![Extract information from your documents with new capabilities in Form
+Recognizer](https://sec.ch9.ms/ch9/57d1/32753554-b1b9-49fd-a9b1-b68dfcb657d1/Extractinformationfromyourdocumentswithnewcapabil_512.jpg)
+20:10  ](/Shows/AI-Show/Extract-information-from-your-documents-with-new-
+capabilities-in-Form-Recognizer)
+
+[ The Xamarin Show ](/Shows/XamarinShow)
+
+###  [ App Localization \(Xamarin Community Toolkit\)
+](/Shows/XamarinShow/App-Localization-Xamarin-Community-Toolkit)
+
+[ ![App Localization \(Xamarin Community
+Toolkit\)](https://sec.ch9.ms/ch9/230e/0f655ff7-e4e2-42d9-8783-01fb657c230e/XamarinCommunityToolkitShowAppLocalization_512.jpg)
+18:36  ](/Shows/XamarinShow/App-Localization-Xamarin-Community-Toolkit)
+
+##  [ Events ](/Browse/Events) [ View All  Events  ](/Browse/Events)
+
+[ C++ ](/Events/CPP)
+
+###  [ Pure Virtual C++ 2021 ](/Events/CPP/Pure-Virtual-Cpp-2021)
+
+[ ![Pure Virtual C++
+2021](https://f.ch9.ms/thumbnail/1c7b67fc-5c9e-42e4-97ca-d79460ee7257.jpg) May
+03, 2021  ](/Events/CPP/Pure-Virtual-Cpp-2021)
+
+[ All Around Azure ](/Events/All-Around-Azure)
+
+###  [ All Around Azure: DevOps with GitHub ](/Events/All-Around-Azure/All-
+Around-Azure-DevOps-with-GitHub)
+
+[ ![All Around Azure: DevOps with
+GitHub](https://f.ch9.ms/thumbnail/7138023e-4d4f-471b-903b-695be76790fa.png)
+Apr 26, 2021  ](/Events/All-Around-Azure/All-Around-Azure-DevOps-with-GitHub)
+
+[ Azure Cosmos DB ](/Events/Azure-Cosmos-DB)
+
+###  [ Azure Cosmos DB Conf ](/Events/Azure-Cosmos-DB/Azure-Cosmos-DB-Conf)
+
+[ ![Azure Cosmos DB
+Conf](https://f.ch9.ms/thumbnail/49e82eb0-6ced-4f42-9051-b87ef7090c4f.jpg) Apr
+20, 2021  ](/Events/Azure-Cosmos-DB/Azure-Cosmos-DB-Conf)
+
+[ Microsoft Learn ](/Events/Microsoft-Learn)
+
+###  [ Learn Together: Building Apps with Microsoft Graph ](/Events/Microsoft-
+Learn/Learn-Together-Building-Apps-with-Microsoft-Graph)
+
+[ ![Learn Together: Building Apps with Microsoft
+Graph](https://f.ch9.ms/thumbnail/ec72aec7-9dbc-43bd-973d-946df54b38de.jpg)
+Apr 14, 2021  ](/Events/Microsoft-Learn/Learn-Together-Building-Apps-with-
+Microsoft-Graph)
+
+##  [ Azure ](/Tags/azure) [ View All  Azure  ](/Tags/azure)
+
+[ Azure Friday ](/Shows/Azure-Friday)
+
+###  [ Diagnose and solve problems with Azure API Management Diagnostics
+](/Shows/Azure-Friday/Diagnose-and-solve-problems-with-Azure-API-Management-
+Diagnostics)
+
+[ ![Diagnose and solve problems with Azure API Management
+Diagnostics](https://sec.ch9.ms/ch9/0602/8bcbb422-edd4-4770-9bd6-7d29f38b0602/azfr673_512.jpg)
+15:27  ](/Shows/Azure-Friday/Diagnose-and-solve-problems-with-Azure-API-
+Management-Diagnostics)
+
+[ IT Ops Talk ](/Shows/IT-Ops-Talk)
+
+###  [ Azure Landing Zone Q&A ](/Shows/IT-Ops-Talk/Azure-Landing-Zone-QA)
+
+[ ![Azure Landing Zone
+Q&A](https://f.ch9.ms/thumbnail/65238a44-fae5-4e4f-b06c-8c9667f93bf8.jpg)
+29:58  ](/Shows/IT-Ops-Talk/Azure-Landing-Zone-QA)
+
+[ Internet of Things Show ](/Shows/Internet-of-Things-Show)
+
+###  [ Rapidly move your Vision AI project to production with VisionOnEdge
+](/Shows/Internet-of-Things-Show/Rapidly-move-your-Vision-AI-project-to-
+production-with-VisionOnEdge)
+
+[ ![Rapidly move your Vision AI project to production with
+VisionOnEdge](https://sec.ch9.ms/ch9/956e/a35eb06a-f8a6-4d82-9e3c-89fdbcde956e/VisionOnEdge_512.jpg)
+21:03  ](/Shows/Internet-of-Things-Show/Rapidly-move-your-Vision-AI-project-
+to-production-with-VisionOnEdge)
+
+[ Learn Live ](/Shows/Learn-Live)
+
+###  [ Azure SQL Fundamentals - Episode 4 - Deliver consistent performance
+with Azure SQL ](/Shows/Learn-Live/Azure-SQL-Fundamentals-Episode-4-Deliver-
+consistent-performance-with-Azure-SQL)
+
+[ ![Azure SQL Fundamentals - Episode 4 - Deliver consistent performance with
+Azure
+SQL](https://sec.ch9.ms/ch9/0abf/13058445-e93d-4228-8846-50391cac0abf/LearnLive_512.jpg)
+01:28:18  ](/Shows/Learn-Live/Azure-SQL-Fundamentals-Episode-4-Deliver-
+consistent-performance-with-Azure-SQL)
+
+##  [ Coding ](/Tags/coding) [ View All  Coding  ](/Tags/coding)
+
+[ On .NET ](/Shows/On-NET)
+
+###  [ A Journey to .NET MAUI ](/Shows/On-NET/A-Journey-to-NET-MAUI)
+
+[ ![A Journey to .NET MAUI](https://sec.ch9.ms/ch9/009b/b7819fdf-
+adba-4fd6-8012-d530754c009b/AJourneytoNETMAUI_512.jpg) 18:48  ](/Shows/On-
+NET/A-Journey-to-NET-MAUI)
+
+[ On .NET ](/Shows/On-NET)
+
+###  [ Integrating PowerApps with .NET Web APIs ](/Shows/On-NET/Integrating-
+PowerApps-with-NET-Web-APIs)
+
+[ ![Integrating PowerApps with .NET Web
+APIs](https://sec.ch9.ms/ch9/237f/b29cc620-1177-44bd-9657-24a1fc3c237f/ntegratingPowerAppswithDotNETWebAPIs_512.jpg)
+14:46  ](/Shows/On-NET/Integrating-PowerApps-with-NET-Web-APIs)
+
+[ The Xamarin Show ](/Shows/XamarinShow)
+
+###  [ Platform Perfect Popups - Part 2 \(Xamarin Community Toolkit\)
+](/Shows/XamarinShow/Xamarin-Community-Toolkit-Platform-Perfect-Popups-Part-2)
+
+[ ![Platform Perfect Popups - Part 2 \(Xamarin Community
+Toolkit\)](https://sec.ch9.ms/ch9/284e/649f9bdb-9410-4d72-950f-007595bf284e/XamarinCommunityToolkit-
+PlatformPerfectPopupsPart_512.jpg) 15:01  ](/Shows/XamarinShow/Xamarin-
+Community-Toolkit-Platform-Perfect-Popups-Part-2)
+
+[ The Xamarin Show ](/Shows/XamarinShow)
+
+###  [ Building Our First Microservice | The Xamarin Show
+](/Shows/XamarinShow/Building-Our-First-Microservice--The-Xamarin-Show)
+
+[ ![Building Our First Microservice | The Xamarin
+Show](https://sec.ch9.ms/ch9/e84f/0e58999d-a605-48da-a843-3bc52643e84f/BuildingOurFirstMicroservice_512.jpg)
+19:19  ](/Shows/XamarinShow/Building-Our-First-Microservice--The-Xamarin-Show)
+
+##  [ Dev Tools ](/Tags/devtools) [ View All  Dev Tools  ](/Tags/devtools)
+
+[ On .NET ](/Shows/On-NET)
+
+###  [ A Journey to .NET MAUI ](/Shows/On-NET/A-Journey-to-NET-MAUI)
+
+[ ![A Journey to .NET MAUI](https://sec.ch9.ms/ch9/009b/b7819fdf-
+adba-4fd6-8012-d530754c009b/AJourneytoNETMAUI_512.jpg) 18:48  ](/Shows/On-
+NET/A-Journey-to-NET-MAUI)
+
+[ On .NET ](/Shows/On-NET)
+
+###  [ Integrating PowerApps with .NET Web APIs ](/Shows/On-NET/Integrating-
+PowerApps-with-NET-Web-APIs)
+
+[ ![Integrating PowerApps with .NET Web
+APIs](https://sec.ch9.ms/ch9/237f/b29cc620-1177-44bd-9657-24a1fc3c237f/ntegratingPowerAppswithDotNETWebAPIs_512.jpg)
+14:46  ](/Shows/On-NET/Integrating-PowerApps-with-NET-Web-APIs)
+
+[ On .NET ](/Shows/On-NET)
+
+###  [ Building microservices with Tye ](/Shows/On-NET/Building-microservices-
+with-Tye)
+
+[ ![Building microservices with
+Tye](https://sec.ch9.ms/ch9/0dbb/262bd06e-0213-4f39-9e02-82e4bd680dbb/BuildingmicroserviceswithTye_512.jpg)
+22:54  ](/Shows/On-NET/Building-microservices-with-Tye)
+
+[ On .NET ](/Shows/On-NET)
+
+###  [ Secretless apps with .NET and Azure Key Vault ](/Shows/On-
+NET/Secretless-apps-with-NET-and-Azure-Key-Vault)
+
+[ ![Secretless apps with .NET and Azure Key
+Vault](https://sec.ch9.ms/ch9/93db/8ef5554e-1b92-4488-9d4f-e0d63c9393db/SecretlessappswithNETandAzureKeyVault_512.jpg)
+18:24  ](/Shows/On-NET/Secretless-apps-with-NET-and-Azure-Key-Vault)
+
+##  [ Windows ](/Tags/windows) [ View All  Windows  ](/Tags/windows)
+
+[ On .NET ](/Shows/On-NET)
+
+###  [ A Journey to .NET MAUI ](/Shows/On-NET/A-Journey-to-NET-MAUI)
+
+[ ![A Journey to .NET MAUI](https://sec.ch9.ms/ch9/009b/b7819fdf-
+adba-4fd6-8012-d530754c009b/AJourneytoNETMAUI_512.jpg) 18:48  ](/Shows/On-
+NET/A-Journey-to-NET-MAUI)
+
+[ Tabs vs Spaces ](/Shows/Tabs-vs-Spaces)
+
+###  [ Windows Dev Tools: WSL, Terminal, Package Manager, and more
+](/Shows/Tabs-vs-Spaces/Windows-Dev-Tools-WSL-Terminal-Package-Manager-and-
+more)
+
+[ ![Windows Dev Tools: WSL, Terminal, Package Manager, and
+more](https://sec.ch9.ms/ch9/02de/7cec874f-8740-4391-89d2-fd2eb44a02de/TvSUpdateOnDevToolsWSLTerminalPackageManagerAndMo_512.jpg)
+20:46  ](/Shows/Tabs-vs-Spaces/Windows-Dev-Tools-WSL-Terminal-Package-Manager-
+and-more)
+
+[ On .NET ](/Shows/On-NET)
+
+###  [ Using AzureAD B2C for authenticating users ](/Shows/On-NET/Using-
+AzureAD-B2C-for-authenticating-users)
+
+[ ![Using AzureAD B2C for authenticating
+users](https://sec.ch9.ms/ch9/d7cc/453b6e45-c69a-43c2-aa7f-056b8469d7cc/AzureADB2C_512.jpg)
+16:47  ](/Shows/On-NET/Using-AzureAD-B2C-for-authenticating-users)
+
+[ App Development Community Standup ](/Shows/App-Development-Community-
+Standup)
+
+###  [ App Development Community Standup: WinUI 3 Preview 3 release
+](/Shows/App-Development-Community-Standup/App-Development-Community-Standup-
+WinUI-3-Preview-3-release)
+
+[ ![App Development Community Standup: WinUI 3 Preview 3
+release](https://sec.ch9.ms/ch9/b701/60154be5-56ce-46d1-8eb4-5407ecffb701/AppDevCommStandup_512.jpg)
+52:41  ](/Shows/App-Development-Community-Standup/App-Development-Community-
+Standup-WinUI-3-Preview-3-release)
+
+##  [ Data ](/Tags/data) [ View All  Data  ](/Tags/data)
+
+[ Ask the Expert ](/Shows/Ask-the-Expert)
+
+###  [ Ask the Expert: Smart Data Pipelines to Azure: Ingesting and migrating
+data the DataOps way ](/Shows/Ask-the-Expert/Ask-the-Expert-Smart-Data-
+Pipelines-to-Azure-Ingesting-and-migrating-data-the-DataOps-way)
+
+[ ![Ask the Expert: Smart Data Pipelines to Azure: Ingesting and migrating
+data the DataOps
+way](https://sec.ch9.ms/ch9/ce0a/e0ba3ae5-d8b8-41ec-b869-fa9f5d0ace0a/AskTheExpertSmartDataPipelinesToAzure_960.jpg)
+28:08  ](/Shows/Ask-the-Expert/Ask-the-Expert-Smart-Data-Pipelines-to-Azure-
+Ingesting-and-migrating-data-the-DataOps-way)
+
+[ On .NET ](/Shows/On-NET)
+
+###  [ Deep Dive into Many-to-Many: A Tour of EF Core 5.0 pt. 2 ](/Shows/On-
+NET/Deep-Dive-into-Many-to-Many-A-Tour-of-EF-Core-50-pt-2)
+
+[ ![Deep Dive into Many-to-Many: A Tour of EF Core 5.0 pt.
+2](https://sec.ch9.ms/ch9/f454/b354855f-0acb-4a43-abc3-a6184f60f454/ATourOfEFCorePart2_512.jpg)
+20:29  ](/Shows/On-NET/Deep-Dive-into-Many-to-Many-A-Tour-of-EF-Core-50-pt-2)
+
+[ On .NET ](/Shows/On-NET)
+
+###  [ Modern Entity Framework: A Tour of EF Core 5.0 pt 1 ](/Shows/On-
+NET/Modern-Entity-Framework-A-Tour-of-EF-Core-50-pt-1)
+
+[ ![Modern Entity Framework: A Tour of EF Core 5.0 pt
+1](https://sec.ch9.ms/ch9/179a/daed91ac-83be-4ac5-9a50-6fd39215179a/ATourOfEFPart1_512.jpg)
+23:58  ](/Shows/On-NET/Modern-Entity-Framework-A-Tour-of-EF-Core-50-pt-1)
+
+[ On .NET ](/Shows/On-NET)
+
+###  [ GraphQL Schema Design ](/Shows/On-NET/GraphQL-Schema-Design)
+
+[ ![GraphQL Schema
+Design](https://sec.ch9.ms/ch9/009b/50c56289-1e71-4530-9456-8b7afa13009b/GraphQLSchema_512.jpg)
+24:56  ](/Shows/On-NET/GraphQL-Schema-Design)
+
+##  [ IT Pro ](/Tags/it) [ View All  IT Pro  ](/Tags/it)
+
+[ On .NET ](/Shows/On-NET)
+
+###  [ Deploying Orleans Apps to Kubernetes ](/Shows/On-NET/Deploying-Orleans-
+Apps-to-Kubernetes)
+
+[ ![Deploying Orleans Apps to
+Kubernetes](https://sec.ch9.ms/ch9/152e/06d693f6-92c6-44ab-8db6-e1123a96152e/DeployingOrleans_512.jpg)
+19:03  ](/Shows/On-NET/Deploying-Orleans-Apps-to-Kubernetes)
+
+[ On .NET ](/Shows/On-NET)
+
+###  [ Using AzureAD B2C for authenticating users ](/Shows/On-NET/Using-
+AzureAD-B2C-for-authenticating-users)
+
+[ ![Using AzureAD B2C for authenticating
+users](https://sec.ch9.ms/ch9/d7cc/453b6e45-c69a-43c2-aa7f-056b8469d7cc/AzureADB2C_512.jpg)
+16:47  ](/Shows/On-NET/Using-AzureAD-B2C-for-authenticating-users)
+
+[ On .NET ](/Shows/On-NET)
+
+###  [ Event Driven applications on Kubernetes with KEDA ](/Shows/On-
+NET/Scaling-Azure-Functions-on-Kubernetes-with-KEDA)
+
+[ ![Event Driven applications on Kubernetes with
+KEDA](https://sec.ch9.ms/ch9/3802/e8f6e1fc-63cb-4b69-b34a-bc5160ed3802/ONDOTNETEventDrivenApplicationsWithKeda_512.jpg)
+21:11  ](/Shows/On-NET/Scaling-Azure-Functions-on-Kubernetes-with-KEDA)
+
+[ Tuesdays With Corey ](/Shows/Tuesdays-With-Corey)
+
+###  [ AKS cluster upgrades and managed K8s ](/Shows/Tuesdays-With-Corey/AKS-
+cluster-upgrades)
+
+[ ![AKS cluster upgrades and managed
+K8s](https://sec.ch9.ms/ch9/f504/e3f06669-9503-4dbc-a93f-f7e68f5df504/twc129_512.jpg)
+07:25  ](/Shows/Tuesdays-With-Corey/AKS-cluster-upgrades)
+
+##  [ AI & Research ](/Tags/ai) [ View All  AI & Research  ](/Tags/ai)
+
+[ AI Show ](/Shows/AI-Show)
+
+###  [ Run Azure Machine Learning anywhere | APR 2 ](/Shows/AI-Show/Run-Azure-
+Machine-Learning-anywhere--APR-2-livestream)
+
+[ ![Run Azure Machine Learning anywhere  | APR 2
+](https://sec.ch9.ms/ch9/4a76/93336b19-770d-4dd6-933a-0e0a55eb4a76/RunAzureMachineLearninganywhereAPR2livestream_512.jpg)
+13:44  ](/Shows/AI-Show/Run-Azure-Machine-Learning-anywhere--APR-2-livestream)
+
+[ AI Show ](/Shows/AI-Show)
+
+###  [ AI Show Live - Episode 7 - Run Azure Machine Learning Anywhere
+](/Shows/AI-Show/AI-Show-Live-Episode-7-Run-Azure-Machine-Learning-Anywhere)
+
+[ ![AI Show Live - Episode 7 - Run Azure Machine Learning
+Anywhere](https://sec.ch9.ms/ch9/8efe/48d44d6d-49c4-4627-aab4-de17e50b8efe/AMLAnywhere_512.jpg)
+](/Shows/AI-Show/AI-Show-Live-Episode-7-Run-Azure-Machine-Learning-Anywhere)
+
+[ AI Show ](/Shows/AI-Show)
+
+###  [ AI Show Live-Episode 6- New capabilities in Form Recognizer & PyTorch
+in VSCode ](/Shows/AI-Show/AI-Show-Live-Episode-6-New-capabilities-in-Form-
+Recognizer--PyTorch-in-VSCode)
+
+[ ![AI Show Live-Episode 6- New capabilities in Form Recognizer & PyTorch in
+VSCode](https://sec.ch9.ms/ch9/414c/39271cd4-2011-4b66-8f6a-1246b7be414c/AIShowLive6_512.jpg)
+](/Shows/AI-Show/AI-Show-Live-Episode-6-New-capabilities-in-Form-Recognizer--
+PyTorch-in-VSCode)
+
+[ AI Show ](/Shows/AI-Show)
+
+###  [ AI Show live-Episode 5-What’s New in Cognitive Search & Checking in on
+cool frameworks… ](/Shows/AI-Show/AI-Show-live-Episode-5-Whats-New-in-
+Cognitive-Search--Checking-in-on-cool-frameworks-with-PyTorch)
+
+[ ![AI Show live-Episode 5-What’s New in Cognitive Search & Checking in on
+cool frameworks with
+PyTorch](https://sec.ch9.ms/ch9/eebe/83b1570c-befe-4921-8692-bbc88f3deebe/AIShowLiveEpisode5_512.jpg)
+](/Shows/AI-Show/AI-Show-live-Episode-5-Whats-New-in-Cognitive-Search--
+Checking-in-on-cool-frameworks-with-PyTorch)
+
+##  [ Communities ](/Tags/community) [ View All  Communities
+](/Tags/community)
+
+[ CodeStories ](/Shows/CodeStories)
+
+###  [ Quantum Questions with Dr. Sarah Kaiser ](/Shows/CodeStories/Quantum-
+Questions-with-Dr-Sarah-Kaiser)
+
+[ ![Quantum Questions with Dr. Sarah
+Kaiser](https://sec.ch9.ms/ch9/e741/14dadc5b-584b-4304-a404-9958f086e741/CodeStoriesSarahKaiserPart1_512.jpg)
+12:45  ](/Shows/CodeStories/Quantum-Questions-with-Dr-Sarah-Kaiser)
+
+[ //True Stories Faces ](/Shows/True-Stories-Faces)
+
+###  [ Aaron - Breaking Barriers ](/Shows/True-Stories-Faces/Aaron-Breaking-
+Barriers)
+
+[ ![Aaron - Breaking Barriers
+](https://sec.ch9.ms/ch9/233f/f651cf5f-f266-492b-95d2-b3c9c1bf233f/trueStroriesAaron_512.jpg)
+13:01  ](/Shows/True-Stories-Faces/Aaron-Breaking-Barriers)
+
+[ CodeStories ](/Shows/CodeStories)
+
+###  [ South Africa: Microsoft Middle East & Africa - Interview with Julien
+Bertin ](/Shows/CodeStories/South-Africa-Microsoft-MEA-Interview-with-Julien-
+Bertin)
+
+[ ![South Africa: Microsoft Middle East & Africa - Interview with Julien
+Bertin](https://sec.ch9.ms/ch9/66a6/1ffe6a05-1ab7-40ca-b91c-cc95967266a6/CodeStoriesGMSouthAfrica_512.jpg)
+06:15  ](/Shows/CodeStories/South-Africa-Microsoft-MEA-Interview-with-Julien-
+Bertin)
+
+[ Source Code: Real Stories from Startup Founders ](/Shows/Source-Code-Real-
+Stories-from-Startup-Founders)
+
+###  [ Philip Wootton from DocuVision ](/Shows/Source-Code-Real-Stories-from-
+Startup-Founders/Philip-Wootton-from-DocuVision)
+
+[ ![Philip Wootton from
+DocuVision](https://sec.ch9.ms/ch9/4ce9/b8579805-b7dd-448e-9932-6e091c734ce9/SourceCodeWootton_512.jpg)
+17:56  ](/Shows/Source-Code-Real-Stories-from-Startup-Founders/Philip-Wootton-
+from-DocuVision)
+
+  * [ Email  ](/ContactUs)
+  * [ Twitter  ](https://twitter.com/ch9)
+  * [ Facebook  ](https://www.facebook.com/msftchannel9)
+  * [ RSS  ](https://s.ch9.ms/Feeds/RSS)
+  * [ Reddit  ](https://www.reddit.com/r/ch9)
+
+  * [ About ](/About)
+  * [ Authors ](/Browse/Authors?direction=desc)
+  * [ Speakers ](/Events/Speakers?direction=desc)
+  * [ Tags ](/Browse/Tags?letter=A)
+  * [ Contact Us ](/ContactUs)
+  * [ Change Language \(en\) ](/localization/chrome?returnUrl=%252f)
+  * [ Code of Conduct ](/CodeOfConduct)
+  * [ Terms of Service ](https://go.microsoft.com/?linkid=4412892)
+  * [ Privacy Statement ](https://www.microsoft.com/privacystatement/en-us/Channel9App/Default.aspx)
+  * Manage cookies 
+
+[ Creative Commons  ](https://creativecommons.org/licenses/by-nc-nd/4.0/) ©
+2021 Microsoft. [ Except where designated ](/info) as licensed by  [ Creative
+Commons Attribution-Noncommercial-No Derivative Works 4.0 International
+License ](https://creativecommons.org/licenses/by-nc-nd/4.0/) ,  Microsoft
+reserves all rights associated with the materials on this site.
+

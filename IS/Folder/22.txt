@@ -1,0 +1,486 @@
+![](https://web.vortex.data.microsoft.com:443/collect/v1/t.gif?&name=%27Ms.Webi.PageView%27&ver=%272.1%27&appId=%27JS%3ALicensing%27&cV=%27Hi8fM9gbj0aZJqA9.0%27&ext-
+app-env=%27onerf_prod%27&ext-javascript-libver=%274.0.0-beta-10%27&ext-user-
+localId=%27t%3A22A643B983EA681335A153AC8241698F%27&*baseType=%27Ms.Content.PageView%27&*isJs=True&*isLoggedIn=False&*isManual=True&*serverImpressionGuid=%27d4ecd3b9-32f8-48f8-b271-9baaced8934e%27&-ver=%271.0%27&-impressionGuid=%2700000000-0000-0000-0000-000000000000%27&-pageName=%27licensing%20homepage.ru-
+ru%27&-uri=%27https%3A%2F%2Fwww.microsoft.com%2Fru-
+ru%2Flicensing%2Fdefault%3Frtc%3D1%27&-pageType=%27Authoring.AllModules%27&-pageTags=%27%7B%22tasId%22%3A%227bdbfd4b-8893-42e5-9a97-538af1032998%22%2C%22tasMuid%22%3A%2222A643B983EA681335A153AC8241698F%22%2C%22browserGroup%22%3A%22uplevel.web.pc%22%2C%22isOneRf%22%3A%22True%22%7D%27&-behavior=0&-market=%27ru-
+ru%27)
+
+![]()
+
+[ ]()
+
+[ Перейти к основному контенту ](javascript:void\(0\))
+
+[ ![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31) Microsoft
+](https://www.microsoft.com)
+
+Корпоративное лицензирование
+
+[ Корпоративное лицензирование  ](https://www.microsoft.com/ru-ru/Licensing)
+
+Корпоративное лицензирование
+
+  * [ Главная ](https://www.microsoft.com/ru-ru/Licensing)
+  * Информация 
+    * Продукты и решения  Продукты и решения 
+      * [ Azure ](https://www.microsoft.com/Licensing/product-licensing/azure)
+      * [ Dynamics 365 ](https://www.microsoft.com/Licensing/product-licensing/dynamics365)
+      * [ Microsoft 365 ](https://www.microsoft.com/Licensing/product-licensing/microsoft-365)
+      * [ Office 365 ](https://www.microsoft.com/licensing/product-licensing/office)
+      * [ SQL Server ](https://www.microsoft.com/Licensing/product-licensing/sql-server)
+      * [ System Center ](https://www.microsoft.com/licensing/product-licensing/system-center)
+      * [ Windows ](https://www.microsoft.com/Licensing/product-licensing/windows10)
+      * [ Windows Server ](https://www.microsoft.com/licensing/product-licensing/windows-server)
+    * [ Краткие справочники по лицензированию продуктов ](https://www.microsoft.com/Licensing/learn-more/volume-licensing-briefs)
+    * [ Поиск по материалам о лицензировании продуктов ](https://www.microsoftvolumelicensing.com/default.aspx)
+    * [ Условия лицензирования ](https://www.microsoft.com/Licensing/product-licensing/products)
+    * Программа Software Assurance  Программа Software Assurance 
+      * [ Общие сведения ](https://www.microsoft.com/Licensing/licensing-programs/software-assurance-default)
+      * [ Продукты ](https://www.microsoft.com/Licensing/licensing-programs/software-assurance-by-product)
+      * [ Преимущества ](https://www.microsoft.com/licensing/licensing-programs/software-assurance-by-benefits)
+      * [ Вопросы и ответы ](https://www.microsoft.com/Licensing/licensing-programs/FAQ-Software-Assurance)
+    * [ Клиентское соглашение Майкрософт ](https://www.microsoft.com/Licensing/how-to-buy/microsoft-customer-agreement)
+    * Соглашения о корпоративном лицензировании  Соглашения о корпоративном лицензировании 
+      * [ Соглашение Enterprise ](https://www.microsoft.com/Licensing/licensing-programs/enterprise)
+      * [ Соглашение Microsoft Products and Services Agreement \(MPSA\) ](https://www.microsoft.com/Licensing/MPSA/default)
+      * [ Программы Open ](https://www.microsoft.com/Licensing/licensing-programs/open-license)
+      * [ Соглашение Select Plus ](https://www.microsoft.com/Licensing/licensing-programs/select)
+    * [ Руководства по программам лицензирования ](https://www.microsoft.com/Licensing/learn-more/document-library)
+    * Партнерские программы  Партнерские программы 
+      * [ Независимые поставщики программного обеспечения ](https://www.microsoft.com/Licensing/licensing-programs/isv-program)
+      * [ Поставщики решений Майкрософт ](https://www.microsoft.com/solution-providers/home)
+      * [ Services Provider License Agreement \(SPLA\) ](https://www.microsoft.com/Licensing/licensing-programs/spla-program)
+      * [ Партнерская сеть Microsoft ](https://partner.microsoft.com/)
+    * [ Ресурс Get Licensing Ready ](https://www.microsoft.com/Licensing/learn-more/training-accreditation)
+
+  * Покупка 
+    * [ Поиск партнера Майкрософт ](https://www.microsoft.com/solution-providers/home)
+    * [ Для малых и средних компаний ](https://www.microsoft.com/store/b/business?icid=CNavBusinessStore)
+    * [ Для потребителей ](https://www.microsoft.com/)
+    * [ Для учащихся ](https://www.microsoft.com/education/students)
+    * [ Для крупных предприятий ](https://www.microsoft.com/Licensing/licensing-programs/enterprise)
+    * [ Для государственных организаций ](https://www.microsoft.com/licensing/licensing-programs/licensing-for-industries)
+    * [ Для образовательных учреждений ](https://www.microsoft.com/licensing/licensing-programs/licensing-for-industries?activetab=licensing-for-industries-pivot:primaryr3)
+    * [ Для некоммерческих организаций ](https://www.microsoft.com/licensing/licensing-programs/licensing-for-industries?activetab=licensing-for-industries-pivot:primaryr5)
+
+  * Управление 
+    * [ Инструменты и ресурсы ](https://www.microsoft.com/Licensing/existing-customer/existing-customers)
+    * [ Активация продуктов ](https://licensingapps.microsoft.com/product-activation)
+    * [ Поставка продуктов ](https://www.microsoft.com/Licensing/existing-customer/fulfillment)
+    * [ Volume Licensing Service Center \(VLSC\) ](https://www.microsoft.com/Licensing/servicecenter/default.aspx)
+    * [ Центр поддержки корпоративных лицензий \(VLSC\): обучающие материалы ](https://www.microsoft.com/Licensing/existing-customer/vlsc-training-and-resources)
+    * [ Business Center \(для клиентов MPSA\) ](https://businessaccount.microsoft.com/Customer)
+    * [ Обучающие материалы по работе с Business Center ](https://www.microsoft.com/licensing/existing-customer/business-center-training-and-resources)
+    * Программа Software Assurance  Программа Software Assurance 
+      * [ Общие сведения ](https://www.microsoft.com/Licensing/licensing-programs/software-assurance-default)
+      * [ Продукты ](https://www.microsoft.com/Licensing/licensing-programs/software-assurance-by-product)
+      * [ Преимущества ](https://www.microsoft.com/licensing/licensing-programs/software-assurance-by-benefits)
+      * [ Вопросы и ответы ](https://www.microsoft.com/Licensing/licensing-programs/FAQ-Software-Assurance)
+
+  * Поддержка 
+    * Поддержка лицензирования  Поддержка лицензирования 
+      * [ Получить помощь при активации продукта ](https://licensingapps.microsoft.com/product-activation)
+      * [ Связаться с центром активации корпоративных лицензий ](https://www.microsoft.com/Licensing/existing-customer/activation-centers)
+      * [ Войти в центр VLSC ](https://www.microsoft.com/licensing/servicecenter/default.aspx)
+      * [ Найти курсы обучения и материалы по порталу VLSC ](https://www.microsoft.com/Licensing/existing-customer/vlsc-training-and-resources)
+      * [ Связаться со службой поддержки центра VLSC ](https://docs.microsoft.com/licensing/)
+    * Поддержка домашних пользователей  Поддержка домашних пользователей 
+      * [ Подержка по продуктам Microsoft ](https://support.microsoft.com/)
+      * [ Поддержка Windows ](https://windows.microsoft.com/windows/support)
+      * [ Поддержка Office ](https://support.office.com/)
+      * [ Найти ответы на форумах Microsoft ](https://answers.microsoft.com/)
+
+  * Больше 
+
+  * [ Новости о лицензировании ](https://www.microsoft.com/en-us/licensing/news/default)
+
+  * Все продукты Microsoft 
+    *       * [ Microsoft 365 ](https://www.microsoft.com/ru-ru/microsoft-365/business/all-business)
+      * [ Azure ](https://azure.microsoft.com)
+      * [ Office 365 ](https://products.office.com/ru-ru/business/office)
+      * [ Dynamics 365 ](https://www.microsoft.com/ru-ru/dynamics365/home)
+      * [ Power Platform ](https://powerplatform.microsoft.com/ru-ru)
+      * [ Windows 10 ](https://www.microsoft.com/ru-ru/windowsforbusiness)
+    * Продукты и услуги  Продукты и услуги 
+      * [ Windows Server ](https://www.microsoft.com/cloud-platform/windows-server)
+      * [ Enterprise Mobility + Security ](https://www.microsoft.com/cloud-platform/enterprise-mobility-security)
+      * [ Power BI ](https://powerbi.microsoft.com/ru-ru/)
+      * [ Группы ](https://www.microsoft.com/ru-ru/microsoft-teams/group-chat-software)
+      * [ Visual Studio ](https://visualstudio.microsoft.com/)
+    * Новые технологии  Новые технологии 
+      * [ Искусственный интеллект ](https://www.microsoft.com/ai/)
+      * [ Интернет вещей ](https://www.microsoft.com/internet-of-things/)
+      * [ Службы Azure Cognitive Services ](https://azure.microsoft.com/services/cognitive-services/)
+      * [ Quantum ](https://www.microsoft.com/quantum/)
+    * Разработчик и ИТ  Разработчик и ИТ 
+      * [ Документы ](https://docs.microsoft.com/ru-ru/)
+      * [ Центр разработчиков ](https://developer.microsoft.com/)
+      * [ Центр разработчиков Windows ](https://developer.microsoft.com/ru-ru/windows)
+      * [ Windows IT Pro Center ](https://www.microsoft.com/ru-ru/itpro/windows)
+      * [ FastTrack ](https://fasttrack.microsoft.com/office)
+      * [ Power Platform ](https://powerplatform.microsoft.com/ru-ru)
+    * Партнер  Партнер 
+      * [ Партнерская сеть ](https://partner.microsoft.com/)
+      * [ Поставщики решений ](https://www.microsoft.com/ru-ru/solution-providers)
+      * [ Центр партнеров ](https://partnercenter.microsoft.com/partner/home)
+    * Отрасли  Отрасли 
+      * [ Образование ](https://www.microsoft.com/ru-ru/education?icid=CNavMSCOML0_Studentsandeducation)
+      * [ Финансовые услуги ](https://www.microsoft.com/enterprise/financial-services/banking-and-capital-markets)
+      * [ Государственный сектор ](https://www.microsoft.com/ru-ru/enterprise/government)
+      * [ Здравоохранение ](https://www.microsoft.com/ru-ru/enterprise/health)
+      * [ Производство и ресурсы ](https://www.microsoft.com/ru-ru/enterprise/manufacturing)
+      * [ Розничная торговля ](https://www.microsoft.com/ru-ru/enterprise/retail-consumer-goods)
+    * Прочее  Прочее 
+      * [ Безопасность ](https://www.microsoft.com/security/)
+      * [ Лицензирование ](https://www.microsoft.com/licensing/)
+      * [ AppSource ](https://appsource.microsoft.com/)
+      * [ Azure Marketplace ](https://azuremarketplace.microsoft.com/marketplace/)
+      * [ Мероприятия ](https://events.microsoft.com/)
+      * [ Исследования ](https://www.microsoft.com/research/)
+    * [ Посмотреть карту сайта ](https://www.microsoft.com/ru-ru/sitemap.aspx)
+
+Поиск  Поиск на Microsoft.com
+
+Отмена  [ 0  Корзина  0 товары в корзине  ](https://www.microsoft.com/ru-
+ru/store/buy)
+
+Войти
+
+  * ![No Data Available](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+##  Расширенные Преимущества гибридного использования Azure для SQL Server
+
+Гибкость в использовании служб SQL Server в Azure.
+
+[ Дополнительные сведения
+](https://www.microsoft.com/licensing/news/expanded-ahb-rights-for-microsoft-
+sql-server)
+
+  * ![No Data Available](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+##  Условия для продуктов в новом формате
+
+Новый веб-сайт объединяет в себе все сведения из Условий использования
+продуктов и Условий использования Веб-служб.
+
+[ Перейти на сайт  ](https://www.microsoft.com/licensing/terms)
+
+  * ![No Data Available](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+##  Условия лицензирования постоянно совершенствуются
+
+Находите актуальную информацию о последних обновлениях.
+
+[ Дополнительные сведения  ](https://www.microsoft.com/licensing/news/default)
+
+  * [ ![No Data Available](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) СВЕДЕНИЯ О ЛИЦЕНЗИЯХ  ](https://www.microsoft.com/Licensing/learn-more/volume-licensing-briefs?activetab=volume-licensing-briefs-tab:primaryr2 )
+  * [ ![No Data Available](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) ПОЛУЧИТЬ КЛЮЧ ПРОДУКТА  ](https://licensingapps.microsoft.com/product-activation.aspx )
+  * [ ![No Data Available](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) УПРАВЛЕНИЕ ЛИЦЕНЗИЯМИ  ](https://www.microsoft.com/Licensing/servicecenter/default.aspx )
+  * [ ![No Data Available](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) ПОСМОТРЕТЬ УСЛОВИЯ ДЛЯ ПРОДУКТОВ  ](https://www.microsoft.com/ru-RU/Licensing/product-licensing/products)
+
+* * *
+
+###  Продукты и решения
+
+![No Data Available](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+####  Azure
+
+Microsoft Azure — это постоянно расширяющийся набор облачных служб, с помощью
+которых ваша организация может принимать бизнес-вызовы. Он дает свободу
+сборки, управления и развертывания приложений в крупных, глобальных сетях с
+помощью знакомых инструментов и платформ.
+
+[ Дополнительные сведения  ](https://www.microsoft.com/Licensing/product-
+licensing/azure)
+
+![No Data Available](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+####  Dynamics 365
+
+Dynamics 365 — это набор интеллектуальных облачных бизнес-приложений, в
+котором CRM- и ERP-системы, а также технологии смешанной реальности сочетаются
+с Microsoft Power Platform. Это позволяет создавать комплексные бизнес-решения
+с возможностями прогнозирования на базе искусственного интеллекта.
+
+[ Дополнительные сведения  ](https://www.microsoft.com/Licensing/product-
+licensing/dynamics365)
+
+![No Data Available](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+####  Microsoft 365
+
+Облачное решение для продуктивной работы объединяет лучшие в своем классе
+приложения Office, интеллектуальные облачные службы и расширенные средства
+защиты, чтобы помогать вам добиваться большего.
+
+[ Дополнительные сведения  ](https://www.microsoft.com/Licensing/product-
+licensing/microsoft-365-enterprise?activetab=m365-enterprise%3aprimaryr5)
+
+![No Data Available](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+####  Office и Office 365
+
+Пользуйтесь последними версиями классических и мобильных приложений Office,
+интегрированными службами для совместной работы, а также расширенными
+возможностями для обеспечения соответствия требованиям и другими ИТ-
+инструментами.
+
+[ Дополнительные сведения  ](https://www.microsoft.com/licensing/product-
+licensing/office)
+
+![No Data Available](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+####  SQL Server
+
+Создавайте интеллектуальные приложения для критически важных задач, используя
+масштабируемую гибридную платформу базы данных, в которую уже встроено все
+необходимое: от выполнения в памяти и расширенной защиты до аналитики в базе
+данных.
+
+[ Дополнительные сведения  ](https://www.microsoft.com/Licensing/product-
+licensing/sql-server?activetab=sql-server-pivot%3aprimaryr2)
+
+![No Data Available](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+####  System Center
+
+Держите под контролем свою ИТ-инфраструктуру с помощью System Center.
+Упростите развертывание, настройку и мониторинг своей инфраструктуры и
+виртуализированного программно-определяемого центра обработки данных, а также
+управление ими. При этом вы сможете увеличить гибкость и производительность.
+
+[ Дополнительные сведения  ](https://www.microsoft.com/licensing/product-
+licensing/system-center)
+
+![No Data Available](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+####  Windows 10
+
+Windows 10 — самая защищенная версия Windows в истории. Windows 10 помогает
+повысить надежность управления удостоверениями и защиты данных на устройствах
+и в облаке. Протоколы и функции этой системы спроектированы так, чтобы не
+допустить запуска вредоносных программ на вашем устройстве.
+
+[ Дополнительные сведения  ](https://www.microsoft.com/Licensing/product-
+licensing/windows10?activetab=windows10-pivot%3aprimaryr3)
+
+![No Data Available](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+####  Windows Server
+
+Windows Server — операционная система, которая служит мостом между локальной
+средой и Azure, добавляя дополнительные уровни защиты. С ее помощью вам будет
+проще модернизировать свои приложения и инфраструктуру.
+
+[ Дополнительные сведения  ](https://www.microsoft.com/ru-
+RU/Licensing/product-licensing/windows-server)
+
+![No Data Available](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+####  Краткие справочники по лицензированию
+
+Узнайте подробности о комплексных схемах лицензирования с использованием новых
+технологий и комбинаций разных продуктов.
+
+[ Дополнительные сведения  ](https://www.microsoft.com/ru-RU/Licensing/learn-
+more/volume-licensing-briefs?activetab=volume-licensing-briefs-
+tab%3aprimaryr2)
+
+![No Data Available](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+####  Условия лицензирования
+
+Ознакомьтесь с условиями для продуктов и веб-служб, приобретенных в рамках
+программ корпоративного лицензирования Майкрософт.
+
+[ Дополнительные сведения  ](https://www.microsoft.com/ru-
+RU/Licensing/product-licensing/products)
+
+![No Data Available](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Информация о лицензировании
+
+По мере того как мы улучшаем процесс приобретения наших продуктов, меняются
+программы корпоративного лицензирования и соглашения, начиная с [ Клиентского
+соглашения Майкрософт ](https://www.microsoft.com/Licensing/how-to-
+buy/microsoft-customer-agreement) .
+
+[ Software Assurance ](https://www.microsoft.com/Licensing/licensing-
+programs/software-assurance-default?activetab=software-assurance-default-
+pivot:primaryr3)
+
+[ Соглашение Enterprise ](https://www.microsoft.com/licensing/licensing-
+programs/enterprise?activetab=enterprise-tab%3aprimaryr2)
+
+[ Программы Open ](https://www.microsoft.com/Licensing/licensing-
+programs/open-license?activetab=open-license-tab%3aprimaryr2)
+
+[ Соглашение Microsoft Products and Services Agreement \(MPSA\)
+](https://www.microsoft.com/licensing/MPSA/default)
+
+[ Соглашение Select Plus ](https://www.microsoft.com/Licensing/licensing-
+programs/select)
+
+![No Data Available](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Варианты покупки для различных организаций
+
+Вы можете выбрать подходящий для вашей организации способ приобретения
+продуктов и решений Майкрософт, а также обратиться к партнеру Майкрософт для
+решения технологических задач.
+
+[ Для малого бизнеса
+](https://www.microsoft.com/store/b/business?icid=CNavBusinessStore)
+
+[ Для государственных организаций ](https://www.microsoft.com/ru-
+RU/Licensing/licensing-programs/licensing-for-industries?activetab=licensing-
+for-industries-pivot:primaryr2)
+
+[ Для образовательных учреждений
+](https://www.microsoft.com/licensing/licensing-programs/licensing-for-
+industries?activetab=licensing-for-industries-pivot:primaryr3)
+
+[ Поиск партнера Майкрософт ](https://www.microsoft.com/ru-RU/solution-
+providers/home)
+
+![No Data Available](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Управление лицензиями
+
+Используйте эти инструменты для загрузки корпоративных лицензий Майкрософт и
+управления ими, а также для регистрации и активации лицензионных ключей
+продукта.
+
+[ Инструменты и ресурсы ](https://www.microsoft.com/Licensing/existing-
+customer/existing-customers)
+
+[ Активация продуктов ](https://licensingapps.microsoft.com/product-
+activation)
+
+[ Volume Licensing Service Center
+](https://www.microsoft.com/Licensing/servicecenter/default.aspx)
+
+#  Что нового
+
+![No Data Available](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+##  Расширенные права на Преимущество гибридного использования Azure для SQL
+Server
+
+Узнайте подробности о дополнительных правах, которые позволят работать с
+большим количеством сценариев.
+
+[ Дополнительные сведения  ](https://www.microsoft.com/en-
+us/Licensing/news/expanded-AHB-rights-for-microsoft-sql-server)
+
+![No Data Available](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+##  Microsoft Teams: реагирование на потребности клиентов в сложные времена
+
+Узнайте подробности о расширении доступности функции приоритетных уведомлений
+в Teams.
+
+[ Дополнительные сведения  ](https://www.microsoft.com/en-
+us/Licensing/news/microsoft-teams-priority-notifications)
+
+![No Data Available](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+##  Новое решение Microsoft 365 для сотрудников без компьютеров
+
+Узнайте подробности о новом предложении Microsoft 365, разработанном
+специально для сотрудников без компьютеров.
+
+[ Дополнительные сведения  ](https://www.microsoft.com/en-
+us/Licensing/news/m365-firstline-workers)
+
+![No Data Available](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+##  Доступно Соглашение с партнером Майкрософт\!
+
+Узнайте подробности о Соглашении с партнером Майкрософт в рамках программы для
+поставщиков облачных решений \(CSP\).
+
+[ Дополнительные сведения  ](https://www.microsoft.com/en-
+us/Licensing/news/microsoft-partner-agreement-available-to-accept)
+
+Что нового?
+
+  * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365)
+  * [ Приложения Windows 10 ](https://www.microsoft.com/ru-ru/windows/windows-10-apps)
+
+Microsoft Store
+
+  * [ Профиль учетной записи ](https://account.microsoft.com/)
+  * [ Центр загрузки ](https://www.microsoft.com/ru-ru/download)
+  * [ Поддержка Microsoft Store ](https://go.microsoft.com/fwlink/?linkid=2139749)
+  * [ Возврат товаров ](https://go.microsoft.com/fwlink/p/?LinkID=824764&clcid=0x419)
+  * [ Отслеживание заказа ](https://account.microsoft.com/orders)
+
+Для образования
+
+  * [ Майкрософт и образование ](https://www.microsoft.com/ru-ru/education)
+  * [ Office для учащихся ](https://www.microsoft.com/ru-ru/education/products/office/default.aspx)
+  * [ Office 365 для школ ](https://products.office.com/ru-ru/academic/compare-office-365-education-plans)
+  * [ Специальные предложения для учащихся и родителей ](https://www.microsoft.com/ru-ru/store/b/student?icid=CNavfooter_Studentsandeducation)
+  * [ Microsoft Azure и образование ](https://azure.microsoft.com/ru-ru/community/education/)
+
+Для крупных предприятий
+
+  * [ Azure ](https://azure.microsoft.com/)
+  * [ AppSource ](https://go.microsoft.com/fwlink/?LinkID=808093)
+  * [ Автопромышленность ](https://www.microsoft.com/enterprise/automotive)
+  * [ Государственные учреждения ](https://www.microsoft.com/enterprise/government)
+  * [ Здравоохранение ](https://www.microsoft.com/enterprise/health)
+  * [ Промышленное производство ](https://www.microsoft.com/enterprise/manufacturing)
+  * [ Финансовые услуги ](https://www.microsoft.com/enterprise/financial-services/banking-and-capital-markets)
+  * [ Торговля ](https://www.microsoft.com/enterprise/retail-consumer-goods)
+
+Для разработчиков
+
+  * [ Microsoft Visual Studio ](https://visualstudio.microsoft.com/)
+  * [ Центр разработчиков Windows ](https://developer.microsoft.com/ru-ru/windows)
+  * [ Центр разработчиков ](https://developer.microsoft.com/)
+  * [ Программа Майкрософт для разработчиков ](https://developer.microsoft.com/ru-ru/store/register)
+  * [ Channel 9 ](https://channel9.msdn.com/)
+  * [ Центр разработчиков Office ](https://developer.microsoft.com/ru-ru/office)
+
+Компания
+
+  * [ Вакансии ](https://careers.microsoft.com/)
+  * [ О корпорации Майкрософт ](https://www.microsoft.com/ru-ru/about)
+  * [ Новости компании ](https://news.microsoft.com/ru-ru)
+  * [ Политика конфиденциальности Майкрософт ](https://privacy.microsoft.com/ru-ru)
+  * [ Инвесторы ](https://www.microsoft.com/investor/default.aspx)
+  * [ Безопасность ](https://www.microsoft.com/ru-ru/security/default.aspx)
+
+[ Русский \(Россия\) ](https://www.microsoft.com/en-
+us/Licensing/worldwide.aspx?absoluteReturnUrl=https%3a%2f%2fwww.microsoft.com%2fru-
+ru%2flicensing%2fdefault%3frtc%3d1)
+
+  * [ Контактная информация ](https://support.microsoft.com/contactus/?ws=mscom)
+  * [ Конфиденциальность ](https://go.microsoft.com/fwlink/?LinkId=248681)
+  * Управление файлами cookie 
+  * [ Условия использования ](https://go.microsoft.com/fwlink/?LinkID=530144)
+  * [ Товарные знаки ](https://www.microsoft.com/trademarks)
+  * [ Сведения о рекламе ](https://choice.microsoft.com/)
+  * © Microsoft 2021 
+

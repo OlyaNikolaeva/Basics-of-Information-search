@@ -1,0 +1,485 @@
+![](https://web.vortex.data.microsoft.com:443/collect/v1/t.gif?&name=%27Ms.Webi.PageView%27&ver=%272.1%27&appId=%27JS%3Ajs%3Aindustry%27&cV=%27GPjm1fpYDE28w%2F6%2F.0%27&ext-
+app-env=%27onerf_prod%27&ext-javascript-libver=%274.0.0-beta-10%27&ext-user-
+localId=%27t%3A3E06EDC5B45E656503C6FDD0B5F564C4%27&*baseType=%27Ms.Content.PageView%27&*isJs=True&*isLoggedIn=False&*isManual=True&*serverImpressionGuid=%276862a69e-f3e4-41cb-a3f9-806e1974bcd1%27&-ver=%271.0%27&-impressionGuid=%2700000000-0000-0000-0000-000000000000%27&-pageName=%27industry%20%7C%20manufacturing.ru-
+ru%27&-uri=%27https%3A%2F%2Fwww.microsoft.com%2Fru-
+ru%2Findustry%2Fmanufacturing%3Frtc%3D1%27&-pageType=%27CnE.Enterprise%27&-pageTags=%27%7B%22tasId%22%3A%2283a264d5-4a77-4047-8a1e-1b2b7b9c27c9%22%2C%22tasMuid%22%3A%223E06EDC5B45E656503C6FDD0B5F564C4%22%2C%22browserGroup%22%3A%22uplevel.web.pc%22%2C%22isOneRf%22%3A%22True%22%7D%27&-behavior=0&-market=%27ru-
+ru%27)
+
+[ Перейти к основному контенту ](javascript:void\(0\))
+
+[ ![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31) Microsoft
+](https://www.microsoft.com)
+
+Industry
+
+[ Industry  ](https://www.microsoft.com/ru-ru/industry)
+
+Industry
+
+  * [ Главная ](https://www.microsoft.com/ru-ru/industry)
+  * [ Автомобильный ](https://www.microsoft.com/ru-ru/industry/automotive)
+  * [ энергии ](https://www.microsoft.com/ru-ru/industry/energy)
+  * Финансовые услуги 
+    * [ Банковская сфера ](https://www.microsoft.com/ru-ru/industry/financial-services/banking)
+    * [ Фондовые рынки ](https://www.microsoft.com/ru-ru/industry/financial-services/capital-markets)
+    * [ Страхование ](https://www.microsoft.com/ru-ru/industry/financial-services/insurance)
+
+  * Государственный сектор 
+    * [ Государственный сектор ](https://www.microsoft.com/ru-ru/industry/government)
+    * [ Общественная безопасность и правосудие ](https://www.microsoft.com/ru-ru/industry/government/public-safety-and-justice)
+    * [ Оборонные и разведывательные службы ](https://www.microsoft.com/ru-ru/industry/government/defense-and-intelligence)
+
+  * Здравоохранение 
+    * [ Здравоохранение ](https://www.microsoft.com/ru-ru/industry/health)
+    * [ Страховые компании ](https://www.microsoft.com/ru-ru/industry/health/payors)
+    * [ Поставщики ](https://www.microsoft.com/ru-ru/industry/health/providers)
+    * [ Фармацевтика и биологические науки ](https://www.microsoft.com/ru-ru/industry/health/pharmaceuticals)
+
+  * [ Производство ](https://www.microsoft.com/ru-ru/industry/manufacturing)
+  * [ Мультимедиа и развлечения ](https://www.microsoft.com/ru-ru/industry/media-entertainment)
+  * Больше 
+    * Розничная торговля  Розничная торговля 
+      * [ Розничная торговля ](https://www.microsoft.com/ru-ru/industry/retail-consumer-goods)
+      * [ Потребительские товары ](https://www.microsoft.com/ru-ru/industry/consumer-goods)
+    * [ Телекоммуникации ](https://www.microsoft.com/ru-ru/industry/telecommunications)
+    * [ Образование ](https://www.microsoft.com/education/default.aspx )
+    * [ Блоги ](https://cloudblogs.microsoft.com/industry-blog/ru-ru/)
+
+  * Все продукты Microsoft 
+    *       * [ Microsoft 365 ](https://www.microsoft.com/ru-ru/microsoft-365/business/all-business)
+      * [ Azure ](https://azure.microsoft.com)
+      * [ Office 365 ](https://products.office.com/ru-ru/business/office)
+      * [ Dynamics 365 ](https://www.microsoft.com/ru-ru/dynamics365/home)
+      * [ Power Platform ](https://powerplatform.microsoft.com/ru-ru)
+      * [ Windows 10 ](https://www.microsoft.com/ru-ru/windowsforbusiness)
+    * Продукты и услуги  Продукты и услуги 
+      * [ Windows Server ](https://www.microsoft.com/cloud-platform/windows-server)
+      * [ Enterprise Mobility + Security ](https://www.microsoft.com/cloud-platform/enterprise-mobility-security)
+      * [ Power BI ](https://powerbi.microsoft.com/ru-ru/)
+      * [ Группы ](https://www.microsoft.com/ru-ru/microsoft-teams/group-chat-software)
+      * [ Visual Studio ](https://visualstudio.microsoft.com/)
+    * Новые технологии  Новые технологии 
+      * [ Искусственный интеллект ](https://www.microsoft.com/ai/)
+      * [ Интернет вещей ](https://www.microsoft.com/internet-of-things/)
+      * [ Службы Azure Cognitive Services ](https://azure.microsoft.com/services/cognitive-services/)
+      * [ Quantum ](https://www.microsoft.com/quantum/)
+    * Разработчик и ИТ  Разработчик и ИТ 
+      * [ Документы ](https://docs.microsoft.com/ru-ru/)
+      * [ Центр разработчиков ](https://developer.microsoft.com/)
+      * [ Центр разработчиков Windows ](https://developer.microsoft.com/ru-ru/windows)
+      * [ Windows IT Pro Center ](https://www.microsoft.com/ru-ru/itpro/windows)
+      * [ FastTrack ](https://fasttrack.microsoft.com/office)
+      * [ Power Platform ](https://powerplatform.microsoft.com/ru-ru)
+    * Партнер  Партнер 
+      * [ Партнерская сеть ](https://partner.microsoft.com/)
+      * [ Поставщики решений ](https://www.microsoft.com/ru-ru/solution-providers)
+      * [ Центр партнеров ](https://partnercenter.microsoft.com/partner/home)
+    * Отрасли  Отрасли 
+      * [ Образование ](https://www.microsoft.com/ru-ru/education?icid=CNavMSCOML0_Studentsandeducation)
+      * [ Финансовые услуги ](https://www.microsoft.com/enterprise/financial-services/banking-and-capital-markets)
+      * [ Государственный сектор ](https://www.microsoft.com/ru-ru/enterprise/government)
+      * [ Здравоохранение ](https://www.microsoft.com/ru-ru/enterprise/health)
+      * [ Производство и ресурсы ](https://www.microsoft.com/ru-ru/enterprise/manufacturing)
+      * [ Розничная торговля ](https://www.microsoft.com/ru-ru/enterprise/retail-consumer-goods)
+    * Прочее  Прочее 
+      * [ Безопасность ](https://www.microsoft.com/security/)
+      * [ Лицензирование ](https://www.microsoft.com/licensing/)
+      * [ AppSource ](https://appsource.microsoft.com/)
+      * [ Azure Marketplace ](https://azuremarketplace.microsoft.com/marketplace/)
+      * [ Мероприятия ](https://events.microsoft.com/)
+      * [ Исследования ](https://www.microsoft.com/research/)
+    * [ Посмотреть карту сайта ](https://www.microsoft.com/ru-ru/sitemap.aspx)
+
+Поиск  Search Microsoft.com
+
+Отмена
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RWsZPC?ver=5e21&q=0&m=6&h=600&w=1600&b=%23FFFFFFFF&l=f&o=t&x=902&y=394&aim=true)
+
+#  Интеллектуальное производство
+
+Устраните отходы и улучшите результаты для всех заинтересованных лиц,
+проектируя рациональные процессы во всей цепочке создания ценности и жизненном
+цикле продуктов и услуг.
+
+[ Смотреть видео  ](https://info.microsoft.com/ww-landing-Accelerate-Digital-
+Transformation-for-Manufacturing-Resiliency.html?lcid=en-us)
+
+##  Производство для устойчивого и экологически чистого будущего
+
+Преобразуйте все этапы производства. Добивайтесь лучших результатов благодаря
+модели «продукт как услуга».
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RWsUDw?ver=54b8&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Трансформируйте персонал
+
+Объедините приложения для повышения производительности с интеллектуальными
+облачными сервисами и системой безопасности, чтобы изменить формат своей
+деятельности.
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4zoWI?ver=e920&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Привлекайте клиентов новыми способами
+
+Обеспечьте релевантное обслуживание клиентов по всем каналам маркетинга,
+продаж и обслуживания.
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RWsZPG?ver=2d84&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Создавайте гибкие заводы
+
+Создайте безопасный и гибкий завод будущего с помощью информационных
+технологий, операционных технологий и промышленного Интернета вещей.
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RWsXg4?ver=348e&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Создайте устойчивые цепочки поставок
+
+Повысьте устойчивость и рентабельность с помощью интеллектуального
+планирования и реализации цепочек поставок.
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RWsS2k?ver=b415&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Внедряйте инновации и предоставляйте новые сервисы
+
+Реализуйте новые бизнес-преимущества с помощью устойчивых продуктов и цифровых
+сервисов.
+
+* * *
+
+###  Microsoft празднует День промышленности
+
+Microsoft содействует в решении проблемы нехватки навыков в промышленности и
+реализации преимуществ технологий, помогая обращаться к большему количеству
+людей в обществе.
+
+[ Смотреть видео  ](https://creatorswanted.org/creators-wanted-empowering-a-
+diverse-and-sustainable-manufacturing-workforce/)
+
+###  Внедрение инноваций с помощью цифровых двойников
+
+Присоединяйтесь к нам 17 ноября, чтобы обсудить огромный потенциал технологии
+цифровых близнецов для трансформации производства.
+
+[ Зарегистрироваться  ](https://info.microsoft.com/CO-DTMNFT-WBNR-
+FY21-11Nov-17-ManufacturingIndustryDigitalForum-5516_LP01Registration-
+ForminBody.html)
+
+* * *
+
+##  Узнайте, как организации формируют устойчивое и экологически чистое
+будущее
+
+![Kennametal](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4yvGd?ver=9a9e&q=90&m=6&h=110&w=110&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+![Outokumpu](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4zeW4?ver=3260&q=90&m=6&h=110&w=110&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+![Coloplast](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4zhMB?ver=bb4a&q=90&m=6&h=110&w=110&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+![Toyota](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4zjII?ver=5b84&q=90&m=6&h=110&w=110&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+![](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+![Kennametal](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4yvGc?ver=708c&q=90&m=6&h=100&w=300&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Kennametal
+
+Узнайте, как компания Kennametal использует облачную стратегию Microsoft для
+внедрения бизнес-инноваций.
+
+[ Читать историю  ](https://customers.microsoft.com/en-
+us/story/766039-kennametal-manufacturing-azure-digital-transformation)
+
+![](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+![Outokumpu](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4zeW2?ver=de81&q=90&m=6&h=100&w=300&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Outokumpu
+
+Гигант в мире нержавеющей стали, ориентированный на экологию и данные.
+
+[ Читать историю  ](https://customers.microsoft.com/EN-
+US/story/818687-outokumpu-azure-manufacturing-finland-en)
+
+![](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4zoUW?ver=19e6&q=90&m=6&h=100&w=300&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Coloplast
+
+Миграция 8000 сотрудников в Microsoft Teams всего за 48 часов.
+
+[ Читать историю  ](https://customers.microsoft.com/en-
+US/story/775560-coloplast-healthcare-office365-microsoft-teams-denmark)
+
+![](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+![Toyota](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4zjIF?ver=c209&q=90&m=6&h=100&w=300&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Toyota
+
+Узнайте, как компания Toyota повышает эффективность и ускоряет внедрение
+инноваций с помощью Microsoft Power Apps.
+
+[ Читать историю  ](https://customers.microsoft.com/en-US/story/766054-toyota-
+manufacturing-power-apps)
+
+[ Интернет вещей в реальном мире — учитесь у ведущих компаний
+](https://discover.microsoft.com/iot-real-stories-manufacturing-landing/)
+
+* * *
+
+##  Способы интеллектуальной трансформации производства
+
+Развивайте новые бизнес-модели и источники дохода с помощью интеллектуального
+производства, предоставляя инновационные продукты и услуги с помощью
+настраиваемых заводов, интеллектуальных цепочек поставок и расширенных
+возможностей производственного персонала.
+
+  * ![No Data Available](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWsXuF?ver=7418&q=90&m=6&h=273&w=485&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Подключенное выездное обслуживание
+
+####  Подключенное выездное обслуживание
+
+Преобразуйте сервисные центры в центры прибыли. Осуществляйте упреждающее
+обслуживание, подключая интеллектуальные продукты с помощью квалифицированных
+специалистов.
+
+[ Подробнее  ](https://www.microsoft.com/ru-
+RU/industry/manufacturing/connected-field-services)
+
+  * ![No Data Available](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWtarr?ver=0d8d&q=90&m=6&h=273&w=485&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Подключение решений для продаж и обслуживания
+
+####  Подключение решений для продаж и обслуживания
+
+Улучшите взаимодействие своего торгового и обслуживающего персонала с
+клиентами, чтобы стимулировать продажи сложных продуктов и услуг с помощью
+цифровых инструментов.
+
+[ Подробнее  ](https://www.microsoft.com/ru-
+RU/industry/manufacturing/connected-sales-and-service)
+
+  * ![No Data Available](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWt5hP?ver=805a&q=90&m=6&h=273&w=485&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Создайте завод будущего уже сегодня
+
+####  Создайте завод будущего уже сегодня
+
+Оптимизируйте цифровые операции, объединив сотрудников, устройства и процессы
+для заполнения пробелов в знаниях, а также для повышения эффективности
+операционных процессов и производительности завода.
+
+[ Подробнее  ](https://www.microsoft.com/ru-RU/industry/manufacturing/factory-
+of-the-future)
+
+  * ![No Data Available](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWt5hT?ver=0e20&q=90&m=6&h=273&w=485&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Реализуйте интеллектуальную цепочку поставок
+
+####  Реализуйте интеллектуальную цепочку поставок
+
+Оптимизируйте цифровые операции с помощью интеллектуальных бизнес-приложений
+для достижения необходимого баланса расходов на обслуживание клиентов и
+цепочку поставок.
+
+[ Подробнее  ](https://www.microsoft.com/ru-
+RU/industry/manufacturing/intelligent-supply-chain)
+
+  * ![No Data Available](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWt029?ver=7478&q=90&m=6&h=273&w=485&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Внедрение инноваций с помощью подключенных продуктов
+
+####  Внедрение инноваций с помощью подключенных продуктов
+
+Переосмыслите производство и ускорьте внедрение инноваций с помощью
+аналитических сведений, получаемых от подключенных продуктов, сервисов и
+цифровых двойников.
+
+[ Подробнее  ](https://www.microsoft.com/ru-
+RU/industry/manufacturing/connected-product-innovation)
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4fAA7?ver=9506&q=90&m=6&h=1080&w=1920&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+##  Знакомство с интеллектуальным производством
+
+  * ![](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4BEIK?ver=54cb&q=90&m=6&h=273&w=485&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Envisioning the Future of Business Webcast
+
+Узнайте, как обеспечить светлое будущее для вашего бизнеса.
+
+[ Посмотрите нашу веб-трансляцию  ](https://info.microsoft.com/CE-DIGTRNS-
+WBNR-FY20-06Jun-26-MicrosoftBriefingEnvisioningthefutureofBusiness-
+SRDEM31015_LP02OnDemandRegistration-ForminBody.html)
+
+  * ![На столе планшет, стилус и две копии документа «Дорога в будущее»](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4owxW?ver=c3fa&q=90&m=6&h=273&w=485&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Путеводитель в будущее
+
+Как компании из Центральной и Восточной Европы адаптируются к цифровой
+революции? Готовятся к переменам, стремятся стать более полезными для клиентов
+и поощрять взаимодействие между сотрудниками — вот лишь некоторые из множества
+примеров. Загрузите наш отчет «Путеводитель в будущее» \(Guide to the
+Future\), чтобы узнать больше.
+
+[ Скачать Отчет  ](https://info.microsoft.com/CE-DIGTRNS-CNTNT-
+FY19-10Oct-22-GuidetothefutureDigitaltransformation-MGC0003199_01Registration-
+ForminBody.html)
+
+  * ![Рабочий на складе использует планшет](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4oXcL?ver=fc72&q=90&m=6&h=273&w=485&b=%23FFFFFFFF&l=f&o=t&x=225&y=99&aim=true)
+
+###  Преобразование дефицита навыков в их развитие
+
+Ознакомьтесь со способами повышения квалификации кадров для достижения успеха
+в будущем. Узнайте, как корпорация Microsoft и Национальная ассоциация
+производителей помогают компаниям подготовиться к новым вызовам и новым
+возможностям.
+
+[ Смотреть онлайн-тренинг  ](https://info.microsoft.com/ww-thankyou-
+Transforming-Skills-Gap-on-demand-webinar.html?lcid=en-us)
+
+  * ![Работник идет по фабрике ](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4tLYX?ver=1aaf&q=90&m=6&h=273&w=485&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Будущее производства. Проект цепочки поставок на основе данных
+
+Узнайте, как изменить свою бизнес-модель, упростив ее с помощью внедрения
+аналитики на всех отрезках цепочки создания стоимости. Прочтите этот отчет,
+подготовленный Microsoft и PSFK, чтобы узнать, как добиться лучших
+результатов.
+
+[ Получить отчет PSFK  ](https://info.microsoft.com/ww-landing-The-Future-Of-
+Manufacturing-Gate.html?lcid=EN-US)
+
+  * ![No Data Available](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE46gXv?ver=0f0a&q=90&m=6&h=273&w=485&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  3 способа подготовить современный производственный персонал
+
+Поскольку конкурентоспособность производства растет, ваши результаты зависят
+от сотрудников, их навыков и креативности. Узнайте, как привлекать, обучать и
+удерживать сотрудников, необходимых для будущих успехов компании.
+
+[ Смотреть инфографику
+](https://clouddamcdnprodep.azureedge.net/gdc/gdcJAZerC/original)
+
+  * ![Работники смотрят на реактивный двигатель монитор в виртуальной среде](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2VlEb?ver=df18&q=90&m=6&h=273&w=485&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Вычисления будущего: искусственный интеллект и производство
+
+В следующей книге Microsoft из серии «Вычисления будущего» подробно
+описывается, как искусственный интеллект \(ИИ\) преобразует производство и как
+общество может реагировать на трудности, создаваемые ИИ, рассматриваются
+потребности в разработке новых законов и нормативов для учета изменений рынка
+труда, а также вопросы этики и ответственности, возникающие при разработке ИИ.
+
+[ Скачать книгу  ](https://news.microsoft.com/futurecomputed/)
+
+  * ![Женщина-специалист, использует для работы очки HoloLens](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4txRD?ver=f186&q=90&m=6&h=273&w=485&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  4 основных направления интеллектуальной трансформации производства
+
+Прочитайте это бесплатное руководство, чтобы получить практические
+рекомендации по следующим вопросам:
+
+оптимизации заводов и цепочек поставок с помощью технологий цифрового
+производства;  
+предоставлению сотрудникам навыков, необходимых для достижения успеха в
+цифровой производственной среде;  
+получению аналитических сведений с помощью ИИ и ваших собственных
+производственных данных для стимулирования инноваций.
+
+[ Скачать руководство  ](https://info.microsoft.com/ww-landing-Manufacturers-
+Guide-to-Digital-Transformation-eBook.html?lcid=en-us)
+
+Follow Microsoft
+
+  * [ ![Facebook](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/85288795/coreui.statics/images/social/facebook.png) ](https://www.facebook.com/Microsoft "Присоединяйтесь к нам в Facebook")
+  * [ ![Twitter](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/93690392/coreui.statics/images/social/twitter.png) ](https://www.twitter.com/Microsoft "Присоединяйтесь к нам в Twitter")
+  * [ ![Youtube](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/c79952ca/coreui.statics/images/social/youtube.png) ](https://www.youtube.com/channel/UChdf8Ha8o4EEiG-wHtK6JeA "Присоединяйтесь к нам на YouTube")
+  * [ ![Blog](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/f0272ae0/coreui.statics/images/social/blog.png) ](https://cloudblogs.microsoft.com/industry-blog/ "Следите за нашими блогами")
+
+Что нового?
+
+  * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365)
+  * [ Приложения Windows 10 ](https://www.microsoft.com/ru-ru/windows/windows-10-apps)
+
+Microsoft Store
+
+  * [ Профиль учетной записи ](https://account.microsoft.com/)
+  * [ Центр загрузки ](https://www.microsoft.com/ru-ru/download)
+  * [ Поддержка Microsoft Store ](https://go.microsoft.com/fwlink/?linkid=2139749)
+  * [ Возврат товаров ](https://go.microsoft.com/fwlink/p/?LinkID=824764&clcid=0x419)
+  * [ Отслеживание заказа ](https://account.microsoft.com/orders)
+
+Для образования
+
+  * [ Майкрософт и образование ](https://www.microsoft.com/ru-ru/education)
+  * [ Office для учащихся ](https://www.microsoft.com/ru-ru/education/products/office/default.aspx)
+  * [ Office 365 для школ ](https://products.office.com/ru-ru/academic/compare-office-365-education-plans)
+  * [ Специальные предложения для учащихся и родителей ](https://www.microsoft.com/ru-ru/store/b/student?icid=CNavfooter_Studentsandeducation)
+  * [ Microsoft Azure и образование ](https://azure.microsoft.com/ru-ru/community/education/)
+
+Для крупных предприятий
+
+  * [ Azure ](https://azure.microsoft.com/)
+  * [ AppSource ](https://go.microsoft.com/fwlink/?LinkID=808093)
+  * [ Автопромышленность ](https://www.microsoft.com/enterprise/automotive)
+  * [ Государственные учреждения ](https://www.microsoft.com/enterprise/government)
+  * [ Здравоохранение ](https://www.microsoft.com/enterprise/health)
+  * [ Промышленное производство ](https://www.microsoft.com/enterprise/manufacturing)
+  * [ Финансовые услуги ](https://www.microsoft.com/enterprise/financial-services/banking-and-capital-markets)
+  * [ Торговля ](https://www.microsoft.com/enterprise/retail-consumer-goods)
+
+Для разработчиков
+
+  * [ Microsoft Visual Studio ](https://visualstudio.microsoft.com/)
+  * [ Центр разработчиков Windows ](https://developer.microsoft.com/ru-ru/windows)
+  * [ Центр разработчиков ](https://developer.microsoft.com/)
+  * [ Программа Майкрософт для разработчиков ](https://developer.microsoft.com/ru-ru/store/register)
+  * [ Channel 9 ](https://channel9.msdn.com/)
+  * [ Центр разработчиков Office ](https://developer.microsoft.com/ru-ru/office)
+
+Компания
+
+  * [ Вакансии ](https://careers.microsoft.com/)
+  * [ О корпорации Майкрософт ](https://www.microsoft.com/ru-ru/about)
+  * [ Новости компании ](https://news.microsoft.com/ru-ru)
+  * [ Политика конфиденциальности Майкрософт ](https://privacy.microsoft.com/ru-ru)
+  * [ Инвесторы ](https://www.microsoft.com/investor/default.aspx)
+  * [ Безопасность ](https://www.microsoft.com/ru-ru/security/default.aspx)
+
+[ Русский \(Россия\)
+](https://www.microsoft.com/enterprise/locales?absoluteReturnUrl=https%3a%2f%2fwww.microsoft.com%2fru-
+ru%2findustry%2fmanufacturing%3frtc%3d1)
+
+  * [ Связаться с Microsoft ](https://support.microsoft.com/contactus)
+  * [ Конфиденциальность ](https://go.microsoft.com/fwlink/?LinkId=521839)
+  * Управление файлами cookie 
+  * [ Условия использования ](https://go.microsoft.com/fwlink/?LinkID=206977)
+  * [ Товарные знаки ](https://www.microsoft.com/trademarks)
+  * [ Сведения о рекламе ](https://choice.microsoft.com/)
+  * © Microsoft 2021 
+

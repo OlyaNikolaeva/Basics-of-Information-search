@@ -1,0 +1,1000 @@
+![](https://web.vortex.data.microsoft.com:443/collect/v1/t.gif?&name=%27Ms.Webi.PageView%27&ver=%272.1%27&appId=%27JS%3AJS%3AWindows%27&cV=%27daMWgm3ujUWCOR%2BY.0%27&ext-
+app-env=%27onerf_prod%27&ext-javascript-libver=%274.0.0-beta-10%27&ext-user-
+localId=%27t%3A38C4A0D787B767FB1EB4B0C2865D6641%27&*baseType=%27Ms.Content.PageView%27&*isJs=True&*isLoggedIn=False&*isManual=True&*serverImpressionGuid=%2728980d88-370d-4048-854e-fa4113b6f78a%27&-ver=%271.0%27&-impressionGuid=%2700000000-0000-0000-0000-000000000000%27&-pageName=%27wdg-
+windows_windows-10-apps_win10_win7.ru-
+ru%27&-uri=%27https%3A%2F%2Fwww.microsoft.com%2Fru-
+ru%2Fwindows%2Fwindows-10-apps%27&-pageType=%27WDG-
+Windows%27&-pageTags=%27%7B%22tasId%22%3A%2228980d88-370d-4048-854e-fa4113b6f78a%22%2C%22tasMuid%22%3A%2238C4A0D787B767FB1EB4B0C2865D6641%22%2C%22browserGroup%22%3A%22uplevel.web.pc%22%2C%22isOneRf%22%3A%22True%22%7D%27&-behavior=0&-market=%27ru-
+ru%27)
+
+![]()
+
+[ ]()
+
+[ Перейти к основному контенту ](javascript:void\(0\))
+
+[ ![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31) Microsoft
+](https://www.microsoft.com)
+
+Windows
+
+[ Windows  ](https://www.microsoft.com/ru-ru/windows)
+
+Windows
+
+  * [ Главная ](https://www.microsoft.com/ru-ru/windows)
+  * Windows 10 
+    * [ Как получить Windows 10 ](https://www.microsoft.com/ru-ru/windows/get-windows-10)
+    * [ Купить Windows 10 Домашняя ](https://www.microsoft.com/p/windows-10-home/d76qx4bznwk4)
+    * [ Купить Windows 10 Pro ](https://www.microsoft.com/p/windows-10-pro/df77x4d43rkt)
+    * [ Окончание поддержки Windows 7 ](https://www.microsoft.com/ru-ru/windows/windows-7-end-of-life-support-information)
+    * [ Windows10 функции ](https://www.microsoft.com/ru-ru/windows/features)
+    * [ Синхронизация телефонов с компьютером ](https://www.microsoft.com/ru-ru/windows/sync-across-your-devices)
+    * [ Безопасность Windows ](https://www.microsoft.com/ru-ru/windows/comprehensive-security)
+    * [ Сравните выпуски Windows 10 ](https://www.microsoft.com/ru-ru/windows/compare-windows-10-home-vs-pro)
+    * [ Характеристики и требования ](https://www.microsoft.com/ru-ru/windows/windows-10-specifications )
+
+  * Компьютеры 
+    * [ Ассортимент новых компьютеров с Windows ](https://www.microsoft.com/ru-ru/windows/computers)
+    * [ Купить ноутбуки ](https://www.microsoft.com/ru-ru/windows/windows-laptops)
+    * [ Купить устройства 2-в-1 ](https://www.microsoft.com/ru-ru/windows/2-in-1s)
+    * [ Купить моноблоки ](https://www.microsoft.com/ru-ru/windows/desktops-and-all-in-ones)
+    * [ Купить игровые компьютеры ](https://www.microsoft.com/ru-ru/windows/gaming-pcs)
+    * [ Купить все компьютеры ](https://www.microsoft.com/ru-ru/windows/view-all-devices)
+
+  * [ Приложения ](https://www.microsoft.com/ru-ru/windows/windows-10-apps)
+  * [ Игры ](https://www.microsoft.com/ru-ru/windows/windows-10-pc-gaming)
+  * [ Для бизнеса ](https://www.microsoft.com/ru-ru/microsoft-365/windows)
+  * [ Поддержка ](https://support.microsoft.com/windows)
+  * Больше 
+
+  * [ КУПИТЬ WINDOWS 10 ](https://www.microsoft.com/ru-ru/windows/get-windows-10)
+
+  * Все продукты Microsoft 
+    *       * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365)
+      * [ Office ](https://www.microsoft.com/microsoft-365/microsoft-office)
+      * [ Windows ](https://www.microsoft.com/ru-ru/windows/)
+      * [ Xbox ](https://www.xbox.com/)
+      * [ Поддержка ](https://support.microsoft.com/ru-ru)
+    * ПО  ПО 
+      * [ Приложения для Windows ](https://www.microsoft.com/ru-ru/store/apps/windows?icid=CNavAppsWindowsApps)
+      * [ OneDrive ](https://onedrive.live.com/about/ru-ru/)
+      * [ Outlook ](https://outlook.live.com/owa/)
+      * [ Skype ](https://www.skype.com/ru/)
+      * [ OneNote ](https://www.onenote.com/?omkt=ru-RU)
+      * [ Microsoft Teams ](https://www.microsoft.com/ru-ru/microsoft-teams/free?icid=SSM_AS_Promo_Apps_MicrosoftTeams)
+    * Компьютеры и устройства  Компьютеры и устройства 
+      * [ Купите Xbox ](https://www.microsoft.com/ru-ru/store/b/xbox?icid=CNavDevicesXbox)
+      * [ Аксессуары ](https://www.microsoft.com/accessories/ru-ru)
+    * Развлечения  Развлечения 
+      * [ Xbox Game Pass Ultimate ](https://www.microsoft.com/ru-ru/p/xbox-game-pass-ultimate/cfq7ttc0khs0?WT.mc_id=CNavGamesXboxGamePassUltimate)
+      * [ Xbox Live Gold ](https://www.microsoft.com/ru-ru/p/xbox-live-gold/cfq7ttc0k5dj?WT.mc_id=CNavGamesXboxLiveGold)
+      * [ Xbox и игры ](https://www.xbox.com/ru-ru/games/xbox-one?xr=shellnav)
+      * [ Компьютерные игры ](https://www.microsoft.com/ru-ru/store/games/windows?icid=CNavGamesWindowsGames)
+      * [ Игры для Windows ](https://www.microsoft.com/ru-ru/store/games/windows?icid=TopNavWindowsGames)
+    * Для бизнеса  Для бизнеса 
+      * [ Microsoft Azure ](https://azure.microsoft.com/ru-ru/)
+      * [ Microsoft Dynamics 365 ](https://www.microsoft.com/ru-ru/dynamics365/home)
+      * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365/business/all-business)
+      * [ Microsoft Industry ](https://www.microsoft.com/ru-ru/enterprise)
+      * [ Платформа данных ](https://www.microsoft.com/ru-ru/sql-server/ )
+      * [ Power Platform ](https://powerplatform.microsoft.com/ru-ru)
+      * [ Shop Business ](https://www.microsoft.com/ru-ru/store/b/business?icid=CNavBusinessStore)
+    * Для разработчиков и ИТ  Для разработчиков и ИТ 
+      * [ .NET ](https://www.microsoft.com/net/)
+      * [ Visual Studio ](https://visualstudio.microsoft.com/)
+      * [ Windows Server ](https://www.microsoft.com/cloud-platform/windows-server)
+      * [ Разработка приложений для Windows ](https://developer.microsoft.com/ru-ru/windows)
+      * [ Документы ](https://docs.microsoft.com/ru-ru/)
+      * [ Power Apps ](https://powerapps.microsoft.com/ru-ru)
+    * Другое  Другое 
+      * [ Бесплатная загрузка и средства безопасности ](https://www.microsoft.com/ru-ru/download/default.aspx)
+      * [ Образование ](https://www.microsoft.com/ru-ru/education?icid=CNavMSCOML0_Studentsandeducation)
+      * [ лицензирование ](https://www.microsoft.com/licensing/default)
+    * [ Посмотреть карту сайта ](https://www.microsoft.com/ru-ru/sitemap.aspx)
+
+Поиск  Поиск на Microsoft.com
+
+Отмена  [ 0  Корзина  0 товары в корзине  ](https://www.microsoft.com/ru-
+ru/store/buy)
+
+Войти
+
+![Сложенный компьютер с Windows 10, на экране которого отображается Adobe
+Photoshop Elements](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE3NLAl?ver=04fd&q=90&m=6&h=600&w=1600&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+#  Приложения для каждого
+
+В магазине Microsoft Store можно найти практически все, что нужно для вашего
+устройства с Windows, включая самые последние игры, популярные фильмы и
+телешоу, ПО для творчества и другие приложения  1  .
+
+##  Приложения для удаленной учебы
+
+[ Показать все
+](https://www.microsoft.com/store/collections/studentsandscholars)
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Drawboard PDF - Read, edit, annotate
+
+Оценка в звездах: 4,5 из 5
+
+4,5  5
+
+There are 181 reviews  181  Бесплатно  \+  ](/ru-ru/p/drawboard-pdf-read-edit-
+annotate/9wzdncrfhwqt)
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  PDF Reader - View, Edit, Share
+
+Оценка в звездах: 4,5 из 5
+
+4,5  5
+
+There are 985 reviews  985  Бесплатно  \+  ](/ru-ru/p/pdf-reader-view-edit-
+share/9nblggh67wlk)
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Cloud Drive\! : OneDrive, Dropbox, Google Drive and more
+
+Оценка в звездах: 4 из 5
+
+3,79999995231628  5
+
+There are 56 reviews  56  Бесплатно  \+  ](/ru-ru/p/cloud-drive-onedrive-
+dropbox-google-drive-and-more/9nblggh5qkdc)
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Complete Anatomy 2021
+
+Оценка в звездах: 4,5 из 5
+
+4,30000019073486  5
+
+There are 43 reviews  43  Бесплатно  \+  ](/ru-ru/p/complete-
+anatomy-2021/9nblggh40f2t)
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Animation Desk - Create Animation Like a Pro
+
+Оценка в звездах: 4,5 из 5
+
+4,5  5
+
+There are 31 reviews  31  Бесплатно  \+  ](/ru-ru/p/animation-desk-create-
+animation-like-a-pro/9nw9w795cg8q)
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  One Calendar
+
+Оценка в звездах: 4,5 из 5
+
+4,5  5
+
+There are 941 reviews  941  Бесплатно  \+  ](/ru-ru/p/one-
+calendar/9wzdncrdr0sf)
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  LiquidText
+
+Оценка в звездах: 4,5 из 5
+
+4,40000009536743  5
+
+There are 10 reviews  10  Бесплатно  \+  ](/ru-ru/p/liquidtext/9n9z9nsv47fl)
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Rar Zip Extractor Pro
+
+Оценка в звездах: 4,5 из 5
+
+4,30000019073486  5
+
+There are 4413 reviews  4 тыс.  Бесплатно  \+  ](/ru-ru/p/rar-zip-extractor-
+pro/9n5chvzqw8sd)
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Inkodo
+
+Оценка в звездах: 4,5 из 5
+
+4,5  5
+
+There are 36 reviews  36  Бесплатно  \+  ](/ru-ru/p/inkodo/9nblggh4s50q)
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) **СКИДКА USD$10.00**
+
+###  Penbook
+
+Оценка в звездах: 4,5 из 5
+
+4,30000019073486  5
+
+There are 39 reviews  39  Раньше  ~~USD$19.99~~ Сейчас  USD$9.99  ](/ru-
+ru/p/penbook/9pl4gx47gt7k)
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  6.000 Слов - Учим Английский Бесплатно с FunEasyLearn
+
+Оценка в звездах: 5 из 5
+
+4,80000019073486  5
+
+There are 318 reviews  318  Бесплатно  \+  ](/ru-
+ru/p/6000-%d0%a1%d0%bb%d0%be%d0%b2-%d0%a3%d1%87%d0%b8%d0%bc-%d0%90%d0%bd%d0%b3%d0%bb%d0%b8%d0%b9%d1%81%d0%ba%d0%b8%d0%b9-%d0%91%d0%b5%d1%81%d0%bf%d0%bb%d0%b0%d1%82%d0%bd%d0%be-%d1%81-funeasylearn/9nblggh5xlkw)
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  M8\! - Mind Map
+
+Оценка в звездах: 4 из 5
+
+4  5
+
+There are 21 reviews  21  Бесплатно  \+  ](/ru-ru/p/m8-mind-map/9wzdncrfj9nr)
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  WorkingHours — Time Tracking / Timesheet
+
+Оценка в звездах: 5 из 5
+
+4,80000019073486  5
+
+There are 45 reviews  45  Бесплатно  \+  ](/ru-ru/p/workinghours-time-
+tracking-timesheet/9mv51b301wfd)
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Total File Commander Pro
+
+Оценка в звездах: 3,5 из 5
+
+3,59999990463257  5
+
+There are 992 reviews  992  Бесплатно  \+  ](/ru-ru/p/total-file-commander-
+pro/9n0kwg910ldh)
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Index Cards \(Flash Cards, Notes, Projects, Flashcards\)
+
+Оценка в звездах: 4 из 5
+
+4,09999990463257  5
+
+There are 16 reviews  16  Бесплатно  \+  ](/ru-ru/p/index-cards-flash-cards-
+notes-projects-flashcards/9nblggh58q5b)
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Элементы: Периодическая Таблица
+
+Оценка в звездах: 4,5 из 5
+
+4,69999980926514  5
+
+There are 143 reviews  143  Бесплатно  \+  ](/ru-
+ru/p/%d0%ad%d0%bb%d0%b5%d0%bc%d0%b5%d0%bd%d1%82%d1%8b-%d0%9f%d0%b5%d1%80%d0%b8%d0%be%d0%b4%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b0%d1%8f-%d0%a2%d0%b0%d0%b1%d0%bb%d0%b8%d1%86%d0%b0/9wzdncrfjcm1)
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  paint.net
+
+Оценка в звездах: 4,5 из 5
+
+4,59999990463257  5
+
+There are 85 reviews  85  USD$6.99  ](/ru-ru/p/paintnet/9nbhcs1lx4r0)
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  FluidMath
+
+Оценка в звездах: 2 из 5
+
+1,79999995231628  5
+
+There are 5 reviews  5  Бесплатно  \+  ](/ru-ru/p/fluidmath/9wzdncrdxbv4)
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Krita
+
+Оценка в звездах: 4,5 из 5
+
+4,30000019073486  5
+
+There are 11 reviews  11  USD$9.79  ](/ru-ru/p/krita/9n6x57zgrw96)
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Scanner for Docs Pro
+
+Оценка в звездах: 4 из 5
+
+4  5
+
+There are 38 reviews  38  Бесплатно  \+  ](/ru-ru/p/scanner-for-docs-
+pro/9pcpb30gd0d3)
+
+##  Где бы вы ни находились, Office всегда работает так, как вам необходимо
+
+Вначале на своем телефоне начните редактирования или работу над совместным
+проектом с другими участниками, затем внесите последние штрихи на своем
+планшете или ноутбуке.  2
+
+![PowerPoint на мобильном устройстве со значками приложений Word, Excel и
+PowerPoint](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+![](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+##  Мобильное приложение Microsoft Office
+
+С мобильным приложением Microsoft Office  \*  всю необходимую работу можно
+сделать на устройстве, которое умещается на ладони. Это удобное приложение,
+объединившее Word, Excel и PowerPoint, с помощью которого вы сможете
+оставаться продуктивными, где бы ни находились.
+
+[ ПОЛУЧИТЬ ПРИЛОЖЕНИЕ ДЛЯ ANDROID  ](https://aka.ms/OfficeAppAndroid) [
+ПОЛУЧИТЬ ПРИЛОЖЕНИЕ ДЛЯ IOS  ](https://aka.ms/OfficeAppiOS)
+
+![Экран с открытым приложением Microsoft Family Safety на заднем фоне и
+стикерами с надписями: защита от физического насилия, цифровая безопасность и
+Microsoft Family Safety](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+##  Microsoft Family Safety
+
+Возможность для вас и вашей семьи выработать полезные привычки и защитить
+родных и близких.
+
+[ СКАЧАТЬ ПРИЛОЖЕНИЕ  ](https://www.microsoft.com/microsoft-365/family-safety)
+
+##  Просмотр приложений Microsoft для вашего компьютера
+
+  * [ ![Приложение Microsoft Word](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) Microsoft Word  ](https://products.office.com/word)
+  * [ ![Приложение Microsoft Excel](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) Microsoft Excel  ](https://products.office.com/excel)
+  * [ ![Приложение Microsoft PowerPoint](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) Microsoft PowerPoint  ](https://products.office.com/powerpoint)
+  * [ ![Приложение Microsoft Outlook](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) Outlook  ](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook)
+  * [ ![приложение Microsoft Edge](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) Microsoft Edge  ](https://www.microsoft.com/edge)
+  * [ ![Приложение Microsoft OneNote](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) OneNote  ](https://products.office.com/onenote/digital-note-taking-app)
+
+![](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+##  Взаимодействуйте виртуально при работе над документами
+
+Легко делитесь файлами с другими пользователями, чтобы быстро собрать идеи и
+планы.
+
+* * *
+
+![Приложение OneDrive](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Единое безопасное хранилище для ваших файлов и фотографий
+
+Наслаждайтесь 1 ТБ облачного хранилища OneDrive для резервного копирования и
+совместного использования на ваших устройствах.  2
+
+[ ПОЛУЧИТЬ ONEDRIVE  ](https://onedrive.live.com/about/)
+
+![Приложение Skype
+\(Майкрософт\)](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Skype — это удобный способ оставаться на связи
+
+Общайтесь с друзьями, родными, коллегами – со всем миром.
+
+[ ПОЛУЧИТЬ SKYPE  ](https://www.skype.com)
+
+* * *
+
+##  Вы получаете Windows 10 вместе с великолепными приложениями
+
+Организуйте свое время с помощью приложений «Почта» и «Календарь», творите в
+приложении «Фотографии» и создавайте из своих фотографий и видеозаписей целые
+фильмы с помощью «Редактора видео».
+
+  * ![Сложенный компьютер с Windows 10, на экране которого отображается используемое приложение «Фотографии»](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+  * ![Сложенный компьютер с Windows 10, на экране которого отображается используемое приложение «Почта»](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+  * ![Сложенный компьютер с Windows 10, на экране которого отображается используемое приложение «Календарь»](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+  * ![ПК с Windows 10 в режиме «шалаша» с двумя «записками», в которые внесены списки и заметки](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+  * ![Сложенный компьютер с Windows 10, на экране которого отображается используемое приложение «Карты»](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+  * ![No Data Available](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) Фото 
+  * ![No Data Available](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) Почта 
+  * ![No Data Available](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) Календарь 
+  * ![No Data Available](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) Записки 
+  * ![No Data Available](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) Карты 
+
+  * ###  Фото 
+
+В приложении «Фотографии \(Майкрософт\)» вы найдете все необходимое для
+организованного хранения ваших цифровых воспоминаний. Кроме отличного набора
+инструментов для редактирования у нее еще есть «умная» функция поиска и
+удобные способы обмена  5  фотографиями с друзьями и семьей.
+
+[ СМОТРЕТЬ СОВЕТЫ  ](https://www.microsoft.com/tips/home?product=photosapp)
+
+  * ###  Почта 
+
+Приложения «Почта» и «Календарь» позволят всегда оставаться в курсе событий.
+Outlook.com, Gmail, iCloud, and Yahoo\! — теперь все эти почтовые службы
+собраны в одном месте, облегчая отправку сообщений и планирование встреч с
+самыми важными людьми.
+
+[ НОВЫЕ ВОЗМОЖНОСТИ  ](https://support.office.com/article/what-s-new-in-mail-
+and-calendar-for-windows-10-9822b33c-b9ad-48bc-ac53-c1b6136e405b)
+
+  * ###  Календарь 
+
+Координируйте расписания, планируйте семейные вечера — приложение «Календарь»
+3  позволит без труда следить за планами и всегда оставаться на шаг впереди.
+
+[ НОВЫЕ ВОЗМОЖНОСТИ  ](https://support.office.com/article/what-s-new-in-mail-
+and-calendar-for-windows-10-9822b33c-b9ad-48bc-ac53-c1b6136e405b)
+
+  * ###  Записки 
+
+Списки покупок, проекты по благоустройству дома или списки книг для чтения –
+используйте «Записки», чтобы ничего не забыть. Быстро напечатайте или запишите
+информацию прямо на рабочем столе, которую затем можно будет синхронизировать
+между всеми вашими устройствами.
+
+[ СМОТРЕТЬ СОВЕТЫ
+](https://www.microsoft.com/tips/home/results?tip=savestickynote&product=windows&release=rs5#savestickynote)
+
+  * ###  Карты 
+
+Приложение «Карты» позволяет ориентироваться где угодно. Находите дорогу с
+помощью голосовой навигации и пошаговых инструкций по вождению, проезду и
+пешим маршрутам.
+
+[ СМОТРЕТЬ СОВЕТЫ  ](https://www.microsoft.com/tips/home?product=mapsapp)
+
+##  Топ платных приложений
+
+[ Показать все ](https://www.microsoft.com/store/top-paid/apps/pc)
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Расширения для видео HEVC
+
+Оценка в звездах: 2,5 из 5
+
+2,70000004768372  5
+
+There are 122 reviews  122  USD$0.99  ](/ru-
+ru/p/%d0%a0%d0%b0%d1%81%d1%88%d0%b8%d1%80%d0%b5%d0%bd%d0%b8%d1%8f-%d0%b4%d0%bb%d1%8f-%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-
+hevc/9nmzlz57r3t7)
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  TaskbarX
+
+Оценка в звездах: 4,5 из 5
+
+4,40000009536743  5
+
+There are 23 reviews  23  USD$1.49  ](/ru-ru/p/taskbarx/9pcmz6bxk8gh)
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  WinRAR PC-TUTORIAL
+
+Оценка в звездах: 4,5 из 5
+
+4,30000019073486  5
+
+There are 19 reviews  19  USD$1.69  ](/ru-ru/p/winrar-pc-
+tutorial/9pppwf6gn361)
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) **СКИДКА USD$5.00**
+
+###  HD Movie Maker - PRO
+
+Оценка в звездах: 4 из 5
+
+3,90000009536743  5
+
+There are 105 reviews  105  Раньше  ~~USD$14.99~~ Сейчас  USD$9.99  ](/ru-
+ru/p/hd-movie-maker-pro/9n9kbwp6hvqq)
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  MagicPods
+
+Оценка в звездах: 4,5 из 5
+
+4,59999990463257  5
+
+There are 24 reviews  24  USD$1.99  ](/ru-ru/p/magicpods/9p6skkfkshkm)
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  PDF Converter X: PDF to Word, OCR
+
+Оценка в звездах: 5 из 5
+
+4,90000009536743  5
+
+There are 16 reviews  16  USD$9.99  ](/ru-ru/p/pdf-converter-x-pdf-to-word-
+ocr/9pl1l107gpfp)
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) **СКИДКА USD$0.80**
+
+###  KS WallPaper Engine
+
+Раньше  ~~USD$1.99~~ Сейчас  USD$1.19  ](/ru-ru/p/ks-wallpaper-
+engine/9nxwlpq66s53)
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Torrent Remote
+
+Оценка в звездах: 2,5 из 5
+
+2,29999995231628  5
+
+There are 34 reviews  34  USD$0.99  ](/ru-ru/p/torrent-remote/9wzdncrfj3s1)
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  TelegramRus
+
+Оценка в звездах: 1,5 из 5
+
+1,29999995231628  5
+
+There are 74 reviews  74  USD$1.29  ](/ru-ru/p/telegramrus/9mtpqhcx8b76)
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  paint.net
+
+Оценка в звездах: 4,5 из 5
+
+4,59999990463257  5
+
+There are 85 reviews  85  USD$6.99  ](/ru-ru/p/paintnet/9nbhcs1lx4r0)
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) **СКИДКА USD$9.00**
+
+###  HEVC Video Extension Codec
+
+Раньше  ~~USD$9.99~~ Сейчас  USD$0.99  ](/ru-ru/p/hevc-video-extension-
+codec/9nr3fsth8k4p)
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Adobe After Effects PC Guide
+
+Оценка в звездах: 5 из 5
+
+5  5
+
+There are 5 reviews  5  USD$3.89  ](/ru-ru/p/adobe-after-effects-pc-
+guide/9n2vt0t8zlp2)
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) **СКИДКА USD$49.00**
+
+###  Player for DVD's
+
+Оценка в звездах: 4,5 из 5
+
+4,40000009536743  5
+
+There are 151 reviews  151  Раньше  ~~USD$49.99~~ Сейчас  USD$0.99  ](/ru-
+ru/p/player-for-dvds/9n3p6t331ggr)
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) **СКИДКА USD$2.00**
+
+###  Земля 3D - Атлас мира
+
+Оценка в звездах: 4,5 из 5
+
+4,30000019073486  5
+
+There are 269 reviews  269  Раньше  ~~USD$2.99~~ Сейчас  USD$0.99  \+  ](/ru-
+ru/p/%d0%97%d0%b5%d0%bc%d0%bb%d1%8f-3d-%d0%90%d1%82%d0%bb%d0%b0%d1%81-%d0%bc%d0%b8%d1%80%d0%b0/9wzdncrdss56)
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  DVD-проигрыватель Windows
+
+Оценка в звездах: 3,5 из 5
+
+3,5  5
+
+There are 42 reviews  42  USD$14.99  ](/ru-
+ru/p/dvd-%d0%bf%d1%80%d0%be%d0%b8%d0%b3%d1%80%d1%8b%d0%b2%d0%b0%d1%82%d0%b5%d0%bb%d1%8c-windows/9nblggh2j19w)
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) **СКИДКА USD$40.00**
+
+###  X410
+
+Оценка в звездах: 3 из 5
+
+3,09999990463257  5
+
+There are 7 reviews  7  Раньше  ~~USD$49.99~~ Сейчас  USD$9.99  ](/ru-
+ru/p/x410/9nlp712zmn9q)
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  PUBG - A Beginner’s Guide
+
+Оценка в звездах: 4,5 из 5
+
+4,69999980926514  5
+
+There are 77 reviews  77  USD$1.99  ](/ru-ru/p/pubg-a-beginners-
+guide/9nxgbcqll5fq)
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Adobe Photoshop The Complete Manual
+
+Оценка в звездах: 5 из 5
+
+4,80000019073486  5
+
+There are 23 reviews  23  USD$3.39  ](/ru-ru/p/adobe-photoshop-the-complete-
+manual/9p60srzkx5xk)
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Beamng Drive Unofficial Game Guide
+
+USD$3.99  ](/ru-ru/p/beamng-drive-unofficial-game-guide/9n7kfh2tvlpv)
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Home Design 3D
+
+Оценка в звездах: 4 из 5
+
+4,19999980926514  5
+
+There are 17 reviews  17  USD$9.99  \+  ](/ru-ru/p/home-
+design-3d/9nblggh2r5wf)
+
+##  Лучшие игры  [ Показать все ](/ru-ru/store/best-rated/games/pc)
+
+[ ДОПОЛНИТЕЛЬНЫЕ СВЕДЕНИЯ  ](/ru-ru/store/best-rated/games/pc)
+
+  * [ ![Crowdy City: Survival](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Crowdy City: Survival
+
+Оценка в звездах: 5 из 5
+
+4,90000009536743  5
+
+There are 688 reviews  688  Бесплатно  ](/ru-ru/p/crowdy-city-
+survival/9nsf5qgcswj2)
+
+  * [ ![Fun Race 3D Game: No.1](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Fun Race 3D Game: No.1
+
+Оценка в звездах: 5 из 5
+
+4,90000009536743  5
+
+There are 684 reviews  684  Бесплатно  ](/ru-ru/p/fun-race-3d-game-
+no1/9ndd9mbghg8l)
+
+  * [ ![World Tour: International Competition](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  World Tour: International Competition
+
+Оценка в звездах: 5 из 5
+
+5  5
+
+There are 672 reviews  672  Бесплатно  ](/ru-ru/p/world-tour-international-
+competition/9n7fvb5w2p55)
+
+  * [ ![Zombie Survival - Tower Defence](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Zombie Survival - Tower Defence
+
+Оценка в звездах: 5 из 5
+
+4,90000009536743  5
+
+There are 593 reviews  593  Бесплатно  ](/ru-ru/p/zombie-survival-tower-
+defence/9pcss7skwcb6)
+
+  * [ ![8 ball Hero: Peakedness](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  8 ball Hero: Peakedness
+
+Оценка в звездах: 5 из 5
+
+4,90000009536743  5
+
+There are 595 reviews  595  Бесплатно  ](/ru-ru/p/8-ball-hero-
+peakedness/9mvlt2zh3m8b)
+
+  * [ ![Draw Climber](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Draw Climber
+
+Оценка в звездах: 5 из 5
+
+4,90000009536743  5
+
+There are 503 reviews  503  Бесплатно  ](/ru-ru/p/draw-climber/9n3prb8xwqxf)
+
+  * [ ![Nick Soccer Stars 2](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Nick Soccer Stars 2
+
+Оценка в звездах: 5 из 5
+
+4,90000009536743  5
+
+There are 499 reviews  499  Бесплатно  ](/ru-ru/p/nick-soccer-
+stars-2/9p0lnd3lwdvp)
+
+  * [ ![World War 2029: Top Alert](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  World War 2029: Top Alert
+
+Оценка в звездах: 5 из 5
+
+5  5
+
+There are 2035 reviews  2 тыс.  Бесплатно  \+  ](/ru-ru/p/world-war-2029-top-
+alert/9p8fzw9rbxxj)
+
+  * [ ![Homescapes](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Homescapes
+
+Оценка в звездах: 5 из 5
+
+4,80000019073486  5
+
+There are 1875 reviews  1 тыс.  Бесплатно  \+  ](/ru-
+ru/p/homescapes/9nq9klznv9sh)
+
+  * [ ![Sweet Sugar Match](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Sweet Sugar Match
+
+Оценка в звездах: 5 из 5
+
+4,90000009536743  5
+
+There are 486 reviews  486  Бесплатно  ](/ru-ru/p/sweet-sugar-
+match/9nlbf4pm7b7t)
+
+  * [ ![Microsoft Solitaire Collection](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Microsoft Solitaire Collection
+
+Оценка в звездах: 5 из 5
+
+4,80000019073486  5
+
+There are 49135 reviews  49 тыс.  Бесплатно  \+  ](/ru-ru/p/microsoft-
+solitaire-collection/9wzdncrfhwd2)
+
+  * [ ![Легенды Дракономании](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Легенды Дракономании
+
+Оценка в звездах: 4,5 из 5
+
+4,69999980926514  5
+
+There are 13120 reviews  13 тыс.  Бесплатно  \+  ](/ru-
+ru/p/%d0%9b%d0%b5%d0%b3%d0%b5%d0%bd%d0%b4%d1%8b-%d0%94%d1%80%d0%b0%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b0%d0%bd%d0%b8%d0%b8/9wzdncrdh42t)
+
+  * [ ![Кухонная Лихорадка](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Кухонная Лихорадка
+
+Оценка в звездах: 5 из 5
+
+4,80000019073486  5
+
+There are 7173 reviews  7 тыс.  Бесплатно  \+  ](/ru-
+ru/p/%d0%9a%d1%83%d1%85%d0%be%d0%bd%d0%bd%d0%b0%d1%8f-%d0%9b%d0%b8%d1%85%d0%be%d1%80%d0%b0%d0%b4%d0%ba%d0%b0/9nblggh1cq7l)
+
+  * [ ![Туземцы](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Туземцы
+
+Оценка в звездах: 4,5 из 5
+
+4,59999990463257  5
+
+There are 12700 reviews  12 тыс.  Бесплатно  \+  ](/ru-
+ru/p/%d0%a2%d1%83%d0%b7%d0%b5%d0%bc%d1%86%d1%8b/9wzdncrdhpzc)
+
+  * [ ![Forza Horizon 4: стандартное издание](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Forza Horizon 4: стандартное издание
+
+Оценка в звездах: 5 из 5
+
+4,80000019073486  5
+
+There are 32850 reviews  32 тыс.  Включено  \+  со  статусом:  Game Pass
+](/ru-ru/p/forza-
+horizon-4-%d1%81%d1%82%d0%b0%d0%bd%d0%b4%d0%b0%d1%80%d1%82%d0%bd%d0%be%d0%b5-%d0%b8%d0%b7%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5/9pnjxvcvwd4k)
+
+  * [ ![Legend of Warship: Naval Empire](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Legend of Warship: Naval Empire
+
+Оценка в звездах: 5 из 5
+
+5  5
+
+There are 1548 reviews  1 тыс.  Бесплатно  \+  ](/ru-ru/p/legend-of-warship-
+naval-empire/9n5qfnf63d2g)
+
+  * [ ![Филворды](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Филворды
+
+Оценка в звездах: 5 из 5
+
+4,80000019073486  5
+
+There are 5342 reviews  5 тыс.  Бесплатно  \+  ](/ru-
+ru/p/%d0%a4%d0%b8%d0%bb%d0%b2%d0%be%d1%80%d0%b4%d1%8b/9nblggh1jv34)
+
+  * [ ![Simple Mahjong](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Simple Mahjong
+
+Оценка в звездах: 5 из 5
+
+4,80000019073486  5
+
+There are 2670 reviews  2 тыс.  Бесплатно  \+  ](/ru-ru/p/simple-
+mahjong/9wzdncrdkrds)
+
+  * [ ![Omega Zodiac: Constellation Guardian](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Omega Zodiac: Constellation Guardian
+
+Оценка в звездах: 5 из 5
+
+5  5
+
+There are 1125 reviews  1 тыс.  Бесплатно  \+  ](/ru-ru/p/omega-zodiac-
+constellation-guardian/9mzbkpm8qq2p)
+
+  * [ ![Blades and Rings: The Memory of Atlantis](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Blades and Rings: The Memory of Atlantis
+
+Оценка в звездах: 5 из 5
+
+4,90000009536743  5
+
+There are 1032 reviews  1 тыс.  Бесплатно  \+  ](/ru-ru/p/blades-and-rings-
+the-memory-of-atlantis/9n7b7mq724hx)
+
+* * *
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) ПРОГРАММА ПРЕДВАРИТЕЛЬНОЙ ОЦЕНКИ WINDOWS  ](https://insider.windows.com)
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) ПОДДЕРЖКА WINDOWS  ](https://support.microsoft.com/windows)
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) БЛОГ WINDOWS  ](https://blogs.windows.com)
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) ЗАДАТЬ ВОПРОС СООБЩЕСТВУ  ](https://answers.microsoft.com/ru-ru/windows)
+
+* * *
+
+1  Доступность и характеристики приложений могут отличаться в зависимости от
+региона и устройства.
+
+2  Для определенных функций может потребоваться подписка Microsoft 365.
+Редактируемый документ должен храниться в облаке с помощью SharePoint или
+OneDrive. Необходима подписка Microsoft 365 \(приобретается отдельно\).
+
+3  Ранее синхронизированные письма и события календаря будут доступны для
+просмотра через приложения в автономном режиме. Контент, который еще не был
+синхронизирован с сервера, будет недоступен без подключения к Интернету.
+
+5  Включает в себя изображения и видеозаписи, которые хранятся на жестком
+диске компьютера и в хранилище OneDrive, и требует синхронизации всех
+устройств с OneDrive.
+
+iTunes, iPhone и iPad являются зарегистрированными товарными знаками компании
+Apple Inc., которые зарегистрированы в США и других странах. Android является
+зарегистрированным товарным знаком компании Google Inc.
+
+\*  Доступно только на устройствах с iOS и Android. Для определенных функций
+может потребоваться подписка Microsoft 365.
+
+Подписаться на страницы Microsoft Windows в социальных сетях
+
+  * [ ![Facebook](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/85288795/coreui.statics/images/social/facebook.png) ](http://www.facebook.com/windows "Подписаться в Facebook")
+  * [ ![Twitter](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/93690392/coreui.statics/images/social/twitter.png) ](http://www.twitter.com/windows "Подписаться в Twitter")
+
+Что нового?
+
+  * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365)
+  * [ Приложения Windows 10 ](https://www.microsoft.com/ru-ru/windows/windows-10-apps)
+
+Microsoft Store
+
+  * [ Профиль учетной записи ](https://account.microsoft.com/)
+  * [ Центр загрузки ](https://www.microsoft.com/ru-ru/download)
+  * [ Поддержка Microsoft Store ](https://go.microsoft.com/fwlink/?linkid=2139749)
+  * [ Возврат товаров ](https://go.microsoft.com/fwlink/p/?LinkID=824764&clcid=0x419)
+  * [ Отслеживание заказа ](https://account.microsoft.com/orders)
+
+Для образования
+
+  * [ Майкрософт и образование ](https://www.microsoft.com/ru-ru/education)
+  * [ Office для учащихся ](https://www.microsoft.com/ru-ru/education/products/office/default.aspx)
+  * [ Office 365 для школ ](https://products.office.com/ru-ru/academic/compare-office-365-education-plans)
+  * [ Специальные предложения для учащихся и родителей ](https://www.microsoft.com/ru-ru/store/b/student?icid=CNavfooter_Studentsandeducation)
+  * [ Microsoft Azure и образование ](https://azure.microsoft.com/ru-ru/community/education/)
+
+Для крупных предприятий
+
+  * [ Azure ](https://azure.microsoft.com/)
+  * [ AppSource ](https://go.microsoft.com/fwlink/?LinkID=808093)
+  * [ Автопромышленность ](https://www.microsoft.com/enterprise/automotive)
+  * [ Государственные учреждения ](https://www.microsoft.com/enterprise/government)
+  * [ Здравоохранение ](https://www.microsoft.com/enterprise/health)
+  * [ Промышленное производство ](https://www.microsoft.com/enterprise/manufacturing)
+  * [ Финансовые услуги ](https://www.microsoft.com/enterprise/financial-services/banking-and-capital-markets)
+  * [ Торговля ](https://www.microsoft.com/enterprise/retail-consumer-goods)
+
+Для разработчиков
+
+  * [ Microsoft Visual Studio ](https://visualstudio.microsoft.com/)
+  * [ Центр разработчиков Windows ](https://developer.microsoft.com/ru-ru/windows)
+  * [ Центр разработчиков ](https://developer.microsoft.com/)
+  * [ Программа Майкрософт для разработчиков ](https://developer.microsoft.com/ru-ru/store/register)
+  * [ Channel 9 ](https://channel9.msdn.com/)
+  * [ Центр разработчиков Office ](https://developer.microsoft.com/ru-ru/office)
+
+Компания
+
+  * [ Вакансии ](https://careers.microsoft.com/)
+  * [ О корпорации Майкрософт ](https://www.microsoft.com/ru-ru/about)
+  * [ Новости компании ](https://news.microsoft.com/ru-ru)
+  * [ Политика конфиденциальности Майкрософт ](https://privacy.microsoft.com/ru-ru)
+  * [ Инвесторы ](https://www.microsoft.com/investor/default.aspx)
+  * [ Безопасность ](https://www.microsoft.com/ru-ru/security/default.aspx)
+
+[ Русский \(Россия\) ](/ru-
+ru/windows/worldwide?absoluteReturnUrl=https%3a%2f%2fwww.microsoft.com%2fru-
+ru%2fwindows%2fwindows-10-apps)
+
+  * [ Контактная информация ](https://support.microsoft.com/contactus/?ws=mscom)
+  * [ Конфиденциальность ](https://go.microsoft.com/fwlink/?LinkId=248681)
+  * Управление файлами cookie 
+  * [ Условия использования ](https://go.microsoft.com/fwlink/?LinkID=530144)
+  * [ Товарные знаки ](https://www.microsoft.com/trademarks)
+  * [ Сведения о рекламе ](https://choice.microsoft.com/)
+  * © Microsoft 2021 
+

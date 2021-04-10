@@ -1,0 +1,436 @@
+![](https://web.vortex.data.microsoft.com:443/collect/v1/t.gif?&name=%27Ms.Webi.PageView%27&ver=%272.1%27&appId=%27JS%3Ajs%3Aindustry%27&cV=%27BjDc1IZFNUGY3L9X.0%27&ext-
+app-env=%27onerf_prod%27&ext-javascript-libver=%274.0.0-beta-10%27&ext-user-
+localId=%27t%3A37A965F495D267C727DE75E1947966E0%27&*baseType=%27Ms.Content.PageView%27&*isJs=True&*isLoggedIn=False&*isManual=True&*serverImpressionGuid=%279ab97894-8e8b-45cb-8bba-b431a68f687c%27&-ver=%271.0%27&-impressionGuid=%2700000000-0000-0000-0000-000000000000%27&-pageName=%27industry%20%7C%20government%20%5Bredesign%5D.ru-
+ru%27&-uri=%27https%3A%2F%2Fwww.microsoft.com%2Fru-
+ru%2Findustry%2Fgovernment%3Frtc%3D1%27&-pageType=%27ConnectedScenario%27&-pageTags=%27%7B%22tasId%22%3A%22eecb6c33-f4c6-4785-8059-b56c4e4289fd%22%2C%22tasMuid%22%3A%2237A965F495D267C727DE75E1947966E0%22%2C%22browserGroup%22%3A%22uplevel.web.pc%22%2C%22isOneRf%22%3A%22True%22%7D%27&-behavior=0&-market=%27ru-
+ru%27)
+
+[ Перейти к основному контенту ](javascript:void\(0\))
+
+[ ![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31) Microsoft
+](https://www.microsoft.com)
+
+Industry
+
+[ Industry  ](https://www.microsoft.com/ru-ru/industry)
+
+Industry
+
+  * [ Главная ](https://www.microsoft.com/ru-ru/industry)
+  * [ Автомобильный ](https://www.microsoft.com/ru-ru/industry/automotive)
+  * [ энергии ](https://www.microsoft.com/ru-ru/industry/energy)
+  * Финансовые услуги 
+    * [ Банковская сфера ](https://www.microsoft.com/ru-ru/industry/financial-services/banking)
+    * [ Фондовые рынки ](https://www.microsoft.com/ru-ru/industry/financial-services/capital-markets)
+    * [ Страхование ](https://www.microsoft.com/ru-ru/industry/financial-services/insurance)
+
+  * Государственный сектор 
+    * [ Государственный сектор ](https://www.microsoft.com/ru-ru/industry/government)
+    * [ Общественная безопасность и правосудие ](https://www.microsoft.com/ru-ru/industry/government/public-safety-and-justice)
+    * [ Оборонные и разведывательные службы ](https://www.microsoft.com/ru-ru/industry/government/defense-and-intelligence)
+
+  * Здравоохранение 
+    * [ Здравоохранение ](https://www.microsoft.com/ru-ru/industry/health)
+    * [ Страховые компании ](https://www.microsoft.com/ru-ru/industry/health/payors)
+    * [ Поставщики ](https://www.microsoft.com/ru-ru/industry/health/providers)
+    * [ Фармацевтика и биологические науки ](https://www.microsoft.com/ru-ru/industry/health/pharmaceuticals)
+
+  * [ Производство ](https://www.microsoft.com/ru-ru/industry/manufacturing)
+  * [ Мультимедиа и развлечения ](https://www.microsoft.com/ru-ru/industry/media-entertainment)
+  * Больше 
+    * Розничная торговля  Розничная торговля 
+      * [ Розничная торговля ](https://www.microsoft.com/ru-ru/industry/retail-consumer-goods)
+      * [ Потребительские товары ](https://www.microsoft.com/ru-ru/industry/consumer-goods)
+    * [ Телекоммуникации ](https://www.microsoft.com/ru-ru/industry/telecommunications)
+    * [ Образование ](https://www.microsoft.com/education/default.aspx )
+    * [ Блоги ](https://cloudblogs.microsoft.com/industry-blog/ru-ru/)
+
+  * Все продукты Microsoft 
+    *       * [ Microsoft 365 ](https://www.microsoft.com/ru-ru/microsoft-365/business/all-business)
+      * [ Azure ](https://azure.microsoft.com)
+      * [ Office 365 ](https://products.office.com/ru-ru/business/office)
+      * [ Dynamics 365 ](https://www.microsoft.com/ru-ru/dynamics365/home)
+      * [ Power Platform ](https://powerplatform.microsoft.com/ru-ru)
+      * [ Windows 10 ](https://www.microsoft.com/ru-ru/windowsforbusiness)
+    * Продукты и услуги  Продукты и услуги 
+      * [ Windows Server ](https://www.microsoft.com/cloud-platform/windows-server)
+      * [ Enterprise Mobility + Security ](https://www.microsoft.com/cloud-platform/enterprise-mobility-security)
+      * [ Power BI ](https://powerbi.microsoft.com/ru-ru/)
+      * [ Группы ](https://www.microsoft.com/ru-ru/microsoft-teams/group-chat-software)
+      * [ Visual Studio ](https://visualstudio.microsoft.com/)
+    * Новые технологии  Новые технологии 
+      * [ Искусственный интеллект ](https://www.microsoft.com/ai/)
+      * [ Интернет вещей ](https://www.microsoft.com/internet-of-things/)
+      * [ Службы Azure Cognitive Services ](https://azure.microsoft.com/services/cognitive-services/)
+      * [ Quantum ](https://www.microsoft.com/quantum/)
+    * Разработчик и ИТ  Разработчик и ИТ 
+      * [ Документы ](https://docs.microsoft.com/ru-ru/)
+      * [ Центр разработчиков ](https://developer.microsoft.com/)
+      * [ Центр разработчиков Windows ](https://developer.microsoft.com/ru-ru/windows)
+      * [ Windows IT Pro Center ](https://www.microsoft.com/ru-ru/itpro/windows)
+      * [ FastTrack ](https://fasttrack.microsoft.com/office)
+      * [ Power Platform ](https://powerplatform.microsoft.com/ru-ru)
+    * Партнер  Партнер 
+      * [ Партнерская сеть ](https://partner.microsoft.com/)
+      * [ Поставщики решений ](https://www.microsoft.com/ru-ru/solution-providers)
+      * [ Центр партнеров ](https://partnercenter.microsoft.com/partner/home)
+    * Отрасли  Отрасли 
+      * [ Образование ](https://www.microsoft.com/ru-ru/education?icid=CNavMSCOML0_Studentsandeducation)
+      * [ Финансовые услуги ](https://www.microsoft.com/enterprise/financial-services/banking-and-capital-markets)
+      * [ Государственный сектор ](https://www.microsoft.com/ru-ru/enterprise/government)
+      * [ Здравоохранение ](https://www.microsoft.com/ru-ru/enterprise/health)
+      * [ Производство и ресурсы ](https://www.microsoft.com/ru-ru/enterprise/manufacturing)
+      * [ Розничная торговля ](https://www.microsoft.com/ru-ru/enterprise/retail-consumer-goods)
+    * Прочее  Прочее 
+      * [ Безопасность ](https://www.microsoft.com/security/)
+      * [ Лицензирование ](https://www.microsoft.com/licensing/)
+      * [ AppSource ](https://appsource.microsoft.com/)
+      * [ Azure Marketplace ](https://azuremarketplace.microsoft.com/marketplace/)
+      * [ Мероприятия ](https://events.microsoft.com/)
+      * [ Исследования ](https://www.microsoft.com/research/)
+    * [ Посмотреть карту сайта ](https://www.microsoft.com/ru-ru/sitemap.aspx)
+
+Поиск  Search Microsoft.com
+
+Отмена
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4mLiK?ver=b3cb&q=0&m=6&h=600&w=1600&b=%23FFFFFFFF&l=f&o=t&x=1208&y=605&aim=true)
+
+#  Расширение возможностей сотрудников. Расширение возможностей
+государственных учреждений. Расширение возможностей граждан.
+
+Содействуйте повышению благосостояния граждан, позитивным изменениям в
+обществе и повышению качества государственных услуг.
+
+[ Скачать книгу  ](https://info.microsoft.com/ww-landing-digital-
+transformation-in-government-ebook.html?lcid=RU)
+
+##  Решите ваши ключевые задачи
+
+Достигайте большего для учреждений, компаний, общества и людей, которых вы
+обслуживаете, с помощью инновационных технологических решений, помогающих
+государственным учреждениям в области здравоохранения и социального
+обеспечения, ключевой инфраструктуры, общественной безопасности и правосудия,
+налогов и финансов, улучшить свои услуги.
+
+![Человек сидит дома за столом и работает на ноутбуке](https://img-prod-cms-
+rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4CkAP?ver=09e5&q=90&m=6&h=291&w=517&b=%23FFFFFFFF&l=f&o=t&x=635&y=218&aim=true)
+
+###  Обеспечьте удаленный доступ к государственным услугам
+
+Позвольте государственным учреждениям обслуживать граждан, предоставляя
+сотрудникам гибкие возможности работы.
+
+[ Дополнительные сведения  ](https://www.microsoft.com/ru-
+RU/industry/government/enable-remote-government-access)
+
+![Человек участвует в видеозвонке с 4 другими людьми, сидящими за столом, с
+несколькими экранами](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4Ca9N?ver=e35e&q=90&m=6&h=291&w=517&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Обеспечьте сотрудничество организаций
+
+Внедрите безопасные сервисы и инновации для взаимодействия и обмена
+информацией в нескольких зонах ответственности.
+
+[ Дополнительные сведения  ](https://www.microsoft.com/ru-
+RU/industry/government/empower-cross-agency-collaboration)
+
+![Офисное помещение с большим числом сотрудников за столами и несколькими
+мониторами, висящими на потолке и отображающими информацию](https://img-prod-
+cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4CcSm?ver=46f2&q=90&m=6&h=291&w=517&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Предоставляйте надежные и безопасные сервисы
+
+Укрепите доверие общества к государственным органам благодаря обеспечению
+безопасности информации, защите важнейшей инфраструктуры и соблюдению
+нормативных требований.
+
+[ Дополнительные сведения  ](https://www.microsoft.com/ru-
+RU/industry/government/security)
+
+* * *
+
+##  Узнайте, как государственные учреждения внедряют новые способы и
+технологии для выполнения своей миссии и улучшения обслуживания граждан
+
+![Департамент здравоохранения и социального обеспечения штата
+Айдахо](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4bgoV?ver=c825&q=90&m=6&h=110&w=110&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+![Печать штата Гавайи](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4EYsd?ver=3bd9&q=90&m=6&h=110&w=110&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+![Печать округа Сан-Франциско](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4ETjz?ver=d49d&q=90&m=6&h=110&w=110&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+![Департамент технологий информационных коммуникаций](https://img-prod-cms-rt-
+microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4AJBr?ver=2045&q=90&m=6&h=110&w=110&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+![Департамент транспорта Аризоны](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4MhbH?ver=36fa&q=90&m=6&h=110&w=110&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+![Четверо детей сидят на полу, разговаривают и
+смеются](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+![Департамент здравоохранения и социального обеспечения штата
+Айдахо](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4F1dC?ver=64d6&q=90&m=6&h=100&w=300&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Помощь социальным работникам в оказании поддержки семьям
+
+Отдел здравоохранения и социального обеспечения штата Айдахо повышает
+эффективность социальных работников за счет автоматизации процессов и
+предоставления мобильного доступа к важной информации.
+
+[ Читать историю клиента  ](https://customers.microsoft.com/en-
+us/story/732190-idaho-health-welfare-public-safety-justice-dynamics-365)
+
+![](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+![Печать штата Гавайи](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4EYsi?ver=8f03&q=90&m=6&h=100&w=300&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Время оформления документов для новых сотрудников сократилось на 80 %
+
+Администрация штата Гавайи повышает эффективность работы государственных
+учреждений за счет расширенных безбумажных сервисов, которые позволяют
+значительно сократить время, затрачиваемое на подготовку и передачу
+документов.
+
+[ Читать историю клиента  ](https://customers.microsoft.com/en-
+us/story/765966-better-with-office-state-of-hawaii-government-office-365)
+
+![Вид сверху на взаимосвязанную дорожную
+систему](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+![Печать округа Сан-Франциско](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4F1dL?ver=dd44&q=90&m=6&h=100&w=300&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Поддержание работы города и привлечение общественности
+
+Приверженность администрации города и округа Сан-Франциско \(CCSF\) открытости
+и прозрачности позволяет продолжать государственным учреждениям работать во
+время пандемии коронавируса.
+
+[ Читать историю клиента  ](https://customers.microsoft.com/en-
+us/story/837525-city-and-county-of-san-francisco-government-microsoft365-en-
+united-states)
+
+![Два человека беседуют](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+![Департамент технологий информационных коммуникаций
+
+](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4Azi1?ver=0491&q=90&m=6&h=100&w=300&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Трансформация ключевого бизнес-сервиса
+
+Отдел информационно-коммуникационных технологий реализует цифровые сервисы,
+позволяющие владельцам бизнеса и инвесторам удаленно подавать заявки на
+разрешения и лицензии.
+
+[ Читать историю  ](https://customers.microsoft.com/en-US/story/811249-dict-
+government-azure-philippines)
+
+![](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+![Департамент транспорта Аризоны](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4LYXY?ver=a1d0&q=90&m=6&h=100&w=300&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Прочь из очереди — эффективная работа в любом месте
+
+Департамент транспорта штата Аризона создает новый портал, позволяющий жителям
+работать как, когда и где угодно, осуществляя базовую передачу собственности,
+заказывая номерные знаки, управляя страховыми документами, проверяя операции с
+собственностью и т. д.
+
+[ Читать историю клиента  ](https://customers.microsoft.com/en-
+US/story/856405-arizona-department-of-transportation-governement-azure-en-
+united-states)
+
+[ Читать другие истории клиентов: государственные учреждения
+](https://customers.microsoft.com/en-
+US/search?sq=&ff=story_industry_friendlyname%26%3EGovernment&p=0&so=story_publish_date%20desc)
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4fAA7?ver=9506&q=90&m=6&h=1080&w=1920&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+##  Повышайте благосостояние граждан и качество услуг с помощью решений
+электронного правительства.
+
+  * ![](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4N4wV?ver=bbef&q=90&m=6&h=273&w=485&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Повышение темпов распространения вакцин с помощью технологий
+
+Технологии играют важную роль в ускорении распространения вакцин и оценке их
+действия, при этом используются реальные данные о выработке антител после
+вакцинации для оценки рисков повторного заражения и определения необходимости
+повторной вакцинации. Это также помогает наладить взаимодействие различных
+учреждений, организовать удаленную работу, улучшить анализ данных и
+предоставить надежные сервисы, доступные без перерывов.
+
+[ Узнать больше  ](https://cloudblogs.microsoft.com/industry-
+blog/health/2021/01/27/improving-the-pace-of-vaccine-distribution-through-
+technology)
+
+  * ![No Data Available](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4IYPX?ver=363d&q=90&m=6&h=273&w=485&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Форум Microsoft по цифровизации промышленности «Использование данных для
+информирования разработчиков политики в кризисные периоды»
+
+На этом онлайн-тренинге по запросу будут рассмотрены перспективы использования
+данных для принятия обоснованных решений, особенно в кризисные периоды, и
+представлены мнения организаций государственного и частного сектора, а также
+межправительственных и неправительственных организаций, которые играют
+жизненно важную роль в обеспечении своевременных действий государственных
+учреждений и их совместной работы с ними для удовлетворения потребностей
+общества и его дальнейшего развития.
+
+[ Зарегистрируйтесь для просмотра  ](https://info.microsoft.com/CO-DTGOV-WBNR-
+FY21-11Nov-17-GovernmentIndustryDigitalForum-5553_LP02OnDemandRegistration-
+Forminbody.html)
+
+  * ![No Data Available](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4FU5Z?ver=9d13&q=90&m=6&h=273&w=485&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Будущее цифровой трансформации | Технологические приоритеты для
+восстановления и развития
+
+Как пандемия вынуждает правительство ускорить собственную цифровую
+трансформацию синхронно с частным сектором. Д-р Джулия Глидден \(Julia
+Glidden\), корпоративный вице-президент глобального государственного сектора
+Microsoft, и Барбара Убальди \(Barbara Ubaldi\), старший аналитик по вопросам
+политики в OECD, обсудят ключевые варианты политики для эффективной цифровой
+трансформации как государственных учреждений, так и национальных экономик в
+целом в ближайшие годы.
+
+[ Смотреть видео  ](https://www.youtube.com/watch?v=HM5CDR-
+fv9M&list=PLFPUGjQjckXHW6nKqfDN7xTxp88CNT_23&index=7)
+
+  * ![](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4HJkX?ver=b759&q=90&m=6&h=273&w=485&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Точка зрения Microsoft в опросе ООН по электронному правительству 2020
+года
+
+Д-р Джулия Глидден \(Julia Glidden\), корпоративный вице-президент глобального
+государственного сектора Microsoft стала одним из экспертов престижного опроса
+ООН по электронному правительству 2020 года.
+
+[ Смотреть видео  ](https://youtu.be/OQNjZIZtAcY)
+
+[ Скачать опрос  ](https://publicadministration.un.org/egovkb/en-
+us/Reports/UN-E-Government-Survey-2020)
+
+  * ![](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4HKsL?ver=ac79&q=90&m=6&h=273&w=485&b=%23FFFFFFFF&l=f&o=t&x=233&y=70&aim=true)
+
+###  Корпорация Microsoft участвует в вебинаре ООН по развитию потенциала
+
+13 октября 2020 года д-р Джулия Глидден \(Julia Glidden\), корпоративный вице-
+президент глобального государственного сектора Microsoft, поделилась своими
+соображениями на вебинаре ООН по ускорению цифровой трансформации для
+устойчивого восстановления после COVID-19.
+
+[ Смотреть выступление Джулии Глидден  ](https://youtu.be/EKoywu-sYcY)
+
+[ Дополнительные сведения
+](http://www.unpog.org/page/sub4_2_tab_media.asp?tb_Symposium_sn=12)
+
+  * ![No Data Available](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4IPJf?ver=e6f8&q=90&m=6&h=273&w=485&b=%23FFFFFFFF&l=f&o=t&x=271&y=90&aim=true)
+
+###  Виртуальный саммит для государственных организаций «Создание устойчивости
+для достижения результатов в будущем»
+
+В 2020 году руководители государственных и местных органов власти сталкивались
+с беспрецедентными проблемами, влияющими на все аспекты предоставления
+государственных услуг. Поэтому мы приглашаем руководителей государственных и
+местных органов власти, а также ИТ-специалистов принять участие в саммите для
+государственных организаций «Создание устойчивости для достижения результатов
+в будущем», который состоится 3 декабря 2020 года в 10:00 по тихоокеанскому
+времени \(13:00 по североамериканскому восточному времени\).
+
+[ Регистрация  ](https://info.microsoft.com/US-DIGTRNS-WBNR-
+FY21-12Dec-03-VirtualGovernmentSummitBuildingResilienceforaBetterTomorrow-5588_01Registration-
+ForminBody.html)
+
+* * *
+
+Следите за нашими новостями
+
+  * [ ![Facebook](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/85288795/coreui.statics/images/social/facebook.png) ](https://www.facebook.com/MicrosoftCloud/ "Присоединяйтесь к нам в Facebook")
+  * [ ![Twitter](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/93690392/coreui.statics/images/social/twitter.png) ](https://twitter.com/Microsoft_Gov "Присоединяйтесь к нам в Twitter")
+  * [ ![Youtube](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/c79952ca/coreui.statics/images/social/youtube.png) ](https://www.youtube.com/watch?v=xKo06xyeqio&list=PL8nfc9haGeb7Hkq8OF3Xb8lvUwsDM9bjQ "Присоединяйтесь к нам на YouTube")
+  * [ ![Blog](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/f0272ae0/coreui.statics/images/social/blog.png) ](https://cloudblogs.microsoft.com/industry-blog/government/ "Следите за нашими блогами")
+  * [ ![LinkedIn](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/b23f9ba2/coreui.statics/images/social/linkedin.png) ](https://www.linkedin.com/showcase/microsoft-in-government/ "Присоединяйтесь к нам в LinkedIn")
+
+Что нового?
+
+  * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365)
+  * [ Приложения Windows 10 ](https://www.microsoft.com/ru-ru/windows/windows-10-apps)
+
+Microsoft Store
+
+  * [ Профиль учетной записи ](https://account.microsoft.com/)
+  * [ Центр загрузки ](https://www.microsoft.com/ru-ru/download)
+  * [ Поддержка Microsoft Store ](https://go.microsoft.com/fwlink/?linkid=2139749)
+  * [ Возврат товаров ](https://go.microsoft.com/fwlink/p/?LinkID=824764&clcid=0x419)
+  * [ Отслеживание заказа ](https://account.microsoft.com/orders)
+
+Для образования
+
+  * [ Майкрософт и образование ](https://www.microsoft.com/ru-ru/education)
+  * [ Office для учащихся ](https://www.microsoft.com/ru-ru/education/products/office/default.aspx)
+  * [ Office 365 для школ ](https://products.office.com/ru-ru/academic/compare-office-365-education-plans)
+  * [ Специальные предложения для учащихся и родителей ](https://www.microsoft.com/ru-ru/store/b/student?icid=CNavfooter_Studentsandeducation)
+  * [ Microsoft Azure и образование ](https://azure.microsoft.com/ru-ru/community/education/)
+
+Для крупных предприятий
+
+  * [ Azure ](https://azure.microsoft.com/)
+  * [ AppSource ](https://go.microsoft.com/fwlink/?LinkID=808093)
+  * [ Автопромышленность ](https://www.microsoft.com/enterprise/automotive)
+  * [ Государственные учреждения ](https://www.microsoft.com/enterprise/government)
+  * [ Здравоохранение ](https://www.microsoft.com/enterprise/health)
+  * [ Промышленное производство ](https://www.microsoft.com/enterprise/manufacturing)
+  * [ Финансовые услуги ](https://www.microsoft.com/enterprise/financial-services/banking-and-capital-markets)
+  * [ Торговля ](https://www.microsoft.com/enterprise/retail-consumer-goods)
+
+Для разработчиков
+
+  * [ Microsoft Visual Studio ](https://visualstudio.microsoft.com/)
+  * [ Центр разработчиков Windows ](https://developer.microsoft.com/ru-ru/windows)
+  * [ Центр разработчиков ](https://developer.microsoft.com/)
+  * [ Программа Майкрософт для разработчиков ](https://developer.microsoft.com/ru-ru/store/register)
+  * [ Channel 9 ](https://channel9.msdn.com/)
+  * [ Центр разработчиков Office ](https://developer.microsoft.com/ru-ru/office)
+
+Компания
+
+  * [ Вакансии ](https://careers.microsoft.com/)
+  * [ О корпорации Майкрософт ](https://www.microsoft.com/ru-ru/about)
+  * [ Новости компании ](https://news.microsoft.com/ru-ru)
+  * [ Политика конфиденциальности Майкрософт ](https://privacy.microsoft.com/ru-ru)
+  * [ Инвесторы ](https://www.microsoft.com/investor/default.aspx)
+  * [ Безопасность ](https://www.microsoft.com/ru-ru/security/default.aspx)
+
+[ Русский \(Россия\)
+](https://www.microsoft.com/enterprise/locales?absoluteReturnUrl=https%3a%2f%2fwww.microsoft.com%2fru-
+ru%2findustry%2fgovernment%3frtc%3d1)
+
+  * [ Связаться с Microsoft ](https://support.microsoft.com/contactus)
+  * [ Конфиденциальность ](https://go.microsoft.com/fwlink/?LinkId=521839)
+  * Управление файлами cookie 
+  * [ Условия использования ](https://go.microsoft.com/fwlink/?LinkID=206977)
+  * [ Товарные знаки ](https://www.microsoft.com/trademarks)
+  * [ Сведения о рекламе ](https://choice.microsoft.com/)
+  * © Microsoft 2021 
+

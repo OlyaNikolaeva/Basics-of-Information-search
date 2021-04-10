@@ -1,0 +1,867 @@
+#  Приложения для Windows — Microsoft Store
+
+![](https://web.vortex.data.microsoft.com:443/collect/v1/t.gif?&name=%27Ms.Webi.PageView%27&ver=%272.1%27&appId=%27JS%3AUniStore%27&cV=%27Sejm%2BYiPMUSC%2F6%2Fk.0%27&ext-
+app-env=%27onerf_prod%27&ext-javascript-libver=%274.0.0-beta-10%27&ext-user-
+localId=%27t%3A18F35E3EDA8E6DDB12F84E2BDBA66C60%27&*baseType=%27Ms.Content.PageView%27&*isJs=True&*isLoggedIn=False&*isManual=True&*serverImpressionGuid=%27a5dfad92-24ea-4767-9e8f-28850d9b53b0%27&-ver=%271.0%27&-impressionGuid=%2700000000-0000-0000-0000-000000000000%27&-pageName=%27Apps%20for%20Windows%27&-uri=%27https%3A%2F%2Fwww.microsoft.com%2Fru-
+ru%2Fstore%2Fapps%2Fwindows%3Ficid%3DCNavAppsWindowsApps%27&-pageType=%27SFW%20Category%20Page%20Template%27&-pageTags=%27%7B%22tasId%22%3A%22a5dfad92-24ea-4767-9e8f-28850d9b53b0%22%2C%22tasMuid%22%3A%2218F35E3EDA8E6DDB12F84E2BDBA66C60%22%2C%22browserGroup%22%3A%22uplevel.web.pc%22%2C%22isOneRf%22%3A%22True%22%7D%27&-behavior=0&-market=%27ru-
+ru%27)
+
+[ Перейти к основному контенту ](javascript:void\(0\))
+
+[ ![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31) Microsoft
+](https://www.microsoft.com)
+
+Домашняя страница
+
+[ Домашняя страница  ](https://www.microsoft.com/ru-ru/store/b/home)
+
+Домашняя страница
+
+  * [ Главная ](https://www.microsoft.com/ru-ru/store/b/home)
+  * [ Xbox ](https://www.microsoft.com/ru-ru/store/b/xbox?icid=CNavDevicesXbox)
+  * Программы 
+    * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products)
+    * [ Office ](https://www.microsoft.com/microsoft-365/office-365)
+    * [ Windows ](https://www.microsoft.com/ru-ru/store/b/windows?icid=CNavSoftwareWindows)
+    * [ Профессиональное ПО ](https://www.microsoft.com/ru-ru/store/b/software?icid=CNavSoftware)
+    * [ Приложения для Windows ](https://www.microsoft.com/ru-ru/store/apps/windows?icid=CNavAppsWindowsApps)
+    * [ Приложения для Windows Phone ](https://www.microsoft.com/ru-ru/store/apps/windows-phone?icid=CNavAppsWindowsPhoneApps)
+
+  * Игры 
+    * [ Игры для Xbox ](https://www.microsoft.com/ru-ru/store/top-paid/games/xbox?icid=CatNavXboxGames)
+    * [ Игры для Windows ](https://www.microsoft.com/ru-ru/store/games/windows?icid=CNavGamesWindowsGames)
+    * [ Игры для Windows Phone ](https://www.microsoft.com/ru-ru/store/games/windows-phone?icid=CNavGamesWindowsPhoneGames)
+
+  * [ Решения для бизнеса ](https://www.microsoft.com/ru-ru/store/b/business?icid=CNavBusinessStore)
+  * Больше 
+
+  * Все продукты Microsoft 
+    *       * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365)
+      * [ Office ](https://www.microsoft.com/microsoft-365/microsoft-office)
+      * [ Windows ](https://www.microsoft.com/ru-ru/windows/)
+      * [ Xbox ](https://www.xbox.com/)
+      * [ Поддержка ](https://support.microsoft.com/ru-ru)
+    * ПО 
+      * [ Приложения для Windows ](https://www.microsoft.com/ru-ru/store/apps/windows?icid=CNavAppsWindowsApps)
+      * [ OneDrive ](https://onedrive.live.com/about/ru-ru/)
+      * [ Outlook ](https://outlook.live.com/owa/)
+      * [ Skype ](https://www.skype.com/ru/)
+      * [ OneNote ](https://www.onenote.com/?omkt=ru-RU)
+      * [ Microsoft Teams ](https://www.microsoft.com/ru-ru/microsoft-teams/free?icid=SSM_AS_Promo_Apps_MicrosoftTeams)
+    * Компьютеры и устройства 
+      * [ Купите Xbox ](https://www.microsoft.com/ru-ru/store/b/xbox?icid=CNavDevicesXbox)
+      * [ Аксессуары ](https://www.microsoft.com/accessories/ru-ru)
+    * Развлечения 
+      * [ Xbox Game Pass Ultimate ](https://www.microsoft.com/ru-ru/p/xbox-game-pass-ultimate/cfq7ttc0khs0?WT.mc_id=CNavGamesXboxGamePassUltimate)
+      * [ Xbox Live Gold ](https://www.microsoft.com/ru-ru/p/xbox-live-gold/cfq7ttc0k5dj?WT.mc_id=CNavGamesXboxLiveGold)
+      * [ Xbox и игры ](https://www.xbox.com/ru-ru/games/xbox-one?xr=shellnav)
+      * [ Компьютерные игры ](https://www.microsoft.com/ru-ru/store/games/windows?icid=CNavGamesWindowsGames)
+      * [ Игры для Windows ](https://www.microsoft.com/ru-ru/store/games/windows?icid=TopNavWindowsGames)
+    * Для бизнеса 
+      * [ Microsoft Azure ](https://azure.microsoft.com/ru-ru/)
+      * [ Microsoft Dynamics 365 ](https://www.microsoft.com/ru-ru/dynamics365/home)
+      * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365/business/all-business)
+      * [ Microsoft Industry ](https://www.microsoft.com/ru-ru/enterprise)
+      * [ Платформа данных ](https://www.microsoft.com/ru-ru/sql-server/ )
+      * [ Power Platform ](https://powerplatform.microsoft.com/ru-ru)
+      * [ Shop Business ](https://www.microsoft.com/ru-ru/store/b/business?icid=CNavBusinessStore)
+    * Для разработчиков и ИТ 
+      * [ .NET ](https://www.microsoft.com/net/)
+      * [ Visual Studio ](https://visualstudio.microsoft.com/)
+      * [ Windows Server ](https://www.microsoft.com/cloud-platform/windows-server)
+      * [ Разработка приложений для Windows ](https://developer.microsoft.com/ru-ru/windows)
+      * [ Документы ](https://docs.microsoft.com/ru-ru/)
+      * [ Power Apps ](https://powerapps.microsoft.com/ru-ru)
+    * Другое 
+      * [ Бесплатная загрузка и средства безопасности ](https://www.microsoft.com/ru-ru/download/default.aspx)
+      * [ Образование ](https://www.microsoft.com/ru-ru/education?icid=CNavMSCOML0_Studentsandeducation)
+      * [ лицензирование ](https://www.microsoft.com/licensing/default)
+    * [ Посмотреть карту сайта ](https://www.microsoft.com/ru-ru/sitemap.aspx)
+
+Поиск  Поиск на Microsoft.com
+
+Отмена  [ 0  Корзина  0 товары в корзине  ](https://www.microsoft.com/ru-
+ru/store/buy)
+
+Войти
+
+[ Windows 10: Лучшая Windows в истории поможет вам достичь большего.
+](https://www.microsoft.com/ru-ru/store/b/windows?icid=TopStripe-windows-cat-
+page)
+
+![Самые нужные приложения](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+[
+
+##  Самые нужные приложения
+
+](/ru-ru/store/collections/essentialapps)
+
+Незаменимые приложения для всех устройств
+
+##  Купить
+
+  * [ Топ приложений ](/ru-ru/store/top-free/apps/pc)
+  * [ Подборка приложений ](/ru-ru/store/spotlight/appspotlight)
+
+![Сэкономьте 60% на определенных приложениях](https://store-
+images.s-microsoft.com/image/global.59042.acentoprodimg.af9c28df-4ba0-4133-a600-5b243b08d475.9259b4cc-00d9-4e28-8097-548ea463fd2c?mode=crop&q=90&h=201&w=358)
+
+###  Сэкономьте 60% на определенных приложениях
+
+заканчивается 15.04.
+
+[ Сэкономьте 60% на определенных приложениях  ](ms-windows-
+store://collection/?CollectionId=AppsSS21)
+
+![Самые популярные утилиты](https://store-
+images.s-microsoft.com/image/global.20004.acentoprodimg.1853710f-6f6a-4616-b2e0-e0a73d0f0b30.77bc150e-2cb9-4582-92ee-30b3a2ba2b1e?mode=crop&q=90&h=201&w=358)
+
+###  Самые популярные утилиты
+
+Попробуйте эти приложения
+
+[ КУПИТЬ  ](/ru-ru/store/collections/mostpoputilityapps)
+
+![Приложения для удачного начала дня](https://store-
+images.s-microsoft.com/image/global.17955.acentoprodimg.7ceee8e6-5526-4321-83ce-8e0385d1581c.7cde4e33-754a-4c33-96a6-8e6506e8c1ca?mode=crop&q=90&h=201&w=358)
+
+###  Приложения для удачного начала дня
+
+Оптимизируйте утренние дела
+
+[ КУПИТЬ  ](/ru-ru/store/collections/appstostartyourday)
+
+![Самые популярные утилиты](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+##  Самые популярные утилиты  [ Показать все ](/ru-
+ru/store/collections/app.fc1)
+
+Попробуйте эти лучшие приложения
+
+[ ДОПОЛНИТЕЛЬНЫЕ СВЕДЕНИЯ  ](/ru-ru/store/collections/app.fc1)
+
+  * [ ![Hotspot Shield Free VPN](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Hotspot Shield Free VPN
+
+Бесплатно  \+  ](/ru-ru/p/hotspot-shield-free-
+vpn/9wzdncrdfng7?cid=msft_web_appsforwindows_collection)
+
+  * [ ![Drawboard PDF - Read, edit, annotate](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Drawboard PDF - Read, edit, annotate
+
+Бесплатно  \+  ](/ru-ru/p/drawboard-pdf-read-edit-
+annotate/9wzdncrfhwqt?cid=msft_web_appsforwindows_collection)
+
+  * [ ![Ваш телефон](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Ваш телефон
+
+Бесплатно  ](/ru-
+ru/p/%d0%92%d0%b0%d1%88-%d1%82%d0%b5%d0%bb%d0%b5%d1%84%d0%be%d0%bd/9nmpj99vjbwv?cid=msft_web_appsforwindows_collection)
+
+  * [ ![TranslucentTB](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  TranslucentTB
+
+Бесплатно  ](/ru-
+ru/p/translucenttb/9pf4kz2vn4w9?cid=msft_web_appsforwindows_collection)
+
+  * [ ![Microsoft To Do: Lists, Tasks & Reminders](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Microsoft To Do: Lists, Tasks & Reminders
+
+Бесплатно  ](/ru-ru/p/microsoft-to-do-lists-tasks-
+reminders/9nblggh5r558?cid=msft_web_appsforwindows_collection)
+
+  * [ ![EarTrumpet](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  EarTrumpet
+
+Бесплатно  \+  ](/ru-
+ru/p/eartrumpet/9nblggh516xp?cid=msft_web_appsforwindows_collection)
+
+  * [ ![SHARE.it](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  SHARE.it
+
+Бесплатно  ](/ru-
+ru/p/shareit/9wzdncrdsz0p?cid=msft_web_appsforwindows_collection)
+
+  * [ ![OneNote for Windows 10](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  OneNote for Windows 10
+
+Бесплатно  ](/ru-ru/p/onenote-for-
+windows-10/9wzdncrfhvjl?cid=msft_web_appsforwindows_collection)
+
+##  Топ бесплатных приложений
+
+[ Показать все ](/ru-ru/store/top-free/apps/pc)
+
+  * [ ![Lively Wallpaper](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Lively Wallpaper
+
+Бесплатно  ](/ru-ru/p/lively-
+wallpaper/9ntm2qc6qws7?cid=msft_web_appsforwindows_chart)
+
+  * [ ![ModernFlyouts \(Preview\)](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  ModernFlyouts \(Preview\)
+
+Бесплатно  ](/ru-ru/p/modernflyouts-
+preview/9mt60qv066rp?cid=msft_web_appsforwindows_chart)
+
+  * [ ![iTunes](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  iTunes
+
+Бесплатно  \+  ](/ru-
+ru/p/itunes/9pb2mz1zmb1s?cid=msft_web_appsforwindows_chart)
+
+  * [ ![EarTrumpet](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  EarTrumpet
+
+Бесплатно  \+  ](/ru-
+ru/p/eartrumpet/9nblggh516xp?cid=msft_web_appsforwindows_chart)
+
+  * [ ![WhatsApp Desktop](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  WhatsApp Desktop
+
+Бесплатно  ](/ru-ru/p/whatsapp-
+desktop/9nksqgp7f2nh?cid=msft_web_appsforwindows_chart)
+
+  * [ ![Telegram Desktop](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Telegram Desktop
+
+Бесплатно  ](/ru-ru/p/telegram-
+desktop/9nztwsqntd0s?cid=msft_web_appsforwindows_chart)
+
+  * [ ![Trio Office: Word, Slide, Spreadsheet & PDF Compatible](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Trio Office: Word, Slide, Spreadsheet & PDF Compatible
+
+Бесплатно  \+  ](/ru-ru/p/trio-office-word-slide-spreadsheet-pdf-
+compatible/9p9f6dzjbblj?cid=msft_web_appsforwindows_chart)
+
+  * [ ![Xbox](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Xbox
+
+Бесплатно  ](/ru-ru/p/xbox/9mv0b5hzvk9z?cid=msft_web_appsforwindows_chart)
+
+  * [ ![iCloud](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  iCloud
+
+Бесплатно  ](/ru-ru/p/icloud/9pktq5699m62?cid=msft_web_appsforwindows_chart)
+
+  * [ ![Dolby Access](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Dolby Access
+
+Бесплатно  \+  ](/ru-ru/p/dolby-
+access/9n0866fs04w8?cid=msft_web_appsforwindows_chart)
+
+  * [ ![Instagram](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Instagram
+
+Бесплатно  ](/ru-
+ru/p/instagram/9nblggh5l9xt?cid=msft_web_appsforwindows_chart)
+
+  * [ Показать все  ](/ru-ru/store/top-free/apps/pc)
+
+##  Топ платных приложений
+
+[ Показать все ](/ru-ru/store/top-paid/apps/pc)
+
+  * [ ![Расширения для видео HEVC](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Расширения для видео HEVC
+
+USD$0.99  ](/ru-
+ru/p/%d0%a0%d0%b0%d1%81%d1%88%d0%b8%d1%80%d0%b5%d0%bd%d0%b8%d1%8f-%d0%b4%d0%bb%d1%8f-%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-
+hevc/9nmzlz57r3t7?cid=msft_web_appsforwindows_chart)
+
+  * [ ![TaskbarX](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  TaskbarX
+
+USD$1.49  ](/ru-ru/p/taskbarx/9pcmz6bxk8gh?cid=msft_web_appsforwindows_chart)
+
+  * [ ![WinRAR PC-TUTORIAL](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  WinRAR PC-TUTORIAL
+
+USD$1.69  ](/ru-ru/p/winrar-pc-
+tutorial/9pppwf6gn361?cid=msft_web_appsforwindows_chart)
+
+  * [ ![HD Movie Maker - PRO](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif) **Экономия USD$5.00**
+
+###  HD Movie Maker - PRO
+
+Полная цена была USD$14.99  ~~USD$14.99~~ Сейчас USD$9.99  USD$9.99  ](/ru-
+ru/p/hd-movie-maker-pro/9n9kbwp6hvqq?cid=msft_web_appsforwindows_chart)
+
+  * [ ![MagicPods](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  MagicPods
+
+USD$1.99  ](/ru-ru/p/magicpods/9p6skkfkshkm?cid=msft_web_appsforwindows_chart)
+
+  * [ ![PDF Converter X: PDF to Word, OCR](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  PDF Converter X: PDF to Word, OCR
+
+USD$9.99  ](/ru-ru/p/pdf-converter-x-pdf-to-word-
+ocr/9pl1l107gpfp?cid=msft_web_appsforwindows_chart)
+
+  * [ ![KS WallPaper Engine](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif) **Экономия USD$0.80**
+
+###  KS WallPaper Engine
+
+Полная цена была USD$1.99  ~~USD$1.99~~ Сейчас USD$1.19  USD$1.19  ](/ru-
+ru/p/ks-wallpaper-engine/9nxwlpq66s53?cid=msft_web_appsforwindows_chart)
+
+  * [ ![Torrent Remote](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Torrent Remote
+
+USD$0.99  ](/ru-ru/p/torrent-
+remote/9wzdncrfj3s1?cid=msft_web_appsforwindows_chart)
+
+  * [ ![TelegramRus](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  TelegramRus
+
+USD$1.29  ](/ru-
+ru/p/telegramrus/9mtpqhcx8b76?cid=msft_web_appsforwindows_chart)
+
+  * [ ![paint.net](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  paint.net
+
+USD$6.99  ](/ru-ru/p/paintnet/9nbhcs1lx4r0?cid=msft_web_appsforwindows_chart)
+
+  * [ ![HEVC Video Extension Codec](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif) **Экономия USD$9.00**
+
+###  HEVC Video Extension Codec
+
+Полная цена была USD$9.99  ~~USD$9.99~~ Сейчас USD$0.99  USD$0.99  ](/ru-
+ru/p/hevc-video-extension-
+codec/9nr3fsth8k4p?cid=msft_web_appsforwindows_chart)
+
+  * [ Показать все  ](/ru-ru/store/top-paid/apps/pc)
+
+##  Лучшие приложения
+
+[ Показать все ](/ru-ru/store/best-rated/apps/pc)
+
+  * [ ![Microsoft To Do: Lists, Tasks & Reminders](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Microsoft To Do: Lists, Tasks & Reminders
+
+Бесплатно  ](/ru-ru/p/microsoft-to-do-lists-tasks-
+reminders/9nblggh5r558?cid=msft_web_appsforwindows_chart)
+
+  * [ ![Pinterest](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Pinterest
+
+Бесплатно  ](/ru-
+ru/p/pinterest/9pfhdsf91b9r?cid=msft_web_appsforwindows_chart)
+
+  * [ ![Trio Office: Word, Slide, Spreadsheet & PDF Compatible](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Trio Office: Word, Slide, Spreadsheet & PDF Compatible
+
+Бесплатно  \+  ](/ru-ru/p/trio-office-word-slide-spreadsheet-pdf-
+compatible/9p9f6dzjbblj?cid=msft_web_appsforwindows_chart)
+
+  * [ ![Paint 3D](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Paint 3D
+
+Бесплатно  ](/ru-ru/p/paint-3d/9nblggh5fv99?cid=msft_web_appsforwindows_chart)
+
+  * [ ![OneNote for Windows 10](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  OneNote for Windows 10
+
+Бесплатно  ](/ru-ru/p/onenote-for-
+windows-10/9wzdncrfhvjl?cid=msft_web_appsforwindows_chart)
+
+  * [ ![Xbox](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Xbox
+
+Бесплатно  ](/ru-ru/p/xbox/9mv0b5hzvk9z?cid=msft_web_appsforwindows_chart)
+
+  * [ ![ivi - фильмы, сериалы и мультфильмы](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  ivi - фильмы, сериалы и мультфильмы
+
+Бесплатно  \+  ](/ru-
+ru/p/ivi-%d1%84%d0%b8%d0%bb%d1%8c%d0%bc%d1%8b-%d1%81%d0%b5%d1%80%d0%b8%d0%b0%d0%bb%d1%8b-%d0%b8-%d0%bc%d1%83%d0%bb%d1%8c%d1%82%d1%84%d0%b8%d0%bb%d1%8c%d0%bc%d1%8b/9nblggh43kx3?cid=msft_web_appsforwindows_chart)
+
+  * [ ![PhotoFunia](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  PhotoFunia
+
+Бесплатно  \+  ](/ru-
+ru/p/photofunia/9wzdncrfj18r?cid=msft_web_appsforwindows_chart)
+
+  * [ ![FilmForth: Видео редактор и фото](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  FilmForth: Видео редактор и фото
+
+Бесплатно  ](/ru-
+ru/p/filmforth-%d0%92%d0%b8%d0%b4%d0%b5%d0%be-%d1%80%d0%b5%d0%b4%d0%b0%d0%ba%d1%82%d0%be%d1%80-%d0%b8-%d1%84%d0%be%d1%82%d0%be/9nsf023x0mqs?cid=msft_web_appsforwindows_chart)
+
+  * [ ![Менеджер Паролей SafeInCloud](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Менеджер Паролей SafeInCloud
+
+Бесплатно  \+  ](/ru-
+ru/p/%d0%9c%d0%b5%d0%bd%d0%b5%d0%b4%d0%b6%d0%b5%d1%80-%d0%9f%d0%b0%d1%80%d0%be%d0%bb%d0%b5%d0%b9-safeincloud/9nlxl1b6j7lw?cid=msft_web_appsforwindows_chart)
+
+  * [ ![Online Radio Navigator Pro](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Online Radio Navigator Pro
+
+Бесплатно  \+  ](/ru-ru/p/online-radio-navigator-
+pro/9nfv3v9zf4kc?cid=msft_web_appsforwindows_chart)
+
+  * [ ![Collage Maker - Photo Grid & Montage](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Collage Maker - Photo Grid & Montage
+
+Бесплатно  \+  ](/ru-ru/p/collage-maker-photo-grid-
+montage/9p6r3x22085x?cid=msft_web_appsforwindows_chart)
+
+  * [ ![Средство 3D-просмотра](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Средство 3D-просмотра
+
+Бесплатно  ](/ru-
+ru/p/%d0%a1%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%b2%d0%be-3d-%d0%bf%d1%80%d0%be%d1%81%d0%bc%d0%be%d1%82%d1%80%d0%b0/9nblggh42ths?cid=msft_web_appsforwindows_chart)
+
+  * [ ![Xbox Game Bar](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Xbox Game Bar
+
+Бесплатно  \+  ](/ru-ru/p/xbox-game-
+bar/9nzkpstsnw4p?cid=msft_web_appsforwindows_chart)
+
+  * [ ![OMEN Gaming Hub](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  OMEN Gaming Hub
+
+Бесплатно  ](/ru-ru/p/omen-gaming-
+hub/9nqdw009t0t5?cid=msft_web_appsforwindows_chart)
+
+  * [ ![Яндекс.Музыка](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Яндекс.Музыка
+
+Бесплатно  \+  ](/ru-
+ru/p/%d0%af%d0%bd%d0%b4%d0%b5%d0%ba%d1%81%d0%9c%d1%83%d0%b7%d1%8b%d0%ba%d0%b0/9nblggh0cb6d?cid=msft_web_appsforwindows_chart)
+
+  * [ ![MSN Погода](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  MSN Погода
+
+Бесплатно  ](/ru-
+ru/p/msn-%d0%9f%d0%be%d0%b3%d0%be%d0%b4%d0%b0/9wzdncrfj3q2?cid=msft_web_appsforwindows_chart)
+
+  * [ ![Музыка Groove](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Музыка Groove
+
+Бесплатно  ](/ru-
+ru/p/%d0%9c%d1%83%d0%b7%d1%8b%d0%ba%d0%b0-groove/9wzdncrfj3pt?cid=msft_web_appsforwindows_chart)
+
+  * [ Показать все  ](/ru-ru/store/best-rated/apps/pc)
+
+![Приложения для обустройства дома](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+##  Приложения для обустройства дома  [ Показать все ](/ru-
+ru/store/collections/app.fc2)
+
+Придайте дому и саду новый облик. Эти приложения помогут справиться с мелкими
+переделками и крупным ремонтом.
+
+[ ДОПОЛНИТЕЛЬНЫЕ СВЕДЕНИЯ  ](/ru-ru/store/collections/app.fc2)
+
+  * [ ![Drawboard PDF - Read, edit, annotate](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Drawboard PDF - Read, edit, annotate
+
+Бесплатно  \+  ](/ru-ru/p/drawboard-pdf-read-edit-
+annotate/9wzdncrfhwqt?cid=msft_web_appsforwindows_collection)
+
+  * [ ![AutoCAD mobile - DWG Viewer, Editor & CAD Drawing Tools](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  AutoCAD mobile - DWG Viewer, Editor & CAD Drawing Tools
+
+Бесплатно  ](/ru-ru/p/autocad-mobile-dwg-viewer-editor-cad-drawing-
+tools/9wzdncrfjctk?cid=msft_web_appsforwindows_collection)
+
+  * [ ![Planner 5D - Планировщик интерьера](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Planner 5D - Планировщик интерьера
+
+Бесплатно  \+  ](/ru-
+ru/p/planner-5d-%d0%9f%d0%bb%d0%b0%d0%bd%d0%b8%d1%80%d0%be%d0%b2%d1%89%d0%b8%d0%ba-%d0%b8%d0%bd%d1%82%d0%b5%d1%80%d1%8c%d0%b5%d1%80%d0%b0/9nblggh4mp71?cid=msft_web_appsforwindows_collection)
+
+  * [ ![Bamboo Paper](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Bamboo Paper
+
+Бесплатно  \+  ](/ru-ru/p/bamboo-
+paper/9wzdncrfj1bh?cid=msft_web_appsforwindows_collection)
+
+  * [ ![CorelCAD - 2D & 3D DWG CAD](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  CorelCAD - 2D & 3D DWG CAD
+
+Бесплатно  \+  ](/ru-ru/p/corelcad-2d-3d-dwg-
+cad/9phv3wtqd6vc?cid=msft_web_appsforwindows_collection)
+
+  * [ ![Money Lover - Money Manager](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Money Lover - Money Manager
+
+Бесплатно  \+  ](/ru-ru/p/money-lover-money-
+manager/9wzdncrdrg5v?cid=msft_web_appsforwindows_collection)
+
+  * [ ![Technical Drawings & Illustrations](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Technical Drawings & Illustrations
+
+Бесплатно  \+  ](/ru-ru/p/technical-drawings-
+illustrations/9nblggh116f9?cid=msft_web_appsforwindows_collection)
+
+  * [ ![BIMcatalogs.net - 3D BIM manufacturer objects](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  BIMcatalogs.net - 3D BIM manufacturer objects
+
+Бесплатно  ](/ru-ru/p/bimcatalogsnet-3d-bim-manufacturer-
+objects/9nblggh4pt8k?cid=msft_web_appsforwindows_collection)
+
+  * [ ![Mood Board](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Mood Board
+
+Бесплатно  \+  ](/ru-ru/p/mood-
+board/9wzdncrdg6sx?cid=msft_web_appsforwindows_collection)
+
+  * [ ![Spending Tracker ™](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Spending Tracker ™
+
+Бесплатно  \+  ](/ru-ru/p/spending-
+tracker/9wzdncrfhmw8?cid=msft_web_appsforwindows_collection)
+
+  * [ ![Home Design 3D](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Home Design 3D
+
+USD$9.99  \+  ](/ru-ru/p/home-
+design-3d/9nblggh2r5wf?cid=msft_web_appsforwindows_collection)
+
+  * [ ![Grapholite – диаграммы, блок-схемы и планы помещений](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Grapholite – диаграммы, блок-схемы и планы помещений
+
+Раньше  ~~USD$39.99~~ Сейчас  USD$19.99  ](/ru-
+ru/p/grapholite-%d0%b4%d0%b8%d0%b0%d0%b3%d1%80%d0%b0%d0%bc%d0%bc%d1%8b-%d0%b1%d0%bb%d0%be%d0%ba-%d1%81%d1%85%d0%b5%d0%bc%d1%8b-%d0%b8-%d0%bf%d0%bb%d0%b0%d0%bd%d1%8b-%d0%bf%d0%be%d0%bc%d0%b5%d1%89%d0%b5%d0%bd%d0%b8%d0%b9/9wzdncrddgs5?cid=msft_web_appsforwindows_collection)
+
+##  Популярные приложения
+
+[ Показать все ](/ru-ru/store/new-and-rising/apps/pc)
+
+  * [ ![Google Chrome Guide Windows](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Google Chrome Guide Windows
+
+Бесплатно  ](/ru-ru/p/google-chrome-guide-
+windows/9ns71b3tjbtw?cid=msft_web_appsforwindows_chart)
+
+  * [ ![МойОфис Стандартный. Домашняя версия](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  МойОфис Стандартный. Домашняя версия
+
+Бесплатно  ](/ru-
+ru/p/%d0%9c%d0%be%d0%b9%d0%9e%d1%84%d0%b8%d1%81-%d0%a1%d1%82%d0%b0%d0%bd%d0%b4%d0%b0%d1%80%d1%82%d0%bd%d1%8b%d0%b9-%d0%94%d0%be%d0%bc%d0%b0%d1%88%d0%bd%d1%8f%d1%8f-%d0%b2%d0%b5%d1%80%d1%81%d0%b8%d1%8f/9np3b3gjm0l7?cid=msft_web_appsforwindows_chart)
+
+  * [ ![Torrent Downloader Pro](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Torrent Downloader Pro
+
+Бесплатно  ](/ru-ru/p/torrent-downloader-
+pro/9nsw8kjl0f93?cid=msft_web_appsforwindows_chart)
+
+  * [ ![VidTuber for YouTube - ютуб скачать видео 4К. скачать бесплатно музыку MP3, MP4](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  VidTuber for YouTube - ютуб скачать видео 4К. скачать бесплатно музыку
+MP3, MP4
+
+Бесплатно  \+  ](/ru-ru/p/vidtuber-for-
+youtube-%d1%8e%d1%82%d1%83%d0%b1-%d1%81%d0%ba%d0%b0%d1%87%d0%b0%d1%82%d1%8c-%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-4%d0%9a-%d1%81%d0%ba%d0%b0%d1%87%d0%b0%d1%82%d1%8c-%d0%b1%d0%b5%d1%81%d0%bf%d0%bb%d0%b0%d1%82%d0%bd%d0%be-%d0%bc%d1%83%d0%b7%d1%8b%d0%ba%d1%83-mp3-mp4/9p2rnw4jvzgl?cid=msft_web_appsforwindows_chart)
+
+  * [ ![GoTube - ютуб скачать видео 4К. музыку бесплатно MP3 & MP4](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  GoTube - ютуб скачать видео 4К. музыку бесплатно MP3 & MP4
+
+Бесплатно  \+  ](/ru-
+ru/p/gotube-%d1%8e%d1%82%d1%83%d0%b1-%d1%81%d0%ba%d0%b0%d1%87%d0%b0%d1%82%d1%8c-%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-4%d0%9a-%d0%bc%d1%83%d0%b7%d1%8b%d0%ba%d1%83-%d0%b1%d0%b5%d1%81%d0%bf%d0%bb%d0%b0%d1%82%d0%bd%d0%be-
+mp3-mp4/9nrdfwrzqlxs?cid=msft_web_appsforwindows_chart)
+
+  * [ ![qBitTorrent Downloader](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  qBitTorrent Downloader
+
+Бесплатно  \+  ](/ru-ru/p/qbittorrent-
+downloader/9np3dc3gzf2p?cid=msft_web_appsforwindows_chart)
+
+  * [ ![Videoder - ютуб скачать видео 4К. музыку бесплатно MP3](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Videoder - ютуб скачать видео 4К. музыку бесплатно MP3
+
+Бесплатно  \+  ](/ru-
+ru/p/videoder-%d1%8e%d1%82%d1%83%d0%b1-%d1%81%d0%ba%d0%b0%d1%87%d0%b0%d1%82%d1%8c-%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-4%d0%9a-%d0%bc%d1%83%d0%b7%d1%8b%d0%ba%d1%83-%d0%b1%d0%b5%d1%81%d0%bf%d0%bb%d0%b0%d1%82%d0%bd%d0%be-
+mp3/9p4846m57vfh?cid=msft_web_appsforwindows_chart)
+
+  * [ ![File Analyzer](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  File Analyzer
+
+Бесплатно  ](/ru-ru/p/file-
+analyzer/9mxxh8js9xsn?cid=msft_web_appsforwindows_chart)
+
+  * [ ![Vega Video Editor](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Vega Video Editor
+
+Бесплатно  \+  ](/ru-ru/p/vega-video-
+editor/9plz813m8jq9?cid=msft_web_appsforwindows_chart)
+
+  * [ ![The Sims 4 Complete Guide](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  The Sims 4 Complete Guide
+
+Бесплатно  ](/ru-ru/p/the-sims-4-complete-
+guide/9n96ndcpdrtn?cid=msft_web_appsforwindows_chart)
+
+  * [ ![голос Changer](//statics-storeexp-wcus-ms-com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  голос Changer
+
+Бесплатно  ](/ru-
+ru/p/%d0%b3%d0%be%d0%bb%d0%be%d1%81-changer/9pn51vrbngzr?cid=msft_web_appsforwindows_chart)
+
+  * [ Показать все  ](/ru-ru/store/new-and-rising/apps/pc)
+
+##  Подборка коллекций
+
+![Читальный зал](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Читальный зал
+
+Отдохните с бестселлерами, комиксами, журналами и многим другим.
+
+[ КУПИТЬ  ](/ru-ru/store/collections/thereadingroom)
+
+![Приложения для планшетов и трансформеров](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Приложения для планшетов и трансформеров
+
+Раскройте все возможности своего планшета или трансформера с оптимизированными
+для них приложениями.
+
+[ КУПИТЬ  ](/ru-ru/store/collections/appsfortablets)
+
+![Самые нужные приложения](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Самые нужные приложения
+
+Работайте на новом уровне благодаря этим приложениям для Windows, без которых
+вы скоро не сможете обойтись\!
+
+[ КУПИТЬ  ](/ru-ru/store/collections/essentialapps)
+
+![Присоединяйтесь и будьте в курсе](//statics-storeexp-wcus-ms-
+com.akamaized.net/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Присоединяйтесь и будьте в курсе
+
+Получайте новости, слушайте подкасты и оставайтесь на связи благодаря этим
+полезным приложениям
+
+[ КУПИТЬ  ](/ru-ru/store/collections/yoursocialnetwork)
+
+##  Категории
+
+  * [ Личные финансы ](/ru-ru/store/most-popular/apps/pc?category=personal%20finance)
+  * [ Производительность ](/ru-ru/store/most-popular/apps/pc?category=productivity)
+  * [ Дети и семья ](/ru-ru/store/most-popular/apps/pc?category=kids%20%26%20family)
+  * [ Здоровье и фитнес ](/ru-ru/store/most-popular/apps/pc?category=health%20%26%20fitness)
+  * [ Медицина ](/ru-ru/store/most-popular/apps/pc?category=medical)
+  * [ Социальные сети ](/ru-ru/store/most-popular/apps/pc?category=social)
+  * [ Навигация и карты ](/ru-ru/store/most-popular/apps/pc?category=navigation%20%26%20maps)
+  * [ Служебные программы и средства ](/ru-ru/store/most-popular/apps/pc?category=utilities%20%26%20tools)
+  * [ Персонализация ](/ru-ru/store/most-popular/apps/pc?category=personalization)
+  * [ Образование ](/ru-ru/store/most-popular/apps/pc?category=education)
+  * [ Книги и справочники ](/ru-ru/store/most-popular/apps/pc?category=books%20%26%20reference)
+  * [ Развлечения ](/ru-ru/store/most-popular/apps/pc?category=entertainment)
+  * [ Средства разработчика ](/ru-ru/store/most-popular/apps/pc?category=developer%20tools)
+  * [ Образ жизни ](/ru-ru/store/most-popular/apps/pc?category=lifestyle)
+  * [ Бизнес ](/ru-ru/store/most-popular/apps/pc?category=business)
+  * [ Новости и погода ](/ru-ru/store/most-popular/apps/pc?category=news%20%26%20weather)
+  * [ Путешествия ](/ru-ru/store/most-popular/apps/pc?category=travel)
+  * [ Безопасность ](/ru-ru/store/most-popular/apps/pc?category=security)
+  * [ Покупки ](/ru-ru/store/most-popular/apps/pc?category=shopping)
+  * [ Спорт ](/ru-ru/store/most-popular/apps/pc?category=sports)
+  * [ Фотографии и видео ](/ru-ru/store/most-popular/apps/pc?category=photo%20%26%20video)
+  * [ Правительство и политика ](/ru-ru/store/most-popular/apps/pc?category=government%20%26%20politics)
+  * [ Дизайн мультимедиа ](/ru-ru/store/most-popular/apps/pc?category=multimedia%20design)
+  * [ Еда и питание ](/ru-ru/store/most-popular/apps/pc?category=food%20%26%20dining)
+  * [ Музыка ](/ru-ru/store/most-popular/apps/pc?category=music)
+
+Возникли вопросы? Обратитесь к эксперту
+
+####  Возникли вопросы? Обратитесь к эксперту
+
+Мы готовы помочь\!
+
+[ Обсудите свой заказ перед покупкой ](javascript:void\(0\))
+
+[ Найдите сведения о своем заказе ](javascript:void\(0\))
+
+[ Получить техническую поддержку или помощь по загрузке
+](javascript:void\(0\))
+
+####  Обсудите свой заказ перед покупкой
+
+Текстовый чат
+
+Позвоните, чтобы узнать информацию о продаже в Microsoft Store и получить
+консультации для клиентов
+
+[ \(8\) 800 500 9242 ](tel:\(8\) 800 500 9242)
+
+Часы работы службы поддержки Microsoft Store
+
+Понедельник — пятница:  09:00 - 18:00
+
+####  Найдите сведения о своем заказе
+
+Текстовый чат
+
+Помощь в вопросах продажи и поддержка клиентов в Microsoft Store
+
+[ \(8\) 800 500 9242 ](tel:\(8\) 800 500 9242)
+
+Вопросы по товарам, купленным в другом месте
+
+[ \(8\) 495 916 7171 ](tel:\(8\) 495 916 7171)
+
+Часы работы службы поддержки Microsoft Store
+
+Понедельник — пятница:  09:00 - 18:00
+
+####  Получить техническую поддержку или помощь по загрузке
+
+  * [ Windows ](https://support.microsoft.com/ru-ru/contact/menu/software/windows/)
+  * [ Office ](https://support.office.com/ru-ru)
+  * [ Surface ](https://www.microsoft.com/surface/ru-ru/support)
+
+  * [ Мобильные устройства ](https://support.microsoft.com/ru-ru/products/mobile-devices)
+  * [ OneDrive ](https://support.office.com/ru-ru/article/OneDrive-Help-5943c2b9-fafc-4cb4-95c0-9cc73fcabb30)
+  * [ Skype ](https://support.skype.com/skype/windows-desktop/)
+
+  * [ Xbox ](https://support.xbox.com/contact-us/)
+  * [ Outlook ](https://support.office.com/ru-ru/article/Get-help-with-Outlook-com-40676AD0-C831-45AC-A023-5BE633BE798D)
+  * [ Показать еще ](https://support.microsoft.com/ru-ru)
+
+[ Назад  ](javascript:void\(0\);) Закрыть
+
+Что нового?
+
+  * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365)
+  * [ Приложения Windows 10 ](https://www.microsoft.com/ru-ru/windows/windows-10-apps)
+
+Microsoft Store
+
+  * [ Профиль учетной записи ](https://account.microsoft.com/)
+  * [ Центр загрузки ](https://www.microsoft.com/ru-ru/download)
+  * [ Поддержка Microsoft Store ](https://go.microsoft.com/fwlink/?linkid=2139749)
+  * [ Возврат товаров ](https://go.microsoft.com/fwlink/p/?LinkID=824764&clcid=0x419)
+  * [ Отслеживание заказа ](https://account.microsoft.com/orders)
+
+Для образования
+
+  * [ Майкрософт и образование ](https://www.microsoft.com/ru-ru/education)
+  * [ Office для учащихся ](https://www.microsoft.com/ru-ru/education/products/office/default.aspx)
+  * [ Office 365 для школ ](https://products.office.com/ru-ru/academic/compare-office-365-education-plans)
+  * [ Специальные предложения для учащихся и родителей ](https://www.microsoft.com/ru-ru/store/b/student?icid=CNavfooter_Studentsandeducation)
+  * [ Microsoft Azure и образование ](https://azure.microsoft.com/ru-ru/community/education/)
+
+Для крупных предприятий
+
+  * [ Azure ](https://azure.microsoft.com/)
+  * [ AppSource ](https://go.microsoft.com/fwlink/?LinkID=808093)
+  * [ Автопромышленность ](https://www.microsoft.com/enterprise/automotive)
+  * [ Государственные учреждения ](https://www.microsoft.com/enterprise/government)
+  * [ Здравоохранение ](https://www.microsoft.com/enterprise/health)
+  * [ Промышленное производство ](https://www.microsoft.com/enterprise/manufacturing)
+  * [ Финансовые услуги ](https://www.microsoft.com/enterprise/financial-services/banking-and-capital-markets)
+  * [ Торговля ](https://www.microsoft.com/enterprise/retail-consumer-goods)
+
+Для разработчиков
+
+  * [ Microsoft Visual Studio ](https://visualstudio.microsoft.com/)
+  * [ Центр разработчиков Windows ](https://developer.microsoft.com/ru-ru/windows)
+  * [ Центр разработчиков ](https://developer.microsoft.com/)
+  * [ Программа Майкрософт для разработчиков ](https://developer.microsoft.com/ru-ru/store/register)
+  * [ Channel 9 ](https://channel9.msdn.com/)
+  * [ Центр разработчиков Office ](https://developer.microsoft.com/ru-ru/office)
+
+Компания
+
+  * [ Вакансии ](https://careers.microsoft.com/)
+  * [ О корпорации Майкрософт ](https://www.microsoft.com/ru-ru/about)
+  * [ Новости компании ](https://news.microsoft.com/ru-ru)
+  * [ Политика конфиденциальности Майкрософт ](https://privacy.microsoft.com/ru-ru)
+  * [ Инвесторы ](https://www.microsoft.com/investor/default.aspx)
+  * [ Безопасность ](https://www.microsoft.com/ru-ru/security/default.aspx)
+
+[ Русский \(Россия\) ](https://www.microsoft.com/ru-
+ru/store/locale?absoluteReturnUrl=https%3a%2f%2fwww.microsoft.com%2fru-
+ru%2fstore%2fapps%2fwindows%3ficid%3dCNavAppsWindowsApps)
+
+  * [ Связаться с Microsoft ](https://go.microsoft.com/fwlink/p/?LinkID=824761&clcid=0x419)
+  * [ Выходные данные ](https://www.microsoft.com/ru-ru/store/b/imprint)
+  * [ Конфиденциальность ](https://go.microsoft.com/fwlink/?LinkId=521839)
+  * Управление файлами cookie 
+  * [ Условия использования и продажи ](https://go.microsoft.com/fwlink/?LinkID=206977)
+  * [ Условия продажи ](https://www.microsoft.com/ru-ru/storedocs/terms-of-sale)
+  * [ Товарные знаки ](https://www.microsoft.com/trademarks)
+  * [ Сведения о рекламе ](https://choice.microsoft.com/)
+  * © Microsoft 2021 
+

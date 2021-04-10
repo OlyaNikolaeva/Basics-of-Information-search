@@ -1,0 +1,522 @@
+![](https://web.vortex.data.microsoft.com:443/collect/v1/t.gif?&name=%27Ms.Webi.PageView%27&ver=%272.1%27&appId=%27JS%3Ajs%3Awindowsserver%27&cV=%27wz3KTObUAUiLzUbP.0%27&ext-
+app-env=%27onerf_prod%27&ext-javascript-libver=%274.0.0-beta-10%27&ext-user-
+localId=%27t%3A232197725F4E6E890E3B87675EE56F83%27&*baseType=%27Ms.Content.PageView%27&*isJs=True&*isLoggedIn=False&*isManual=True&*serverImpressionGuid=%27244ffa3e-bf30-4868-9950-639c4bee24fb%27&-ver=%271.0%27&-impressionGuid=%2700000000-0000-0000-0000-000000000000%27&-pageName=%27home%27&-uri=%27https%3A%2F%2Fwww.microsoft.com%2Fen-
+us%2Fwindows-server%27&-pageType=%27OneGDCWeb-
+AllModules%27&-pageTags=%27%7B%22tasId%22%3A%22244ffa3e-bf30-4868-9950-639c4bee24fb%22%2C%22tasMuid%22%3A%22232197725F4E6E890E3B87675EE56F83%22%2C%22browserGroup%22%3A%22uplevel.web.pc%22%2C%22isOneRf%22%3A%22True%22%7D%27&-behavior=0&-market=%27en-
+us%27)
+
+[ Skip to main content ](javascript:void\(0\))
+
+[ ![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31) Microsoft
+](https://www.microsoft.com)
+
+Windows Server
+
+[ Windows Server  ](https://www.microsoft.com/en-us/windows-server)
+
+Windows Server
+
+  * [ Home ](https://www.microsoft.com/en-us/windows-server)
+  * [ Pricing ](https://www.microsoft.com/en-us/windows-server/pricing)
+  * Solutions 
+    * [ Hyperconverged Infrastructure ](https://azure.microsoft.com/en-us/products/azure-stack/hci/)
+    * [ Desktop Virtualization ](https://azure.microsoft.com/en-us/services/virtual-desktop/)
+    * [ Windows Admin Center ](https://www.microsoft.com/en-us/windows-server/windows-admin-center)
+    * [ System Center ](https://www.microsoft.com/en-us/system-center)
+
+  * Previous versions 
+    * [ Windows Server 2016 ](https://docs.microsoft.com/windows-server/get-started/server-basics)
+    * [ Windows Server 2012 ](https://docs.microsoft.com/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh801901\(v=ws.11\))
+    * [ Windows Server 2008 ](https://docs.microsoft.com/windows-server/)
+    * [ Windows Server 2003 ](https://docs.microsoft.com/windows-server/)
+
+  * More 
+
+  * [ Try Windows Server ](https://www.microsoft.com/en-us/windows-server/trial)
+
+  * All Microsoft 
+    *       * [ Microsoft 365 ](https://www.microsoft.com/en-us/microsoft-365/business/all-business)
+      * [ Azure ](https://azure.microsoft.com)
+      * [ Office 365 ](https://products.office.com/en-us/business/office)
+      * [ Dynamics 365 ](https://dynamics.microsoft.com/en-us/)
+      * [ Power Platform ](https://powerplatform.microsoft.com/en-us)
+      * [ Windows 10 ](https://www.microsoft.com/en-us/microsoft-365/windows)
+    * Products & Services  Products & Services 
+      * [ Windows Server ](https://www.microsoft.com/cloud-platform/windows-server)
+      * [ Enterprise Mobility + Security ](https://www.microsoft.com/cloud-platform/enterprise-mobility-security)
+      * [ Power BI ](https://powerbi.microsoft.com/en-us/)
+      * [ Teams ](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)
+      * [ Visual Studio ](https://visualstudio.microsoft.com/)
+      * [ Microsoft Advertising ](https://go.microsoft.com/fwlink/?linkid=2026462)
+    * Emerging Technologies  Emerging Technologies 
+      * [ AI ](https://www.microsoft.com/ai/)
+      * [ Internet of Things ](https://www.microsoft.com/internet-of-things/)
+      * [ Azure Cognitive Services ](https://azure.microsoft.com/services/cognitive-services/)
+      * [ Quantum ](https://www.microsoft.com/quantum/)
+      * [ Microsoft HoloLens ](https://www.microsoft.com/en-us/hololens)
+      * [ Mixed Reality ](https://www.microsoft.com/en-us/mixed-reality)
+    * Developer & IT  Developer & IT 
+      * [ Docs ](https://docs.microsoft.com/en-us/)
+      * [ Developer Center ](https://developer.microsoft.com/)
+      * [ Windows Dev Center ](https://developer.microsoft.com/en-us/windows)
+      * [ Windows IT Pro Center ](https://www.microsoft.com/en-us/itpro/windows)
+      * [ FastTrack ](https://fasttrack.microsoft.com/office)
+      * [ Power Platform ](https://powerplatform.microsoft.com/en-us)
+    * Partner  Partner 
+      * [ Partner Network ](https://partner.microsoft.com/)
+      * [ Solution Providers ](https://www.microsoft.com/en-us/solution-providers)
+      * [ Partner Center ](https://partnercenter.microsoft.com/partner/home)
+      * [ Cloud Hosting ](https://www.microsoft.com/en-us/cloudandhosting)
+    * Industries  Industries 
+      * [ Education ](https://www.microsoft.com/en-us/education?icid=CNavMSCOML0_Studentsandeducation)
+      * [ Financial services ](https://www.microsoft.com/en-us/enterprise/financial-services/banking-and-capital-markets)
+      * [ Government ](https://www.microsoft.com/en-us/enterprise/government)
+      * [ Health ](https://www.microsoft.com/en-us/enterprise/health)
+      * [ Manufacturing & resources ](https://www.microsoft.com/en-us/enterprise/manufacturing)
+      * [ Retail ](https://www.microsoft.com/en-us/enterprise/retail-consumer-goods)
+    * Other  Other 
+      * [ Security ](https://www.microsoft.com/security/)
+      * [ Licensing ](https://www.microsoft.com/licensing/)
+      * [ AppSource ](https://appsource.microsoft.com/)
+      * [ Azure Marketplace ](https://azuremarketplace.microsoft.com/marketplace/)
+      * [ Events ](https://events.microsoft.com/)
+      * [ Research ](https://www.microsoft.com/research/)
+    * [ View Sitemap ](https://www.microsoft.com/en-us/sitemap.aspx)
+
+Search  Search Microsoft.com
+
+Cancel
+
+[ Read how Microsoft is responding to the COVID-19 outbreak, and get resources
+to help  ](https://news.microsoft.com/covid-19-response/)
+
+  *   *   *   *   * 
+
+  * ![](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4pPSl?ver=217b&q=0&m=6&h=600&w=1600&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+#  Build your future with Windows Server 2019
+
+No matter where you want to take your organization, get there with Windows
+Server 2019—the operating system that bridges on-premises environments with
+Azure services enabling hybrid scenarios and maximizing existing investments.
+
+[ Try Windows Server now  ](https://www.microsoft.com/en-us/cloud-
+platform/windows-server-trial) [ Download the datasheet
+](https://download.microsoft.com/download/9/C/4/9C44E138-B93A-4C11-849C-3184D22C7B11/Windows_Server_2019_Solution_Brief_EN_US.pdf)
+
+  * ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+##  Windows Admin Center in Azure is available
+
+Now you can manage your Windows Servers straight from the Azure portal.
+
+[ Learn more  ](https://aka.ms/WACinPortalPreview)
+
+  * ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+##  Microsoft Ignite
+
+Browse through the most memorable and most impactful content from our most
+recent digital event by topic.
+
+[ View on-demand sessions  ](https://myignite.microsoft.com/home)
+
+  * ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+##  Windows Server Summit 2020
+
+Learn about the latest Windows Server features and capabilities—directly from
+the Microsoft product team. Watch demos and discover best practices to
+modernize your workloads, whether you’re running Windows Server on-premises,
+in a hybrid environment, or on Azure.
+
+[ Watch now  ](https://info.microsoft.com/ww-landing-windows-server-
+summit-2020.html)
+
+  * ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+##  Azure Hybrid Virtual Event
+
+Learn how to build an effective hybrid and multicloud strategy to respond to
+today’s changing business needs and prepare for the future at this free,
+60-minute online event.
+
+[ Register now  ](https://info.microsoft.com/ww-registration-azure-hybrid-
+virtual-event.html?ocid=AID3007600_QSG_399750)
+
+[ We recently announced Windows Server 2022 in preview, bringing you advanced
+multi-layer security, unique hybrid capabilities with Azure, and a flexible
+application platform. Learn more in our blog here
+](https://aka.ms/ws2022/blog)
+
+[ ](javascript:void\(0\))
+
+  * ![LiveChat](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4qMn0?ver=1b52&q=90&h=25&w=45&b=%23FFFFFFFF&aim=true)
+
+[ Close ](javascript:void\(0\))
+
+##  Get the most out of Windows Server
+
+Windows Server 2019 is the operating system that bridges on-premises
+environments with Azure, adding additional layers of security while helping
+you modernize your applications and infrastructure.
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4ruvi?ver=8370&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Hybrid capabilities with Azure
+
+Extend your datacenter to Azure to maximize your investments and gain new
+hybrid capabilities.
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4rJLT?ver=28d5&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Advanced multilayer security
+
+Elevate your security posture by protecting the datacenter, starting with the
+operating system.
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4rzFs?ver=290a&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Faster innovation for applications
+
+Enable the creation of cloud-native apps, and modernize traditional apps using
+containers and microservices.
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4JQ8K?ver=c335&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Unbeatable offers on Azure
+
+See how your cost savings will add up on Azure with offers such as Azure
+Hybrid Benefit and Extended Security Updates.
+
+[ Check out Windows Server on Azure  ](https://azure.microsoft.com/en-
+us/campaigns/windows-server/)
+
+* * *
+
+##  Microsoft delivers great Windows Server solutions across cloud and on-
+premises
+
+![](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Windows Server on Azure
+
+Modernize your workloads on Azure, the trusted cloud for Windows Server.
+
+[ Start free  ](https://azure.microsoft.com/en-us/free/windows-server-on-
+azure/)
+
+![](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Windows Server hybrid
+
+Connect on-premises Windows Servers to Azure with Windows Admin Center.
+
+[ Get started  ](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-
+admin-center)
+
+![](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Windows Server on-premises
+
+Update to the latest operating system for enhanced security, performance and
+value.
+
+[ Free trial  ](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-
+server-2019)
+
+* * *
+
+##  Learn more about Windows Server
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4pHY4?ver=4570&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Windows Admin Center
+
+Manage your servers, clusters, hyperconverged infrastructure, and Windows 10
+PCs with this browser-based app.
+
+[ Learn more  ](https://www.microsoft.com/en-us/cloud-platform/windows-admin-
+center)
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4pHY7?ver=6b6c&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Windows Migration Center
+
+Learn how to migrate your Windows workloads over to Azure using our step by
+step guides and resources.
+
+[ Learn more  ](https://azure.microsoft.com/en-us/migration/windows-server/)
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4pFiG?ver=3be7&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Windows Server on Azure Free Account
+
+Now you can leverage all of the benefits of the cloud with Azure. It’s only
+free to start.
+
+[ Try Azure now  ](https://azure.microsoft.com/en-us/free/windows-server-on-
+azure/)
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4pHYa?ver=9de0&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Ultimate Guide to Windows Server 2019
+
+Learn about the latest features in Windows Server 2019 and how you can
+modernize by going hybrid with Windows Admin Center.
+
+[ Learn more  ](https://info.microsoft.com/ww-landing-ultimate-guide-to-
+windows-server-2019.html)
+
+[ Buy Windows Server 2019  ](https://www.microsoft.com/en-us/p/windows-
+server-2019-standard-cal/dg7gmgf0dvss)
+
+* * *
+
+##  Check out our recent Windows Server events
+
+![Hybrid as a Management Plane event by I T Ops Talks.](https://img-prod-cms-
+rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RWwOow?ver=f20e&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&x=174&y=107&aim=true)
+
+###  Hybrid Event by IT Ops Talks
+
+Watch product experts and engineers talk about the latest in “all things
+hybrid”, including topics on Windows Server Hybrid deep dive, Windows Admin
+Center, Azure Arc and many more\!
+
+[ Watch on-demand  ](https://aka.ms/itopstalks)
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RWz333?ver=31ed&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Maximize your Windows Server investments
+
+Learn how to bring Windows Server and SQL Server to Azure and optimize the
+total cost of running workloads in the cloud. Tune in for demos that will show
+you how to realize savings on Azure.
+
+[ Watch on-demand  ](https://go.microsoft.com/fwlink/?linkid=2157226)
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4ISIb?ver=d655&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Windows Server Summit 2020
+
+Check out our most recent Windows Server Summit on-demand for the latest
+technical content on Windows Server delivered by our product team.
+
+[ Watch on-demand  ](https://www.youtube.com/watch?v=FYHHuTjlcPM)
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4ISI7?ver=ccfb&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Windows Server at Ignite 2020
+
+Check out Windows Server announcements, product updates, and interviews with
+experts in the community at the most recent Ignite.
+
+[ Watch on-demand
+](https://myignite.microsoft.com/sessions?t=%257B%2522from%2522%253A%25222020-09-22T00%253A00%253A00-07%253A00%2522%252C%2522to%2522%253A%25222020-09-25T23%253A59%253A00-07%253A00%2522%257D&q=Windows%2520Server&s=%257B%2522name%2522%253A%2522translate.refine.label.sort.relevance%2522%252C%2522type%2522%253A0%257D)
+
+* * *
+
+##  See how companies use Windows Server and Azure to realize their potential
+
+[ ![Alaska Airlines](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4pXTq?ver=8625&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true)
+](https://customers.microsoft.com/en-us/story/alaska-airlines-travel-
+transportation-azure)
+
+[ ![Allscripts](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4q0tj?ver=dff4&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true)
+](https://customers.microsoft.com/en-us/story/allscripts-partner-professional-
+services-azure)
+
+[ ![Altair](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4pNr6?ver=f9f0&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true)
+](https://customers.microsoft.com/en-us/story/altair-manufacturing-azure)
+
+[ ![Capstone Mining Corporation](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4pXTv?ver=e5a2&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true)
+](https://customers.microsoft.com/en-us/story/capstone-mining)
+
+[ ![Malaysia Airlines](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4q0to?ver=030c&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true)
+](https://customers.microsoft.com/en-us/story/malaysia-airlines-berhad)
+
+[ ![Mosaic](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4pNrc?ver=39c5&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true)
+](https://customers.microsoft.com/en-us/story/mosaicandcapgemini)
+
+[ ![Rio Tino](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4pKO0?ver=fa00&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true)
+](https://customers.microsoft.com/en-us/story/rio-tinto-mining-azure)
+
+[ ![Smithfield](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4pXTD?ver=ee02&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true)
+](https://customers.microsoft.com/en-us/story/smithfield-azure-us-en)
+
+[ ![Tencent Games](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4pXTG?ver=0e0c&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true)
+](https://customers.microsoft.com/en-us/story/tencent-telecommunications-
+azure-service-fabric-windows-server-en)
+
+[ Find a Microsoft partner  ](https://www.microsoft.com/solution-providers/)
+
+* * *
+
+##  Compare features in Windows Server versions
+
+View the new hybrid, security, infrastructure, and application platform
+features of Windows Server 2019 as compared to previous versions.
+
+[ Download the Windows Server 2019 Feature comparison summary
+](https://download.microsoft.com/download/B/F/0/BF00B689-94F5-4E12-8159-7804D0C27C09/Windows_Server_2019_Feature_Comparison_Guide_EN_US.pdf)
+
+* * *
+
+##  Featured resources
+
+![Windows Server documentation.](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4IPXj?ver=e830&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Windows Server Documentation
+
+[ Learn more  ](https://docs.microsoft.com/en-us/windows-server/)
+
+![Windows Server Tech Community blogs.](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4J3iY?ver=2b76&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Windows Server Tech Community
+
+[ Join us  ](https://techcommunity.microsoft.com/t5/windows-server-essentials-
+and/bg-p/SBS)
+
+![Windows Server learning paths.](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4ISHJ?ver=0ee8&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Windows Server Learning Paths
+
+[ Learn more  ](https://aka.ms/WindowsServer_LearnResources)
+
+![" "](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4ISHH?ver=752c&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Windows Server 2008 End of Support Guidance
+
+[ Learn more  ](https://www.microsoft.com/en-us/cloud-platform/windows-
+server-2008)
+
+[ View more resources  ](https://www.microsoft.com/en-us/windows-
+server/resources)
+
+##  Get started with Windows Server
+
+[ Try Windows Server now  ](https://www.microsoft.com/en-us/windows-
+server/trial)
+
+##  Follow us
+
+  * [ ![Facebook](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/85288795/coreui.statics/images/social/facebook.png) ](https://www.facebook.com/WindowsServer)
+  * [ ![Twitter](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/93690392/coreui.statics/images/social/twitter.png) ](https://twitter.com/windowsserver)
+  * [ ![LinkedIn](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/b23f9ba2/coreui.statics/images/social/linkedin.png) ](https://www.linkedin.com/company/microsoft-cloud-platform?trk=company_name)
+  * [ ![Youtube](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/c79952ca/coreui.statics/images/social/youtube.png) ](https://www.youtube.com/user/MSCloudOS)
+  * [ ![Blog](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/f0272ae0/coreui.statics/images/social/blog.png) ](https://cloudblogs.microsoft.com/windowsserver/)
+
+##  Share this page
+
+  * [ ![Facebook](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/85288795/coreui.statics/images/social/facebook.png) ](https://www.facebook.com/sharer/sharer.php?m2w&s=100&u=https://www.microsoft.com/windows-server)
+  * [ ![Twitter](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/93690392/coreui.statics/images/social/twitter.png) ](https://twitter.com/intent/tweet?url=https://www.microsoft.com/en-us/windows-server&via=Microsoft)
+  * [ ![LinkedIn](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/b23f9ba2/coreui.statics/images/social/linkedin.png) ](https://www.linkedin.com/shareArticle?mini=true&url=https://www.microsoft.com/en-us/windows-server&title=Windows%20Server%202019%20%7C%20Microsoft&summary=Increase%20security,%20evolve%20your%20datacenter,%20and%20innovate%20faster%20with%20Microsoft%20Windows%20Server,%20the%20cloud-ready%20operating%20system)
+
+BackToTop
+
+What's new
+
+  * [ Surface Duo ](https://www.microsoft.com/en-us/surface/devices/surface-duo)
+  * [ Surface Laptop Go ](https://www.microsoft.com/en-us/p/surface-laptop-go/94FC0BDGQ7WV)
+  * [ Surface Pro X ](https://www.microsoft.com/en-us/p/surface-pro-x/8QG3BMRHNWHK)
+  * [ Surface Go 2 ](https://www.microsoft.com/en-us/p/surface-go-2/8PT3S2VJMDR6)
+  * [ Surface Book 3 ](https://www.microsoft.com/en-us/p/surface-book-3/8XBW9G3Z71F1)
+  * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365)
+  * [ Windows 10 apps ](https://www.microsoft.com/en-us/windows/windows-10-apps)
+  * [ HoloLens 2 ](https://www.microsoft.com/en-us/hololens)
+
+Microsoft Store
+
+  * [ Account profile ](https://account.microsoft.com/)
+  * [ Download Center ](https://www.microsoft.com/en-us/download)
+  * [ Microsoft Store support ](https://go.microsoft.com/fwlink/?linkid=2139749)
+  * [ Returns ](https://go.microsoft.com/fwlink/p/?LinkID=824764&clcid=0x409)
+  * [ Order tracking ](https://account.microsoft.com/orders)
+  * [ Virtual workshops and training ](https://www.microsoft.com/en-us/store/workshops-training-and-events?icid=vl_uf_932020)
+  * [ Microsoft Store Promise ](https://www.microsoft.com/en-us/store/b/why-microsoft-store?icid=footer_why-msft-store_7102020)
+  * [ Financing ](https://www.microsoft.com/en-us/store/b/financing?icid=footer_financing_10142020)
+
+Education
+
+  * [ Microsoft in education ](https://www.microsoft.com/en-us/education)
+  * [ Office for students ](https://www.microsoft.com/en-us/education/products/office/default.aspx)
+  * [ Office 365 for schools ](https://products.office.com/en-us/academic/compare-office-365-education-plans)
+  * [ Deals for students & parents ](https://www.microsoft.com/en-us/store/b/education?icid=CNavfooter_Studentsandeducation)
+  * [ Microsoft Azure in education ](https://azure.microsoft.com/en-us/community/education/)
+
+Enterprise
+
+  * [ Azure ](https://azure.microsoft.com/)
+  * [ AppSource ](https://go.microsoft.com/fwlink/?LinkID=808093)
+  * [ Automotive ](https://www.microsoft.com/en-us/enterprise/automotive)
+  * [ Government ](https://www.microsoft.com/en-us/enterprise/government)
+  * [ Healthcare ](https://www.microsoft.com/en-us/enterprise/health)
+  * [ Manufacturing ](https://www.microsoft.com/en-us/enterprise/manufacturing)
+  * [ Financial services ](https://www.microsoft.com/en-us/enterprise/financial-services/banking-and-capital-markets)
+  * [ Retail ](https://www.microsoft.com/en-us/enterprise/retail-consumer-goods)
+
+Developer
+
+  * [ Microsoft Visual Studio ](https://visualstudio.microsoft.com/)
+  * [ Windows Dev Center ](https://developer.microsoft.com/en-us/windows)
+  * [ Developer Center ](https://developer.microsoft.com/)
+  * [ Microsoft developer program ](https://developer.microsoft.com/en-us/store/register)
+  * [ Channel 9 ](https://channel9.msdn.com/)
+  * [ Office Dev Center ](https://developer.microsoft.com/en-us/office)
+  * [ Microsoft Garage ](https://www.microsoft.com/en-us/garage/)
+
+Company
+
+  * [ Careers ](https://careers.microsoft.com/)
+  * [ About Microsoft ](https://www.microsoft.com/en-us/about)
+  * [ Company news ](https://news.microsoft.com/)
+  * [ Privacy at Microsoft ](https://privacy.microsoft.com/en-us)
+  * [ Investors ](https://www.microsoft.com/investor/default.aspx)
+  * [ Diversity and inclusion ](https://www.microsoft.com/en-us/diversity/)
+  * [ Accessibility ](https://www.microsoft.com/en-us/accessibility)
+  * [ Security ](https://www.microsoft.com/en-us/security/default.aspx)
+
+[ English \(United States\) ](https://www.microsoft.com/en-us/windows-
+server/locale?absoluteReturnUrl=https%3a%2f%2fwww.microsoft.com%2fen-
+us%2fwindows-server)
+
+  * [ Sitemap ](https://www.microsoft.com/en-us/sitemap1.aspx)
+  * [ Contact Microsoft ](https://support.microsoft.com/contactus)
+  * [ Privacy ](https://go.microsoft.com/fwlink/?LinkId=521839)
+  * Manage cookies 
+  * [ Terms of use ](https://go.microsoft.com/fwlink/?LinkID=206977)
+  * [ Trademarks ](https://www.microsoft.com/trademarks)
+  * [ Safety & eco ](https://www.microsoft.com/en-us/devices/safety-and-eco )
+  * [ About our ads ](https://choice.microsoft.com)
+  * © Microsoft 2021 
+

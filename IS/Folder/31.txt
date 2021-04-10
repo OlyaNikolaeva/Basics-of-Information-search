@@ -1,0 +1,1037 @@
+evprod-app-1:  
+RD00155DE8F648  
+03/31/2021 4:50:08 PM
+
+Перейти к основному содержимому
+
+![]()
+
+[ ]()
+
+[ Перейти к основному контенту ](javascript:void\(0\))
+
+[ ![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31) Microsoft
+](https://www.microsoft.com)
+
+  * [ Microsoft 365 ](https://www.microsoft.com/ru-ru/microsoft-365/business/all-business)
+  * [ Azure ](https://azure.microsoft.com)
+  * [ Office 365 ](https://products.office.com/ru-ru/business/office)
+  * [ Dynamics 365 ](https://www.microsoft.com/ru-ru/dynamics365/home)
+  * [ Power Platform ](https://powerplatform.microsoft.com/ru-ru)
+  * [ Windows 10 ](https://www.microsoft.com/ru-ru/windowsforbusiness)
+  * Больше 
+
+  * Все продукты Microsoft 
+    *       * [ Microsoft 365 ](https://www.microsoft.com/ru-ru/microsoft-365/business/all-business)
+      * [ Azure ](https://azure.microsoft.com)
+      * [ Office 365 ](https://products.office.com/ru-ru/business/office)
+      * [ Dynamics 365 ](https://www.microsoft.com/ru-ru/dynamics365/home)
+      * [ Power Platform ](https://powerplatform.microsoft.com/ru-ru)
+      * [ Windows 10 ](https://www.microsoft.com/ru-ru/windowsforbusiness)
+    * Продукты и услуги  Продукты и услуги 
+      * [ Windows Server ](https://www.microsoft.com/cloud-platform/windows-server)
+      * [ Enterprise Mobility + Security ](https://www.microsoft.com/cloud-platform/enterprise-mobility-security)
+      * [ Power BI ](https://powerbi.microsoft.com/ru-ru/)
+      * [ Группы ](https://www.microsoft.com/ru-ru/microsoft-teams/group-chat-software)
+      * [ Visual Studio ](https://visualstudio.microsoft.com/)
+    * Новые технологии  Новые технологии 
+      * [ Искусственный интеллект ](https://www.microsoft.com/ai/)
+      * [ Интернет вещей ](https://www.microsoft.com/internet-of-things/)
+      * [ Службы Azure Cognitive Services ](https://azure.microsoft.com/services/cognitive-services/)
+      * [ Quantum ](https://www.microsoft.com/quantum/)
+    * Разработчик и ИТ  Разработчик и ИТ 
+      * [ Документы ](https://docs.microsoft.com/ru-ru/)
+      * [ Центр разработчиков ](https://developer.microsoft.com/)
+      * [ Центр разработчиков Windows ](https://developer.microsoft.com/ru-ru/windows)
+      * [ Windows IT Pro Center ](https://www.microsoft.com/ru-ru/itpro/windows)
+      * [ FastTrack ](https://fasttrack.microsoft.com/office)
+      * [ Power Platform ](https://powerplatform.microsoft.com/ru-ru)
+    * Партнер  Партнер 
+      * [ Партнерская сеть ](https://partner.microsoft.com/)
+      * [ Поставщики решений ](https://www.microsoft.com/ru-ru/solution-providers)
+      * [ Центр партнеров ](https://partnercenter.microsoft.com/partner/home)
+    * Отрасли  Отрасли 
+      * [ Образование ](https://www.microsoft.com/ru-ru/education?icid=CNavMSCOML0_Studentsandeducation)
+      * [ Финансовые услуги ](https://www.microsoft.com/enterprise/financial-services/banking-and-capital-markets)
+      * [ Государственный сектор ](https://www.microsoft.com/ru-ru/enterprise/government)
+      * [ Здравоохранение ](https://www.microsoft.com/ru-ru/enterprise/health)
+      * [ Производство и ресурсы ](https://www.microsoft.com/ru-ru/enterprise/manufacturing)
+      * [ Розничная торговля ](https://www.microsoft.com/ru-ru/enterprise/retail-consumer-goods)
+    * Прочее  Прочее 
+      * [ Безопасность ](https://www.microsoft.com/security/)
+      * [ Лицензирование ](https://www.microsoft.com/licensing/)
+      * [ AppSource ](https://appsource.microsoft.com/)
+      * [ Azure Marketplace ](https://azuremarketplace.microsoft.com/marketplace/)
+      * [ Мероприятия ](https://events.microsoft.com/)
+      * [ Исследования ](https://www.microsoft.com/research/)
+    * [ Посмотреть карту сайта ](https://www.microsoft.com/ru-ru/sitemap.aspx)
+
+Поиск  Поиск на Microsoft.com
+
+Отмена  [ 0  Корзина  0 товары в корзине  ](https://www.microsoft.com/ru-
+ru/store/buy)
+
+Войти
+
+[ Evaluation Center ](/ru-ru/evalcenter/)
+
+[ Evaluation Center ](javascript:void\(0\);)
+
+__
+
+  
+
+[ Главная  ](/ru-ru/evalcenter/ "Главная")
+
+Оценить сейчас
+
+  * [ Windows ](javascript:void\(0\);)
+
+  * [ Windows 10 Enterprise ](evaluate-windows-10-enterprise)
+
+  * [ Windows Server ](javascript:void\(0\);)
+
+  * [ Windows Server 2019 ](evaluate-windows-server-2019)
+  * [ Windows Server 2019 Essentials ](evaluate-windows-server-2019-essentials)
+  * [ Microsoft Hyper-V Server 2019 ](evaluate-hyper-v-server-2019)
+  * [ Windows Admin Center ](evaluate-windows-admin-center)
+
+  * [ SQL Server ](javascript:void\(0\);)
+
+  * [ SQL Server 2019 ](evaluate-sql-server-2019)
+  * [ SQL Server 2017 ](evaluate-sql-server-2017-rtm)
+  * [ SQL Server 2016 ](evaluate-sql-server-2016)
+  * [ SQL Server 2014 ](evaluate-sql-server-2014-sp3)
+
+  * [ Hybrid ](javascript:void\(0\);)
+
+  * [ Azure SQL Edge ](evaluate-azure-sql-edge)
+
+  * [ Microsoft Azure ](javascript:void\(0\);)
+
+  * [ Azure Migration Program ](evaluate-azure-migration-program)
+  * [ Попробуйте Azure бесплатно ](evaluate-https://azure.microsoft.com/ru-ru/free/)
+
+  * [ System Center ](javascript:void\(0\);)
+
+  * [ System Center 2019 ](evaluate-system-center-2019)
+  * [ System Center 2016 ](evaluate-system-center-2016)
+
+  * [ Microsoft Endpoint Manager ](javascript:void\(0\);)
+
+  * [ Microsoft Endpoint Configuration Manager \(Current Branch\) ](evaluate-microsoft-endpoint-configuration-manager)
+  * [ Microsoft Endpoint Configuration Manager \(Technical Preview\) ](evaluate-microsoft-endpoint-configuration-manager-technical-preview)
+  * [ Microsoft Intune ](evaluate-intune)
+
+  * [ Microsoft Viva ](javascript:void\(0\);)
+
+  * [ Microsoft Viva Topics ](evaluate-viva-topics)
+
+  * [ Microsoft 365 ](javascript:void\(0\);)
+
+  * [ SharePoint Syntex ](evaluate-sharepoint-syntex)
+  * [ Project ](evaluate-project)
+  * [ Visio ](evaluate-visio)
+  * [ Microsoft 365 Apps for enterprise ](evaluate-microsoft-365-apps-enterprise)
+
+  * [ Office Servers ](javascript:void\(0\);)
+
+  * [ SharePoint Server 2019 ](evaluate-sharepoint-server-2019)
+  * [ Project Server 2019 ](evaluate-project-server-2019)
+  * [ Skype for Business Server 2019 ](evaluate-skype-business-server-2019)
+
+  * [ Microsoft Defender for Identity ](javascript:void\(0\);)
+
+  * [ Microsoft Defender for Identity ](evaluate-identity-defender)
+
+  * [ Identity Manager ](javascript:void\(0\);)
+
+  * [ Microsoft Identity Manager 2016 SP1 ](evaluate-microsoft-identity-manager-2016)
+
+  * [ Integration Services ](javascript:void\(0\);)
+
+  * [ Host Integration Server 2020 ](evaluate-host-integration-server-2020)
+  * [ BizTalk Server 2016 ](evaluate-biztalk-server-2016)
+
+  * [ Power Platform ](javascript:void\(0\);)
+
+  * [ Power BI Pro ](evaluate-power-bi-pro)
+  * [ Power Apps ](evaluate-powerapps)
+  * [ Power Automate ](evaluate-power-automate)
+  * [ Power Virtual Agents ](evaluate-power-virtual-agents)
+
+  * [ Dynamics 365 ](javascript:void\(0\);)
+
+  * [ Dynamics 365 ](evaluate-https://trials.dynamics.com/)
+
+[ Найти все продукты ](/ru-ru/evalcenter/search?k=&p=&a=&s=&r=16&so=)
+
+[ Ознакомиться  ](explore "Ознакомиться")
+
+[ Попробовать  ](try "Попробовать")
+
+[ Изучить  ](learn "Изучить")
+
+Оценить сейчас
+
+  * Windows 
+  * [ Windows 10 Enterprise ](evaluate-windows-10-enterprise "Windows 10 Enterprise")
+
+  * Windows Server 
+  * [ Windows Server 2019 ](evaluate-windows-server-2019 "Windows Server 2019")
+  * [ Windows Server 2019 Essentials ](evaluate-windows-server-2019-essentials "Windows Server 2019 Essentials")
+  * [ Microsoft Hyper-V Server 2019 ](evaluate-hyper-v-server-2019 "Microsoft Hyper-V Server 2019")
+  * [ Windows Admin Center ](evaluate-windows-admin-center "Windows Admin Center")
+
+  * SQL Server 
+  * [ SQL Server 2019 ](evaluate-sql-server-2019 "SQL Server 2019")
+  * [ SQL Server 2017 ](evaluate-sql-server-2017-rtm "SQL Server 2017")
+  * [ SQL Server 2016 ](evaluate-sql-server-2016 "SQL Server 2016")
+  * [ SQL Server 2014 ](evaluate-sql-server-2014-sp3 "SQL Server 2014")
+
+  * Hybrid 
+  * [ Azure SQL Edge ](evaluate-azure-sql-edge "Azure SQL Edge")
+
+  * Microsoft Azure 
+  * [ Azure Migration Program ](evaluate-azure-migration-program "Azure Migration Program")
+  * [ Попробуйте Azure бесплатно ](https://azure.microsoft.com/ru-ru/free/ "Попробуйте Azure бесплатно")
+
+  * System Center 
+  * [ System Center 2019 ](evaluate-system-center-2019 "System Center 2019")
+  * [ System Center 2016 ](evaluate-system-center-2016 "System Center 2016")
+
+  * Microsoft Endpoint Manager 
+  * [ Microsoft Endpoint Configuration Manager \(Current Branch\) ](evaluate-microsoft-endpoint-configuration-manager "Microsoft Endpoint Configuration Manager \(Current Branch\)")
+  * [ Microsoft Endpoint Configuration Manager \(Technical Preview\) ](evaluate-microsoft-endpoint-configuration-manager-technical-preview "Microsoft Endpoint Configuration Manager \(Technical Preview\)")
+  * [ Microsoft Intune ](evaluate-intune "Microsoft Intune")
+
+  * Microsoft Viva 
+  * [ Microsoft Viva Topics ](evaluate-viva-topics "Microsoft Viva Topics")
+
+  * Microsoft 365 
+  * [ SharePoint Syntex ](evaluate-sharepoint-syntex "SharePoint Syntex")
+  * [ Project ](evaluate-project "Project")
+  * [ Visio ](evaluate-visio "Visio")
+  * [ Microsoft 365 Apps for enterprise ](evaluate-microsoft-365-apps-enterprise "Microsoft 365 Apps for enterprise")
+
+  * Office Servers 
+  * [ SharePoint Server 2019 ](evaluate-sharepoint-server-2019 "SharePoint Server 2019")
+  * [ Project Server 2019 ](evaluate-project-server-2019 "Project Server 2019")
+  * [ Skype for Business Server 2019 ](evaluate-skype-business-server-2019 "Skype for Business Server 2019")
+
+  * Microsoft Defender for Identity 
+  * [ Microsoft Defender for Identity ](evaluate-identity-defender "Microsoft Defender for Identity")
+
+  * Identity Manager 
+  * [ Microsoft Identity Manager 2016 SP1 ](evaluate-microsoft-identity-manager-2016 "Microsoft Identity Manager 2016 SP1")
+
+  * Integration Services 
+  * [ Host Integration Server 2020 ](evaluate-host-integration-server-2020 "Host Integration Server 2020")
+  * [ BizTalk Server 2016 ](evaluate-biztalk-server-2016 "BizTalk Server 2016")
+
+  * Power Platform 
+  * [ Power BI Pro ](evaluate-power-bi-pro "Power BI Pro")
+  * [ Power Apps ](evaluate-powerapps "Power Apps")
+  * [ Power Automate ](evaluate-power-automate "Power Automate")
+  * [ Power Virtual Agents ](evaluate-power-virtual-agents "Power Virtual Agents")
+
+  * Dynamics 365 
+  * [ Dynamics 365 ](https://trials.dynamics.com/ "Dynamics 365")
+
+[ Найти все продукты ](/ru-ru/evalcenter/search?k=&p=&a=&s=&r=16&so=)
+
+[ Ознакомиться  ](explore)
+
+[ Попробовать  ](try)
+
+[ Изучить  ](learn)
+
+  
+
+Произошла ошибка. Повторите попытку.
+
+Ваш сеанс работы закончился, поскольку вы не осуществляли каких-либо действий.
+Нажмите кнопку "ОК", чтобы снова войти.
+
+Нет элементов для закрепления.
+
+Нельзя закрепить одновременно более 30 результатов.
+
+При поиске допускается использовать только буквы, цифры и знаки препинания.
+
+  
+
+  *     * Мои уведомления: 
+    * **** ****
+
+    * [ **Войдите в систему, чтобы управлять вашими уведомлениями** ](javascript:InvokeMicrosoftSignIn\(\);void\(0\);)
+
+  *     * Мои действия 
+    * [ **Войдите в систему, чтобы просмотреть ваши действия** ](javascript:InvokeMicrosoftSignIn\(\);void\(0\);)
+
+    * Мои действия 
+    * Выполняется загрузка: 
+
+Приостановлено:
+
+Загрузка завершена:
+
+**** ****
+
+    * [ Просмотреть все действия ]()
+  *   *     * [ ](https://profile.live.com)
+      * [ Настройки учетной записи ](https://profile.live.com)
+      * [ Выйти из системы ](javascript:document.getElementById\('logoutForm'\).action='/en-us/evalcenter/account/LogOff?returnUrl=' + escape\(window.location\);document.getElementById\('logoutForm'\).submit\(\);)
+
+  
+
+[ ]()
+
+#  Windows Ознакомительные версии
+
+  
+
+  * Мой опыт 
+  * Мои действия 
+  * Мой профиль 
+
+Мои ознакомительные версии
+
+[ Ознакомительная версия  Ознакомительные версии  ](my-evaluations "my
+evaluations")
+
+[ Virtual Lab  Virtual Labs  ](my-virtual-labs "my virtual labs")
+
+[ Технический тур  Технические туры  ](my-tech-journey "my tech journey")
+
+[ Ресурс  Ресурсы  ](my-resources "my resources")
+
+[ Сообщество  Сообщество  ](my-community)
+
+[ Инструменты и рекомендации  Инструменты и рекомендации  ](my-tools-and-tips)
+
+Ознакомительные версии  Выполните вход, чтобы, чтобы отслеживать свои
+ознакомительные версии
+
+[ ](javascript:InvokeMicrosoftSignIn\(\);void\(0\); "Signin link")
+
+Virtual Labs  Выполните вход, чтобы, чтобы отслеживать свои виртуальные
+лаборатории
+
+[ ](javascript:InvokeMicrosoftSignIn\(\);void\(0\); "Signin link")
+
+Технические туры  Выполните вход, чтобы, чтобы отслеживать свои технические
+туры
+
+[ ](javascript:InvokeMicrosoftSignIn\(\);void\(0\); "Signin link")
+
+Ресурсы  Выполните вход, чтобы закрепить ресурсы
+
+[ ](javascript:InvokeMicrosoftSignIn\(\);void\(0\); "Signin link")
+
+Сообщество  Выполните вход, чтобы ознакомиться с сообществом
+
+[ ](javascript:InvokeMicrosoftSignIn\(\);void\(0\); "Signin link")
+
+Инструменты и рекомендации  Выполните вход, чтобы узнать больше
+
+[ ](javascript:InvokeMicrosoftSignIn\(\);void\(0\); "Signin link")
+
+[ Войдите в систему, чтобы просмотреть ваши действия
+](javascript:InvokeMicrosoftSignIn\(\);void\(0\); "Sign in to see your
+actions")
+
+Мои действия
+
+Результатов не найдено
+
+  *   
+
+![Выполняется загрузка...](/en-us/evalcenter/img/progress.gif) Выполняется
+загрузка...
+
+[ Войдите в систему, чтобы просмотреть ваш профиль
+](javascript:InvokeMicrosoftSignIn\(\);void\(0\);)
+
+Мой профиль
+
+  
+
+**Электронная почта:**
+
+**Страна:**
+
+**Почтовый индекс:**
+
+  
+[ Изменить мой профиль ](https://profile.live.com)
+
+  
+
+**Сортировка:**
+
+Последние  В алфавитном порядке
+
+**Усовершенствованный фильтр**
+
+* * *
+
+  * [ **Усовершенствованный фильтр** ](javascript:void\(0\); "advanced filter")
+
+**Искать только в этих продуктах:**
+
+  * [ Продукты  ](javascript:void\(0\); "Продукты")
+
+  * Windows 
+  * Windows Server 
+  * SQL Server 
+  * Hybrid 
+  * Azure Migration Program 
+  * System Center 
+  * Microsoft Endpoint Manager 
+  * Microsoft Viva 
+  * Microsoft 365 
+  * Office Servers 
+  * Microsoft Defender for Identity 
+  * Identity Manager 
+  * Integration Services 
+  * Power Platform 
+  * Частный 
+
+**Искать в этих элементах действия:**
+
+  * [ Действия  ](javascript:void\(0\);)
+
+  * Изучить 
+  * Попробовать 
+  * Ознакомиться 
+
+**Искать в этих типах ресурсов:**
+
+  * [ Ресурсы  ](javascript:void\(0\);)
+
+  * Оценки 
+  * Руководства по началу работы 
+  * Ресурсы для продукта 
+  * Курсы и обучение MVA 
+  * Виртуальные практические занятия 
+  * Сообщество 
+  * Видео 
+  * Техническая документация 
+  * Варианты приобретения 
+  * Справка и поддержка 
+  * Технические туры 
+  * Конкретные примеры 
+  * Вопросы и ответы 
+  * Социальные медиа 
+
+  
+
+[ Выполните вход, чтобы, чтобы отслеживать свои ознакомительные версии
+](javascript:InvokeMicrosoftSignIn\(\);void\(0\);)
+
+[ Выполните вход, чтобы закрепить ресурсы
+](javascript:InvokeMicrosoftSignIn\(\);void\(0\);)
+
+[ Выполните вход, чтобы ознакомиться с сообществом
+](javascript:InvokeMicrosoftSignIn\(\);void\(0\);)
+
+[ Выполните вход, чтобы, чтобы отслеживать свои технические туры
+](javascript:InvokeMicrosoftSignIn\(\);void\(0\);)
+
+[ Выполните вход, чтобы узнать больше
+](javascript:InvokeMicrosoftSignIn\(\);void\(0\);)
+
+[ Выполните вход, чтобы, чтобы отслеживать свои виртуальные лаборатории
+](javascript:InvokeMicrosoftSignIn\(\);void\(0\);)
+
+Результатов не найдено
+
+  *   
+
+![Выполняется загрузка...](/en-us/evalcenter/img/progress.gif) Выполняется
+загрузка...
+
+Просмотреть все ознакомительные версии
+
+Просмотреть все виртуальные лабораторные занятия
+
+Просмотреть все технические туры
+
+Просмотреть все ознакомительные версии
+
+Просмотреть все виртуальные лабораторные занятия
+
+Просмотреть все технические туры
+
+![Progress](/en-us/evalcenter/img/progress.gif) Выполняется загрузка...
+
+  * ##  Windows 10 Enterprise 
+
+Оценки  |  90 дн.
+
+##  Windows 10 Enterprise
+
+Оценки  |  90 дн.  5 |  Последнее посещение:  
+
+    * ![Progress](/en-us/evalcenter/img/progress.gif)
+    * [ ](evaluate-windows-10-enterprise "Скачать ресурс")
+
+    *     * [ ![Опубликовать в Facebook](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в Facebook")
+    * [ ![Опубликовать в Twitter](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в Twitter")
+    * [ ![Опубликовать в VK](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в VK")
+
+  
+
+    * Это ознакомительное ПО предназначено для ИТ-специалистов, которые хотят ознакомиться с Windows 10 Enterprise от имени своей организации. Мы не рекомендуем установку этой ознакомительной версии, если вы не являетесь ИТ-специалистом или не отвечаете за управление корпоративными сетями или устройствами. 
+
+###  Начни бесплатно
+
+**Выберите ваш опыт:**
+
+ISO - Enterprise  
+ISO - LTSC  
+
+Для этой ознакомительной версии требуется регистрация.
+
+[ Зарегистрируйтесь, чтобы продолжить ](javascript:void\(0\))
+
+Нажмите "Продолжить", чтобы начать ознакомление.
+
+Заполните форму, чтобы продолжить:
+
+\* Имя
+
+\* Фамилия
+
+\* Название компании
+
+\* Рабочий электронный адрес
+
+\* Номер рабочего телефона
+
+\* Должность
+
+Выберите один  Администратор/архитектор базы данных  Аналитик/пресса  Бизнес-
+руководитель  Другой ИТ-специалист  Исследователь/ученый/студент
+ИТ-/технический руководитель  Маркетинг/продажи  Разработчик/инженер
+Системный администратор/архитектор
+
+\* Размер компании
+
+Выберите один  1  2-4  5-9  10-24  25-49  50-249  250-999  1000+
+
+\* страна или регион
+
+Выберите один  Австралия  Австрия  Азербайджан  Аландские о-ва  Албания  Алжир
+Американское Самоа  Ангилья  Ангола  Андорра  Антарктида  Антигуа и Барбуда
+Аргентина  Армения  Аруба  Афганистан  Багамы  Бангладеш  Барбадос  Бахрейн
+Беларусь  Белиз  Бельгия  Бенин  Бермуды  Болгария  Боливия  Бонэйр  Босния и
+Герцеговина  Ботсвана  Бразилия  Британская территория в Индийском океане
+Бруней-Даруссалам  Буркина-Фасо  Бурунди  Бутан  Вануату  Ватикан  Венгрия
+Венесуэла  Виргинские о-ва \(Великобритания\)  Виргинские о-ва \(США\)
+Внешние малые о-ва \(США\)  Вьетнам  Габон  Гаити  Гайана  Гамбия  Гана
+Гваделупа  Гватемала  Гвинея  Гвинея-Бисау  Германия  Гернси  Гибралтар
+Гондурас  Гонконг \(САР\)  Гренада  Гренландия  Греция  Грузия  Гуам  Дания
+Джерси  Джибути  Доминика  Доминиканская Республика  Египет  Замбия  Зимбабве
+Израиль  Индия  Индонезия  Иордания  Ирак  Иран  Ирландия  Исландия  Испания
+Италия  Йемен  Кабо-Верде  Казахстан  Камбоджа  Камерун  Канада  Катар  Кения
+Кипр  Киргизия  Кирибати  Китай  КНДР  Кокосовые о-ва  Колумбия  Коморы  Конго
+Конго \(ДРК\)  Косово  Коста-Рика  Кот-д’Ивуар  Куба  Кувейт  Кюрасао  Лаос
+Латвия  Лесото  Либерия  Ливан  Ливия  Литва  Лихтенштейн  Люксембург
+Маврикий  Мавритания  Мадагаскар  Майотта  Макао \(САР\)  Малави  Малайзия
+Мали  Мальдивы  Мальта  Марокко  Мартиника  Маршалловы Острова  Мексика
+Мозамбик  Молдова  Монако  Монголия  Монтсеррат  Мьянма  Намибия  Науру  Непал
+Нигер  Нигерия  Нидерланды  Никарагуа  Ниуэ  Новая Зеландия  Новая Каледония
+Норвегия  ОАЭ  о-в Буве  о-в Мэн  о-в Норфолк  о-в Рождества  о-ва Питкэрн
+о-ва Св. Елены, Вознесения и Тристан-да-Кунья  о-ва Тёркс и Кайкос  о-ва Херд
+и Макдональд  Оман  Острова Кайман  Острова Кука  Пакистан  Палау
+Палестинская Автономия  Панама  Папуа — Новая Гвинея  Парагвай  Перу  Польша
+Португалия  Пуэрто-Рико  Республика Корея  Реюньон  Россия  Руанда  Румыния
+Саба  Сальвадор  Самоа  Сан-Марино  Сан-Томе и Принсипи  Саудовская Аравия
+Северная Македония  Северные Марианские о-ва  Сейшельские Острова  Сен-
+Бартелеми  Сенегал  Сен-Мартен  Сен-Пьер и Микелон  Сент-Винсент и Гренадины
+Сент-Китс и Невис  Сент-Люсия  Сербия  Сингапур  Синт-Мартен  Синт-Эстатиус
+Сирия  Словакия  Словения  Соединенное Королевство  Соединенные Штаты
+Соломоновы Острова  Сомали  Судан  Суринам  Сьерра-Леоне  Таджикистан  Таиланд
+Тайвань  Танзания  Тимор-Лесте  Того  Токелау  Тонга  Тринидад и Тобаго
+Тувалу  Тунис  Туркменистан  Турция  Уганда  Узбекистан  Украина  Уоллис и
+Футуна  Уругвай  Фарерские о-ва  Федеративные Штаты Микронезии  Фиджи
+Филиппины  Финляндия  Фолклендские о-ва  Франция  Французская Гвиана
+Французская Полинезия  Французские Южные территории  Хорватия  ЦАР  Чад
+Черногория  Чехия  Чили  Швейцария  Швеция  Шпицберген  Шри-Ланка  Эквадор
+Экваториальная Гвинея  Эритрея  Эсватини  Эстония  Эфиопия  ЮАР  Южная
+Джорджия и Южные Сандвичевы Острова  Южный Судан  Ямайка  Ян-Майен  Япония
+
+"\*" Обозначает обязательное поле
+
+Да
+
+![](/en-us/evalcenter/img/progress.gif) Выполняется загрузка...
+
+Ваша загрузка началась.  Эта загрузка состоит из нескольких файлов.
+
+Если загрузка не начнется автоматически, нажмите кнопку ниже.
+
+[ ]()
+
+Извините. Произошла техническая ошибка, и мы не можем предоставить вам
+возможность загрузки. Наши технические специалисты работают над этим.
+Повторите попытку позже.
+
+Вы можете загрузить эту ознакомительную версию только с настольного
+компьютера.
+
+**Выберите платформу:**
+
+32-разрядная  
+64-разрядная
+
+**Выберите язык:**
+
+  
+
+* * *
+
+    * ###  Описание 
+
+**Windows 10 Enterprise разработана для удовлетворения потребностей
+предприятий крупного и среднего размера. Данная цель достигается благодаря
+предоставлению ИТ-специалистам следующих возможностей:**
+
+      * Повышенная защита против современных угроз безопасности. 
+      * Гибкие возможности развертывания, обновления и технической поддержки. 
+      * Комплексный контроль устройств и приложений и управление ими. 
+
+Windows 10 версии 20H2 упрощает защиту конечных точек, обнаруживает
+высокотехнологичные атаки, автоматизирует реакцию на возникающие угрозы и
+повышает уровень безопасности. В этой версии также оптимизированы
+развертывание и служба обновлений, и теперь производитель может напрямую
+представлять вашим пользователям корпоративные устройства.
+
+Ищите информацию о конкретных возможностях? [ См. новые возможности Windows
+10. ](https://techcommunity.microsoft.com/t5/windows-10/ct-p/Windows10)
+
+**Языки:**
+
+      * английский \(США\), английский \(Великобритания\), испанский, итальянский, китайский \(традиционное письмо\), китайский \(упрощенное письмо\), корейский, немецкий, португальский \(Бразилия\), французский и японский. 
+
+**Выпуски**
+
+      * Windows 10 Enterprise, version  20H2  | 64-bit ISO 
+      * Windows 10 Enterprise, version  20H2  | 32-bit ISO 
+      * Windows 10 Enterprise LTSC 2019 | 64-bit ISO 
+      * Windows 10 Enterprise LTSC 2019 | 32-bit ISO 
+
+* * *
+
+    * ###  Обязательные условия 
+
+**Перед скачиванием внимательно ознакомьтесь с руководством по активации и
+использованию и и сведениями из раздела "Что важно знать".**
+
+      1. Ознакомьтесь с [ требованиями к системе ](https://www.microsoft.com/zh-cn/windows/windows-10-specifications) для Windows 10. 
+      2. Зарегистрируйтесь, а затем загрузите и установите 90-дневную ознакомительную полнофункциональную версию программного обеспечения. 
+      3. Вы будете получать электронные сообщения с ресурсами, которые помогут вам ознакомиться с продуктом. 
+
+**Руководство по активации и использованию**
+
+      * Планируйте заранее. Сделайте резервные копии своих файлов и параметров перед установкой ознакомительной версии. 
+      * После установки Windows предложит вам активировать. Для этого программного обеспечения ключ продукта не требуется. 
+      * Чтобы использовать Windows 10 Enterprise, необходимо войти на ПК, используя учетную запись Майкрософт. Возможность создания локальной учетной записи станет доступна во время выпуска окончательной версии. 
+      * Если вы хотите установить Windows 10 Enterprise с помощью одного из предоставленных ISO-файлов, вы не сможете установить его. Кроме того, после установки Windows 10 Enterprise вы не сможете использовать раздел восстановления на ПК, чтобы вернуться к предыдущей версии Windows. Потребуется чистая установка предыдущей версии операционной системы, и вам понадобится переустановить все программы и данные. 
+      * Если вы не активировали ознакомительную версию после установки или если срок действия ознакомительной версии истек, фон рабочего стола станет черным, а на рабочем столе появится уведомление о том, что система не является подлинной и что ПК будет отключаться каждый час. 
+
+**Что важно знать**
+
+      * Windows 10 Enterprise может работать с теми же устройствами и программами, которые работают с Windows 8.1. В некоторых случаях устройство или программа могут работать неправильно или могут потребовать обновления, а также может понадобиться переустановить некоторые программы после установки ознакомительной версии. 
+      * Загрузка Windows 10 Enterprise может занять несколько часов. Точная продолжительность скачивания будет зависеть от вашего провайдера, пропускной способности и трафика \(могут применяться цены поставщика услуг Интернета\). 
+      * Последнюю информацию об устаревших функциях и дополнительных требованиях, связанных с использованием ряда возможностей, см. в [ спецификациях Windows 10 ](https://www.microsoft.com/ru-ru/windows/windows-10-specifications) . Для получения технической информации посетите форумы [ Windows 10 Tech Community ](https://techcommunity.microsoft.com/t5/windows-10/ct-p/Windows10) . 
+
+**Проверьте скачивание**
+
+Чтобы проверить подлинность и целостность скачанных данных, выполните
+следующие действия:
+
+      1. Скачайте файл образа ISO для нужного продукта в разделе **Начать оценку** и выполните инструкции по установке. 
+      2. Запустите Windows PowerShell. Где находится PowerShell в вашей операционной системе, можно посмотреть [ здесь ](https://docs.microsoft.com/ru-ru/powershell/scripting/windows-powershell/install/installing-windows-powershell?view=powershell-7) . 
+      3. В PowerShell вычислите хэш-значение для скачанного файла ISO, используя **Get-FileHash** Например: Get-FileHash C:\Users\user1\Downloads\Contoso8\_1\_ENT.iso 
+      4. Если результат SHA256 соответствует значению в таблице ниже \(для скачанного продукта\), это означает, что файл не был поврежден, незаконно изменен и не отличается от оригинального. 
+
+**Получить дополнительную информацию о команде[ Get-FileHash
+](https://docs.microsoft.com/ru-ru/powershell/scripting/windows-
+powershell/install/installing-windows-powershell?view=powershell-7) . **
+
+**описание продукта** |  **Языки** |  **32/64 bit** |  **SHA256**  
+---|---|---|---  
+Enterprise Eval x64 Eval de-de DVD9  |  German  |  64 bit  |
+9AD7640298764AA1AF90DC8F46257F7050DF5D2FA00B4067800CBB2631283A83  
+Enterprise Eval x86 Eval de-de DVD9  |  German  |  32 bit  |
+52A282BB81EF8A3EBA667F12117AEDC5E133D23C933DD6D468CB51BC2EEDCA65  
+Enterprise Eval x64 Eval en-GB DVD9  |  English \(United Kingdom\)  |  64 bit
+|  9B70840EDE074E4B41F145B151C1BECB2941E1212F3572EB5C5792A90AD72414  
+Enterprise Eval x86 Eval en-GB DVD9  |  English \(United Kingdom\)  |  32 bit
+|  9C5A29530A3B0F30AEE38996D807AEBD16AD1DDEC68079B9717F64C8E3610FB4  
+Enterprise Eval x64 Eval en-us DVD9  |  English  |  64 bit  |
+32C7B0A51A48CC4F67C250BE4FE2B384FEBB9CC864C5B77A052D4E2845394EAC  
+Enterprise Eval x86 Eval en-us DVD9  |  English  |  32 bit  |
+FD6AF6C796003AD309EE34BF0D686A16FBC0EA00B44BB9E4494BBF40F82372C8  
+Enterprise Eval x64 Eval es-es DVD9  |  Spanish  |  64 bit  |
+483D78A8D7A8CE893AD1C8DABB399DA9E7A2A5279141814EF5D6EE88F5314FB7  
+Enterprise Eval x86 Eval es-es DVD9  |  Spanish  |  32 bit  |
+60881728A321483160B5485F6694EB698A9F4FF6E45DEC124128E7BA7D1A69FF  
+Enterprise Eval x64 Eval fr-fr DVD9  |  French  |  64 bit  |
+1BE98D902F6BDFEA47E4D729E79F77B029F86A05837EE1C075C1262BC7ED1A60  
+Enterprise Eval x86 Eval fr-fr DVD9  |  French  |  32 bit  |
+4F682F0FA915488356608D5C6DAEC5460B6239E5F8E4165EE0E9EA93A4DBBDD4  
+Enterprise Eval x64 Eval it-it DVD9  |  Italian  |  64 bit  |
+60ACE5D27EDA52319FD826A97FEBEA76A2FB8E5BC44E88CE53E702A65846223E  
+Enterprise Eval x86 Eval it-it DVD9  |  Italian  |  32 bit  |
+D7A3A2E7BBBE4848ABDA24339CB338381875A6BF0A75CA51D93404EE6E88784D  
+Enterprise Eval x64 Eval ja-jp DVD9  |  Japanese  |  64 bit  |
+2693DACE373137DB63BDC680B87B24F0022A6E530A9D873907CBB1AF6036614A  
+Enterprise Eval x86 Eval ja-jp DVD9  |  Japanese  |  32 bit  |
+B367A38E161BF2B12C13939A3906128941FCBEF9E627F322C5265A7678FDE145  
+Enterprise Eval x64 Eval KO-KR DVD9  |  Korean  |  64 bit  |
+39A8FE53DED26788FD8CC316B7161311AB2B0E2E385D15AD45B0B2E7A01C0D56  
+Enterprise Eval x86 Eval KO-KR DVD9  |  Korean  |  32 bit  |
+962B88DF8EB5275AAEE263FE9DBFDC599E92BA0B3E3A02F60739A6BEAD1AD1EC  
+Enterprise Eval x64 Eval PT-BR DVD9  |  Portuguese \(Brazil\)  |  64 bit  |
+9A1C8C8795CB0AC0517720ED968491366EC71125EFBC3FC1681E01A63D9B2FE2  
+Enterprise Eval x86 Eval PT-BR DVD9  |  Portuguese \(Brazil\)  |  32 bit  |
+F8181115F4194F1E382C8956E7C176C49D8CEAF7F3B19B535969304FC473FE9B  
+Enterprise Eval x64 Eval ZH-CN DVD9  |  Chinese Simplified  |  64 bit  |
+46D58132B23CE91BF766845CF8C24BE0D555ED7723D6D685865B5039E31379A0  
+Enterprise Eval x86 Eval ZH-CN DVD9  |  Chinese Simplified  |  32 bit  |
+95BF7FCC8C6FA9046C1B46C31FFBD956D09C8BC67374A6B24154397BC20ABAE5  
+Enterprise Eval x64 Eval ZH-TW DVD9  |  Chinese Traditional TW  |  64 bit  |
+D917ED1A9588C1A8829BEEE36B78E7FEDF1615CE32F628B2B2133D41FAD03EDA  
+Enterprise Eval x86 Eval ZH-TW DVD9  |  Chinese Traditional TW  |  32 bit  |
+911A004B102C3C2337E8B31ED0C808D85D8C201FBB8789C2977CC5FEFAF962D1  
+  
+* * *
+
+    * ###  Ознакомиться 
+
+      * [ Подробнее о продукте: Windows 10 Enterprise  Ресурсы для продукта  |  Последнее посещение:  ](https://www.microsoft.com/ru-ru/microsoft-365/windows/windows-10-enterprise)
+
+Подробнее о продукте: Windows 10 Enterprise
+
+Ресурсы для продукта
+
+        *         * [ ![Опубликовать в Facebook](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в Facebook")
+        * [ ![Опубликовать в Twitter](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в Twitter")
+        * [ ![Опубликовать в VK](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в VK")
+  
+
+      * [ Системные требования: Windows 10 Enterprise  Руководства по началу работы  |  Последнее посещение:  ](https://www.microsoft.com/ru-ru/windows/windows-10-specifications)
+
+Системные требования: Windows 10 Enterprise
+
+Руководства по началу работы
+
+        *         * [ ![Опубликовать в Facebook](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в Facebook")
+        * [ ![Опубликовать в Twitter](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в Twitter")
+        * [ ![Опубликовать в VK](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в VK")
+  
+
+      * [ Microsoft Tech Community: Windows 10  Сообщество  |  Последнее посещение:  ](https://techcommunity.microsoft.com/t5/Windows-10/ct-p/Windows10)
+
+Microsoft Tech Community: Windows 10
+
+Сообщество
+
+        *         * [ ![Опубликовать в Facebook](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в Facebook")
+        * [ ![Опубликовать в Twitter](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в Twitter")
+        * [ ![Опубликовать в VK](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в VK")
+  
+
+      * [ Краткое руководство по ОС Windows как услуга  Ресурсы для продукта  |  Последнее посещение:  ](https://docs.microsoft.com/ru-ru/windows/deployment/update/waas-quick-start)
+
+Краткое руководство по ОС Windows как услуга
+
+Ресурсы для продукта
+
+        *         * [ ![Опубликовать в Facebook](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в Facebook")
+        * [ ![Опубликовать в Twitter](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в Twitter")
+        * [ ![Опубликовать в VK](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в VK")
+  
+
+      * [ Повышение работоспособности Windows  Ресурсы для продукта  |  Последнее посещение:  ](https://aka.ms/windowsreleasehealth)
+
+Повышение работоспособности Windows
+
+Ресурсы для продукта
+
+        *         * [ ![Опубликовать в Facebook](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в Facebook")
+        * [ ![Опубликовать в Twitter](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в Twitter")
+        * [ ![Опубликовать в VK](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в VK")
+  
+
+      * [ Блог ИТ-специалистов по Windows  Сообщество  |  Последнее посещение:  ](https://techcommunity.microsoft.com/t5/Windows-IT-Pro-Blog/bg-p/Windows10Blog)
+
+Блог ИТ-специалистов по Windows
+
+Сообщество
+
+        *         * [ ![Опубликовать в Facebook](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в Facebook")
+        * [ ![Опубликовать в Twitter](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в Twitter")
+        * [ ![Опубликовать в VK](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в VK")
+  
+
+* * *
+
+    * ###  Попробовать 
+
+      * [ Создание плана развертывания  Руководства по началу работы  |  Последнее посещение:  ](https://docs.microsoft.com/ru-ru/windows/deployment/update/create-deployment-plan)
+
+Создание плана развертывания
+
+Руководства по началу работы
+
+        * ![Progress](/en-us/evalcenter/img/progress.gif)
+        * [ ](https://docs.microsoft.com/ru-ru/windows/deployment/update/create-deployment-plan "Скачать ресурс")
+
+        *         * [ ![Опубликовать в Facebook](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в Facebook")
+        * [ ![Опубликовать в Twitter](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в Twitter")
+        * [ ![Опубликовать в VK](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в VK")
+  
+
+      * [ Подготовка к развертыванию Windows  Руководства по началу работы  |  Последнее посещение:  ](https://docs.microsoft.com/ru-ru/windows/deployment/update/prepare-deploy-windows)
+
+Подготовка к развертыванию Windows
+
+Руководства по началу работы
+
+        * ![Progress](/en-us/evalcenter/img/progress.gif)
+        * [ ](https://docs.microsoft.com/ru-ru/windows/deployment/update/prepare-deploy-windows "Скачать ресурс")
+
+        *         * [ ![Опубликовать в Facebook](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в Facebook")
+        * [ ![Опубликовать в Twitter](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в Twitter")
+        * [ ![Опубликовать в VK](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в VK")
+  
+
+      * [ Развертывание обновлений с помощью Windows Update for Business  Ресурсы для продукта  |  7 мин  |  Последнее посещение:  ](https://docs.microsoft.com/ru-ru/windows/deployment/update/waas-manage-updates-wufb)
+
+Развертывание обновлений с помощью Windows Update for Business
+
+Ресурсы для продукта  |  7 мин
+
+        * ![Progress](/en-us/evalcenter/img/progress.gif)
+        * [ ](https://docs.microsoft.com/ru-ru/windows/deployment/update/waas-manage-updates-wufb "Скачать ресурс")
+
+        *         * [ ![Опубликовать в Facebook](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в Facebook")
+        * [ ![Опубликовать в Twitter](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в Twitter")
+        * [ ![Опубликовать в VK](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в VK")
+  
+
+      * [ Развертывание обновлений с помощью Windows Server Update Services \(WSUS\)  Ресурсы для продукта  |  14 мин  |  Последнее посещение:  ](https://docs.microsoft.com/ru-ru/windows/deployment/update/waas-manage-updates-wsus)
+
+Развертывание обновлений с помощью Windows Server Update Services \(WSUS\)
+
+Ресурсы для продукта  |  14 мин
+
+        * ![Progress](/en-us/evalcenter/img/progress.gif)
+        * [ ](https://docs.microsoft.com/ru-ru/windows/deployment/update/waas-manage-updates-wsus "Скачать ресурс")
+
+        *         * [ ![Опубликовать в Facebook](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в Facebook")
+        * [ ![Опубликовать в Twitter](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в Twitter")
+        * [ ![Опубликовать в VK](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в VK")
+  
+
+      * [ Развертывание обновлений с помощью Configuration Manager  Ресурсы для продукта  |  14 мин  |  Последнее посещение:  ](https://docs.microsoft.com/ru-ru/configmgr/osd/deploy-use/manage-windows-as-a-service)
+
+Развертывание обновлений с помощью Configuration Manager
+
+Ресурсы для продукта  |  14 мин
+
+        * ![Progress](/en-us/evalcenter/img/progress.gif)
+        * [ ](https://docs.microsoft.com/ru-ru/configmgr/osd/deploy-use/manage-windows-as-a-service "Скачать ресурс")
+
+        *         * [ ![Опубликовать в Facebook](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в Facebook")
+        * [ ![Опубликовать в Twitter](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в Twitter")
+        * [ ![Опубликовать в VK](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в VK")
+  
+
+      * [ Управление Windows 10  Ресурсы для продукта  |  10 мин  |  Последнее посещение:  ](https://docs.microsoft.com/ru-ru/windows/client-management/)
+
+Управление Windows 10
+
+Ресурсы для продукта  |  10 мин
+
+        * ![Progress](/en-us/evalcenter/img/progress.gif)
+        * [ ](https://docs.microsoft.com/ru-ru/windows/client-management/ "Скачать ресурс")
+
+        *         * [ ![Опубликовать в Facebook](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в Facebook")
+        * [ ![Опубликовать в Twitter](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в Twitter")
+        * [ ![Опубликовать в VK](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в VK")
+  
+
+* * *
+
+    * ###  Изучить 
+
+      * [ Планирование Развертывание обновлений для Windows 10 и Microsoft 365 Apps  Курсы и обучение MVA  |  5 мин  |  Последнее посещение:  ](https://docs.microsoft.com/ru-ru/learn/modules/windows-plan/)
+
+Планирование Развертывание обновлений для Windows 10 и Microsoft 365 Apps
+
+Курсы и обучение MVA  |  5 мин
+
+        * ![Progress](/en-us/evalcenter/img/progress.gif)
+        * [ ](https://docs.microsoft.com/ru-ru/learn/modules/windows-plan/ "Скачать ресурс")
+
+        *         * [ ![Опубликовать в Facebook](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в Facebook")
+        * [ ![Опубликовать в Twitter](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в Twitter")
+        * [ ![Опубликовать в VK](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в VK")
+  
+
+      * [ Подготовка к развертыванию обновлений для Windows 10 и Microsoft 365 Apps  Курсы и обучение MVA  |  Последнее посещение:  ](https://docs.microsoft.com/ru-ru/learn/modules/windows-prepare)
+
+Подготовка к развертыванию обновлений для Windows 10 и Microsoft 365 Apps
+
+Курсы и обучение MVA
+
+        * ![Progress](/en-us/evalcenter/img/progress.gif)
+        * [ ](https://docs.microsoft.com/ru-ru/learn/modules/windows-prepare "Скачать ресурс")
+
+        *         * [ ![Опубликовать в Facebook](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в Facebook")
+        * [ ![Опубликовать в Twitter](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в Twitter")
+        * [ ![Опубликовать в VK](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в VK")
+  
+
+      * [ Развертывание обновлений для Windows 10 и Microsoft 365 Apps  Курсы и обучение MVA  |  5 мин  |  Последнее посещение:  ](https://docs.microsoft.com/ru-ru/learn/modules/windows-deploy/)
+
+Развертывание обновлений для Windows 10 и Microsoft 365 Apps
+
+Курсы и обучение MVA  |  5 мин
+
+        * ![Progress](/en-us/evalcenter/img/progress.gif)
+        * [ ](https://docs.microsoft.com/ru-ru/learn/modules/windows-deploy/ "Скачать ресурс")
+
+        *         * [ ![Опубликовать в Facebook](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в Facebook")
+        * [ ![Опубликовать в Twitter](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в Twitter")
+        * [ ![Опубликовать в VK](/en-us/evalcenter/media/379511/ru-ru.svg) ]( "Опубликовать в VK")
+  
+
+* * *
+
+    * ###  купить 
+
+      * [ Варианты покупки Windows 10  ](https://www.microsoft.com/ru-ru/windowsforbusiness/how-to-buy)
+      * [ Лицензирование Windows 10  ](https://www.microsoft.com/ru-ru/licensing/product-licensing/windows10?SilentAuth=1&wa=wsignin1.0&activetab=windows10-pivot:primaryr3)
+
+* * *
+
+* * *
+
+  *   
+
+  
+
+![Progress](/en-us/evalcenter/img/progress.gif) Выполняется загрузка...
+
+    *     *     *     * ###  Ознакомиться 
+
+      *   
+
+* * *
+
+    * ###  Попробовать 
+
+      *   
+
+* * *
+
+    * ###  Изучить 
+
+      *   
+
+* * *
+
+    * * * *
+
+Результатов не найдено
+
+  
+
+* * *
+
+Изучить  Попробовать  Ознакомиться  
+
+Показать:  Завершенный  Незавершенный
+
+  
+
+Результатов не найдено
+
+  *   
+
+  
+
+  * __ Ознакомиться    
+
+  * __ Попробовать    
+
+  * __ Изучить    
+
+Что нового?
+
+  * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365)
+  * [ Приложения Windows 10 ](https://www.microsoft.com/ru-ru/windows/windows-10-apps)
+
+Microsoft Store
+
+  * [ Профиль учетной записи ](https://account.microsoft.com/)
+  * [ Центр загрузки ](https://www.microsoft.com/ru-ru/download)
+  * [ Поддержка Microsoft Store ](https://go.microsoft.com/fwlink/?linkid=2139749)
+  * [ Возврат товаров ](https://go.microsoft.com/fwlink/p/?LinkID=824764&clcid=0x419)
+  * [ Отслеживание заказа ](https://account.microsoft.com/orders)
+
+Для образования
+
+  * [ Майкрософт и образование ](https://www.microsoft.com/ru-ru/education)
+  * [ Office для учащихся ](https://www.microsoft.com/ru-ru/education/products/office/default.aspx)
+  * [ Office 365 для школ ](https://products.office.com/ru-ru/academic/compare-office-365-education-plans)
+  * [ Специальные предложения для учащихся и родителей ](https://www.microsoft.com/ru-ru/store/b/student?icid=CNavfooter_Studentsandeducation)
+  * [ Microsoft Azure и образование ](https://azure.microsoft.com/ru-ru/community/education/)
+
+Для крупных предприятий
+
+  * [ Azure ](https://azure.microsoft.com/)
+  * [ AppSource ](https://go.microsoft.com/fwlink/?LinkID=808093)
+  * [ Автопромышленность ](https://www.microsoft.com/enterprise/automotive)
+  * [ Государственные учреждения ](https://www.microsoft.com/enterprise/government)
+  * [ Здравоохранение ](https://www.microsoft.com/enterprise/health)
+  * [ Промышленное производство ](https://www.microsoft.com/enterprise/manufacturing)
+  * [ Финансовые услуги ](https://www.microsoft.com/enterprise/financial-services/banking-and-capital-markets)
+  * [ Торговля ](https://www.microsoft.com/enterprise/retail-consumer-goods)
+
+Для разработчиков
+
+  * [ Microsoft Visual Studio ](https://visualstudio.microsoft.com/)
+  * [ Центр разработчиков Windows ](https://developer.microsoft.com/ru-ru/windows)
+  * [ Центр разработчиков ](https://developer.microsoft.com/)
+  * [ Программа Майкрософт для разработчиков ](https://developer.microsoft.com/ru-ru/store/register)
+  * [ Channel 9 ](https://channel9.msdn.com/)
+  * [ Центр разработчиков Office ](https://developer.microsoft.com/ru-ru/office)
+
+Компания
+
+  * [ Вакансии ](https://careers.microsoft.com/)
+  * [ О корпорации Майкрософт ](https://www.microsoft.com/ru-ru/about)
+  * [ Новости компании ](https://news.microsoft.com/ru-ru)
+  * [ Политика конфиденциальности Майкрософт ](https://privacy.microsoft.com/ru-ru)
+  * [ Инвесторы ](https://www.microsoft.com/investor/default.aspx)
+  * [ Безопасность ](https://www.microsoft.com/ru-ru/security/default.aspx)
+
+[ Русский \(Россия\) ](locales/)
+
+  * [ Связаться с Microsoft ](https://support.microsoft.com/contactus)
+  * [ Конфиденциальность ](https://go.microsoft.com/fwlink/?LinkId=521839)
+  * Управление файлами cookie 
+  * [ Условия использования ](https://go.microsoft.com/fwlink/?LinkID=206977)
+  * [ Товарные знаки ](https://www.microsoft.com/trademarks)
+  * [ Сведения о рекламе ](https://choice.microsoft.com/)
+  * © Microsoft 2021 
+

@@ -1,0 +1,336 @@
+![](https://web.vortex.data.microsoft.com:443/collect/v1/t.gif?&name=%27Ms.Webi.PageView%27&ver=%272.1%27&appId=%27JS%3ALegal%27&cV=%27ZVvA1Xb6AEmWPBMw.0%27&ext-
+app-env=%27onerf_prod%27&ext-javascript-libver=%274.0.0-beta-10%27&ext-user-
+localId=%27t%3A0340AE5373FB6DC71327BE4672FB6C43%27&*baseType=%27Ms.Content.PageView%27&*isJs=True&*isLoggedIn=False&*isManual=True&*serverImpressionGuid=%270ca17aae-8b4a-42f8-b2ec-1c51cec0b819%27&-ver=%271.0%27&-impressionGuid=%2700000000-0000-0000-0000-000000000000%27&-pageName=%27trademarks%2Fusage%2Fgeneral.aspx%27&-uri=%27https%3A%2F%2Fwww.microsoft.com%2Fen-
+us%2Flegal%2Fintellectualproperty%2Ftrademarks%2Fusage%2Fgeneral%27&-pageType=%27Authoring.AllModules%27&-pageTags=%27%7B%22tasId%22%3A%2217a55beb-2259-448d-9a8b-a0d10cc8ab3b%22%2C%22tasMuid%22%3A%220340AE5373FB6DC71327BE4672FB6C43%22%2C%22browserGroup%22%3A%22uplevel.web.pc%22%2C%22isOneRf%22%3A%22True%22%7D%27&-behavior=0&-market=%27en-
+us%27)
+
+![]()
+
+[ ]()
+
+[ Skip to main content ](javascript:void\(0\))
+
+[ ![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31) Microsoft
+](https://www.microsoft.com)
+
+Legal
+
+[ Legal  ](https://www.microsoft.com/en-us/legal )
+
+Legal
+
+  * [ Home ](https://www.microsoft.com/en-us/legal )
+  * Diversity & inclusion 
+    * [ Our efforts ](https://www.microsoft.com/en-us/legal/diversity/default.aspx)
+    * [ Diversity in CELA ](https://www.microsoft.com/en-us/legal/diversity/ourworkincela)
+    * [ Diversifying the profession ](https://www.microsoft.com/en-us/legal/diversity/addressingthepipeline)
+    * [ Working with law firm partners ](https://www.microsoft.com/en-us/legal/diversity/lawfirmdiversityprogram)
+    * [ Diversity news ](https://www.microsoft.com/en-us/legal/diversity/news)
+
+  * Licensing terms 
+    * [ License lookup ](https://www.microsoft.com/en-us/useterms)
+    * [ Piracy ](https://www.microsoft.com/en-us/howtotell)
+    * [ Productivity solutions ](https://www.microsoft.com/en-us/legal/productivity/default.aspx)
+    * [ Terms of Use ](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx)
+
+  * Compliance & ethics 
+    * [ Report a concern ](https://www.microsoft.com/en-us/legal/compliance/sbc/reportaconcern)
+    * [ Microsoft compliance program ](https://www.microsoft.com/en-us/legal/compliance)
+    * Standards of Business Conduct  Standards of Business Conduct 
+      * [ Overview ](https://www.microsoft.com/en-us/legal/compliance/sbc/default.aspx)
+      * [ Download the standards ](https://www.microsoft.com/en-us/legal/compliance/sbc/download)
+      * [ Values and culture ](https://www.microsoft.com/en-us/legal/compliance/sbc/values-culture)
+      * [ Report a concern ](https://www.microsoft.com/en-us/legal/compliance/sbc/reportaconcern)
+    * Our culture of trust  Our culture of trust 
+      * [ Microsoft runs on trust ](https://www.microsoft.com/en-us/legal/compliance/integrity)
+      * [ Our customers ](https://www.microsoft.com/en-us/legal/compliance/sbc/trust-customers)
+      * [ Governments and communities ](https://www.microsoft.com/en-us/legal/compliance/sbc/trust-governments-communities)
+      * [ Trust in each other ](https://www.microsoft.com/en-us/legal/compliance/sbc/trust-eachother)
+      * [ Our investors and the public ](https://www.microsoft.com/en-us/legal/compliance/sbc/trust-investors-public)
+      * [ Our representatives ](https://www.microsoft.com/en-us/legal/compliance/sbc/trust-representatives)
+      * [ Upholding the standards ](https://www.microsoft.com/en-us/legal/compliance/sbc/standards)
+    * Anti-corruption & anti-bribery  Anti-corruption & anti-bribery 
+      * [ Microsoft's commitment ](https://www.microsoft.com/en-us/legal/compliance/anticorruption/default.aspx)
+      * [ Trustworthy representatives ](https://www.microsoft.com/en-us/legal/compliance/anticorruption/reppolicy.aspx)
+      * [ State-owned entity criteria ](https://www.microsoft.com/en-us/legal/compliance/anticorruption/criteria.aspx)
+    * Environmental compliance  Environmental compliance 
+      * [ Devices compliance and sustainability ](https://www.microsoft.com/en-us/legal/compliance/environmental-compliance)
+      * [ Cloud responsible packaging ](https://www.microsoft.com/en-us/legal/compliance/cloud-responsible)
+      * [ Responsible sourcing compliance ]( https://www.microsoft.com/en-us/corporate-responsibility/responsible-sourcing)
+
+  * Anti-trust & interoperability 
+    * [ Anti-trust & interoperability ](https://www.microsoft.com/en-us/legal/antitrust)
+    * [ European Commission Decision of 2004 ](https://www.microsoft.com/en-us/legal/antitrust/eudecision)
+    * [ Interoperability ](https://www.microsoft.com/en-us/legal/interoperability)
+
+  * More 
+    * Intellectual property  Intellectual property 
+      * [ Intellectual property home ](https://www.microsoft.com/en-us/legal/intellectualproperty/default)
+      * Technology licensing  Technology licensing 
+        * [ Technology licensing home ](https://www.microsoft.com/en-us/legal/intellectualproperty/tech-licensing/default)
+        * [ Technology programs ](https://www.microsoft.com/en-us/legal/intellectualproperty/tech-licensing/programs)
+        * [ Microsoft Technology Licensing ](https://www.microsoft.com/en-us/legal/intellectualproperty/mtl/default)
+        * [ Licensing policy ](https://www.microsoft.com/en-us/legal/intellectualproperty/iplicensing/policy)
+        * [ Support for industry standards ](https://www.microsoft.com/en-us/legal/IntellectualProperty/IPLicensing/ip2)
+        * [ Covenants to customer agreements ](https://www.microsoft.com/en-us/legal/intellectualproperty/iplicensing/customercovenant/customeragreements)
+        * [ Online disclaimer ](https://www.microsoft.com/en-us/legal/intellectualproperty/onlinedisclaimer)
+        * [ Intellectual property and open source ](https://www.microsoft.com/en-us/legal/intellectualproperty/ip-and-open-source)
+      * [ Patents ](https://www.microsoft.com/en-us/legal/intellectualproperty/patents/default)
+      * Copyrights  Copyrights 
+        * [ Copyrights ](https://www.microsoft.com/en-us/legal/intellectualproperty/permissions/default)
+        * [ Copyrights FAQs ](https://www.microsoft.com/en-us/legal/copyright/default.aspx)
+      * [ Trademarks ](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general)
+      * [ Azure Advantage ](https://azure.microsoft.com/en-us/overview/azure-ip-advantage/)
+    * Arbitration & dispute resolution  Arbitration & dispute resolution 
+      * [ US arbitration and dispute resolution ](https://www.microsoft.com/en-us/legal/arbitration)
+      * More US arbitration terms  More US arbitration terms 
+        * [ for Microsoft Office 2013 ](https://www.microsoft.com/en-us/legal/arbitration/office2013.aspx)
+        * [ for Microsoft OneNote ](https://www.microsoft.com/en-us/legal/arbitration/onenote.aspx)
+        * [ for Microsoft Skype ](https://www.microsoft.com/en-us/legal/arbitration/skype.aspx)
+        * [ for Microsoft Store ](https://www.microsoft.com/en-us/legal/arbitration/msstore.aspx)
+        * [ for Windows 8 ](https://www.microsoft.com/en-us/legal/arbitration/windows8.aspx)
+        * [ for Windows 8.1 Preview ](https://www.microsoft.com/en-us/legal/arbitration/windows8_1.aspx)
+        * [ for Xbox LIVE ](https://www.microsoft.com/en-us/legal/arbitration/xbox-live.aspx)
+        * [ European Union arbitration and dispute resolution ](https://www.microsoft.com/en-us/legal/arbitration/EU-ODR.aspx)
+    * [ Consumer settlement ](https://www.microsoft.com/en-us/legal/class/default.aspx)
+
+  * All Microsoft 
+    *       * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365)
+      * [ Office ](https://www.microsoft.com/en-us/microsoft-365/microsoft-office)
+      * [ Windows ](https://www.microsoft.com/en-us/windows/)
+      * [ Surface ](https://www.microsoft.com/en-us/surface)
+      * [ Xbox ](https://www.xbox.com/)
+      * [ Deals ](https://www.microsoft.com/en-us/store/b/sale?icid=gm_nav_L0_salepage)
+      * [ Support ](https://support.microsoft.com/en-us)
+    * Software  Software 
+      * [ Windows Apps ](https://www.microsoft.com/en-us/store/apps/windows?icid=CNavAppsWindowsApps)
+      * [ OneDrive ](https://onedrive.live.com/about/en-us/)
+      * [ Outlook ](https://outlook.live.com/owa/)
+      * [ Skype ](https://www.skype.com/en/)
+      * [ OneNote ](https://www.onenote.com/)
+      * [ Microsoft Teams ](https://www.microsoft.com/en-us/microsoft-teams/free?icid=SSM_AS_Promo_Apps_MicrosoftTeams)
+      * [ Microsoft Edge ](https://www.microsoft.com/edge)
+    * PCs & Devices  PCs & Devices 
+      * [ Computers ](https://www.microsoft.com/en-us/store/b/pc?icid=CNavDevicesPC)
+      * [ Shop Xbox ](https://www.microsoft.com/en-us/store/b/xbox?icid=CNavDevicesXbox)
+      * [ Accessories ](https://www.microsoft.com/en-us/store/b/accessories?icid=CNavDevicesAccessories)
+      * [ VR & mixed reality ](https://www.microsoft.com/en-us/store/b/virtualreality?icid=CNavVirtualReality)
+      * [ Phones ](https://www.microsoft.com/en-us/store/b/mobile?icid=CNavDevicesMobile)
+    * Entertainment  Entertainment 
+      * [ Xbox Game Pass Ultimate ](https://www.microsoft.com/en-us/p/xbox-game-pass-ultimate/cfq7ttc0khs0?WT.mc_id=CNavGamesXboxGamePassUltimate)
+      * [ Xbox Live Gold ](https://www.microsoft.com/en-us/p/xbox-live-gold/cfq7ttc0k5dj?WT.mc_id=CNavGamesXboxLiveGold)
+      * [ Xbox games ](https://www.microsoft.com/en-us/store/b/xbox?icid=CNavDevicesXbox)
+      * [ PC games ](https://www.microsoft.com/en-us/store/games/windows?icid=CNavGamesWindowsGames)
+      * [ Windows digital games ](https://www.microsoft.com/en-us/store/games/windows?icid=TopNavWindowsGames)
+      * [ Movies & TV ](https://www.microsoft.com/en-us/store/movies-and-tv?icid=TopNavMoviesTv)
+    * Business  Business 
+      * [ Microsoft Azure ](https://azure.microsoft.com/en-us/)
+      * [ Microsoft Dynamics 365 ](https://www.microsoft.com/en-us/dynamics365/home)
+      * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365/business/all-business)
+      * [ Microsoft Industry ](https://www.microsoft.com/en-us/enterprise)
+      * [ Data platform ](https://www.microsoft.com/en-us/sql-server/ )
+      * [ Microsoft Advertising ](https://go.microsoft.com/fwlink/?linkid=2026638)
+      * [ Power Platform ](https://powerplatform.microsoft.com/en-us)
+      * [ Shop Business ](https://www.microsoft.com/en-us/store/b/business?icid=CNavBusinessStore)
+    * Developer & IT  Developer & IT 
+      * [ .NET ](https://www.microsoft.com/net/)
+      * [ Visual Studio ](https://visualstudio.microsoft.com/)
+      * [ Windows Server ](https://www.microsoft.com/cloud-platform/windows-server)
+      * [ Windows Dev Center ](https://developer.microsoft.com/en-us/windows)
+      * [ Docs ](https://docs.microsoft.com/en-us/)
+      * [ Power Apps ](https://powerapps.microsoft.com/en-us)
+      * [ HoloLens 2 ](https://www.microsoft.com/en-us/hololens)
+    * Other  Other 
+      * [ Microsoft Rewards ](https://www.microsoft.com/rewards)
+      * [ Free downloads & security ](https://www.microsoft.com/en-us/download/default.aspx)
+      * [ Education ](https://www.microsoft.com/en-us/education?icid=CNavMSCOML0_Studentsandeducation)
+      * [ Virtual workshops and training ](https://www.microsoft.com/en-us/store/workshops-training-and-events?icid=vl_uf_932020)
+      * [ Gift cards ](https://www.microsoft.com/en-us/store/b/gift-cards)
+      * [ Licensing ](https://www.microsoft.com/licensing/default)
+      * [ Microsoft Experience Center ](https://www.microsoft.com/en-us/store/locations/ny/new-york/fifth-avenue-/store-1087?ICID=uhf_h_mec)
+    * [ View Sitemap ](https://www.microsoft.com/en-us/sitemap.aspx)
+
+Search  Search Microsoft Legal Resources
+
+Cancel  [ 0  Cart  0 items in shopping cart  ](https://www.microsoft.com/en-
+us/store/buy)
+
+Sign in
+
+![A Surface Hub 2 sits on a mobile stand and displays a start screen in a
+conference room.](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE3uDwa?ver=b7fa&q=90&m=6&h=600&w=1600&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+#  Microsoft Trademarks
+
+When referring to Microsoft trademarks and the names of Microsoft software,
+products, and services, follow these Microsoft Trademark and Brand Guidelines.
+[ Download the Microsoft trademarks list \(PDF\)
+](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWArzw)
+
+##  Microsoft Trademark & Brand Guidelines
+
+**You may** use Microsoft trademarks in text solely to refer to and/or link to
+Microsoft’s products and services and in accordance with the terms of these
+Guidelines.
+
+**You may not** :
+
+  * use Microsoft logos, logotypes, icons, trade dress or other elements of Microsoft packaging, websites or materials unless specifically permitted under these Guidelines or other applicable guidelines; 
+  * use the trademarks in the name of your business, product, service, app, domain name, social media account, or other offering \(with the exception of seminars and conferences, which are covered by the [ Publications, Seminars, and Conferences Guidelines ](https://aka.ms/trademarks-publications) ; 
+  * use the trademarks more prominently than your product or service name; 
+  * use the trademarks on promotional merchandise that you are selling or distributing \(such as t-shirts, travel mugs, etc.\); 
+  * do or say anything or use the trademarks in a way that implies affiliation with, or sponsorship, endorsement or approval by Microsoft of your products or services; 
+  * alter, animate, or distort the trademarks or combine them with any other symbols, words, images or designs, or incorporate them into a tagline or slogan; 
+  * use the trademarks in any way that is contrary to these Guidelines and/or the [ Publications, Seminars, and Conferences Guidelines ](https://aka.ms/trademarks-publications) . 
+
+##  App Guidelines
+
+Your registered publisher name and everything about your app—name, logo,
+description, screenshots—must be unique and free of Microsoft trademarks
+unless \(1\) you’ve secured permission from Microsoft through a license or
+equivalent \(though such licenses are not generally available in this
+context\); or \(2\) you’re only using a Microsoft trademark \(not including
+logos\) to describe that your product is designed to work in conjunction with
+a Microsoft product or service and as long as your app logo and/or name:
+
+  * does not suggest/give the impression your app is actually published by, affiliated with or endorsed by Microsoft; and 
+  * denotes your own unique brand so as to clearly signal to users that there is no affiliation or endorsement by Microsoft. 
+
+In addition, Microsoft logos cannot be used as a source identifier for your
+app icon.
+
+##  Box Shots and Screenshots
+
+Visit [ Use of Microsoft Copyrighted Content
+](http://www.microsoft.com/permissions) to learn how to use box shots and
+screenshots.
+
+##  Publications, Seminars, and Conferences
+
+You may refer to Microsoft product, service, and technology names on the cover
+of magazines and periodicals and in the title of seminars and conferences,
+pursuant to the [ Publications, Seminars, and Conferences Guidelines
+](https://aka.ms/trademarks-publications) .
+
+##  Social Media Guidelines
+
+The name of your social media account, any and all pages or communities,
+cannot begin with a Microsoft trademark. In addition, Microsoft logos cannot
+be used in a way that might suggest affiliation with Microsoft, including, but
+not limited to, the account, profile, or header images. The only exceptions to
+these requirements are if \(1\) you’ve secured permission from Microsoft
+through a license or equivalent \(though such licenses are not generally
+available in this context\); or \(2\) you’re using a Microsoft trademark \(not
+including logos\) to describe the purpose of your account, page, or community
+provided that:
+
+  * you are not suggesting affiliation with or endorsement by Microsoft; and, 
+  * your account does not use the name or likeness of any prominent individuals within Microsoft. 
+
+For example, you cannot name your account, page, or community “Xbox Gaming” or
+“Microsoft Products.” However, it would be acceptable to name your account,
+page, or community “Fans of Gaming on Xbox” or “Information about Microsoft
+Products” as long as you do not use the Xbox or Microsoft logos or otherwise
+suggest any affiliation with Microsoft.
+
+##  Specific Brand Guidelines
+
+In addition to the above, specific Brand Guidelines exist for certain
+Microsoft offerings. Select the relevant brand below for its specific Brand
+Guidelines. For brands not listed, consult your Microsoft contact.
+
+  * [ ![Microsoft logo](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) Microsoft  ](https://aka.ms/trademarks-corporatelogos)
+  * [ ![Windows logo](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) Windows  ](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE1voQq)
+  * [ ![M S N and butterfly logo](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) msn  ](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE1qcgn)
+  * [ ![Microsoft Edge logo](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) Microsoft Edge  ](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE1q9FT)
+  * [ ![Skype logo](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) Skype  ](https://www.skype.com/en/legal/brand-guidelines/)
+  * [ ![Bing logo](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) Microsoft Bing  ](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE1q9FS)
+  * [ ![Microsoft Surface logo](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) Microsoft Surface  ](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE1vbVQ)
+
+##  For More Information
+
+If your proposed use falls outside of these Guidelines or the Brand specific
+guidelines linked to above, the use is not permitted unless you seek approval
+from an appropriate contact within Microsoft.
+
+If you have a question, please consult your legal counsel or your Microsoft
+business contact.
+
+What's new
+
+  * [ Surface Duo ](https://www.microsoft.com/en-us/surface/devices/surface-duo)
+  * [ Surface Laptop Go ](https://www.microsoft.com/en-us/p/surface-laptop-go/94FC0BDGQ7WV)
+  * [ Surface Pro X ](https://www.microsoft.com/en-us/p/surface-pro-x/8QG3BMRHNWHK)
+  * [ Surface Go 2 ](https://www.microsoft.com/en-us/p/surface-go-2/8PT3S2VJMDR6)
+  * [ Surface Book 3 ](https://www.microsoft.com/en-us/p/surface-book-3/8XBW9G3Z71F1)
+  * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365)
+  * [ Windows 10 apps ](https://www.microsoft.com/en-us/windows/windows-10-apps)
+  * [ HoloLens 2 ](https://www.microsoft.com/en-us/hololens)
+
+Microsoft Store
+
+  * [ Account profile ](https://account.microsoft.com/)
+  * [ Download Center ](https://www.microsoft.com/en-us/download)
+  * [ Microsoft Store support ](https://go.microsoft.com/fwlink/?linkid=2139749)
+  * [ Returns ](https://go.microsoft.com/fwlink/p/?LinkID=824764&clcid=0x409)
+  * [ Order tracking ](https://account.microsoft.com/orders)
+  * [ Virtual workshops and training ](https://www.microsoft.com/en-us/store/workshops-training-and-events?icid=vl_uf_932020)
+  * [ Microsoft Store Promise ](https://www.microsoft.com/en-us/store/b/why-microsoft-store?icid=footer_why-msft-store_7102020)
+  * [ Financing ](https://www.microsoft.com/en-us/store/b/financing?icid=footer_financing_10142020)
+
+Education
+
+  * [ Microsoft in education ](https://www.microsoft.com/en-us/education)
+  * [ Office for students ](https://www.microsoft.com/en-us/education/products/office/default.aspx)
+  * [ Office 365 for schools ](https://products.office.com/en-us/academic/compare-office-365-education-plans)
+  * [ Deals for students & parents ](https://www.microsoft.com/en-us/store/b/education?icid=CNavfooter_Studentsandeducation)
+  * [ Microsoft Azure in education ](https://azure.microsoft.com/en-us/community/education/)
+
+Enterprise
+
+  * [ Azure ](https://azure.microsoft.com/)
+  * [ AppSource ](https://go.microsoft.com/fwlink/?LinkID=808093)
+  * [ Automotive ](https://www.microsoft.com/en-us/enterprise/automotive)
+  * [ Government ](https://www.microsoft.com/en-us/enterprise/government)
+  * [ Healthcare ](https://www.microsoft.com/en-us/enterprise/health)
+  * [ Manufacturing ](https://www.microsoft.com/en-us/enterprise/manufacturing)
+  * [ Financial services ](https://www.microsoft.com/en-us/enterprise/financial-services/banking-and-capital-markets)
+  * [ Retail ](https://www.microsoft.com/en-us/enterprise/retail-consumer-goods)
+
+Developer
+
+  * [ Microsoft Visual Studio ](https://visualstudio.microsoft.com/)
+  * [ Windows Dev Center ](https://developer.microsoft.com/en-us/windows)
+  * [ Developer Center ](https://developer.microsoft.com/)
+  * [ Microsoft developer program ](https://developer.microsoft.com/en-us/store/register)
+  * [ Channel 9 ](https://channel9.msdn.com/)
+  * [ Office Dev Center ](https://developer.microsoft.com/en-us/office)
+  * [ Microsoft Garage ](https://www.microsoft.com/en-us/garage/)
+
+Company
+
+  * [ Careers ](https://careers.microsoft.com/)
+  * [ About Microsoft ](https://www.microsoft.com/en-us/about)
+  * [ Company news ](https://news.microsoft.com/)
+  * [ Privacy at Microsoft ](https://privacy.microsoft.com/en-us)
+  * [ Investors ](https://www.microsoft.com/investor/default.aspx)
+  * [ Diversity and inclusion ](https://www.microsoft.com/en-us/diversity/)
+  * [ Accessibility ](https://www.microsoft.com/en-us/accessibility)
+  * [ Security ](https://www.microsoft.com/en-us/security/default.aspx)
+
+[ English \(United States\) ](http://www.microsoft.com/en-
+us/locale.aspx?absoluteReturnUrl=https%3a%2f%2fwww.microsoft.com%2fen-
+us%2flegal%2fintellectualproperty%2ftrademarks%2fusage%2fgeneral)
+
+  * [ Sitemap ](https://www.microsoft.com/en-us/sitemap1.aspx)
+  * [ Contact Microsoft ](https://support.microsoft.com/contactus)
+  * [ Privacy ](https://go.microsoft.com/fwlink/?LinkId=521839)
+  * Manage cookies 
+  * [ Terms of use ](https://go.microsoft.com/fwlink/?LinkID=206977)
+  * [ Trademarks ](https://www.microsoft.com/trademarks)
+  * [ Safety & eco ](https://www.microsoft.com/en-us/devices/safety-and-eco )
+  * [ About our ads ](https://choice.microsoft.com)
+  * © Microsoft 2021 
+

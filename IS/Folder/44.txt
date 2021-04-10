@@ -1,0 +1,418 @@
+![](https://web.vortex.data.microsoft.com:443/collect/v1/t.gif?&name=%27Ms.Webi.PageView%27&ver=%272.1%27&appId=%27JS%3Ajs%3Aindustry%27&cV=%27bLTOVE8g5EeMSVo3.0%27&ext-
+app-env=%27onerf_prod%27&ext-javascript-libver=%274.0.0-beta-10%27&ext-user-
+localId=%27t%3A29F66E4559FF6B4538DE7E5058FF6A7F%27&*baseType=%27Ms.Content.PageView%27&*isJs=True&*isLoggedIn=False&*isManual=True&*serverImpressionGuid=%274d8c3766-df72-4b96-bf75-e11e9bc1e6ee%27&-ver=%271.0%27&-impressionGuid=%2700000000-0000-0000-0000-000000000000%27&-pageName=%27industry%20%7C%20health.ru-
+ru%27&-uri=%27https%3A%2F%2Fwww.microsoft.com%2Fru-
+ru%2Findustry%2Fhealth%3Frtc%3D1%27&-pageType=%27Industry%27&-pageTags=%27%7B%22tasId%22%3A%22e6046eb7-9fcb-41cc-99d5-ece5e7e825c8%22%2C%22tasMuid%22%3A%2229F66E4559FF6B4538DE7E5058FF6A7F%22%2C%22browserGroup%22%3A%22uplevel.web.pc%22%2C%22isOneRf%22%3A%22True%22%7D%27&-behavior=0&-market=%27ru-
+ru%27)
+
+[ Перейти к основному контенту ](javascript:void\(0\))
+
+[ ![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31) Microsoft
+](https://www.microsoft.com)
+
+Industry
+
+[ Industry  ](https://www.microsoft.com/ru-ru/industry)
+
+Industry
+
+  * [ Главная ](https://www.microsoft.com/ru-ru/industry)
+  * [ Автомобильный ](https://www.microsoft.com/ru-ru/industry/automotive)
+  * [ энергии ](https://www.microsoft.com/ru-ru/industry/energy)
+  * Финансовые услуги 
+    * [ Банковская сфера ](https://www.microsoft.com/ru-ru/industry/financial-services/banking)
+    * [ Фондовые рынки ](https://www.microsoft.com/ru-ru/industry/financial-services/capital-markets)
+    * [ Страхование ](https://www.microsoft.com/ru-ru/industry/financial-services/insurance)
+
+  * Государственный сектор 
+    * [ Государственный сектор ](https://www.microsoft.com/ru-ru/industry/government)
+    * [ Общественная безопасность и правосудие ](https://www.microsoft.com/ru-ru/industry/government/public-safety-and-justice)
+    * [ Оборонные и разведывательные службы ](https://www.microsoft.com/ru-ru/industry/government/defense-and-intelligence)
+
+  * Здравоохранение 
+    * [ Здравоохранение ](https://www.microsoft.com/ru-ru/industry/health)
+    * [ Страховые компании ](https://www.microsoft.com/ru-ru/industry/health/payors)
+    * [ Поставщики ](https://www.microsoft.com/ru-ru/industry/health/providers)
+    * [ Фармацевтика и биологические науки ](https://www.microsoft.com/ru-ru/industry/health/pharmaceuticals)
+
+  * [ Производство ](https://www.microsoft.com/ru-ru/industry/manufacturing)
+  * [ Мультимедиа и развлечения ](https://www.microsoft.com/ru-ru/industry/media-entertainment)
+  * Больше 
+    * Розничная торговля  Розничная торговля 
+      * [ Розничная торговля ](https://www.microsoft.com/ru-ru/industry/retail-consumer-goods)
+      * [ Потребительские товары ](https://www.microsoft.com/ru-ru/industry/consumer-goods)
+    * [ Телекоммуникации ](https://www.microsoft.com/ru-ru/industry/telecommunications)
+    * [ Образование ](https://www.microsoft.com/education/default.aspx )
+    * [ Блоги ](https://cloudblogs.microsoft.com/industry-blog/ru-ru/)
+
+  * Все продукты Microsoft 
+    *       * [ Microsoft 365 ](https://www.microsoft.com/ru-ru/microsoft-365/business/all-business)
+      * [ Azure ](https://azure.microsoft.com)
+      * [ Office 365 ](https://products.office.com/ru-ru/business/office)
+      * [ Dynamics 365 ](https://www.microsoft.com/ru-ru/dynamics365/home)
+      * [ Power Platform ](https://powerplatform.microsoft.com/ru-ru)
+      * [ Windows 10 ](https://www.microsoft.com/ru-ru/windowsforbusiness)
+    * Продукты и услуги  Продукты и услуги 
+      * [ Windows Server ](https://www.microsoft.com/cloud-platform/windows-server)
+      * [ Enterprise Mobility + Security ](https://www.microsoft.com/cloud-platform/enterprise-mobility-security)
+      * [ Power BI ](https://powerbi.microsoft.com/ru-ru/)
+      * [ Группы ](https://www.microsoft.com/ru-ru/microsoft-teams/group-chat-software)
+      * [ Visual Studio ](https://visualstudio.microsoft.com/)
+    * Новые технологии  Новые технологии 
+      * [ Искусственный интеллект ](https://www.microsoft.com/ai/)
+      * [ Интернет вещей ](https://www.microsoft.com/internet-of-things/)
+      * [ Службы Azure Cognitive Services ](https://azure.microsoft.com/services/cognitive-services/)
+      * [ Quantum ](https://www.microsoft.com/quantum/)
+    * Разработчик и ИТ  Разработчик и ИТ 
+      * [ Документы ](https://docs.microsoft.com/ru-ru/)
+      * [ Центр разработчиков ](https://developer.microsoft.com/)
+      * [ Центр разработчиков Windows ](https://developer.microsoft.com/ru-ru/windows)
+      * [ Windows IT Pro Center ](https://www.microsoft.com/ru-ru/itpro/windows)
+      * [ FastTrack ](https://fasttrack.microsoft.com/office)
+      * [ Power Platform ](https://powerplatform.microsoft.com/ru-ru)
+    * Партнер  Партнер 
+      * [ Партнерская сеть ](https://partner.microsoft.com/)
+      * [ Поставщики решений ](https://www.microsoft.com/ru-ru/solution-providers)
+      * [ Центр партнеров ](https://partnercenter.microsoft.com/partner/home)
+    * Отрасли  Отрасли 
+      * [ Образование ](https://www.microsoft.com/ru-ru/education?icid=CNavMSCOML0_Studentsandeducation)
+      * [ Финансовые услуги ](https://www.microsoft.com/enterprise/financial-services/banking-and-capital-markets)
+      * [ Государственный сектор ](https://www.microsoft.com/ru-ru/enterprise/government)
+      * [ Здравоохранение ](https://www.microsoft.com/ru-ru/enterprise/health)
+      * [ Производство и ресурсы ](https://www.microsoft.com/ru-ru/enterprise/manufacturing)
+      * [ Розничная торговля ](https://www.microsoft.com/ru-ru/enterprise/retail-consumer-goods)
+    * Прочее  Прочее 
+      * [ Безопасность ](https://www.microsoft.com/security/)
+      * [ Лицензирование ](https://www.microsoft.com/licensing/)
+      * [ AppSource ](https://appsource.microsoft.com/)
+      * [ Azure Marketplace ](https://azuremarketplace.microsoft.com/marketplace/)
+      * [ Мероприятия ](https://events.microsoft.com/)
+      * [ Исследования ](https://www.microsoft.com/research/)
+    * [ Посмотреть карту сайта ](https://www.microsoft.com/ru-ru/sitemap.aspx)
+
+Поиск  Search Microsoft.com
+
+Отмена
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RWqP6b?ver=3de1&q=0&m=6&h=600&w=1600&b=%23FFFFFFFF&l=f&o=t&x=1113&y=566&aim=true)
+
+#  Улучшенные процессы, аналитика и медицинское обслуживание.
+
+Откройте для себя решения для предоставления персонализированных медицинских
+услуг, расширения возможностей медицинских групп и улучшения операционных
+результатов.
+
+[ Ознакомьтесь с новым Microsoft Cloud для здравоохранения
+](https://info.microsoft.com/CE-DTHEALTH-WBNR-
+FY21-03Mar-02-Microsoftshealthcareoffering-SRGCM4377_01Registration-
+ForminBody.html)
+
+##  Безопасное предоставление качественных медицинских услуг
+
+Предоставляйте нужную медицинскую информацию в нужное время, ориентируясь на
+людей в качестве главного приоритета и помогая обеспечить соблюдение
+требований, конфиденциальности, целостности и доступности данных.
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) Внедрите персонализированную медицинскую помощь  ](https://www.microsoft.com/ru-ru/industry/health/enable-personalized-care)
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) Обеспечьте поддержку медицинских групп  ](https://www.microsoft.com/ru-ru/industry/health/empower-care-teams)
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) Улучшение результатов работы  ](https://www.microsoft.com/ru-ru/industry/health/improve-operational-outcomes)
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) Новый взгляд на здравоохранение  ](https://www.microsoft.com/ru-ru/industry/health/reimagine-healthcare)
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) Защита медицинской информации  ](https://www.microsoft.com/ru-ru/industry/health/security)
+
+* * *
+
+##  Узнайте, как отрасль здравоохранения внедряет инновации для улучшения
+результатов лечения пациентов
+
+Реализуйте решения для медицинских и медико-биологических организаций, которые
+улучшают процессы, аналитику и уход за пациентами.
+
+![No Data Available](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4hYDq?ver=cae2&q=90&m=6&h=110&w=110&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+![Логотип Arkin](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4FtCd?ver=5204&q=90&m=6&h=110&w=110&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+![No Data Available](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4hQQ2?ver=3571&q=90&m=6&h=110&w=110&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+![No Data Available](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4hW2o?ver=3980&q=90&m=6&h=110&w=110&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+![Группа женщин в медицинском
+центре](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+![No Data Available](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE3OUjJ?ver=993f&q=90&m=6&h=100&w=300&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Phulukisa Healthcare
+
+Использование возможностей ИИ, чтобы улучшить удаленное медицинское
+обслуживание и спасти больше жизней.
+
+[ Смотреть видео  ](https://www.youtube.com/watch?v=YJI6WpuUi4U)
+
+![Человек использует ноутбук для видеовызова перед большим
+окном.](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+![Логотип Arkin](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4Fst0?ver=bf0e&q=90&m=6&h=100&w=300&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Компания Arkin поддерживает тесные связи с пациентами с помощью Microsoft
+365
+
+Виртуальная забота о самых уязвимых.
+
+[ Читать историю клиента  ](https://customers.microsoft.com/en-
+us/story/830686-arkin-health-provider-microsoft365)
+
+![No Data Available](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+![No Data Available](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2PmhN?ver=916a&q=90&m=6&h=100&w=300&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Государственная служба здравоохранения
+
+Улучшение лечения пациентов и повышение эффективности работы врачей.
+
+[ Смотреть видео  ](https://videos.microsoft.com/customer-
+stories/watch/MCQycYNX1tyofE7ZtVJhCx)
+
+![No Data Available](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+![No Data Available](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE3JUvZ?ver=22f7&q=90&m=6&h=100&w=300&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Университет Case Western Reserve
+
+Использование квантовых вычислений для ускорения процедуры МРТ и повышения
+точности диагностики почти на 30 %.
+
+[ Смотреть видео  ](https://www.youtube.com/watch?v=BWdQOEH_5vU)
+
+##  Достижение лучших результатов в области здравоохранения
+
+Повысьте эффективность лечения пациентов, организуйте интегрированное
+взаимодействие между медицинским и административным персоналом, а также
+начните получать новые аналитические данные для улучшения результатов работы.
+
+![No Data Available](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Поставщики
+
+Удовлетворите растущие ожидания пациентов и повысьте уровень их
+удовлетворенности.
+
+[ Подробнее  ](https://www.microsoft.com/ru-ru/industry/health/providers)
+
+![No Data Available](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Страховые компании
+
+Снизьте показатели повторной госпитализации и риски внутрибольничной инфекции.
+
+[ Подробнее  ](https://www.microsoft.com/ru-ru/industry/health/payors)
+
+![No Data Available](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Фармацевтика и биологические науки
+
+Сократите расходы на разработку лекарств и контролируйте угрозы
+кибербезопасности.
+
+[ Подробнее  ](https://www.microsoft.com/ru-
+ru/industry/health/pharmaceuticals)
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RWr23z?ver=4dbf&q=90&m=6&h=1080&w=1920&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+##  Узнайте, как трансформировать процессы в здравоохранении
+
+  * ![Изображена рука, держащая смартфон, на экране которого изображено сердце.](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWz2Pe?ver=afb6&q=90&m=6&h=273&w=485&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Предложение Microsoft для сферы здравоохранения
+
+Решения Microsoft для Здравоохранения в России. Это PDF Guide, который
+описывает современные тренды, задачи и вызовы отрасли и предлагает ряд
+конкретных сервисов Microsoft и решений наших партнеров.
+
+[ Скачать брошюру  ](https://info.microsoft.com/CE-DTHEALTH-WBNR-
+FY21-03Mar-02-Microsoftshealthcareoffering-SRGCM4377_01Registration-
+ForminBody.html)
+
+  * ![Изображены молекулы ДНК и химиечксие формулы.](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWyYLl?ver=9bbb&q=90&m=6&h=273&w=485&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Цифровая трансформация фармацевтической отрасли
+
+Это короткая брошюра, представляющая вертикаль фармацевтики в разрезе задач
+здравоохранения, с рекомендациями по трансформации деятельности и
+соответствующими этим рекомендациям решениями экосистемы Microsoft.
+
+[ Скачать брошюру  ](https://info.microsoft.com/CE-DTHEALTH-CNTNT-
+FY21-02Feb-12-Thedigitaltransformationofthepharmaceuticalindustry-
+SRGCM4306_01Registration-ForminBody.html)
+
+  * ![Изображен палец, нажимающий на кнопку, на которой изображена пиктограмма сердца](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWz2Pj?ver=1576&q=90&m=6&h=273&w=485&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Цифровая трансформация медицинских учреждений
+
+Это короткая брошюра, представляющая вертикаль фармацевтики в разрезе задач
+здравоохранения, с рекомендациями по трансформации деятельности и
+соответствующими этим рекомендациям решениями экосистемы Microsoft.
+
+[ Скачать брошюру  ](https://info.microsoft.com/CE-DTHEALTH-CNTNT-
+FY21-02Feb-12-Digitaltransformationofhealthcarefacilities-
+SRGCM4307_01Registration-ForminBody.html)
+
+  * ![](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4DUAN?ver=b892&q=90&m=6&h=273&w=485&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Международная премия Radar Award в области ИИ-решений для здравоохранения
+за 2020 год
+
+Ознакомьтесь с описанием премии Frost Radar™ в области развития, инноваций и
+лидерства, присвоенной Microsoft как ведущему поставщику ИИ-решений в сфере
+здравоохранения на ИТ-рынке.
+
+[ Подробнее
+](https://download.microsoft.com/download/4/7/f/47fe4476-0b6a-4fda-8d7d-da425c691da0/Microsoft_Radar_Award.pdf)
+
+  * ![](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4BEIK?ver=54cb&q=90&m=6&h=273&w=485&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Envisioning the Future of Business Webcast
+
+Узнайте, как обеспечить светлое будущее для вашего бизнеса.
+
+[ Посмотрите нашу веб-трансляцию  ](https://info.microsoft.com/CE-DIGTRNS-
+WBNR-FY20-06Jun-26-MicrosoftBriefingEnvisioningthefutureofBusiness-
+SRDEM31015_LP02OnDemandRegistration-ForminBody.html)
+
+  * ![Врач в лаборатории проводит анализы крови.](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4wvmT?ver=11b2&q=90&m=6&h=273&w=485&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Присоединяйтесь к нам на Microsoft Healthcare Summit
+
+Изучите цифровые брифинги для руководителей и демонстрации технологий, чтобы
+помочь вашей организации развиваться.
+
+[ Подробнее  ](https://www.microsoft.com/en-us/industry/healthcare-summit)
+
+  * ![Врач использует ноутбук](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4qPaL?ver=4bb4&q=90&m=6&h=273&w=485&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Расширение возможностей наших клиентов и партнеров для предоставления
+более эффективных решений и обслуживания
+
+Узнайте больше о новейших инновациях Microsoft, нацеленных на решение наиболее
+распространенных и устойчивых проблем в области здравоохранения и бизнеса.
+
+[ Читать статью  ](https://cloudblogs.microsoft.com/industry-
+blog/health/2020/10/28/microsoft-cloud-for-healthcare-is-transforming-the-
+healthcare-journey/)
+
+  * ![Технический специалист работает в лаборатории с ноутбуком](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4B4qs?ver=2036&q=90&m=6&h=273&w=485&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Повысьте эффективность лечения благодаря возможностям аналитики в Power
+BI
+
+Извлекайте ценную информацию из имеющихся данных, чтобы повысить эффективность
+принятия решений и качество медицинской помощи, а также преобразовать
+медицинские процессы и улучшить результаты.
+
+[ Подробнее  ](https://powerbi.microsoft.com/industry/healthcare/)
+
+  * ![\[noalt\]](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4oul6?ver=ae92&q=90&m=6&h=273&w=485&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  21st Century Cures Act
+
+Эксперты считают, что этот поворотный момент открывает возможность
+беспрепятственно передавать данные пациентов между системами здравоохранения.
+
+[ Смотреть видео  ](https://youtu.be/FZ1HYtfOtaA)
+
+  * ![No Data Available](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWrxql?ver=1f42&q=90&m=6&h=273&w=485&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  10 лучших приложений, демонстрирующих, как искусственный интеллект может
+улучшить отрасль здравоохранения
+
+Изучите практические сценарии использования искусственного интеллекта и
+аналитики данных, которые позволяют повысить эффективность работы учреждений
+здравоохранения и одновременно улучшить обслуживание и лечение.
+
+[ Скачать электронную книгу  ](https://info.microsoft.com/ww-landing-Clinical-
+and-Operational-Analytics-eBook.html?LCID=RU-RU)
+
+Присоединяйтесь к нам
+
+  * [ ![Twitter](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/93690392/coreui.statics/images/social/twitter.png) ](https://twitter.com/health_it "Присоединяйтесь к нам в Twitter")
+  * [ ![Youtube](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/c79952ca/coreui.statics/images/social/youtube.png) ](https://www.youtube.com/playlist?list=PL8nfc9haGeb5sc-g1mHQWcV1vRjjTTogh "Присоединяйтесь к нам на YouTube")
+  * [ ![Blog](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/f0272ae0/coreui.statics/images/social/blog.png) ](https://cloudblogs.microsoft.com/industry-blog/ "Следите за нашими блогами")
+
+Что нового?
+
+  * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365)
+  * [ Приложения Windows 10 ](https://www.microsoft.com/ru-ru/windows/windows-10-apps)
+
+Microsoft Store
+
+  * [ Профиль учетной записи ](https://account.microsoft.com/)
+  * [ Центр загрузки ](https://www.microsoft.com/ru-ru/download)
+  * [ Поддержка Microsoft Store ](https://go.microsoft.com/fwlink/?linkid=2139749)
+  * [ Возврат товаров ](https://go.microsoft.com/fwlink/p/?LinkID=824764&clcid=0x419)
+  * [ Отслеживание заказа ](https://account.microsoft.com/orders)
+
+Для образования
+
+  * [ Майкрософт и образование ](https://www.microsoft.com/ru-ru/education)
+  * [ Office для учащихся ](https://www.microsoft.com/ru-ru/education/products/office/default.aspx)
+  * [ Office 365 для школ ](https://products.office.com/ru-ru/academic/compare-office-365-education-plans)
+  * [ Специальные предложения для учащихся и родителей ](https://www.microsoft.com/ru-ru/store/b/student?icid=CNavfooter_Studentsandeducation)
+  * [ Microsoft Azure и образование ](https://azure.microsoft.com/ru-ru/community/education/)
+
+Для крупных предприятий
+
+  * [ Azure ](https://azure.microsoft.com/)
+  * [ AppSource ](https://go.microsoft.com/fwlink/?LinkID=808093)
+  * [ Автопромышленность ](https://www.microsoft.com/enterprise/automotive)
+  * [ Государственные учреждения ](https://www.microsoft.com/enterprise/government)
+  * [ Здравоохранение ](https://www.microsoft.com/enterprise/health)
+  * [ Промышленное производство ](https://www.microsoft.com/enterprise/manufacturing)
+  * [ Финансовые услуги ](https://www.microsoft.com/enterprise/financial-services/banking-and-capital-markets)
+  * [ Торговля ](https://www.microsoft.com/enterprise/retail-consumer-goods)
+
+Для разработчиков
+
+  * [ Microsoft Visual Studio ](https://visualstudio.microsoft.com/)
+  * [ Центр разработчиков Windows ](https://developer.microsoft.com/ru-ru/windows)
+  * [ Центр разработчиков ](https://developer.microsoft.com/)
+  * [ Программа Майкрософт для разработчиков ](https://developer.microsoft.com/ru-ru/store/register)
+  * [ Channel 9 ](https://channel9.msdn.com/)
+  * [ Центр разработчиков Office ](https://developer.microsoft.com/ru-ru/office)
+
+Компания
+
+  * [ Вакансии ](https://careers.microsoft.com/)
+  * [ О корпорации Майкрософт ](https://www.microsoft.com/ru-ru/about)
+  * [ Новости компании ](https://news.microsoft.com/ru-ru)
+  * [ Политика конфиденциальности Майкрософт ](https://privacy.microsoft.com/ru-ru)
+  * [ Инвесторы ](https://www.microsoft.com/investor/default.aspx)
+  * [ Безопасность ](https://www.microsoft.com/ru-ru/security/default.aspx)
+
+[ Русский \(Россия\)
+](https://www.microsoft.com/enterprise/locales?absoluteReturnUrl=https%3a%2f%2fwww.microsoft.com%2fru-
+ru%2findustry%2fhealth%3frtc%3d1)
+
+  * [ Связаться с Microsoft ](https://support.microsoft.com/contactus)
+  * [ Конфиденциальность ](https://go.microsoft.com/fwlink/?LinkId=521839)
+  * Управление файлами cookie 
+  * [ Условия использования ](https://go.microsoft.com/fwlink/?LinkID=206977)
+  * [ Товарные знаки ](https://www.microsoft.com/trademarks)
+  * [ Сведения о рекламе ](https://choice.microsoft.com/)
+  * © Microsoft 2021 
+

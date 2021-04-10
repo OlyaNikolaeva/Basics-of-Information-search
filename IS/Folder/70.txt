@@ -1,0 +1,502 @@
+Перейти к основному содержимому
+
+[ ![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31)
+](https://microsoft.com)
+
+[ Dynamics 365 ](https://dynamics.microsoft.com/ru-ru/)
+
+  * Продукты 
+    * Платформа данных клиентов 
+      * [ Платформа данных клиентов ](https://dynamics.microsoft.com/ru-ru/customer-data-platform/)
+      * [ Customer Insights ](https://dynamics.microsoft.com/ru-ru/ai/customer-insights/)
+      * [ Customer Voice ](https://dynamics.microsoft.com/ru-ru/customer-voice/)
+    * Продажи 
+      * [ Sales ](https://dynamics.microsoft.com/ru-ru/sales/overview/)
+      * [ Product Visualize ](https://dynamics.microsoft.com/ru-ru/mixed-reality/product-visualize/)
+    * Услуги 
+      * [ Customer Service ](https://dynamics.microsoft.com/ru-ru/customer-service/overview/)
+      * [ Field Service ](https://dynamics.microsoft.com/ru-ru/field-service/overview/)
+      * [ Remote Assist ](https://dynamics.microsoft.com/ru-ru/mixed-reality/remote-assist/)
+    * Маркетинг 
+      * [ Marketing ](https://dynamics.microsoft.com/ru-ru/marketing/overview/)
+    * Коммерция 
+      * [ Commerce ](https://dynamics.microsoft.com/ru-ru/commerce/overview/)
+    * Цепочка поставок 
+      * [ Supply Chain Management ](https://dynamics.microsoft.com/ru-ru/supply-chain-management/overview/)
+      * [ Guides ](https://dynamics.microsoft.com/ru-ru/mixed-reality/guides/)
+      * [ Intelligent Order Management ](https://dynamics.microsoft.com/ru-ru/Intelligent-order-management/)
+    * Малый и средний бизнес 
+      * [ Customer Service ](https://dynamics.microsoft.com/ru-ru/customer-service/professional/)
+      * [ Sales ](https://dynamics.microsoft.com/ru-ru/sales/professional/)
+    * HR 
+      * [ Human Resources ](https://dynamics.microsoft.com/ru-ru/human-resources/overview/)
+    * Финансы 
+      * [ Finance ](https://dynamics.microsoft.com/ru-ru/finance/overview/)
+    * Управление проектами 
+      * [ Project Operations ](https://dynamics.microsoft.com/ru-ru/project-operations/overview/)
+  * [ Цены ](https://dynamics.microsoft.com/ru-ru/pricing/)
+  * Партнеры 
+    * [ Найти партнера ](https://dynamics.microsoft.com/ru-ru/partners/find-a-partner/)
+    * [ Стать партнером ](https://dynamics.microsoft.com/ru-ru/partners/become-a-partner/)
+  * Платформа 
+    * [ Power Platform ](https://powerplatform.microsoft.com/)
+    * [ Common Data Model ](https://powerplatform.microsoft.com/common-data-model/)
+    * [ Dataverse ](https://powerplatform.microsoft.com/dataverse/)
+  * Ресурсы 
+    * Начало работы с Dynamics 365 
+      * [ Что такое Dynamics 365 ](https://dynamics.microsoft.com/ru-ru/what-is-dynamics365/)
+      * [ Документация ](https://docs.microsoft.com/dynamics365/)
+      * [ География доступности ](https://dynamics.microsoft.com/ru-ru/geographic-availability/)
+      * [ Обучение ](https://go.microsoft.com/fwlink/?LinkId=2024498&clcid=0x419)
+      * [ Истории клиентов ](https://dynamics.microsoft.com/ru-ru/customer-stories/)
+      * [ Обновление приложений ](https://dynamics.microsoft.com/ru-ru/business-applications/product-updates/)
+      * [ Аналитические отчеты ](https://dynamics.microsoft.com/ru-ru/analyst-awards/)
+      * [ Стратегия развития ](https://dynamics.microsoft.com/ru-ru/roadmap/overview/)
+      * [ Блог ](https://go.microsoft.com/fwlink/?LinkId=2057752&clcid=0x419)
+      * [ Миграция в облако ](https://dynamics.microsoft.com/ru-ru/cloud-migration/)
+      * [ Мероприятия ](https://dynamics.microsoft.com/ru-ru/events/)
+      * [ Информационный бюллетень ](https://dynamics.microsoft.com/ru-ru/newsletter/)
+      * [ AppSource ](https://appsource.microsoft.com/)
+      * [ Microsoft Trust Center ](https://www.microsoft.com/trust-center)
+  * Поддержка 
+    * Продажи 
+      * [ Свяжитесь с нами ](https://info.microsoft.com/ww-landing-Dynamics365-Customer-Request-Website.html)
+      * [ Запросить демоверсию ](https://dynamics.microsoft.com/ru-ru/get-started/free-trial/?appname=)
+    * Техническая поддержка 
+      * [ Документация ](https://docs.microsoft.com/dynamics365/)
+      * [ Техническая поддержка ](https://dynamics.microsoft.com/ru-ru/support/)
+      * [ Планы и подписка ](https://dynamics.microsoft.com/ru-ru/support/plans/)
+      * [ FastTrack ](https://dynamics.microsoft.com/ru-ru/fasttrack/)
+    * Предыдущие версии 
+      * [ Dynamics AX ](https://dynamics.microsoft.com/ru-ru/ax/)
+      * [ Dynamics CRM ](https://dynamics.microsoft.com/ru-ru/crm/)
+      * [ Dynamics GP ](https://dynamics.microsoft.com/ru-ru/gp/)
+      * [ Dynamics NAV ](https://dynamics.microsoft.com/ru-ru/nav-erp/)
+      * [ Dynamics SL ](https://dynamics.microsoft.com/ru-ru/sl/)
+      * [ Сегменты продуктов Dynamics ](https://dynamics.microsoft.com/ru-ru/on-premises-product-segments/)
+  * [ Сообщество ](https://community.dynamics.com/)
+  * Больше 
+
+  *   * [ Свяжитесь с нами ](https://dynamics.microsoft.com/ru-ru/contact-us/)
+
+contact-us-chat  contact-us-pencil  contact-us-call
+
+Мини-приложение "Связь с отделом продаж Dynamics 365"
+
+  *   * [ Свяжитесь с нами  ](https://go.microsoft.com/fwlink/?LinkId=861635&clcid=0x419)
+
+Закрыть
+
+[ See the latest Dynamics 365 and Microsoft Power Platform innovations,
+updates, and demos from the Microsoft Business Applications Launch Event.
+](https://go.microsoft.com/fwlink/?LinkId=2155368&clcid=0x419)
+
+![Гибкость](//dynamics365cdn.azureedge.net/cvt-67a3a5df7aa78fefdad4de5a8ee56973cbd45f40d911e197ada0a7beff0b46ee/pictures/pages/index/hero_new_desktop.jpg)
+
+Microsoft Dynamics 365
+
+#  Гибкость без ограничений
+
+Адаптируйтесь и внедряйте инновации с помощью единого портфеля бизнес-
+приложений: повышайте эффективность работы в своей организации и
+удовлетворяйте потребности каждого клиента.
+
+[ Как это сделать  ](/ru-ru/what-is-dynamics365/) Смотреть обзор
+
+Представляем новые возможности совместной работы и взаимодействия с помощью
+Dynamics 365 и Microsoft Teams.
+
+[ Подробнее  ](https://go.microsoft.com/fwlink/?LinkId=2155643&clcid=0x419)
+
+Learn about the new Dynamics 365 and Microsoft Power Platform features and
+capabilities previewed at the Microsoft Business Applications Launch Event.
+
+[ Читать статью
+](https://go.microsoft.com/fwlink/?LinkId=2158067&clcid=0x419)
+
+* * *
+
+##  Внедряйте инновации повсеместно с помощью интеллектуальных бизнес-
+приложений
+
+  1. Продажи 
+  2. Маркетинг 
+  3. Обслуживание 
+  4. Финансы 
+  5. Операции 
+  6. Коммерция 
+  7. Управление персоналом 
+
+Продажи  Маркетинг  Обслуживание  Финансы  Операции  Коммерция  Управление
+персоналом
+
+###  Продажи
+
+####  Закрывайте больше сделок
+
+Находите перспективных клиентов и укрепляйте отношения. Повысьте
+производительность и результативность. Получите единое представление о
+клиентах.
+
+[ Узнать больше о Sales  ](/ru-ru/sales/overview/)
+
+![](//dynamics365cdn.azureedge.net/cvt-48fe78498d2458df7b46b225d66c782188df7d6ca7222fee04d8e169139df415/pictures/pages/index/applications/lifestyle/placeholder.png)
+
+![](//dynamics365cdn.azureedge.net/cvt-7954f7bb99aae7c8d92e92856cf17b016a273aac6e3cdf04e0c58fb50fe2f7be/pictures/pages/index/applications/screens/placeholder.png)
+
+###  Маркетинг
+
+####  Повышайте спрос
+
+Находите и прорабатывайте подходящих потенциальных клиентов. Обслуживайте
+клиентов по всем каналам. Следите за тенденциями рынка.
+
+[ Узнать больше о Marketing  ](/ru-ru/marketing/overview/)
+
+![](//dynamics365cdn.azureedge.net/cvt-48fe78498d2458df7b46b225d66c782188df7d6ca7222fee04d8e169139df415/pictures/pages/index/applications/lifestyle/placeholder.png)
+
+![](//dynamics365cdn.azureedge.net/cvt-7954f7bb99aae7c8d92e92856cf17b016a273aac6e3cdf04e0c58fb50fe2f7be/pictures/pages/index/applications/screens/placeholder.png)
+
+###  Обслуживание
+
+####  Превосходите ожидания клиентов
+
+Быстрее решайте проблемы клиентов. Оптимизируйте ресурсы и повысьте
+эффективность технических специалистов. Сократите операционные издержки.
+
+[ Узнать больше о Customer Service  ](/ru-ru/customer-service/overview/)
+
+[ Узнать больше о Field Service  ](/ru-ru/field-service/overview/)
+
+![](//dynamics365cdn.azureedge.net/cvt-48fe78498d2458df7b46b225d66c782188df7d6ca7222fee04d8e169139df415/pictures/pages/index/applications/lifestyle/placeholder.png)
+
+![](//dynamics365cdn.azureedge.net/cvt-7954f7bb99aae7c8d92e92856cf17b016a273aac6e3cdf04e0c58fb50fe2f7be/pictures/pages/index/applications/screens/placeholder.png)
+
+###  Финансы
+
+####  Развивайте свой бизнес быстрее
+
+Выведите глобальное управление финансами на новый уровень. Автоматизируйте
+процессы, чтобы повысить эффективность. Сократите операционные издержки и
+упростите финансовые операции.
+
+[ Узнать больше о Finance  ](/ru-ru/finance/overview/)
+
+![](//dynamics365cdn.azureedge.net/cvt-48fe78498d2458df7b46b225d66c782188df7d6ca7222fee04d8e169139df415/pictures/pages/index/applications/lifestyle/placeholder.png)
+
+![](//dynamics365cdn.azureedge.net/cvt-7954f7bb99aae7c8d92e92856cf17b016a273aac6e3cdf04e0c58fb50fe2f7be/pictures/pages/index/applications/screens/placeholder.png)
+
+###  Операции
+
+####  Автоматизируйте операции
+
+Перейдите от реагирования к упреждению. Автоматизируйте и упростите управление
+цепочками производства и поставок. Продлите срок службы основных средств.
+
+[ Узнать больше о Supply Chain Management  ](/ru-ru/supply-chain-
+management/overview/)
+
+![](//dynamics365cdn.azureedge.net/cvt-48fe78498d2458df7b46b225d66c782188df7d6ca7222fee04d8e169139df415/pictures/pages/index/applications/lifestyle/placeholder.png)
+
+![](//dynamics365cdn.azureedge.net/cvt-7954f7bb99aae7c8d92e92856cf17b016a273aac6e3cdf04e0c58fb50fe2f7be/pictures/pages/index/applications/screens/placeholder.png)
+
+###  Коммерция
+
+####  Устраните все препятствия в процессе покупки
+
+Объедините онлайн- и офлайн-продажи. Персонализируйте взаимодействие, чтобы
+завоевывать лояльность. Превосходите ожидания клиентов.
+
+[ Узнать больше о коммерции  ](/ru-ru/commerce/overview/)
+
+![](//dynamics365cdn.azureedge.net/cvt-48fe78498d2458df7b46b225d66c782188df7d6ca7222fee04d8e169139df415/pictures/pages/index/applications/lifestyle/placeholder.png)
+
+![](//dynamics365cdn.azureedge.net/cvt-7954f7bb99aae7c8d92e92856cf17b016a273aac6e3cdf04e0c58fb50fe2f7be/pictures/pages/index/applications/screens/placeholder.png)
+
+###  Human Resources
+
+####  Управляйте персоналом стратегически
+
+Упростите администрирование персонала. Оптимизируйте процессы и программы
+управления персоналом. Предложите самообслуживание. Получите ценную аналитику
+для улучшения рабочей среды.
+
+[ Узнайте больше о Human Resources  ](/ru-ru/human-resources/overview/)
+
+![](//dynamics365cdn.azureedge.net/cvt-48fe78498d2458df7b46b225d66c782188df7d6ca7222fee04d8e169139df415/pictures/pages/index/applications/lifestyle/placeholder.png)
+
+![](//dynamics365cdn.azureedge.net/cvt-7954f7bb99aae7c8d92e92856cf17b016a273aac6e3cdf04e0c58fb50fe2f7be/pictures/pages/index/applications/screens/placeholder.png)
+
+* * *
+
+##  Удовлетворяйте завтрашние потребности клиентов уже сегодня.
+
+  1.   2.   3.   4.   5. 
+
+###  Самопомощь для клиентов
+
+Компания HP улучшила поддержку клиентов с помощью Dynamics 365, создав
+виртуальных агентов, которые предлагают возможности самообслуживания в более
+600 млн обращений ежегодно.
+
+[ Прочитайте, как
+](https://go.microsoft.com/fwlink/?LinkId=2102538&clcid=0x419)
+
+###  Покупка украшений как праздник
+
+Компания Pandora превратила процесс покупки в праздник по всему миру с помощью
+Dynamics 365, объединив розничную и оптовую сети, франчайзи и покупателей.
+
+[ Прочитайте, как
+](https://go.microsoft.com/fwlink/?LinkId=2102449&clcid=0x419)
+
+###  Аналитика для перемен
+
+UNICEF использует аналитику из Dynamics 365, чтобы поддерживать важнейшую
+миссию организации по всему миру.
+
+Узнайте, как
+
+###  Перезагрузка розничной торговли
+
+Dr. Martens трансформирует системы электронной коммерции с помощью Dynamics
+365, чтобы ускорить рост и выходить на новые иностранные рынки.
+
+[ Прочитайте, как  ](https://customers.microsoft.com/story/775579-dr-martens-
+retailers-dynamics-365)
+
+###  Превратите отношения в источник дохода
+
+Crane Worldwide Logistics централизует платформу продаж с помощью Dynamics
+365, чтобы лучше взаимодействовать с клиентами, быстрее закрывать
+потенциальные сделки и повышать доходы.
+
+[ Прочитайте, как  ](https://customers.microsoft.com/story/crane-worldwide-
+logistics-travel-transportation-relationship-sales)
+
+* * *
+
+##  Признанный лидер
+
+![Forrester
+Logo](//dynamics365cdn.azureedge.net/cvt-4c1de60d31a640927027da3c8daf291dfefda5f71ede88d87f1d44eab0136046/pictures/pages/index/logos/placeholder.png)
+
+![I D C
+Logo](//dynamics365cdn.azureedge.net/cvt-4c1de60d31a640927027da3c8daf291dfefda5f71ede88d87f1d44eab0136046/pictures/pages/index/logos/placeholder.png)
+
+![Gartner
+Logo](//dynamics365cdn.azureedge.net/cvt-4c1de60d31a640927027da3c8daf291dfefda5f71ede88d87f1d44eab0136046/pictures/pages/index/logos/placeholder.png)
+
+[ Читать аналитические отчеты  ](/ru-ru/analyst-awards/)
+
+* * *
+
+##  Нам доверяют большие и малые компании по всему миру
+
+![Coca-Cola](//dynamics365cdn.azureedge.net/cvt-
+cdc30f20f1c0feed95cff8592d3bdf9e54d096db971d7f74a69f489e589ed9a0/pictures/placeholder/placeholder-
+white-376x174.png)
+
+![Crate and Barrel](//dynamics365cdn.azureedge.net/cvt-
+cdc30f20f1c0feed95cff8592d3bdf9e54d096db971d7f74a69f489e589ed9a0/pictures/placeholder/placeholder-
+white-376x174.png)
+
+![HP](//dynamics365cdn.azureedge.net/cvt-
+cdc30f20f1c0feed95cff8592d3bdf9e54d096db971d7f74a69f489e589ed9a0/pictures/placeholder/placeholder-
+white-376x174.png)
+
+![Chevron](//dynamics365cdn.azureedge.net/cvt-
+cdc30f20f1c0feed95cff8592d3bdf9e54d096db971d7f74a69f489e589ed9a0/pictures/placeholder/placeholder-
+white-376x174.png)
+
+![Tesla](//dynamics365cdn.azureedge.net/cvt-
+cdc30f20f1c0feed95cff8592d3bdf9e54d096db971d7f74a69f489e589ed9a0/pictures/placeholder/placeholder-
+white-376x174.png)
+
+![Lowes](//dynamics365cdn.azureedge.net/cvt-
+cdc30f20f1c0feed95cff8592d3bdf9e54d096db971d7f74a69f489e589ed9a0/pictures/placeholder/placeholder-
+white-376x174.png)
+
+![BMW](//dynamics365cdn.azureedge.net/cvt-
+cdc30f20f1c0feed95cff8592d3bdf9e54d096db971d7f74a69f489e589ed9a0/pictures/placeholder/placeholder-
+white-376x174.png)
+
+![Columbia](//dynamics365cdn.azureedge.net/cvt-
+cdc30f20f1c0feed95cff8592d3bdf9e54d096db971d7f74a69f489e589ed9a0/pictures/placeholder/placeholder-
+white-376x174.png)
+
+![Delta](//dynamics365cdn.azureedge.net/cvt-
+cdc30f20f1c0feed95cff8592d3bdf9e54d096db971d7f74a69f489e589ed9a0/pictures/placeholder/placeholder-
+white-376x174.png)
+
+![NYC DOE](//dynamics365cdn.azureedge.net/cvt-
+cdc30f20f1c0feed95cff8592d3bdf9e54d096db971d7f74a69f489e589ed9a0/pictures/placeholder/placeholder-
+white-376x174.png)
+
+![Prada](//dynamics365cdn.azureedge.net/cvt-
+cdc30f20f1c0feed95cff8592d3bdf9e54d096db971d7f74a69f489e589ed9a0/pictures/placeholder/placeholder-
+white-376x174.png)
+
+![Adobe](//dynamics365cdn.azureedge.net/cvt-
+cdc30f20f1c0feed95cff8592d3bdf9e54d096db971d7f74a69f489e589ed9a0/pictures/placeholder/placeholder-
+white-376x174.png)
+
+![T D Bank](//dynamics365cdn.azureedge.net/cvt-
+cdc30f20f1c0feed95cff8592d3bdf9e54d096db971d7f74a69f489e589ed9a0/pictures/placeholder/placeholder-
+white-376x174.png)
+
+![Metro Bank](//dynamics365cdn.azureedge.net/cvt-
+cdc30f20f1c0feed95cff8592d3bdf9e54d096db971d7f74a69f489e589ed9a0/pictures/placeholder/placeholder-
+white-376x174.png)
+
+![Siemans](//dynamics365cdn.azureedge.net/cvt-
+cdc30f20f1c0feed95cff8592d3bdf9e54d096db971d7f74a69f489e589ed9a0/pictures/placeholder/placeholder-
+white-376x174.png)
+
+![Rolls Royce](//dynamics365cdn.azureedge.net/cvt-
+cdc30f20f1c0feed95cff8592d3bdf9e54d096db971d7f74a69f489e589ed9a0/pictures/placeholder/placeholder-
+white-376x174.png)
+
+![Ecolab](//dynamics365cdn.azureedge.net/cvt-
+cdc30f20f1c0feed95cff8592d3bdf9e54d096db971d7f74a69f489e589ed9a0/pictures/placeholder/placeholder-
+white-376x174.png)
+
+![Berkshire](//dynamics365cdn.azureedge.net/cvt-
+cdc30f20f1c0feed95cff8592d3bdf9e54d096db971d7f74a69f489e589ed9a0/pictures/placeholder/placeholder-
+white-376x174.png)
+
+![Ups](//dynamics365cdn.azureedge.net/cvt-
+cdc30f20f1c0feed95cff8592d3bdf9e54d096db971d7f74a69f489e589ed9a0/pictures/placeholder/placeholder-
+white-376x174.png)
+
+![Maersk](//dynamics365cdn.azureedge.net/cvt-
+cdc30f20f1c0feed95cff8592d3bdf9e54d096db971d7f74a69f489e589ed9a0/pictures/placeholder/placeholder-
+white-376x174.png)
+
+![24 Hour Fitness](//dynamics365cdn.azureedge.net/cvt-
+cdc30f20f1c0feed95cff8592d3bdf9e54d096db971d7f74a69f489e589ed9a0/pictures/placeholder/placeholder-
+white-376x174.png)
+
+![Dr Martens](//dynamics365cdn.azureedge.net/cvt-
+cdc30f20f1c0feed95cff8592d3bdf9e54d096db971d7f74a69f489e589ed9a0/pictures/placeholder/placeholder-
+white-376x174.png)
+
+![Bayer](//dynamics365cdn.azureedge.net/cvt-
+cdc30f20f1c0feed95cff8592d3bdf9e54d096db971d7f74a69f489e589ed9a0/pictures/placeholder/placeholder-
+white-376x174.png)
+
+![Centrica](//dynamics365cdn.azureedge.net/cvt-
+cdc30f20f1c0feed95cff8592d3bdf9e54d096db971d7f74a69f489e589ed9a0/pictures/placeholder/placeholder-
+white-376x174.png)
+
+[ Смотреть истории клиентов  ](/ru-ru/customer-stories/)
+
+##  Повысьте гибкость — получите безграничные возможности
+
+[ Начало работы  ](/ru-ru/get-started/free-trial/?appname=)
+
+* * *
+
+sock-pencil  sock-chat  sock-call
+
+##  Связаться с отделом продаж
+
+##  Отправьте запрос на обратный звонок
+
+Попросите эксперта по Dynamics 365 связаться с вами.
+
+[ Отправить запрос
+](https://go.microsoft.com/fwlink/?LinkId=861635&clcid=0x419)
+
+##  Чат с консультантом
+
+Рабочие часы: с понедельника по пятницу,  
+с 8 до 18 по центральному времени \(США\).
+
+* * *
+
+###  Сообщество
+
+Общайтесь с экспертами и коллегами, читайте статьи в блоге и находите местные
+мероприятия.
+
+[ Присоединиться  ](https://community.dynamics.com/)
+
+###  Поддержка
+
+Получите доступ к ведущей в отрасли поддержке и ресурсам для самостоятельного
+разрешения вопросов.
+
+[ Получить помощь  ](/ru-ru/support/)
+
+###  Обновление приложений
+
+Узнайте о новых возможностях и подготовьтесь к ним.
+
+[ Подробнее  ](/ru-ru/business-applications/product-updates/)
+
+×
+
+* * *
+
+Что нового?
+
+  * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365)
+  * [ Приложения Windows 10 ](https://www.microsoft.com/ru-ru/windows/windows-10-apps)
+
+Microsoft Store
+
+  * [ Профиль учетной записи ](https://account.microsoft.com/)
+  * [ Центр загрузки ](https://www.microsoft.com/ru-ru/download)
+  * [ Поддержка Microsoft Store ](https://go.microsoft.com/fwlink/?linkid=2139749)
+  * [ Возврат товаров ](https://go.microsoft.com/fwlink/p/?LinkID=824764&clcid=0x419)
+  * [ Отслеживание заказа ](https://account.microsoft.com/orders)
+
+Для образования
+
+  * [ Майкрософт и образование ](https://www.microsoft.com/ru-ru/education)
+  * [ Office для учащихся ](https://www.microsoft.com/ru-ru/education/products/office/default.aspx)
+  * [ Office 365 для школ ](https://products.office.com/ru-ru/academic/compare-office-365-education-plans)
+  * [ Специальные предложения для учащихся и родителей ](https://www.microsoft.com/ru-ru/store/b/student?icid=CNavfooter_Studentsandeducation)
+  * [ Microsoft Azure и образование ](https://azure.microsoft.com/ru-ru/community/education/)
+
+Для крупных предприятий
+
+  * [ Azure ](https://azure.microsoft.com/)
+  * [ AppSource ](https://go.microsoft.com/fwlink/?LinkID=808093)
+  * [ Автопромышленность ](https://www.microsoft.com/enterprise/automotive)
+  * [ Государственные учреждения ](https://www.microsoft.com/enterprise/government)
+  * [ Здравоохранение ](https://www.microsoft.com/enterprise/health)
+  * [ Промышленное производство ](https://www.microsoft.com/enterprise/manufacturing)
+  * [ Финансовые услуги ](https://www.microsoft.com/enterprise/financial-services/banking-and-capital-markets)
+  * [ Торговля ](https://www.microsoft.com/enterprise/retail-consumer-goods)
+
+Для разработчиков
+
+  * [ Microsoft Visual Studio ](https://visualstudio.microsoft.com/)
+  * [ Центр разработчиков Windows ](https://developer.microsoft.com/ru-ru/windows)
+  * [ Центр разработчиков ](https://developer.microsoft.com/)
+  * [ Программа Майкрософт для разработчиков ](https://developer.microsoft.com/ru-ru/store/register)
+  * [ Channel 9 ](https://channel9.msdn.com/)
+  * [ Центр разработчиков Office ](https://developer.microsoft.com/ru-ru/office)
+
+Компания
+
+  * [ Вакансии ](https://careers.microsoft.com/)
+  * [ О корпорации Майкрософт ](https://www.microsoft.com/ru-ru/about)
+  * [ Новости компании ](https://news.microsoft.com/ru-ru)
+  * [ Политика конфиденциальности Майкрософт ](https://privacy.microsoft.com/ru-ru)
+  * [ Инвесторы ](https://www.microsoft.com/investor/default.aspx)
+  * [ Безопасность ](https://www.microsoft.com/ru-ru/security/default.aspx)
+
+[ Русский \(Россия\) ](https://dynamics.microsoft.com/en-us/locale/)
+
+  * [ Связаться с Microsoft ](https://support.microsoft.com/contactus)
+  * [ Конфиденциальность ](https://go.microsoft.com/fwlink/?LinkId=521839)
+  * Управление файлами cookie 
+  * [ Условия использования ](https://go.microsoft.com/fwlink/?LinkID=206977)
+  * [ Товарные знаки ](https://www.microsoft.com/trademarks)
+  * [ Сведения о рекламе ](https://choice.microsoft.com/)
+  * © Microsoft 2021 
+

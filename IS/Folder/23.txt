@@ -1,0 +1,936 @@
+![](https://web.vortex.data.microsoft.com:443/collect/v1/t.gif?&name=%27Ms.Webi.PageView%27&ver=%272.1%27&appId=%27JS%3AMicrosoftHP%27&cV=%277se5i2ZtSU%2BIZYIa.0%27&ext-
+app-env=%27onerf_prod%27&ext-javascript-libver=%274.0.0-beta-10%27&ext-user-
+localId=%27t%3A3E84D5883F6E6D2302B2C59D3EC56C83%27&*baseType=%27Ms.Content.PageView%27&*isJs=True&*isLoggedIn=False&*isManual=True&*serverImpressionGuid=%273153ddca-5610-4145-a545-84f761de27f6%27&-ver=%271.0%27&-impressionGuid=%2700000000-0000-0000-0000-000000000000%27&-pageName=%27sitemap.ru-
+ru%27&-uri=%27https%3A%2F%2Fwww.microsoft.com%2Fru-
+ru%2Fsitemap.aspx%27&-pageType=%27Authoring.AllModules%27&-pageTags=%27%7B%22tasId%22%3A%223153ddca-5610-4145-a545-84f761de27f6%22%2C%22tasMuid%22%3A%223E84D5883F6E6D2302B2C59D3EC56C83%22%2C%22browserGroup%22%3A%22uplevel.web.pc%22%2C%22isOneRf%22%3A%22True%22%7D%27&-behavior=0&-market=%27ru-
+ru%27)
+
+![]()
+
+[ ]()
+
+[ Перейти к основному контенту ](javascript:void\(0\))
+
+[ ![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31) Microsoft
+](https://www.microsoft.com)
+
+  * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365)
+  * [ Office ](https://www.microsoft.com/microsoft-365/microsoft-office)
+  * [ Windows ](https://www.microsoft.com/ru-ru/windows/)
+  * [ Xbox ](https://www.xbox.com/)
+  * [ Поддержка ](https://support.microsoft.com/ru-ru)
+  * Больше 
+
+  * Все продукты Microsoft 
+    *       * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365)
+      * [ Office ](https://www.microsoft.com/microsoft-365/microsoft-office)
+      * [ Windows ](https://www.microsoft.com/ru-ru/windows/)
+      * [ Xbox ](https://www.xbox.com/)
+      * [ Поддержка ](https://support.microsoft.com/ru-ru)
+    * ПО  ПО 
+      * [ Приложения для Windows ](https://www.microsoft.com/ru-ru/store/apps/windows?icid=CNavAppsWindowsApps)
+      * [ OneDrive ](https://onedrive.live.com/about/ru-ru/)
+      * [ Outlook ](https://outlook.live.com/owa/)
+      * [ Skype ](https://www.skype.com/ru/)
+      * [ OneNote ](https://www.onenote.com/?omkt=ru-RU)
+      * [ Microsoft Teams ](https://www.microsoft.com/ru-ru/microsoft-teams/free?icid=SSM_AS_Promo_Apps_MicrosoftTeams)
+    * Компьютеры и устройства  Компьютеры и устройства 
+      * [ Купите Xbox ](https://www.microsoft.com/ru-ru/store/b/xbox?icid=CNavDevicesXbox)
+      * [ Аксессуары ](https://www.microsoft.com/accessories/ru-ru)
+    * Развлечения  Развлечения 
+      * [ Xbox Game Pass Ultimate ](https://www.microsoft.com/ru-ru/p/xbox-game-pass-ultimate/cfq7ttc0khs0?WT.mc_id=CNavGamesXboxGamePassUltimate)
+      * [ Xbox Live Gold ](https://www.microsoft.com/ru-ru/p/xbox-live-gold/cfq7ttc0k5dj?WT.mc_id=CNavGamesXboxLiveGold)
+      * [ Xbox и игры ](https://www.xbox.com/ru-ru/games/xbox-one?xr=shellnav)
+      * [ Компьютерные игры ](https://www.microsoft.com/ru-ru/store/games/windows?icid=CNavGamesWindowsGames)
+      * [ Игры для Windows ](https://www.microsoft.com/ru-ru/store/games/windows?icid=TopNavWindowsGames)
+    * Для бизнеса  Для бизнеса 
+      * [ Microsoft Azure ](https://azure.microsoft.com/ru-ru/)
+      * [ Microsoft Dynamics 365 ](https://www.microsoft.com/ru-ru/dynamics365/home)
+      * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365/business/all-business)
+      * [ Microsoft Industry ](https://www.microsoft.com/ru-ru/enterprise)
+      * [ Платформа данных ](https://www.microsoft.com/ru-ru/sql-server/ )
+      * [ Power Platform ](https://powerplatform.microsoft.com/ru-ru)
+      * [ Shop Business ](https://www.microsoft.com/ru-ru/store/b/business?icid=CNavBusinessStore)
+    * Для разработчиков и ИТ  Для разработчиков и ИТ 
+      * [ .NET ](https://www.microsoft.com/net/)
+      * [ Visual Studio ](https://visualstudio.microsoft.com/)
+      * [ Windows Server ](https://www.microsoft.com/cloud-platform/windows-server)
+      * [ Разработка приложений для Windows ](https://developer.microsoft.com/ru-ru/windows)
+      * [ Документы ](https://docs.microsoft.com/ru-ru/)
+      * [ Power Apps ](https://powerapps.microsoft.com/ru-ru)
+    * Другое  Другое 
+      * [ Бесплатная загрузка и средства безопасности ](https://www.microsoft.com/ru-ru/download/default.aspx)
+      * [ Образование ](https://www.microsoft.com/ru-ru/education?icid=CNavMSCOML0_Studentsandeducation)
+      * [ лицензирование ](https://www.microsoft.com/licensing/default)
+    * [ Посмотреть карту сайта ](https://www.microsoft.com/ru-ru/sitemap.aspx)
+
+Поиск  Поиск на Microsoft.com
+
+Отмена  [ 0  Корзина  0 товары в корзине  ](https://www.microsoft.com/ru-
+ru/store/buy)
+
+Войти
+
+![No Data Available](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Карта сайта Microsoft
+
+  * Продажи и поддержка 
+  * ПО и службы 
+  * Устройства и Xbox 
+  * Бизнес и предприятие 
+  * Для разработчиков и ИТ-специалистов 
+  * О нас 
+
+Продажи и поддержка
+
+  * Продажи и поддержка 
+  * ПО и службы 
+  * Устройства и Xbox 
+  * Бизнес и предприятие 
+  * Для разработчиков и ИТ-специалистов 
+  * О нас 
+
+###  Продажи и поддержка
+
+####  Microsoft Store
+
+  
+
+[ Купить ](https://www.microsoft.com/ru-ru/store/b/home)
+
+  
+
+[ Адреса магазинов ](https://www.microsoft.com/en-us/store/locations/find-a-
+store?icid=en_US_Store_UH_FAS)
+
+  
+
+[ Store для бизнеса ](https://www.microsoft.com/ru-
+ru/store/b/business?icid=CNavBusinessStore)
+
+  
+
+[ Для разработчиков ](https://www.microsoft.com/ru-
+ru/store/b/developer?icid=CNavdeveloper)
+
+  
+
+[ Подарочные карты ](https://www.microsoft.com/ru-ru/store/b/gift-
+cards?icid=CNavMoreGiftCards)
+
+  
+
+[ Свяжитесь с нами ](https://support.microsoft.com/ru-ru/help/28808/store-
+contact-support)
+
+  
+
+[ Поддержка Microsoft Store ](https://support.microsoft.com/ru-
+ru/help/4000644/store-shipping-options-costs-delivery-times)
+
+####  Заказы и доставка
+
+  
+
+[ Отслеживание заказов ](https://account.microsoft.com/orders)
+
+  
+
+[ Варианты доставки ](https://support.microsoft.com/ru-
+ru/help/4000644/microsoft-store-shipping-options-costs-delivery-times)
+
+  
+
+[ Возврат товаров
+](https://go.microsoft.com/fwlink/p/?LinkID=824764&clcid=0x409)
+
+  
+
+[ Профиль учетной записи ](https://account.microsoft.com/)
+
+####  Поддержка
+
+  
+
+[ Служба поддержки Microsoft ](http://support.microsoft.com/)
+
+  
+
+[ Задайте вопрос сообществу ](http://answers.microsoft.com/ru-ru)
+
+  
+
+[ Чат и вызов ](https://support.microsoft.com/ru-ru/contactus/)
+
+  
+
+[ Безопасность для бизнеса ](http://www.microsoft.com/security/default.aspx)
+
+  
+
+[ Microsoft Security Essentials
+](https://support.microsoft.com/help/14210/security-essentials-download)
+
+####  Учетная запись
+
+  
+
+[ Об учетной записи Microsoft ](https://account.microsoft.com/)
+
+  
+
+[ Управление учетной записью ](https://account.microsoft.com/account/manage-
+my-account)
+
+  
+
+[ Программа вознаграждения Microsoft ](http://www.microsoft.com/rewards)
+
+  
+
+[ Управление устройствами ](https://account.microsoft.com/devices)
+
+  
+
+[ Родительский контроль ](https://account.microsoft.com/family/)
+
+###  ПО и службы
+
+####  Windows
+
+  
+
+[ Windows ](https://www.microsoft.com/windows)
+
+  
+
+[ Переход на Windows 10 ](https://www.microsoft.com/ru-ru/windows/get-
+windows-10?step=Win10Question1)
+
+  
+
+[ Приложения ](https://www.microsoft.com/ru-
+ru/store/apps/windows?icid=en_US_Store_UH_apps_Win)
+
+  
+
+[ Windows для бизнеса ](https://www.microsoft.com/windowsforbusiness)
+
+  
+
+[ Программа предварительной оценки Windows ](https://insider.windows.com/)
+
+  
+
+[ Игры для Windows ](https://www.microsoft.com/ru-ru/windows/windows-10-games)
+
+  
+
+[ Internet Explorer ](https://support.microsoft.com/hub/4230784/internet-
+explorer-help)
+
+  
+
+[ Microsoft Edge ](https://www.microsoft.com/edge)
+
+####  Microsoft 365
+
+[ Microsoft 365 ](https://www.microsoft.com/microsoft-365/what-is-
+microsoft-365)
+
+[ Microsoft 365 для дома ](https://www.microsoft.com/microsoft-365/compare-
+all-microsoft-365-products)
+
+[ Microsoft 365 для бизнеса ](https://www.microsoft.com/microsoft-365/compare-
+all-microsoft-365-products?&activetab=tab:primaryr2)
+
+[ Microsoft 365 для Mac ](https://www.microsoft.com/microsoft-365/buy/compare-
+microsoft-365-products-for-mac)
+
+[ Поддержка Microsoft 365 ](https://www.support.office.com)
+
+####  Office
+
+[ Office 365 ](https://www.microsoft.com/microsoft-365/office-365)
+
+[ Office для учебных заведений ](https://products.office.com/ru-
+ru/student/office-in-education)
+
+[ Office для школ ](https://products.office.com/ru-ru/academic/compare-
+office-365-education-plans)
+
+[ Office для мобильных устройств ](https://microsoft.com/microsoft-365/mobile)
+
+[ Шаблоны Office ](https://templates.office.com/ru-ru)
+
+[ Поддержка по Office ](https://support.office.com/ru-ru)
+
+####  Приложения
+
+[ Word ](https://products.office.com/ru-ru/word)
+
+[ Excel ](https://products.office.com/ru-ru/excel)
+
+[ PowerPoint ](https://products.office.com/ru-ru/powerpoint)
+
+[ Outlook ](http://www.microsoft.com/ru-ru/outlook-com)
+
+[ Access ](https://products.office.com/ru-ru/access)
+
+[ Exchange ](http://office.microsoft.com/ru-ru/exchange/)
+
+[ OneDrive для бизнеса
+](https://www.microsoft.com/microsoft-365/onedrive/onedrive-for-business)
+
+[ Project ](https://products.office.com/ru-ru/project)
+
+[ SharePoint ](https://products.office.com/ru-
+ru/sharepoint/collaboration?WT.mc_id=OAN_MSCOM-hplink-prodOfcSharepoint)
+
+[ Skype для бизнеса ](https://products.office.com/ru-ru/skype-for-business)
+
+[ Microsoft Teams ](https://products.office.com/microsoft-teams/group-chat-
+software)
+
+[ Visio ](https://products.office.com/ru-ru/visio)
+
+####  Службы
+
+[ Outlook.com ](http://www.microsoft.com/ru-ru/outlook-com)
+
+[ OneDrive ](http://www.onedrive.live.com/about/ru-
+ru?WT.mc_id=OO_MSCOM_Launch_Features)
+
+[ OneNote ](http://www.onenote.com/)
+
+[ Skype ](https://www.skype.com)
+
+[ Microsoft Health ](https://enterprise.microsoft.com/ru-
+ru/industries/health/)
+
+[ Microsoft Groove ](https://www.microsoft.com/ru-ru/groove)
+
+[ Bing ](http://www.bing.com/)
+
+[ MSN ](http://msn.com/)
+
+###  Устройства и Xbox
+
+####  Другие устройства
+
+[ Компьютеры и планшеты с Windows ](https://www.microsoft.com/en-
+us/store/b/pc?icid=TopNavDevicesPC)
+
+[ Все телефоны с Windows ](http://www.microsoft.com/ru-ru/windows/phones)
+
+####  Xbox
+
+  
+
+[ Xbox ](http://www.xbox.com/ru-ru)
+
+  
+
+[ Консоли Xbox One ](http://www.xbox.com/ru-ru/xbox-one?xr=shellnav)
+
+  
+
+[ Xbox One X ](http://www.xbox.com/ru-ru/xbox-one-x?xr=shellnav)
+
+  
+
+[ Xbox One S ](http://www.xbox.com/ru-ru/xbox-one-s?xr=shellnav)
+
+  
+
+[ Купить консоль ](http://www.xbox.com/ru-ru/xbox-one/consoles?xr=shellnav)
+
+  
+
+[ Купить аксессуары ](http://www.xbox.com/ru-ru/xbox-
+one/accessories?xr=shellnav)
+
+  
+
+[ Создать контроллер ](https://xboxdesignlab.xbox.com/ru-ru/?xr=shellnav)
+
+  
+
+[ Мой Xbox ](http://account.xbox.com/ru-ru/social?xr=shellnav)
+
+  
+
+[ Поддержка Xbox ](http://support.xbox.com/?xr=shellnav)
+
+####  Игры
+
+  
+
+[ Игры для Xbox One ](http://www.xbox.com/ru-ru/games/xbox-one?xr=shellnav)
+
+  
+
+[ Xbox Game Pass ](http://www.xbox.com/games/xbox-game-pass?xr=shellnav)
+
+  
+
+[ Игры для Xbox 360 ](https://www.xbox.com/ru-ru/games/xbox-360?xr=shellnav)
+
+  
+
+[ Игры Xbox \(диски\) ](https://www.microsoft.com/ru-
+ru/store/collections/xboxgames/pc?icid=TopNavXboxGamesDisc)
+
+  
+
+[ Загрузить игры для Xbox ](https://www.microsoft.com/ru-ru/store/top-
+paid/games/xbox?icid=TopNavXboxGamesDownload)
+
+  
+
+[ Компьютерные игры \(диски\) ](https://www.microsoft.com/ru-
+ru/store/collections/pcgames/pc?icid=TopNavGamesPCGames)
+
+  
+
+[ Цифровые игры Windows ](https://www.microsoft.com/ru-
+ru/store/games/windows?icid=TopNavGamesWindowsGames)
+
+  
+
+[ Игры для телефонов с Windows ](https://www.microsoft.com/ru-
+ru/store/games/windows-phone?icid=TopNavGamesWindowsPhoneGames)
+
+###  Бизнес и предприятие
+
+####  Эффективность
+
+[ Microsoft 365 для бизнеса
+](https://www.microsoft.com/microsoft-365/business/all-business)
+
+[ Microsoft 365 для SMB ](https://www.microsoft.com/microsoft-365/business)
+
+[ Microsoft 365 для предприятий
+](https://www.microsoft.com/microsoft-365/enterprise)
+
+[ Office 365 для предприятий
+](https://products.office.com/business/enterprise-productivity-tools)
+
+[ Microsoft Dynamics 365 ](https://www.microsoft.com/ru-ru/dynamics365/home)
+
+[ Skype для бизнеса ](https://products.office.com/ru-ru/skype-for-business)
+
+[ Windows 10 для бизнеса ](https://www.microsoft.com/ru-
+ru/WindowsForBusiness/default.aspx)
+
+[ Устройства с Windows ](https://www.microsoft.com/en-
+us/windowsforbusiness/view-all-devices)
+
+[ Microsoft SQL Server ](https://www.microsoft.com/ru-ru/sql-server/)
+
+[ Microsoft Power BI ](https://powerbi.microsoft.com/ru-ru)
+
+[ Operations Management Suite ](https://www.microsoft.com/ru-ru/cloud-
+platform/operations-management-suite)
+
+[ System Center ](https://www.microsoft.com/ru-ru/cloud-platform/system-
+center)
+
+####  Новые технологии
+
+  
+
+[ Искусственный интеллект ](https://www.microsoft.com/ai)
+
+  
+
+[ Windows 10 для Интернета вещей ](https://www.microsoft.com/ru-
+ru/windowsforbusiness/windows-iot)
+
+  
+
+[ Azure Cognitive Services ](https://azure.microsoft.com/services/cognitive-
+services)
+
+  
+
+[ Квантовые вычисления ](https://www.microsoft.com/quantum/)
+
+  
+
+[ Исследования ](https://www.microsoft.com/en-us/research/)
+
+  
+
+  
+
+####  Мобильность
+
+  
+
+[ Мобильность предприятия ](https://www.microsoft.com/ru-ru/cloud-
+platform/enterprise-mobility-security)
+
+  
+
+[ Мобильность офиса ](https://products.office.com/ru-ru/business/enterprise-
+mobile-productivity)
+
+  
+
+[ Мобильность Windows ](https://www.microsoft.com/ru-
+ru/WindowsForBusiness/windows-industry)
+
+  
+
+####  Отрасли
+
+[ Автопромышленность ](https://www.microsoft.com/enterprise/automotive)
+
+[ Финансовые услуги ](https://www.microsoft.com/enterprise/financial-
+services/banking-and-capital-markets)
+
+[ Государственные учреждения
+](https://www.microsoft.com/enterprise/government)
+
+[ Здравоохранение ](https://www.microsoft.com/enterprise/health)
+
+[ Промышленное производство
+](https://www.microsoft.com/enterprise/manufacturing)
+
+[ СМИ и развлечения ](https://www.microsoft.com/enterprise/media-
+entertainment)
+
+[ Торговля ](https://www.microsoft.com/enterprise/retail-consumer-goods)
+
+[ Телекоммуникации ](https://www.microsoft.com/enterprise/telecommunications)
+
+####  Для клиентов
+
+[ Для малого и среднего бизнеса ](https://www.microsoft.com/ru-
+ru/store/b/business?icid=CNavBusinessStore)
+
+[ Для крупных предприятий ](https://www.microsoft.com/enterprise)
+
+[ лицензирование ](http://www.microsoft.com/ru-ru/licensing/default)
+
+[ Безопасность дома ](https://support.microsoft.com/hub/4099151/windows-
+security-help)
+
+[ Microsoft Envision ](https://www.microsoft.com/envision)
+
+[ Microsoft Ignite ](https://www.microsoft.com/ignite)
+
+[ Microsoft AppSource ](https://go.microsoft.com/fwlink/?LinkID=808093)
+
+[ Microsoft Advertising ](https://go.microsoft.com/fwlink/?linkid=2145882)
+
+####  Для партнеров
+
+[ Опубликовать ](https://enterprise.microsoft.com/ru-ru/get-listed/)
+
+[ Ресурсы для партнеров Microsoft ](https://partner.microsoft.com/ru-ru)
+
+[ Найти поставщика решений ](https://www.microsoft.com/ru-ru/solution-
+providers)
+
+[ Партнерство с Microsoft Azure ](https://azure.microsoft.com/ru-
+ru/community/partners/grow-your-business/)
+
+[ Microsoft Inspire ](https://partner.microsoft.com/inspire/)
+
+####  
+
+> >  
+>
+
+###  Для разработчиков и ИТ-специалистов
+
+####  Продукты
+
+  
+
+[ .NET ](https://www.dot.net/)
+
+  
+
+[ Центр разработки для Windows ](https://developer.microsoft.com/ru-
+ru/windows)
+
+  
+
+[ Visual Studio ](https://www.visualstudio.com/)
+
+  
+
+[ Центр разработки Office ](https://dev.office.com/)
+
+  
+
+[ Интернет вещей ](https://developer.microsoft.com/windows/iot)
+
+  
+
+[ Смешанная реальность ](https://developer.microsoft.com/ru-ru/windows/mixed-
+reality)
+
+  
+
+[ Microsoft Edge ](https://developer.microsoft.com/microsoft-edge)
+
+  
+
+[ Оборудование ](https://developer.microsoft.com/windows/hardware)
+
+  
+
+[ ИТ-центр Windows ](https://technet.microsoft.com/windows)
+
+  
+
+[ Xamarin ](https://www.xamarin.com/)
+
+####  Microsoft Azure
+
+  
+
+[ Что такое Azure ](https://azure.microsoft.com/overview/what-is-azure/)
+
+  
+
+[ Продукты ](https://azure.microsoft.com/services/)
+
+  
+
+[ Решения ](https://azure.microsoft.com/solutions/?v=4)
+
+  
+
+[ Цены ](https://azure.microsoft.com/pricing/)
+
+  
+
+[ Создать бесплатную учетную запись ](https://azure.microsoft.com/free)
+
+  
+
+[ Инфраструктура ](https://azure.microsoft.com/global-infrastructure)
+
+####  Службы
+
+  
+
+[ Публикация игр и приложений в Microsoft Store
+](https://developer.microsoft.com/store)
+
+  
+
+[ Кортана ](https://developer.microsoft.com/cortana)
+
+  
+
+[ Bing ](https://bing.com/dev/dev-center)
+
+  
+
+[ Аналитика по приложениям ](https://azure.microsoft.com/services/application-
+insights)
+
+####  Документация
+
+[ .NET ](https://www.dot.net/)
+
+[ Microsoft Azure ](https://azure.microsoft.com/ru-ru/documentation/)
+
+[ Microsoft Graph ](https://developer.microsoft.com/graph)
+
+[ Visual Studio ](https://www.visualstudio.com/vs/getting-started/)
+
+[ Azure Dev Ops ](https://www.visualstudio.com/docs/overview)
+
+[ Windows ](https://docs.microsoft.com/ru-ru/windows)
+
+[ Office ](https://dev.office.com/docs)
+
+[ Все центры разработчиков ](https://developer.microsoft.com/ru-ru)
+
+[ Microsoft Docs ](https://docs.microsoft.com)
+
+####  Загрузки для разработчиков
+
+[ Центр загрузки Microsoft ](https://www.microsoft.com/ru-
+ru/download/developer-tools.aspx)
+
+[ Microsoft Azure ](https://azure.microsoft.com/ru-ru/downloads/)
+
+[ Visual Studio ](https://www.visualstudio.com/downloads/)
+
+[ Пакеты SDK ](https://msdn.microsoft.com/ru-ru/microsoft-sdks-msdn)
+
+[ Windows ](https://developer.microsoft.com/ru-ru/windows/downloads)
+
+[ Microsoft Evaluation Center ](https://www.microsoft.com/evalcenter/)
+
+####  Примеры кода
+
+  
+
+[ Office ](https://dev.office.com/code-samples)
+
+  
+
+[ Microsoft Graph ](https://graph.microsoft.io/ru-ru/code-samples-and-sdks)
+
+  
+
+[ MSDN ](https://code.msdn.microsoft.com/)
+
+  
+
+[ Azure ](https://azure.microsoft.com/ru-ru/resources/samples/)
+
+  
+
+[ Windows ](https://developer.microsoft.com/ru-ru/windows/samples)
+
+  
+
+[ Visual Studio Code ](https://code.visualstudio.com/)
+
+  
+
+[ Скрипты PowerShell ](https://technet.microsoft.com/scriptcenter)
+
+####  Блоги
+
+[ Microsoft Azure ](https://azure.microsoft.com/ru-ru/blog/)
+
+[ Visual Studio ](https://blogs.msdn.microsoft.com/visualstudio/)
+
+[ Azure Dev Ops ](https://devblogs.microsoft.com/devops)
+
+[ Средства разработчика ](https://blogs.msdn.microsoft.com/developer-tools/)
+
+[ Microsoft Dynamics 365 ](https://cloudblogs.microsoft.com/dynamics365/)
+
+[ Microsoft для промышленности ](https://cloudblogs.microsoft.com/industry-
+blog/)
+
+[ Microsoft с открытым исходным кодом
+](https://cloudblogs.microsoft.com/opensource/)
+
+[ Microsoft Power Platform ](https://cloudblogs.microsoft.com/powerplatform/)
+
+[ Microsoft для квантовых вычислений
+](https://cloudblogs.microsoft.com/quantum/)
+
+[ Microsoft SQL Server ](https://cloudblogs.microsoft.com/sqlserver/)
+
+[ Microsoft Windows Server ](https://cloudblogs.microsoft.com/windowsserver/)
+
+[ Windows ](https://blogs.windows.com/buildingapps/)
+
+####  Сообщество и форумы
+
+[ Для разработчиков и ИТ-специалистов
+](https://docs.microsoft.com/answers/products/)
+
+[ Сообщество Microsoft Tech ](https://techcommunity.microsoft.com/)
+
+####  Обучение и подписки
+
+[ Channel 9 ](https://channel9.msdn.com/)
+
+[ Видео о разработке Windows ](https://developer.microsoft.com/ru-
+ru/windows/develop/app-development-video)
+
+[ Microsoft Virtual Academy ](https://mva.microsoft.com/)
+
+[ Подписки на Visual Studio ](https://www.visualstudio.com/subscriptions/)
+
+[ Microsoft Azure Essentials ](https://docs.microsoft.com/learn/azure/)
+
+####  Программы
+
+[ Программа Microsoft для разработчиков ](https://developer.microsoft.com/ru-
+ru/store/register)
+
+[ Программа предварительной оценки Windows ](https://insider.windows.com/)
+
+[ Партнерская программа Microsoft ](http://www.microsoftaffiliates.com/)
+
+[ Microsoft для стартапов ](https://startups.microsoft.com/)
+
+####  Для ИТ-специалистов
+
+[ Microsoft 365 для ИТ-специалистов
+](https://docs.microsoft.com/microsoft-365/?view=o365-worldwide)
+
+[ Office 365 для ИТ-специалистов ](https://technet.microsoft.com/ru-
+ru/office/dn788774)
+
+[ Microsoft Power BI ](https://powerbi.microsoft.com/ru-ru)
+
+[ Microsoft SQL Server ](https://www.microsoft.com/ru-ru/server-
+cloud/products/sql-server/overview.aspx)
+
+[ Internet of Things
+](https://azure.microsoft.com/overview/iot/?site=mscom_iot)
+
+[ Карьерный центр для ИТ-специалистов
+](https://docs.microsoft.com/learn/azure/)
+
+[ Все технические центры ИТ ](https://technet.microsoft.com/ru-
+ru/bb421517.aspx?wt.svl=more_centers_link)
+
+>  
+>
+
+###  О нас
+
+####  Компания
+
+  
+
+[ О корпорации Microsoft ](https://www.microsoft.com/about)
+
+  
+
+[ Свяжитесь с нами ](https://support.microsoft.com/ru-ru/contactus/)
+
+  
+
+[ Вакансии ](https://careers.microsoft.com)
+
+  
+
+[ Инвесторам ](https://www.microsoft.com/investor)
+
+  
+
+[ Исследования ](https://microsoft.com/research)
+
+  
+
+[ Конфиденциальность и файлы cookie
+](https://go.microsoft.com/fwlink/?LinkId=521839)
+
+  
+
+[ Условия использования ](https://go.microsoft.com/fwlink/?LinkID=206977)
+
+  
+
+[ Товарные знаки ](https://www.microsoft.com/trademarks)
+
+  
+
+[ Сведения о рекламе ](https://choice.microsoft.com/)
+
+####  Ценности
+
+[ Равные возможности ](https://www.microsoft.com/diversity)
+
+[ Специальные возможности ](https://www.microsoft.com/accessibility)
+
+[ Microsoft в сфере образования ](https://www.microsoft.com/ru-ru/education)
+
+[ Благотворительная деятельность Microsoft ](https://www.microsoft.com/en-
+us/corporate-responsibility/philanthropies)
+
+[ Социальная ответственность ](https://www.microsoft.com/en-us/corporate-
+responsibility/)
+
+[ Политика конфиденциальности Microsoft ](https://privacy.microsoft.com/ru-ru)
+
+[ TEALS ](https://www.microsoft.com/teals)
+
+####  Новости и мероприятия
+
+  
+
+[ Новости компании ](https://news.microsoft.com/)
+
+  
+
+[ Мероприятия ](https://events.microsoft.com/)
+
+  
+
+[ Официальный блог Microsoft ](https://blogs.microsoft.com/)
+
+  
+
+[ Далее в Microsoft
+](https://blogs.microsoft.com/next/#sm.0000wml2ha15jzf4wxbfvbybfy18k)
+
+####  
+
+>  
+>
+
+Что нового?
+
+  * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365)
+  * [ Приложения Windows 10 ](https://www.microsoft.com/ru-ru/windows/windows-10-apps)
+
+Microsoft Store
+
+  * [ Профиль учетной записи ](https://account.microsoft.com/)
+  * [ Центр загрузки ](https://www.microsoft.com/ru-ru/download)
+  * [ Поддержка Microsoft Store ](https://go.microsoft.com/fwlink/?linkid=2139749)
+  * [ Возврат товаров ](https://go.microsoft.com/fwlink/p/?LinkID=824764&clcid=0x419)
+  * [ Отслеживание заказа ](https://account.microsoft.com/orders)
+
+Для образования
+
+  * [ Майкрософт и образование ](https://www.microsoft.com/ru-ru/education)
+  * [ Office для учащихся ](https://www.microsoft.com/ru-ru/education/products/office/default.aspx)
+  * [ Office 365 для школ ](https://products.office.com/ru-ru/academic/compare-office-365-education-plans)
+  * [ Специальные предложения для учащихся и родителей ](https://www.microsoft.com/ru-ru/store/b/student?icid=CNavfooter_Studentsandeducation)
+  * [ Microsoft Azure и образование ](https://azure.microsoft.com/ru-ru/community/education/)
+
+Для крупных предприятий
+
+  * [ Azure ](https://azure.microsoft.com/)
+  * [ AppSource ](https://go.microsoft.com/fwlink/?LinkID=808093)
+  * [ Автопромышленность ](https://www.microsoft.com/enterprise/automotive)
+  * [ Государственные учреждения ](https://www.microsoft.com/enterprise/government)
+  * [ Здравоохранение ](https://www.microsoft.com/enterprise/health)
+  * [ Промышленное производство ](https://www.microsoft.com/enterprise/manufacturing)
+  * [ Финансовые услуги ](https://www.microsoft.com/enterprise/financial-services/banking-and-capital-markets)
+  * [ Торговля ](https://www.microsoft.com/enterprise/retail-consumer-goods)
+
+Для разработчиков
+
+  * [ Microsoft Visual Studio ](https://visualstudio.microsoft.com/)
+  * [ Центр разработчиков Windows ](https://developer.microsoft.com/ru-ru/windows)
+  * [ Центр разработчиков ](https://developer.microsoft.com/)
+  * [ Программа Майкрософт для разработчиков ](https://developer.microsoft.com/ru-ru/store/register)
+  * [ Channel 9 ](https://channel9.msdn.com/)
+  * [ Центр разработчиков Office ](https://developer.microsoft.com/ru-ru/office)
+
+Компания
+
+  * [ Вакансии ](https://careers.microsoft.com/)
+  * [ О корпорации Майкрософт ](https://www.microsoft.com/ru-ru/about)
+  * [ Новости компании ](https://news.microsoft.com/ru-ru)
+  * [ Политика конфиденциальности Майкрософт ](https://privacy.microsoft.com/ru-ru)
+  * [ Инвесторы ](https://www.microsoft.com/investor/default.aspx)
+  * [ Безопасность ](https://www.microsoft.com/ru-ru/security/default.aspx)
+
+[ Русский \(Россия\) ](https://www.microsoft.com/en-
+us/locale.aspx?absoluteReturnUrl=https%3a%2f%2fwww.microsoft.com%2fru-
+ru%2fsitemap.aspx)
+
+  * [ Связаться с Microsoft ](https://support.microsoft.com/contactus)
+  * [ Конфиденциальность ](https://go.microsoft.com/fwlink/?LinkId=521839)
+  * Управление файлами cookie 
+  * [ Условия использования ](https://go.microsoft.com/fwlink/?LinkID=206977)
+  * [ Товарные знаки ](https://www.microsoft.com/trademarks)
+  * [ Сведения о рекламе ](https://choice.microsoft.com/)
+  * © Microsoft 2021 
+

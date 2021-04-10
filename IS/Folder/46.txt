@@ -1,0 +1,391 @@
+![](https://web.vortex.data.microsoft.com:443/collect/v1/t.gif?&name=%27Ms.Webi.PageView%27&ver=%272.1%27&appId=%27JS%3Ajs%3Aindustry%27&cV=%27zPUr0T8U%2FEGKN9qn.0%27&ext-
+app-env=%27onerf_prod%27&ext-javascript-libver=%274.0.0-beta-10%27&ext-user-
+localId=%27t%3A13214E82639769C8389D5E97627D68EF%27&*baseType=%27Ms.Content.PageView%27&*isJs=True&*isLoggedIn=False&*isManual=True&*serverImpressionGuid=%2768c3c657-9f8d-4570-9146-0207f98d74a1%27&-ver=%271.0%27&-impressionGuid=%2700000000-0000-0000-0000-000000000000%27&-pageName=%27financial%20services%20%E2%80%93%20banking%20home%20page.ru-
+ru%27&-uri=%27https%3A%2F%2Fwww.microsoft.com%2Fru-ru%2Findustry%2Ffinancial-
+services%2Fbanking%3Frtc%3D1%27&-pageType=%27ConnectedScenario%27&-pageTags=%27%7B%22tasId%22%3A%2286375aec-c74e-4539-ab6d-c0d2f76b1469%22%2C%22tasMuid%22%3A%2213214E82639769C8389D5E97627D68EF%22%2C%22browserGroup%22%3A%22uplevel.web.pc%22%2C%22isOneRf%22%3A%22True%22%7D%27&-behavior=0&-market=%27ru-
+ru%27)
+
+[ Перейти к основному контенту ](javascript:void\(0\))
+
+[ ![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31) Microsoft
+](https://www.microsoft.com)
+
+Industry
+
+[ Industry  ](https://www.microsoft.com/ru-ru/industry)
+
+Industry
+
+  * [ Главная ](https://www.microsoft.com/ru-ru/industry)
+  * [ Автомобильный ](https://www.microsoft.com/ru-ru/industry/automotive)
+  * [ энергии ](https://www.microsoft.com/ru-ru/industry/energy)
+  * Финансовые услуги 
+    * [ Банковская сфера ](https://www.microsoft.com/ru-ru/industry/financial-services/banking)
+    * [ Фондовые рынки ](https://www.microsoft.com/ru-ru/industry/financial-services/capital-markets)
+    * [ Страхование ](https://www.microsoft.com/ru-ru/industry/financial-services/insurance)
+
+  * Государственный сектор 
+    * [ Государственный сектор ](https://www.microsoft.com/ru-ru/industry/government)
+    * [ Общественная безопасность и правосудие ](https://www.microsoft.com/ru-ru/industry/government/public-safety-and-justice)
+    * [ Оборонные и разведывательные службы ](https://www.microsoft.com/ru-ru/industry/government/defense-and-intelligence)
+
+  * Здравоохранение 
+    * [ Здравоохранение ](https://www.microsoft.com/ru-ru/industry/health)
+    * [ Страховые компании ](https://www.microsoft.com/ru-ru/industry/health/payors)
+    * [ Поставщики ](https://www.microsoft.com/ru-ru/industry/health/providers)
+    * [ Фармацевтика и биологические науки ](https://www.microsoft.com/ru-ru/industry/health/pharmaceuticals)
+
+  * [ Производство ](https://www.microsoft.com/ru-ru/industry/manufacturing)
+  * [ Мультимедиа и развлечения ](https://www.microsoft.com/ru-ru/industry/media-entertainment)
+  * Больше 
+    * Розничная торговля  Розничная торговля 
+      * [ Розничная торговля ](https://www.microsoft.com/ru-ru/industry/retail-consumer-goods)
+      * [ Потребительские товары ](https://www.microsoft.com/ru-ru/industry/consumer-goods)
+    * [ Телекоммуникации ](https://www.microsoft.com/ru-ru/industry/telecommunications)
+    * [ Образование ](https://www.microsoft.com/education/default.aspx )
+    * [ Блоги ](https://cloudblogs.microsoft.com/industry-blog/ru-ru/)
+
+  * Все продукты Microsoft 
+    *       * [ Microsoft 365 ](https://www.microsoft.com/ru-ru/microsoft-365/business/all-business)
+      * [ Azure ](https://azure.microsoft.com)
+      * [ Office 365 ](https://products.office.com/ru-ru/business/office)
+      * [ Dynamics 365 ](https://www.microsoft.com/ru-ru/dynamics365/home)
+      * [ Power Platform ](https://powerplatform.microsoft.com/ru-ru)
+      * [ Windows 10 ](https://www.microsoft.com/ru-ru/windowsforbusiness)
+    * Продукты и услуги  Продукты и услуги 
+      * [ Windows Server ](https://www.microsoft.com/cloud-platform/windows-server)
+      * [ Enterprise Mobility + Security ](https://www.microsoft.com/cloud-platform/enterprise-mobility-security)
+      * [ Power BI ](https://powerbi.microsoft.com/ru-ru/)
+      * [ Группы ](https://www.microsoft.com/ru-ru/microsoft-teams/group-chat-software)
+      * [ Visual Studio ](https://visualstudio.microsoft.com/)
+    * Новые технологии  Новые технологии 
+      * [ Искусственный интеллект ](https://www.microsoft.com/ai/)
+      * [ Интернет вещей ](https://www.microsoft.com/internet-of-things/)
+      * [ Службы Azure Cognitive Services ](https://azure.microsoft.com/services/cognitive-services/)
+      * [ Quantum ](https://www.microsoft.com/quantum/)
+    * Разработчик и ИТ  Разработчик и ИТ 
+      * [ Документы ](https://docs.microsoft.com/ru-ru/)
+      * [ Центр разработчиков ](https://developer.microsoft.com/)
+      * [ Центр разработчиков Windows ](https://developer.microsoft.com/ru-ru/windows)
+      * [ Windows IT Pro Center ](https://www.microsoft.com/ru-ru/itpro/windows)
+      * [ FastTrack ](https://fasttrack.microsoft.com/office)
+      * [ Power Platform ](https://powerplatform.microsoft.com/ru-ru)
+    * Партнер  Партнер 
+      * [ Партнерская сеть ](https://partner.microsoft.com/)
+      * [ Поставщики решений ](https://www.microsoft.com/ru-ru/solution-providers)
+      * [ Центр партнеров ](https://partnercenter.microsoft.com/partner/home)
+    * Отрасли  Отрасли 
+      * [ Образование ](https://www.microsoft.com/ru-ru/education?icid=CNavMSCOML0_Studentsandeducation)
+      * [ Финансовые услуги ](https://www.microsoft.com/enterprise/financial-services/banking-and-capital-markets)
+      * [ Государственный сектор ](https://www.microsoft.com/ru-ru/enterprise/government)
+      * [ Здравоохранение ](https://www.microsoft.com/ru-ru/enterprise/health)
+      * [ Производство и ресурсы ](https://www.microsoft.com/ru-ru/enterprise/manufacturing)
+      * [ Розничная торговля ](https://www.microsoft.com/ru-ru/enterprise/retail-consumer-goods)
+    * Прочее  Прочее 
+      * [ Безопасность ](https://www.microsoft.com/security/)
+      * [ Лицензирование ](https://www.microsoft.com/licensing/)
+      * [ AppSource ](https://appsource.microsoft.com/)
+      * [ Azure Marketplace ](https://azuremarketplace.microsoft.com/marketplace/)
+      * [ Мероприятия ](https://events.microsoft.com/)
+      * [ Исследования ](https://www.microsoft.com/research/)
+    * [ Посмотреть карту сайта ](https://www.microsoft.com/ru-ru/sitemap.aspx)
+
+Поиск  Search Microsoft.com
+
+Отмена
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE2POHm?ver=677b&q=0&m=6&h=600&w=1600&b=%23FFFFFFFF&l=f&o=t&x=940&y=488&aim=true)
+
+#  Расширение интеллектуальных возможностей в банковском секторе
+
+Корпорация Microsoft и ее экосистема партнеров помогают банкам снижать затраты
+и риски, модернизировать основные системы и удовлетворять потребности клиентов
+и сотрудников, чтобы достичь дифференциации и устойчивого роста.
+
+[ Читать руководство  ](https://info.microsoft.com/ww-landing-A-Guide-For-
+Financial-Services-Leaders.html?lcid=RU)
+
+##  Переосмысление банковской деятельности
+
+Открывайте новые возможности быстрее с помощью инновационных бизнес-моделей,
+создавайте уникальные процессы взаимодействия с клиентами для разных каналов,
+продуктов и сервисов, а также реализуйте новые стили работы.
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4FGHD?ver=b2b6&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Управление рисками предприятия
+
+Углубите анализ и обеспечьте соблюдение нормативных требований.
+
+[ Дополнительные сведения  ](https://www.microsoft.com/ru-
+RU/industry/financial-services/banking/manage-risk-across-the-organization)
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4FGHM?ver=eb2c&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Модернизация платежных и базовых систем
+
+Модернизируйте базовую банковскую платформу для поддержки платежей в реальном
+времени и создания новых источников дохода.
+
+[ Дополнительные сведения  ](https://www.microsoft.com/ru-
+RU/industry/financial-services/banking/drive-real-time-bank-payments)
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4FBHQ?ver=8e62&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Боритесь с финансовыми преступлениями
+
+Помогите обеспечить защиту от финансовых преступлений в режиме реального
+времени.
+
+[ Дополнительные сведения  ](https://www.microsoft.com/ru-
+RU/industry/financial-services/banking/combat-financial-crime)
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4FyS7?ver=ffc6&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Реализуйте персонализированное обслуживание клиентов
+
+Анализируйте клиентов своего банка и персонализируйте процесс их обслуживания.
+
+[ Дополнительные сведения  ](https://www.microsoft.com/ru-
+RU/industry/financial-services/banking/deliver-differentiated-client-
+experiences)
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4FBHT?ver=2842&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Расширение возможностей сотрудников
+
+Повысьте производительность организации и сотрудников.
+
+[ Дополнительные сведения  ](https://www.microsoft.com/ru-
+RU/industry/financial-services/banking/empower-your-employees)
+
+* * *
+
+##  Узнайте, как происходят инновации и трансформация в отрасли финансовых
+услуг
+
+![Nedbank](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4hW30?ver=1db7&q=90&m=6&h=110&w=110&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+![No Data Available](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4FLSD?ver=efc5&q=90&m=6&h=110&w=110&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+![No Data Available](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4FE1B?ver=20f4&q=90&m=6&h=110&w=110&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+![Rabobank](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4FLSG?ver=a982&q=90&m=6&h=110&w=110&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+![](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+![Nedbank](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4pmve?ver=2ac1&q=90&m=6&h=100&w=300&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Электронный виртуальный помощник обрабатывает 80 % запросов на 90 %
+дешевле, чем при использовании труда сотрудников
+
+Облачный бот отвечает на вопросы клиентов и создает виртуальную рабочую силу
+банка, которая обходится на 90 % дешевле реальных сотрудников.
+
+[ Читать историю  ](https://customers.microsoft.com/en-
+us/story/800504-nedbank-banking-azure-bot-south-africa)
+
+![](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+![ABN AMRO BANK](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4FE1y?ver=a90f&q=90&m=6&h=100&w=300&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Дифференциация взаимодействия с клиентами по нескольким каналам с
+использованием Microsoft Teams
+
+Благодаря недавним инвестициям в Microsoft 365 ABN AMRO использует Microsoft
+Teams, чтобы расширить свой портфель многоканальных возможностей, включая
+возможности видеобанкинга, из которых могут выбирать клиенты.
+
+[ Читать историю  ](https://customers.microsoft.com/en-us/story/841499-abn-
+amro-banking-microsoft-365)
+
+![](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+![Capital One](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4FOw5?ver=9e68&q=90&m=6&h=100&w=300&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Защита клиентов от мошенничества
+
+Узнайте, как Capital One сотрудничает с Microsoft для реализации облачного
+механизма авторизации, который улучшает точность обнаружения мошенничества на
+фоне расширения электронной коммерции и увеличения попыток мошенничества во
+время пандемии COVID-19.
+
+[ Смотреть видео  ](https://customers.microsoft.com/en-
+us/story/832234-capital-one-banking-capital-markets-dynamics-365)
+
+![Человек хочет открыть дверь
+машины](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+![Rabobank](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4FE1F?ver=bf19&q=90&m=6&h=100&w=300&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Переход на мобильные устройства для повышения эффективности работы
+банкиров
+
+Компания Rabobank предоставляет всем своим менеджерам по связям с клиентами
+мобильное приложение, которое содержит всю необходимую им CRM-информацию.
+
+[ Читать историю  ](https://customers.microsoft.com/en-
+us/story/832916-rabobank)
+
+![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4fAA7?ver=9506&q=90&m=6&h=1080&w=1920&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+##  Исследуйте мир интеллектуальных банковских услуг
+
+  * ![Бизнесмен работает за ноутбуком](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4FOLd?ver=5fa8&q=90&m=6&h=273&w=485&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Читайте наш блог о финансовых услугах
+
+Получите доступ к последним новостям о финансовых услугах и мнениях лидеров
+отрасли в нашем блоге, где мы предоставляем информацию о том, как банки
+осуществляют цифровую трансформацию, используя технологии Microsoft и решения
+наших партнеров.
+
+[ Читать статью  ](https://cloudblogs.microsoft.com/industry-blog/financial-
+services/)
+
+  * ![Женщина-предприниматель работает за ноутбуком](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4FM3l?ver=c24e&q=90&m=6&h=273&w=485&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Руководство: что дальше? Руководство для лидеров из сферы финансовых
+услуг в кризисные времена
+
+Узнайте, как решить проблемы во время кризиса и перейти на новые способы
+работы. Узнайте, как другие лидеры в сфере финансовых услуг адаптируются к
+изменениям, из набора интересных интервью и электронных книг в этом ресурсном
+центре «Что дальше? Руководство для лидеров из сферы финансовых услуг в
+кризисные времена.
+
+[ Получить руководство  ](https://info.microsoft.com/ww-landing-A-Guide-For-
+Financial-Services-Leaders.html?lcid=RU)
+
+  * ![Женщины с ноутбуком за столом](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4FEd9?ver=696e&q=90&m=6&h=273&w=485&b=%23FFFFFFFF&l=f&o=t&x=271&y=94&aim=true)
+
+###  Книга: «Переосмысление управления рисками в эпоху изменений»
+
+В условиях глобальных потрясений финансовым учреждениям необходимо
+пересмотреть типовые стратегии. Из книги «Переосмысление управления рисками в
+эпоху данных и изменений» вы узнаете, как разработать и применить эффективный
+план повышения устойчивости моделей.
+
+[ Читать книгу  ](https://info.microsoft.com/ww-landing-Redefining-Risk-
+Management.html?lcid=RU)
+
+  * ![](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4GKoR?ver=7af2&q=90&m=6&h=273&w=485&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Книга: «Превышение цифрового порога: инновационные решения для
+идентификации и доступа в области финансовых услуг»
+
+Чтобы опередить конкурентов в эпоху цифровых технологий, традиционные
+финансовые учреждения должны реализовать собственные цифровые экосистемы в
+облаке за счет интеграции сторонних сервисов, улучшения привлечения клиентов и
+персонализации обслуживания. Для этого в облаке требуются безопасные и
+защищенные цифровые удостоверения.
+
+[ Читать книгу  ](https://azure.microsoft.com/resources/crossing-the-digital-
+threshold-identity-and-access-innovation-in-financial-services/)
+
+  * ![](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4GN6u?ver=919e&q=90&m=6&h=273&w=485&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+###  Книга «Риск концентрации: перспективы от Microsoft»
+
+Сотрудники финансовых учреждений, занимающиеся вопросами рисков и закупок,
+должны реагировать на нормативные требования и следить за тем, чтобы их
+решения были оптимизированы с учетом рисков и чтобы их организация могла
+воспользоваться всеми преимуществами новых технологий. В этом документе
+представлены сведения о шагах по оценке и минимизации рисков, а также
+одновременной реализации подходов без применения стратегии подбора нескольких
+поставщиков.
+
+[ Читать книгу  ](https://azure.microsoft.com/resources/concentration-risk-
+perspectives-from-microsoft-/)
+
+* * *
+
+##  Следите за нашими новостями
+
+  * [ ![Facebook](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/85288795/coreui.statics/images/social/facebook.png) ](https://www.facebook.com/MicrosoftinBusiness/)
+  * [ ![Twitter](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/93690392/coreui.statics/images/social/twitter.png) ](https://twitter.com/msftfinserv)
+  * [ ![Youtube](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/c79952ca/coreui.statics/images/social/youtube.png) ](https://www.youtube.com/channel/UChdf8Ha8o4EEiG-wHtK6JeA)
+  * [ ![Blog](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/f0272ae0/coreui.statics/images/social/blog.png) ](https://cloudblogs.microsoft.com/industry-blog/financial-services/)
+
+Что нового?
+
+  * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365)
+  * [ Приложения Windows 10 ](https://www.microsoft.com/ru-ru/windows/windows-10-apps)
+
+Microsoft Store
+
+  * [ Профиль учетной записи ](https://account.microsoft.com/)
+  * [ Центр загрузки ](https://www.microsoft.com/ru-ru/download)
+  * [ Поддержка Microsoft Store ](https://go.microsoft.com/fwlink/?linkid=2139749)
+  * [ Возврат товаров ](https://go.microsoft.com/fwlink/p/?LinkID=824764&clcid=0x419)
+  * [ Отслеживание заказа ](https://account.microsoft.com/orders)
+
+Для образования
+
+  * [ Майкрософт и образование ](https://www.microsoft.com/ru-ru/education)
+  * [ Office для учащихся ](https://www.microsoft.com/ru-ru/education/products/office/default.aspx)
+  * [ Office 365 для школ ](https://products.office.com/ru-ru/academic/compare-office-365-education-plans)
+  * [ Специальные предложения для учащихся и родителей ](https://www.microsoft.com/ru-ru/store/b/student?icid=CNavfooter_Studentsandeducation)
+  * [ Microsoft Azure и образование ](https://azure.microsoft.com/ru-ru/community/education/)
+
+Для крупных предприятий
+
+  * [ Azure ](https://azure.microsoft.com/)
+  * [ AppSource ](https://go.microsoft.com/fwlink/?LinkID=808093)
+  * [ Автопромышленность ](https://www.microsoft.com/enterprise/automotive)
+  * [ Государственные учреждения ](https://www.microsoft.com/enterprise/government)
+  * [ Здравоохранение ](https://www.microsoft.com/enterprise/health)
+  * [ Промышленное производство ](https://www.microsoft.com/enterprise/manufacturing)
+  * [ Финансовые услуги ](https://www.microsoft.com/enterprise/financial-services/banking-and-capital-markets)
+  * [ Торговля ](https://www.microsoft.com/enterprise/retail-consumer-goods)
+
+Для разработчиков
+
+  * [ Microsoft Visual Studio ](https://visualstudio.microsoft.com/)
+  * [ Центр разработчиков Windows ](https://developer.microsoft.com/ru-ru/windows)
+  * [ Центр разработчиков ](https://developer.microsoft.com/)
+  * [ Программа Майкрософт для разработчиков ](https://developer.microsoft.com/ru-ru/store/register)
+  * [ Channel 9 ](https://channel9.msdn.com/)
+  * [ Центр разработчиков Office ](https://developer.microsoft.com/ru-ru/office)
+
+Компания
+
+  * [ Вакансии ](https://careers.microsoft.com/)
+  * [ О корпорации Майкрософт ](https://www.microsoft.com/ru-ru/about)
+  * [ Новости компании ](https://news.microsoft.com/ru-ru)
+  * [ Политика конфиденциальности Майкрософт ](https://privacy.microsoft.com/ru-ru)
+  * [ Инвесторы ](https://www.microsoft.com/investor/default.aspx)
+  * [ Безопасность ](https://www.microsoft.com/ru-ru/security/default.aspx)
+
+[ Русский \(Россия\)
+](https://www.microsoft.com/enterprise/locales?absoluteReturnUrl=https%3a%2f%2fwww.microsoft.com%2fru-
+ru%2findustry%2ffinancial-services%2fbanking%3frtc%3d1)
+
+  * [ Связаться с Microsoft ](https://support.microsoft.com/contactus)
+  * [ Конфиденциальность ](https://go.microsoft.com/fwlink/?LinkId=521839)
+  * Управление файлами cookie 
+  * [ Условия использования ](https://go.microsoft.com/fwlink/?LinkID=206977)
+  * [ Товарные знаки ](https://www.microsoft.com/trademarks)
+  * [ Сведения о рекламе ](https://choice.microsoft.com/)
+  * © Microsoft 2021 
+

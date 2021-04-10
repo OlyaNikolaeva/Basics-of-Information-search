@@ -1,0 +1,934 @@
+![](https://web.vortex.data.microsoft.com:443/collect/v1/t.gif?&name=%27Ms.Webi.PageView%27&ver=%272.1%27&appId=%27JS%3AJS%3AWindows%27&cV=%27fkG5JKoiwUi0TJd9.0%27&ext-
+app-env=%27onerf_prod%27&ext-javascript-libver=%274.0.0-beta-10%27&ext-user-
+localId=%27t%3A0C75D909EFC46AB32AA0C91CEE6F6BB3%27&*baseType=%27Ms.Content.PageView%27&*isJs=True&*isLoggedIn=False&*isManual=True&*serverImpressionGuid=%27ac62b3dd-35cf-4416-92e0-2b34e21f1151%27&-ver=%271.0%27&-impressionGuid=%2700000000-0000-0000-0000-000000000000%27&-pageName=%27wdg-
+windows_features_20h1.ru-ru%27&-uri=%27https%3A%2F%2Fwww.microsoft.com%2Fru-
+ru%2Fwindows%2Ffeatures%3Ficid%3Dmscom_marcom_CPH3a_Windows10%27&-pageType=%27WDG-
+Windows%27&-pageTags=%27%7B%22tasId%22%3A%22ac62b3dd-35cf-4416-92e0-2b34e21f1151%22%2C%22tasMuid%22%3A%220C75D909EFC46AB32AA0C91CEE6F6BB3%22%2C%22browserGroup%22%3A%22uplevel.web.pc%22%2C%22isOneRf%22%3A%22True%22%7D%27&-behavior=0&-market=%27ru-
+ru%27)
+
+![]()
+
+[ ]()
+
+[ Перейти к основному контенту ](javascript:void\(0\))
+
+[ ![](https://img-prod-cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31) Microsoft
+](https://www.microsoft.com)
+
+Windows
+
+[ Windows  ](https://www.microsoft.com/ru-ru/windows)
+
+Windows
+
+  * [ Главная ](https://www.microsoft.com/ru-ru/windows)
+  * Windows 10 
+    * [ Как получить Windows 10 ](https://www.microsoft.com/ru-ru/windows/get-windows-10)
+    * [ Купить Windows 10 Домашняя ](https://www.microsoft.com/p/windows-10-home/d76qx4bznwk4)
+    * [ Купить Windows 10 Pro ](https://www.microsoft.com/p/windows-10-pro/df77x4d43rkt)
+    * [ Окончание поддержки Windows 7 ](https://www.microsoft.com/ru-ru/windows/windows-7-end-of-life-support-information)
+    * [ Windows10 функции ](https://www.microsoft.com/ru-ru/windows/features)
+    * [ Синхронизация телефонов с компьютером ](https://www.microsoft.com/ru-ru/windows/sync-across-your-devices)
+    * [ Безопасность Windows ](https://www.microsoft.com/ru-ru/windows/comprehensive-security)
+    * [ Сравните выпуски Windows 10 ](https://www.microsoft.com/ru-ru/windows/compare-windows-10-home-vs-pro)
+    * [ Характеристики и требования ](https://www.microsoft.com/ru-ru/windows/windows-10-specifications )
+
+  * Компьютеры 
+    * [ Ассортимент новых компьютеров с Windows ](https://www.microsoft.com/ru-ru/windows/computers)
+    * [ Купить ноутбуки ](https://www.microsoft.com/ru-ru/windows/windows-laptops)
+    * [ Купить устройства 2-в-1 ](https://www.microsoft.com/ru-ru/windows/2-in-1s)
+    * [ Купить моноблоки ](https://www.microsoft.com/ru-ru/windows/desktops-and-all-in-ones)
+    * [ Купить игровые компьютеры ](https://www.microsoft.com/ru-ru/windows/gaming-pcs)
+    * [ Купить все компьютеры ](https://www.microsoft.com/ru-ru/windows/view-all-devices)
+
+  * [ Приложения ](https://www.microsoft.com/ru-ru/windows/windows-10-apps)
+  * [ Игры ](https://www.microsoft.com/ru-ru/windows/windows-10-pc-gaming)
+  * [ Для бизнеса ](https://www.microsoft.com/ru-ru/microsoft-365/windows)
+  * [ Поддержка ](https://support.microsoft.com/windows)
+  * Больше 
+
+  * [ КУПИТЬ WINDOWS 10 ](https://www.microsoft.com/ru-ru/windows/get-windows-10)
+
+  * Все продукты Microsoft 
+    *       * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365)
+      * [ Office ](https://www.microsoft.com/microsoft-365/microsoft-office)
+      * [ Windows ](https://www.microsoft.com/ru-ru/windows/)
+      * [ Xbox ](https://www.xbox.com/)
+      * [ Поддержка ](https://support.microsoft.com/ru-ru)
+    * ПО  ПО 
+      * [ Приложения для Windows ](https://www.microsoft.com/ru-ru/store/apps/windows?icid=CNavAppsWindowsApps)
+      * [ OneDrive ](https://onedrive.live.com/about/ru-ru/)
+      * [ Outlook ](https://outlook.live.com/owa/)
+      * [ Skype ](https://www.skype.com/ru/)
+      * [ OneNote ](https://www.onenote.com/?omkt=ru-RU)
+      * [ Microsoft Teams ](https://www.microsoft.com/ru-ru/microsoft-teams/free?icid=SSM_AS_Promo_Apps_MicrosoftTeams)
+    * Компьютеры и устройства  Компьютеры и устройства 
+      * [ Купите Xbox ](https://www.microsoft.com/ru-ru/store/b/xbox?icid=CNavDevicesXbox)
+      * [ Аксессуары ](https://www.microsoft.com/accessories/ru-ru)
+    * Развлечения  Развлечения 
+      * [ Xbox Game Pass Ultimate ](https://www.microsoft.com/ru-ru/p/xbox-game-pass-ultimate/cfq7ttc0khs0?WT.mc_id=CNavGamesXboxGamePassUltimate)
+      * [ Xbox Live Gold ](https://www.microsoft.com/ru-ru/p/xbox-live-gold/cfq7ttc0k5dj?WT.mc_id=CNavGamesXboxLiveGold)
+      * [ Xbox и игры ](https://www.xbox.com/ru-ru/games/xbox-one?xr=shellnav)
+      * [ Компьютерные игры ](https://www.microsoft.com/ru-ru/store/games/windows?icid=CNavGamesWindowsGames)
+      * [ Игры для Windows ](https://www.microsoft.com/ru-ru/store/games/windows?icid=TopNavWindowsGames)
+    * Для бизнеса  Для бизнеса 
+      * [ Microsoft Azure ](https://azure.microsoft.com/ru-ru/)
+      * [ Microsoft Dynamics 365 ](https://www.microsoft.com/ru-ru/dynamics365/home)
+      * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365/business/all-business)
+      * [ Microsoft Industry ](https://www.microsoft.com/ru-ru/enterprise)
+      * [ Платформа данных ](https://www.microsoft.com/ru-ru/sql-server/ )
+      * [ Power Platform ](https://powerplatform.microsoft.com/ru-ru)
+      * [ Shop Business ](https://www.microsoft.com/ru-ru/store/b/business?icid=CNavBusinessStore)
+    * Для разработчиков и ИТ  Для разработчиков и ИТ 
+      * [ .NET ](https://www.microsoft.com/net/)
+      * [ Visual Studio ](https://visualstudio.microsoft.com/)
+      * [ Windows Server ](https://www.microsoft.com/cloud-platform/windows-server)
+      * [ Разработка приложений для Windows ](https://developer.microsoft.com/ru-ru/windows)
+      * [ Документы ](https://docs.microsoft.com/ru-ru/)
+      * [ Power Apps ](https://powerapps.microsoft.com/ru-ru)
+    * Другое  Другое 
+      * [ Бесплатная загрузка и средства безопасности ](https://www.microsoft.com/ru-ru/download/default.aspx)
+      * [ Образование ](https://www.microsoft.com/ru-ru/education?icid=CNavMSCOML0_Studentsandeducation)
+      * [ лицензирование ](https://www.microsoft.com/licensing/default)
+    * [ Посмотреть карту сайта ](https://www.microsoft.com/ru-ru/sitemap.aspx)
+
+Поиск  Поиск на Microsoft.com
+
+Отмена  [ 0  Корзина  0 товары в корзине  ](https://www.microsoft.com/ru-
+ru/store/buy)
+
+Войти
+
+![Женщина сидит на диване, пользуясь ноутбуком с Windows 10](https://img-prod-
+cms-rt-microsoft-
+com.akamaized.net/cms/api/am/imageFileData/RE4rwRW?ver=3b36&q=90&m=6&h=600&w=1600&b=%23FFFFFFFF&l=f&o=t&aim=true)
+
+#  Как получить Windows 10
+
+Получите советы и рекомендации, которые повысят эффективность вашей работы в
+Windows 10.
+
+[ Рекомендуемые советы ](/ru-
+ru/windows/features?icid=mscom_marcom_CPH3a_Windows10&activetab=feature-
+pivot%3aprimaryr2) [ Настройте свой компьютер ](/ru-
+ru/windows/features?icid=mscom_marcom_CPH3a_Windows10&activetab=feature-
+pivot%3aprimaryr3) [ Поиск за считанные секунды ](/ru-
+ru/windows/features?icid=mscom_marcom_CPH3a_Windows10&activetab=feature-
+pivot%3aprimaryr4) [ Школа, работа и игры ](/ru-
+ru/windows/features?icid=mscom_marcom_CPH3a_Windows10&activetab=feature-
+pivot%3aprimaryr5) [ Специальные возможности ](/ru-
+ru/windows/features?icid=mscom_marcom_CPH3a_Windows10&activetab=feature-
+pivot%3aprimaryr6) [ Microsoft 365 ](/ru-
+ru/windows/features?icid=mscom_marcom_CPH3a_Windows10&activetab=feature-
+pivot%3aprimaryr7)
+
+##  Рекомендуемые советы
+
+![Начало работы с приложением «Быстрая помощь» в Windows
+10](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+##  Получить \(или оказать\) техническую поддержку
+
+Приложение «Быстрая помощь» позволяет просматривать или совместно использовать
+компьютер, чтобы помочь вам, где бы вы ни находились.
+
+[ ПОДРОБНЕЕ  ](https://support.microsoft.com/help/4026516/windows-solve-pc-
+problems-remote-connection-quick-assist)
+
+![Окно временной шкалы Windows, показывающее прошлые поиски и
+приложения](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Вернуться к прошлым действиям в вашем графике
+
+Чтобы открыть график, выберите **Просмотр задач** на панели задач или нажмите
+**ключ с логотипом Windows** \+ **Табуляция** , Прокрутите вниз, пока не
+найдете то, к чему хотите вернуться, затем щелкните по найденному, чтобы
+выбрать место, где вы остановились.
+
+[ ПОДРОБНЕЕ
+](https://www.microsoft.com/tips/home/timeline#backtopastactivitiestimeline)
+
+![Экран выбора инструмента
+"Ножницы"](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Сделайте снимок изображения на вашем экране
+
+Нажмите **ключ с логотипом Windows,** \+ **Shift** \+ **S** чтобы открыть
+панель, затем перетащите курсор на область, которую хотите захватить.
+Обрезанная вами область будет сохранена в вашем буфере обмена.
+
+[ ПОДРОБНЕЕ  ](https://www.microsoft.com/tips/home/windows-keyboard-
+shortcuts#screencapture)
+
+![Выпадающее меню с параметрами инструментов редактирования
+фотографий](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Быстрый поиск фотографий
+
+Ищите свои фотографии для человека, места, вещи и текста. Вы также можете
+найти избранное, включая определенные файлы или папки. Программа "Фото"
+добавляет теги для вас, так что вы можете найти что пожелаете, без бесконечной
+прокрутки.
+
+[ ПОДРОБНЕЕ  ](https://www.microsoft.com/windows/photo-movie-editor)
+
+![Приложения «Погода» и Xbox рядом друг с
+другом](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Закрепите приложения рядом
+
+Выберите любое открытое окно, затем перетащите его на боковую часть экрана.
+Все остальные открытые вами окна появятся на противоположной стороне. Выберите
+окно, чтобы оно заполнило открытое пространство.
+
+[ ПОДРОБНЕЕ  ](https://www.microsoft.com/tips/home/get-organized#snapapps)
+
+![Панель инструментов диктовки отображается поверх электронной
+почты](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Говорите, вместо того чтобы печатать
+
+На сенсорной клавиатуре выберите **микрофон** . На физической клавиатуре
+нажмите **ключ с логотипом Windows** \+ **H** , чтобы изложить свои мысли.
+
+[ ПОДРОБНЕЕ
+](https://www.microsoft.com/tips/home/results?product=accessibility#shortcutdictationkeyboard)
+
+![Редактирование в PowerPoint с использованием инструментов
+оформления](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Создавайте красивые презентации
+
+Введите свой контент в PowerPoint и получите предложения для вашей
+презентации. Хотите изменить дизайн? Выбрать **Дизайн** > **Идеи дизайна** ,
+чтобы увидеть другие варианты.
+
+[ ПОДРОБНЕЕ
+](https://www.microsoft.com/tips/home/results?product=powerpoint#powerpointdesigner)
+
+##  Возьмите под свой контроль обновления ПК
+
+Иногда обновления появляются в тот момент, когда вы находитесь в процессе
+написания важного электронного письма, на собрании или создаете документ. Их
+легко временно приостановить.
+
+[ ПОДРОБНЕЕ  ](https://www.microsoft.com/tips/home/manage-updates)
+
+![Экран Центра обновления
+Windows](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+![](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+##  Средства экономии времени в Windows 10
+
+Осуществляйте навигацию быстрее с помощью таких встроенных функций, как
+«Универсальный поиск», «Snap Assist» и «Временная шкала».
+
+* * *
+
+##  Максимально используйте Windows 10 с учетной записью Майкрософт
+
+Получите доступ к большинству функций и возможностей на ПК с Windows 10 при
+входе с учетной записью Майкрософт.
+
+[ ПОДРОБНЕЕ  ](https://account.microsoft.com/)
+
+![Иллюстрация крана, опускающего облако на вершине
+конструкции](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Впервые пользуетесь Microsoft Edge?
+
+Начните использовать продукты Майкрософт и многое другое.
+
+![Изображение значков, свисающих с
+облака](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Безопасность
+
+Измените пароль, обновите информацию о безопасности, а также важные данные
+учетной записи.
+
+![Иллюстрация фабрики, превращающей заготовки в
+коробки](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Конфиденциальность
+
+Проверьте историю поиска, просмотра, местоположений и многое другое.
+
+![Иллюстрация человека, работающего на ноутбуке, который подключен к
+облаку](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Семья
+
+Держите свою семью в безопасности в Интернете и оставайтесь на связи, даже
+когда вы не вместе.
+
+* * *
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) ПРОГРАММА ПРЕДВАРИТЕЛЬНОЙ ОЦЕНКИ WINDOWS  ](https://insider.windows.com)
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) ПОДДЕРЖКА WINDOWS  ](https://support.microsoft.com/windows)
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) БЛОГ WINDOWS  ](https://blogs.windows.com)
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) ЗАДАТЬ ВОПРОС СООБЩЕСТВУ  ](https://answers.microsoft.com/ru-ru/windows)
+
+* * *
+
+##  Настройте свой компьютер
+
+![Кнопка ночного режима на панели задач
+Windows](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+##  Превратите любимые фотографии в обои
+
+Убедитесь, что первое изображение, которое вы видите при каждом запуске
+компьютера, вызывает у вас улыбку.
+
+[ ПОДРОБНЕЕ  ](https://www.microsoft.com/tips/home/personalize-your-
+pc#picturebackground)
+
+![Экран настройки обоев](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Спите спокойно с ночным светом
+
+При работе ночью включите ночной режим, чтобы снизить нагрузку на глаза.
+
+[ ПОДРОБНЕЕ  ](https://www.microsoft.com/tips/home/personalize-your-
+pc?tip=nightlight&release=19h1#nightlight)
+
+![Параметры Windows в темном
+режиме](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Придайте вашему компьютеру новый вид
+
+Измените свой компьютер, переключившись в светлый или темный режим.
+
+[ ПОДРОБНЕЕ  ](https://www.microsoft.com/tips/home/personalize-your-
+pc?tip=switchlightdark&release=switchlightdark&release#switchlightdark)
+
+![Панель задач Windows 10](//www.microsoft.com/onerfstatics/marketingsites-
+neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Избавьтесь от беспорядка на панели задач
+
+Поддерживайте порядок на панели задач, чтобы всегда легко находить самые
+используемые приложения.
+
+[ ПОДРОБНЕЕ  ](https://www.microsoft.com/tips/home/personalize-your-
+pc#cleanupclutter)
+
+* * *
+
+##  Максимально используйте Windows 10 с учетной записью Майкрософт
+
+Получите доступ к большинству функций и возможностей на ПК с Windows 10 при
+входе с учетной записью Майкрософт.
+
+[ ПОДРОБНЕЕ  ](https://account.microsoft.com/)
+
+![Иллюстрация крана, опускающего облако на вершине
+конструкции](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Впервые пользуетесь Microsoft Edge?
+
+Начните использовать продукты Майкрософт и многое другое.
+
+![Изображение значков, свисающих с
+облака](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Безопасность
+
+Измените пароль, обновите информацию о безопасности, а также важные данные
+учетной записи.
+
+![Иллюстрация фабрики, превращающей заготовки в
+коробки](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Конфиденциальность
+
+Проверьте историю поиска, просмотра, местоположений и многое другое.
+
+![Иллюстрация человека, работающего на ноутбуке, который подключен к
+облаку](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Семья
+
+Держите свою семью в безопасности в Интернете и оставайтесь на связи, даже
+когда вы не вместе.
+
+* * *
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) ПРОГРАММА ПРЕДВАРИТЕЛЬНОЙ ОЦЕНКИ WINDOWS  ](https://insider.windows.com)
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) ПОДДЕРЖКА WINDOWS  ](https://support.microsoft.com/windows)
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) БЛОГ WINDOWS  ](https://blogs.windows.com)
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) ЗАДАТЬ ВОПРОС СООБЩЕСТВУ  ](https://answers.microsoft.com/ru-ru/windows)
+
+* * *
+
+##  Поиск за считанные секунды
+
+![Экран выбора инструмента
+"Ножницы"](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+##  Сделайте снимок изображения на вашем экране
+
+Нажмите **ключ с логотипом Windows,** \+ **Shift** \+ **S** чтобы открыть
+панель, затем перетащите курсор на область, которую хотите захватить.
+Обрезанная вами область будет сохранена в вашем буфере обмена.
+
+[ ПОДРОБНЕЕ  ](https://www.microsoft.com/tips/home/windows-keyboard-
+shortcuts#screencapture)
+
+![Окно временной шкалы Windows, показывающее прошлые поиски и
+приложения](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Вернуться к прошлым действиям в вашем графике
+
+Чтобы открыть график, выберите **Просмотр задач** на панели задач или нажмите
+**ключ с логотипом Windows** \+ **Табуляция** , Прокрутите вниз, пока не
+найдете то, к чему хотите вернуться, затем щелкните по найденному, чтобы
+выбрать место, где вы остановились.
+
+[ ПОДРОБНЕЕ
+](https://www.microsoft.com/tips/home/timeline#backtopastactivitiestimeline)
+
+![Экран поисковой строки Windows
+10](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Поиск за считанные секунды
+
+Экономьте время поиска\! Быстро находите приложения, файлы, изображения и
+многое другое, используя **ключ с логотипом Windows** .
+
+[ ПОДРОБНЕЕ  ](https://www.microsoft.com/ru-
+ru/tips/home/results?product=windows#finditfast)
+
+![Кнопки панели задач Windows
+10](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Центр уведомлений
+
+Хотите настроить быстрое действие, чтобы изменить настройку или открыть
+приложение в будущем? Центр уведомлений делает это легко.
+
+[ ПОДРОБНЕЕ  ](https://www.microsoft.com/tips/home/get-
+organized#changesettingsactioncenter)
+
+![2 пальца на сенсорной
+панели](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Жесты тачпада
+
+Смотрите все ваши открытые окна одновременно. **Жесты тачпада** позволяют
+сделать это быстро и легко.
+
+[ ПОДРОБНЕЕ  ](https://support.microsoft.com/help/4027871/windows-10-touchpad-
+gestures)
+
+* * *
+
+##  Максимально используйте Windows 10 с учетной записью Майкрософт
+
+Получите доступ к большинству функций и возможностей на ПК с Windows 10 при
+входе с учетной записью Майкрософт.
+
+[ ПОДРОБНЕЕ  ](https://account.microsoft.com/)
+
+![Иллюстрация крана, опускающего облако на вершине
+конструкции](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Впервые пользуетесь Microsoft Edge?
+
+Начните использовать продукты Майкрософт и многое другое.
+
+![Изображение значков, свисающих с
+облака](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Безопасность
+
+Измените пароль, обновите информацию о безопасности, а также важные данные
+учетной записи.
+
+![Иллюстрация фабрики, превращающей заготовки в
+коробки](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Конфиденциальность
+
+Проверьте историю поиска, просмотра, местоположений и многое другое.
+
+![Иллюстрация человека, работающего на ноутбуке, который подключен к
+облаку](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Семья
+
+Держите свою семью в безопасности в Интернете и оставайтесь на связи, даже
+когда вы не вместе.
+
+* * *
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) ПРОГРАММА ПРЕДВАРИТЕЛЬНОЙ ОЦЕНКИ WINDOWS  ](https://insider.windows.com)
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) ПОДДЕРЖКА WINDOWS  ](https://support.microsoft.com/windows)
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) БЛОГ WINDOWS  ](https://blogs.windows.com)
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) ЗАДАТЬ ВОПРОС СООБЩЕСТВУ  ](https://answers.microsoft.com/ru-ru/windows)
+
+* * *
+
+##  Школа, работа и игры
+
+![Математическая задача, написанная в OneNote с помощью цифрового
+пера](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+##  Пусть OneNote сделает математику за вас
+
+Не можете решить это уравнение самостоятельно? С помощью [ цифрового пера
+](https://www.microsoft.com/windows/digital-smart-pen) напишите уравнение и
+позвольте математическому инструменту OneNote решить его за вас\!  1
+
+[ ПОДРОБНЕЕ
+](https://www.microsoft.com/tips/home/results?product=windows#onenotegraph)
+
+![Кнопка фокусировки на панели задач
+Windows](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Сосредоточьтесь с помощью помощника фокусировки
+
+Минимизируйте отвлекающие моменты во время работы, отправляя уведомления
+непосредственно в Центр уведомлений.
+
+[ ПОДРОБНЕЕ  ](https://www.microsoft.com/tips/home/get-
+organized?tip=turnonquiethours&release=19h1#turnonquiethours)
+
+![Приложения «Погода» и Xbox рядом друг с
+другом](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Закрепите приложения рядом
+
+Выберите любое открытое окно, затем перетащите его на боковую часть экрана.
+Все остальные открытые вами окна появятся на противоположной стороне. Выберите
+окно, чтобы оно заполнило открытое пространство.
+
+[ ПОДРОБНЕЕ  ](https://www.microsoft.com/tips/home/get-organized#snapapps)
+
+![Игровая панель Xbox, отображаемая в
+Minecraft](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Захват игровых клипов и скриншотов
+
+Снимайте и делитесь лучшими моментами в своих играх, записывая клипы и делая
+скриншоты.
+
+[ ПОДРОБНЕЕ  ](https://www.microsoft.com/tips/home/gaming-on-your-
+pc?tip=recordgameclips&release=19h1#recordgameclips)
+
+![Записка с обеденным временем на рабочем
+столе](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Сохраните это в записке
+
+Запишите эту мысль или задание в записку, а затем включите ее в OneNote, чтобы
+сохранить все ваши идеи и задачи в одном месте.
+
+[ ПОДРОБНЕЕ
+](https://www.microsoft.com/tips/home/results?product=windows#savestickynote)
+
+![Выпадающее меню с параметрами инструментов редактирования
+фотографий](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Быстрый поиск фотографий
+
+Ищите свои фотографии для человека, места, вещи и текста. Вы также можете
+найти избранное, определенные файлы или папки. Программа "Фото" добавляет теги
+для вас, так что вы можете найти что пожелаете, без бесконечной прокрутки.
+
+[ ПОДРОБНЕЕ  ](https://www.microsoft.com/tips/home/photo-
+basics?tip=findphotofast&release=19h1#findphotofast)
+
+* * *
+
+##  Максимально используйте Windows 10 с учетной записью Майкрософт
+
+Получите доступ к большинству функций и возможностей на ПК с Windows 10 при
+входе с учетной записью Майкрософт.
+
+[ ПОДРОБНЕЕ  ](https://account.microsoft.com/)
+
+![Иллюстрация крана, опускающего облако на вершине
+конструкции](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Впервые пользуетесь Microsoft Edge?
+
+Начните использовать продукты Майкрософт и многое другое.
+
+![Изображение значков, свисающих с
+облака](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Безопасность
+
+Измените пароль, обновите информацию о безопасности, а также важные данные
+учетной записи.
+
+![Иллюстрация фабрики, превращающей заготовки в
+коробки](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Конфиденциальность
+
+Проверьте историю поиска, просмотра, местоположений и многое другое.
+
+![Иллюстрация человека, работающего на ноутбуке, который подключен к
+облаку](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Семья
+
+Держите свою семью в безопасности в Интернете и оставайтесь на связи, даже
+когда вы не вместе.
+
+* * *
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) ПРОГРАММА ПРЕДВАРИТЕЛЬНОЙ ОЦЕНКИ WINDOWS  ](https://insider.windows.com)
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) ПОДДЕРЖКА WINDOWS  ](https://support.microsoft.com/windows)
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) БЛОГ WINDOWS  ](https://blogs.windows.com)
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) ЗАДАТЬ ВОПРОС СООБЩЕСТВУ  ](https://answers.microsoft.com/ru-ru/windows)
+
+* * *
+
+1  Доступность функций зависит от платформы. Воспроизведение рукописного
+ввода, эффекты рукописного ввода и помощник по преобразованию рукописных
+фрагментов в математические выражения доступны в OneNote для Windows 10 и
+требуют подписки Microsoft 365.
+
+##  Специальные возможности
+
+![Панель инструментов диктовки отображается поверх электронной
+почты](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+##  Говорите, вместо того чтобы печатать
+
+Говорите, и ваши слова будут превращаться в текст. Поместите курсор в
+текстовое поле \(например, текст сообщения электронной почты\), затем нажмите
+кнопку & nbsp; **ключ с логотипом Windows,** \+ **H** чтобы открыть панель
+инструментов диктовки. Примечание. Чтобы использовать диктовку, ваш компьютер
+должен быть подключен к Интернету.
+
+[ ПОДРОБНЕЕ
+](https://www.microsoft.com/tips/home/results?product=windows#talkinsteadoftype)
+
+![Элементы управления увеличением текста на экране
+настроек](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Увеличивайте текст на экране и в приложениях
+
+Вы можете увеличить на своем экране только текст либо же увеличить все.
+Выберите то, что работает для вас, с помощью инструментов для увеличения
+текста.
+
+[ ПОДРОБНЕЕ
+](https://www.microsoft.com/tips/home/results?product=windows#maketextlarger)
+
+![Управление лупой на экране
+настроек](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Увеличить экран
+
+Используйте «Лупу», чтобы увеличить части дисплея, или весь ваш дисплей, или
+конкретное место, куда вы указываете мышью. Вам решать.
+
+[ ПОДРОБНЕЕ
+](https://www.microsoft.com/tips/home/results?product=accessibility#magnifyscreen)
+
+![Управление звуком на экране
+настроек](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Включить моно-аудио
+
+Слыша все в одном ухе, вы сможете легче различать звуки на вашем компьютере.
+Моно-аудио объединяет правый и левый аудиоканалы в один, помогая слышать более
+четко. Эта функция также полезна, если вы используете один наушник.
+
+[ ПОДРОБНЕЕ
+](https://www.microsoft.com/tips/home/results?product=accessibility#combineaudio)
+
+![Элементы управления анимацией на экране
+настроек](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Отключение анимации
+
+Вы считаете, что анимация на вашем компьютере отвлекает внимание или ее
+загрузка занимает слишком много времени? Хорошие новости\! Вы можете просто
+отключить ее\! Или, по крайней мере, ненужную часть.
+
+[ ПОДРОБНЕЕ
+](https://www.microsoft.com/tips/home/results?product=accessibility#turnoffanimationsbackgroundimages)
+
+* * *
+
+##  Максимально используйте Windows 10 с учетной записью Майкрософт
+
+Получите доступ к большинству функций и возможностей на ПК с Windows 10 при
+входе с учетной записью Майкрософт.
+
+[ ПОДРОБНЕЕ  ](https://account.microsoft.com/)
+
+![Иллюстрация крана, опускающего облако на вершине
+конструкции](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Впервые пользуетесь Microsoft Edge?
+
+Начните использовать продукты Майкрософт и многое другое.
+
+![Изображение значков, свисающих с
+облака](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Безопасность
+
+Измените пароль, обновите информацию о безопасности, а также важные данные
+учетной записи.
+
+![Иллюстрация фабрики, превращающей заготовки в
+коробки](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Конфиденциальность
+
+Проверьте историю поиска, просмотра, местоположений и многое другое.
+
+![Иллюстрация человека, работающего на ноутбуке, который подключен к
+облаку](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Семья
+
+Держите свою семью в безопасности в Интернете и оставайтесь на связи, даже
+когда вы не вместе.
+
+* * *
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) ПРОГРАММА ПРЕДВАРИТЕЛЬНОЙ ОЦЕНКИ WINDOWS  ](https://insider.windows.com)
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) ПОДДЕРЖКА WINDOWS  ](https://support.microsoft.com/windows)
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) БЛОГ WINDOWS  ](https://blogs.windows.com)
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) ЗАДАТЬ ВОПРОС СООБЩЕСТВУ  ](https://answers.microsoft.com/ru-ru/windows)
+
+* * *
+
+##  Microsoft 365
+
+![Редактирование в PowerPoint с использованием инструментов
+оформления](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+##  Создавайте красивые презентации
+
+Введите свой контент в PowerPoint и получите предложения для вашей
+презентации. Хотите изменить дизайн? Выбрать **Дизайн** > **Идеи дизайна** ,
+чтобы увидеть другие варианты.
+
+[ ПОДРОБНЕЕ
+](https://www.microsoft.com/tips/home/results?product=powerpoint#powerpointdesigner)
+
+![Экран подсказок по редактированию в
+Word](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Получите советы по редактированию в Word
+
+Пишите профессиональные тексты с помощью интеллектуальных инструментов
+редактирования и рекомендаций в Word. Проверяйте орфографию, грамматику и
+получайте предложения по редактированию, чтобы сделать свое письмо более
+читабельным, лучше оформленным и удобным для других.  2
+
+[ ПОДРОБНЕЕ  ](https://www.microsoft.com/tips/home?product=word)
+
+![Инструменты перевода в
+Word](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Моментальный перевод текста
+
+Нужно быстро перевести текст с одного языка на другой? Это так же просто, как
+щелкнуть правой кнопкой мыши.
+
+[ ПОДРОБНЕЕ
+](https://www.microsoft.com/tips/home/results?product=word#office-translate)
+
+![Математическая задача, написанная в OneNote с помощью цифрового
+пера](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Пусть OneNote сделает математику за вас
+
+Не можете решить это уравнение самостоятельно? Пусть математический инструмент
+OneNote решит его за вас\!  1
+
+[ ПОДРОБНЕЕ
+](https://www.microsoft.com/tips/home/results?product=windows#onenotegraph)
+
+* * *
+
+##  Максимально используйте Windows 10 с учетной записью Майкрософт
+
+Получите доступ к большинству функций и возможностей на ПК с Windows 10 при
+входе с учетной записью Майкрософт.
+
+[ ПОДРОБНЕЕ  ](https://account.microsoft.com/)
+
+![Иллюстрация крана, опускающего облако на вершине
+конструкции](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Впервые пользуетесь Microsoft Edge?
+
+Начните использовать продукты Майкрософт и многое другое.
+
+![Изображение значков, свисающих с
+облака](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Безопасность
+
+Измените пароль, обновите информацию о безопасности, а также важные данные
+учетной записи.
+
+![Иллюстрация фабрики, превращающей заготовки в
+коробки](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Конфиденциальность
+
+Проверьте историю поиска, просмотра, местоположений и многое другое.
+
+![Иллюстрация человека, работающего на ноутбуке, который подключен к
+облаку](//www.microsoft.com/onerfstatics/marketingsites-neu-
+prod/_h/9be151e5/coreui.statics/images/1x1clear.gif)
+
+###  Семья
+
+Держите свою семью в безопасности в Интернете и оставайтесь на связи, даже
+когда вы не вместе.
+
+* * *
+
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) ПРОГРАММА ПРЕДВАРИТЕЛЬНОЙ ОЦЕНКИ WINDOWS  ](https://insider.windows.com)
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) ПОДДЕРЖКА WINDOWS  ](https://support.microsoft.com/windows)
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) БЛОГ WINDOWS  ](https://blogs.windows.com)
+  * [ ![](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif) ЗАДАТЬ ВОПРОС СООБЩЕСТВУ  ](https://answers.microsoft.com/ru-ru/windows)
+
+* * *
+
+1  Доступность функций зависит от платформы. Воспроизведение рукописного
+ввода, эффекты рукописного ввода и помощник по преобразованию рукописных
+фрагментов в математические выражения доступны в OneNote для Windows 10 и
+требуют подписки Microsoft 365.
+
+2  необходима подписка Microsoft 365 \(приобретается отдельно\).
+
+Подписаться на страницы Microsoft Windows в социальных сетях
+
+  * [ ![Facebook](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/85288795/coreui.statics/images/social/facebook.png) ](http://www.facebook.com/windows "Подписаться в Facebook")
+  * [ ![Twitter](//www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/93690392/coreui.statics/images/social/twitter.png) ](http://www.twitter.com/windows "Подписаться в Twitter")
+
+Что нового?
+
+  * [ Microsoft 365 ](https://www.microsoft.com/microsoft-365)
+  * [ Приложения Windows 10 ](https://www.microsoft.com/ru-ru/windows/windows-10-apps)
+
+Microsoft Store
+
+  * [ Профиль учетной записи ](https://account.microsoft.com/)
+  * [ Центр загрузки ](https://www.microsoft.com/ru-ru/download)
+  * [ Поддержка Microsoft Store ](https://go.microsoft.com/fwlink/?linkid=2139749)
+  * [ Возврат товаров ](https://go.microsoft.com/fwlink/p/?LinkID=824764&clcid=0x419)
+  * [ Отслеживание заказа ](https://account.microsoft.com/orders)
+
+Для образования
+
+  * [ Майкрософт и образование ](https://www.microsoft.com/ru-ru/education)
+  * [ Office для учащихся ](https://www.microsoft.com/ru-ru/education/products/office/default.aspx)
+  * [ Office 365 для школ ](https://products.office.com/ru-ru/academic/compare-office-365-education-plans)
+  * [ Специальные предложения для учащихся и родителей ](https://www.microsoft.com/ru-ru/store/b/student?icid=CNavfooter_Studentsandeducation)
+  * [ Microsoft Azure и образование ](https://azure.microsoft.com/ru-ru/community/education/)
+
+Для крупных предприятий
+
+  * [ Azure ](https://azure.microsoft.com/)
+  * [ AppSource ](https://go.microsoft.com/fwlink/?LinkID=808093)
+  * [ Автопромышленность ](https://www.microsoft.com/enterprise/automotive)
+  * [ Государственные учреждения ](https://www.microsoft.com/enterprise/government)
+  * [ Здравоохранение ](https://www.microsoft.com/enterprise/health)
+  * [ Промышленное производство ](https://www.microsoft.com/enterprise/manufacturing)
+  * [ Финансовые услуги ](https://www.microsoft.com/enterprise/financial-services/banking-and-capital-markets)
+  * [ Торговля ](https://www.microsoft.com/enterprise/retail-consumer-goods)
+
+Для разработчиков
+
+  * [ Microsoft Visual Studio ](https://visualstudio.microsoft.com/)
+  * [ Центр разработчиков Windows ](https://developer.microsoft.com/ru-ru/windows)
+  * [ Центр разработчиков ](https://developer.microsoft.com/)
+  * [ Программа Майкрософт для разработчиков ](https://developer.microsoft.com/ru-ru/store/register)
+  * [ Channel 9 ](https://channel9.msdn.com/)
+  * [ Центр разработчиков Office ](https://developer.microsoft.com/ru-ru/office)
+
+Компания
+
+  * [ Вакансии ](https://careers.microsoft.com/)
+  * [ О корпорации Майкрософт ](https://www.microsoft.com/ru-ru/about)
+  * [ Новости компании ](https://news.microsoft.com/ru-ru)
+  * [ Политика конфиденциальности Майкрософт ](https://privacy.microsoft.com/ru-ru)
+  * [ Инвесторы ](https://www.microsoft.com/investor/default.aspx)
+  * [ Безопасность ](https://www.microsoft.com/ru-ru/security/default.aspx)
+
+[ Русский \(Россия\) ](/ru-
+ru/windows/worldwide?absoluteReturnUrl=https%3a%2f%2fwww.microsoft.com%2fru-
+ru%2fwindows%2ffeatures%3ficid%3dmscom_marcom_CPH3a_Windows10)
+
+  * [ Контактная информация ](https://support.microsoft.com/contactus/?ws=mscom)
+  * [ Конфиденциальность ](https://go.microsoft.com/fwlink/?LinkId=248681)
+  * Управление файлами cookie 
+  * [ Условия использования ](https://go.microsoft.com/fwlink/?LinkID=530144)
+  * [ Товарные знаки ](https://www.microsoft.com/trademarks)
+  * [ Сведения о рекламе ](https://choice.microsoft.com/)
+  * © Microsoft 2021 
+

@@ -1,0 +1,769 @@
+Пропустить навигацию
+
+[ ](https://azure.microsoft.com/ru-ru/)
+
+  * [ Свяжитесь с отделом продаж  ](https://azure.microsoft.com/ru-ru/overview/contact-azure-sales/ "Свяжитесь с отделом продаж")
+  *   * Поиск 
+  * [ Поиск  ](https://azure.microsoft.com/ru-ru/search/)
+  * [ Моя учетная запись ](https://azure.microsoft.com/ru-ru/account/ "Моя учетная запись")
+  * [ Портал ](https://portal.azure.com/ "Портал")
+  * [ Вход ](/auth/signin/?loginProvider=Microsoft&redirectUri=%2Fru-ru%2Ftopic%2Fwhat-is-kubernetes%2F "Вход")
+  *   * 
+
+  * [ Продажи:  ](tel:) : [ Найти местный номер ](https://azure.microsoft.com/ru-ru/overview/sales-number/ "Найти местный номер")
+  * [ Моя учетная запись ](https://azure.microsoft.com/ru-ru/account/ "Моя учетная запись")
+  * [ Портал ](https://portal.azure.com/ "Портал")
+  * [ Вход ](/auth/signin/?loginProvider=Microsoft&redirectUri=%2Fru-ru%2Ftopic%2Fwhat-is-kubernetes%2F "Вход")
+  * [ Бесплатная учетная запись ](https://azure.microsoft.com/ru-ru/free/ "Бесплатная учетная запись")
+  * [ Обзор ](https://azure.microsoft.com/ru-ru/overview/ "Обзор")
+  * [ Решения ](https://azure.microsoft.com/ru-ru/solutions/ "Решения")
+  * Продукты 
+    *       * Избранные  Избранные  Ознакомьтесь с наиболее популярными продуктами Azure 
+        * [ Виртуальные машины  Моментальная подготовка виртуальных машин Windows и Linux  ](https://azure.microsoft.com/ru-ru/services/virtual-machines/ "Виртуальные машины")
+        * [ Виртуальный рабочий стол Windows  Лучший интерфейс виртуального рабочего стола, поставляемый Azure  ](https://azure.microsoft.com/ru-ru/services/virtual-desktop/ "Виртуальный рабочий стол Windows")
+        * [ Azure SQL  Управляемый и всегда актуальный экземпляр SQL в облаке  ](https://azure.microsoft.com/ru-ru/services/azure-sql/ "Azure SQL")
+        * [ Служба приложений  Ускоренное создание эффективных облачных приложений для веб-клиентов и мобильных клиентов  ](https://azure.microsoft.com/ru-ru/services/app-service/ "Служба приложений")
+        * [ Azure Cosmos DB  Быстродействующая база данных NoSQL с открытыми API-интерфейсами для любого масштаба  ](https://azure.microsoft.com/ru-ru/services/cosmos-db/ "Azure Cosmos DB")
+        * [ PlayFab  Полноценная серверная платформа с поддержкой служб LiveOps для разработки игр в режиме реального времени и управления ими  ](https://azure.microsoft.com/ru-ru/services/playfab/ "PlayFab")
+        * [ Служба Azure Kubernetes \(AKS\)  Оптимизация развертывания, администрирования и использования Kubernetes  ](https://azure.microsoft.com/ru-ru/services/kubernetes-service/ "Служба Azure Kubernetes \(AKS\)")
+        * [ Функции Azure  Обработка событий без обращения к серверу  ](https://azure.microsoft.com/ru-ru/services/functions/ "Функции Azure")
+        * [ Azure Cognitive Services  Контекстуальное взаимодействие с помощью возможностей интеллектуального интерфейса API  ](https://azure.microsoft.com/ru-ru/services/cognitive-services/ "Azure Cognitive Services")
+        * [ Azure Quantum  Познайте квантовое воздействие в Azure уже сегодня  ](https://azure.microsoft.com/ru-ru/services/quantum/ "Azure Quantum")
+        * [ Подробные сведения ](https://azure.microsoft.com/ru-ru/services/#featured "Подробные сведения")
+      * ИИ + машинное обучение  [ ИИ + машинное обучение ](https://azure.microsoft.com/ru-ru/overview/ai-platform/ "ИИ + машинное обучение") Создавайте приложения нового поколения, используя возможности искусственного интеллекта для любых разработчиков и любых сценариев. 
+        * [ Azure Cognitive Services  Контекстуальное взаимодействие с помощью возможностей интеллектуального интерфейса API  ](https://azure.microsoft.com/ru-ru/services/cognitive-services/ "Azure Cognitive Services")
+        * [ Службы Azure Bot  Интеллектуальные бессерверные службы ботов, масштабируемые по требованию  ](https://azure.microsoft.com/ru-ru/services/bot-services/ "Службы Azure Bot")
+        * [ Машинное обучение  Создавайте, обучайте и развертывайте модели в облаке и на пограничных устройствах  ](https://azure.microsoft.com/ru-ru/services/machine-learning/ "Машинное обучение")
+        * [ Azure Databricks  Быстрая и простая платформа аналитики на основе Apache Spark с возможностью совместного использования  ](https://azure.microsoft.com/ru-ru/services/databricks/ "Azure Databricks")
+        * [ Когнитивный поиск Azure  Облачная служба поиска на основе ИИ для разработки мобильных и веб-приложений  ](https://azure.microsoft.com/ru-ru/services/search/ "Когнитивный поиск Azure")
+        * [ Azure Percept  Аналитика в пограничной среде — от микросхемы до службы  ](https://azure.microsoft.com/ru-ru/services/azure-percept/ "Azure Percept")
+        * [ Подробные сведения ](https://azure.microsoft.com/ru-ru/services/#ai-machine-learning "Подробные сведения")
+      * Аналитика  [ Аналитика ](https://azure.microsoft.com/ru-ru/product-categories/analytics/ "Аналитика") Получите такие преимущества, как сбор, хранение, обработка, анализ и визуализация данных любого типа и объема и с любой скоростью. 
+        * [ Azure Synapse Analytics  Служба аналитики без ограничений с беспрецедентной скоростью получения полезных сведений  ](https://azure.microsoft.com/ru-ru/services/synapse-analytics/ "Azure Synapse Analytics")
+        * [ Azure Databricks  Быстрая и простая платформа аналитики на основе Apache Spark с возможностью совместного использования  ](https://azure.microsoft.com/ru-ru/services/databricks/ "Azure Databricks")
+        * [ Область действия Azure  Увеличьте ценность данных для бизнеса с помощью единой системы управления данными  ](https://azure.microsoft.com/ru-ru/services/purview/ "Область действия Azure")
+        * [ Фабрика данных Azure  Простая гибридная интеграция данных в масштабах предприятия  ](https://azure.microsoft.com/ru-ru/services/data-factory/ "Фабрика данных Azure")
+        * [ HDInsight  Подготовка облачных кластеров Hadoop, Spark, R Server, HBase и Storm  ](https://azure.microsoft.com/ru-ru/services/hdinsight/ "HDInsight")
+        * [ Azure Stream Analytics  Аналитика в реальном времени для быстро движущихся потоков данных из приложений и с устройств  ](https://azure.microsoft.com/ru-ru/services/stream-analytics/ "Azure Stream Analytics")
+        * [ Машинное обучение  Создавайте, обучайте и развертывайте модели в облаке и на пограничных устройствах  ](https://azure.microsoft.com/ru-ru/services/machine-learning/ "Машинное обучение")
+        * [ Службы Azure Analysis Services  Аналитический модуль корпоративного класса как услуга  ](https://azure.microsoft.com/ru-ru/services/analysis-services/ "Службы Azure Analysis Services")
+        * [ Служба хранилища Azure Data Lake  Надежное хранилище Data Lake Storage с высокой степенью масштабируемости, созданное на основе хранилища BLOB-объектов Azure  ](https://azure.microsoft.com/ru-ru/services/storage/data-lake-storage/ "Служба хранилища Azure Data Lake")
+        * [ Подробные сведения ](https://azure.microsoft.com/ru-ru/services/#analytics "Подробные сведения")
+        * [ Подробные сведения ](https://azure.microsoft.com/ru-ru/services/#analytics "Подробные сведения")
+      * Блокчейн  Блокчейн  Создавайте приложения на базе блокчейна и управляйте ими с помощью набора интегрированных средств 
+        * [ Служба "Блокчейн Azure"  Создавайте, администрируйте и расширяйте блокчейн-сети консорциумов  ](https://azure.microsoft.com/ru-ru/services/blockchain-service/ "Служба ")
+        * [ Azure Blockchain Workbench  Простое прототипирование приложений блокчейна в облаке  ](https://azure.microsoft.com/ru-ru/features/blockchain-workbench/ "Azure Blockchain Workbench")
+        * [ Azure Logic Apps  Автоматический доступ к данным и их использование в облаках без написания кода  ](https://azure.microsoft.com/ru-ru/services/logic-apps/ "Azure Logic Apps")
+        * [ Azure Cosmos DB  Быстродействующая база данных NoSQL с открытыми API-интерфейсами для любого масштаба  ](https://azure.microsoft.com/ru-ru/services/cosmos-db/ "Azure Cosmos DB")
+        * [ Подробные сведения ](https://azure.microsoft.com/ru-ru/services/#blockchain "Подробные сведения")
+      * Среда выполнения приложений  [ Среда выполнения приложений ](https://azure.microsoft.com/ru-ru/product-categories/compute/ "Среда выполнения приложений") Воспользуйтесь возможностями облачных вычислений и масштабирования по требованию. При этом вы платите только за те ресурсы, которые используете. 
+        * [ Виртуальные машины  Моментальная подготовка виртуальных машин Windows и Linux  ](https://azure.microsoft.com/ru-ru/services/virtual-machines/ "Виртуальные машины")
+        * [ Масштабируемые наборы виртуальных машин  Увеличение масштаба до тысяч виртуальных машин Linux и Windows и управление ими  ](https://azure.microsoft.com/ru-ru/services/virtual-machine-scale-sets/ "Масштабируемые наборы виртуальных машин")
+        * [ Служба Azure Kubernetes \(AKS\)  Оптимизация развертывания, администрирования и использования Kubernetes  ](https://azure.microsoft.com/ru-ru/services/kubernetes-service/ "Служба Azure Kubernetes \(AKS\)")
+        * [ Azure Spring Cloud  Полностью управляемая служба Spring Cloud, разработанная и администрируемая совместно c VMware  ](https://azure.microsoft.com/ru-ru/services/spring-cloud/ "Azure Spring Cloud")
+        * [ Служба приложений  Ускоренное создание эффективных облачных приложений для веб-клиентов и мобильных клиентов  ](https://azure.microsoft.com/ru-ru/services/app-service/ "Служба приложений")
+        * [ Функции Azure  Обработка событий без обращения к серверу  ](https://azure.microsoft.com/ru-ru/services/functions/ "Функции Azure")
+        * [ Выделенный узел Azure  Выделенный физический сервер для размещения виртуальных машин Azure для Windows и Linux  ](https://azure.microsoft.com/ru-ru/services/virtual-machines/dedicated-host/ "Выделенный узел Azure")
+        * [ Пакетная служба  Планирование заданий и управление вычислениями через облако  ](https://azure.microsoft.com/ru-ru/services/batch/ "Пакетная служба")
+        * [ Использование SQL Server на виртуальных машинах  Размещение корпоративных приложений SQL Server в облаке  ](https://azure.microsoft.com/ru-ru/services/virtual-machines/sql-server/ "Использование SQL Server на виртуальных машинах")
+        * [ Подробные сведения ](https://azure.microsoft.com/ru-ru/services/#compute "Подробные сведения")
+        * [ Подробные сведения ](https://azure.microsoft.com/ru-ru/services/#compute "Подробные сведения")
+      * Контейнеры  [ Контейнеры ](https://azure.microsoft.com/ru-ru/product-categories/containers/ "Контейнеры") Разрабатывайте и администрируйте контейнерные приложения быстрее благодаря встроенным средствам 
+        * [ Служба Azure Kubernetes \(AKS\)  Оптимизация развертывания, администрирования и использования Kubernetes  ](https://azure.microsoft.com/ru-ru/services/kubernetes-service/ "Служба Azure Kubernetes \(AKS\)")
+        * [ Экземпляры контейнеров  Простой запуск контейнеров в Azure без управления серверами  ](https://azure.microsoft.com/ru-ru/services/container-instances/ "Экземпляры контейнеров")
+        * [ Service Fabric  Разработка микрослужб и настройка контейнеров на Windows и Linux  ](https://azure.microsoft.com/ru-ru/services/service-fabric/ "Service Fabric")
+        * [ Реестр контейнеров  Хранение образов контейнеров и управление ими во всех типах развертываний Azure  ](https://azure.microsoft.com/ru-ru/services/container-registry/ "Реестр контейнеров")
+        * [ Веб-приложение для контейнеров  Без труда развертывайте и запускайте контейнерные веб-приложения, соответствующие масштабу вашего бизнеса.  ](https://azure.microsoft.com/ru-ru/services/app-service/containers/ "Веб-приложение для контейнеров")
+        * [ Функции Azure  Обработка событий без обращения к серверу  ](https://azure.microsoft.com/ru-ru/services/functions/ "Функции Azure")
+        * [ Azure Red Hat OpenShift  Полностью управляемая служба OpenShift, разработанная совместно с Red Hat  ](https://azure.microsoft.com/ru-ru/services/openshift/ "Azure Red Hat OpenShift")
+        * [ Подробные сведения ](https://azure.microsoft.com/ru-ru/services/#containers "Подробные сведения")
+      * Базы данных  [ Базы данных ](https://azure.microsoft.com/ru-ru/product-categories/databases/ "Базы данных") Продолжайте быстро развиваться и оперативно внедряйте инновации благодаря безопасным полностью управляемым службам баз данных корпоративного уровня. 
+        * [ Azure SQL  Управляемый и всегда актуальный экземпляр SQL в облаке  ](https://azure.microsoft.com/ru-ru/services/azure-sql/ "Azure SQL")
+        * [ Azure Cosmos DB  Быстродействующая база данных NoSQL с открытыми API-интерфейсами для любого масштаба  ](https://azure.microsoft.com/ru-ru/services/cosmos-db/ "Azure Cosmos DB")
+        * [ База данных SQL Azure  Управляемый интеллектуальный SQL в облаке  ](https://azure.microsoft.com/ru-ru/services/sql-database/ "База данных SQL Azure")
+        * [ База данных Azure для PostgreSQL  Полностью управляемая и масштабируемая интеллектуальная среда PostgreSQL  ](https://azure.microsoft.com/ru-ru/services/postgresql/ "База данных Azure для PostgreSQL")
+        * [ Управляемый экземпляр SQL Azure  Управляемый и всегда актуальный экземпляр SQL в облаке  ](https://azure.microsoft.com/ru-ru/services/azure-sql/sql-managed-instance/ "Управляемый экземпляр SQL Azure")
+        * [ База данных Azure для MySQL  Полностью управляемая масштабируемая база данных MySQL  ](https://azure.microsoft.com/ru-ru/services/mysql/ "База данных Azure для MySQL")
+        * [ Использование SQL Server на виртуальных машинах  Размещение корпоративных приложений SQL Server в облаке  ](https://azure.microsoft.com/ru-ru/services/virtual-machines/sql-server/ "Использование SQL Server на виртуальных машинах")
+        * [ Кэш Azure для Redis  Ускорьте работу приложений за счет кэширования с высокой пропускной способностью и малым временем задержки  ](https://azure.microsoft.com/ru-ru/services/cache/ "Кэш Azure для Redis")
+        * [ Azure Database Migration Service  Простая миграция локальных баз данных в облако  ](https://azure.microsoft.com/ru-ru/services/database-migration/ "Azure Database Migration Service")
+        * [ Подробные сведения ](https://azure.microsoft.com/ru-ru/services/#databases "Подробные сведения")
+        * [ Подробные сведения ](https://azure.microsoft.com/ru-ru/services/#databases "Подробные сведения")
+      * DevOps  [ DevOps ](https://azure.microsoft.com/ru-ru/product-categories/devops/ "DevOps") Быстрое внедрение инноваций с помощью простых и надежных средств для непрерывной поставки 
+        * [ Azure DevOps  Службы для рабочих групп, обеспечивающие совместное использование кода, отслеживание хода работ и доставку программного обеспечения  ](https://azure.microsoft.com/ru-ru/services/devops/ "Azure DevOps")
+        * [ Azure Pipelines  Непрерывно создавайте, тестируйте и развертывайте решения на любой платформе и в любом облаке  ](https://azure.microsoft.com/ru-ru/services/devops/pipelines/ "Azure Pipelines")
+        * [ Azure Boards  Планируйте, отслеживайте и обсуждайте работу со своими командами  ](https://azure.microsoft.com/ru-ru/services/devops/boards/ "Azure Boards")
+        * [ Azure Repos  Получите для своего проекта неограниченные частные репозитории Git, размещенные в облаке  ](https://azure.microsoft.com/ru-ru/services/devops/repos/ "Azure Repos")
+        * [ Azure Artifacts  Создавайте, размещайте и используйте пакеты вместе со своей командой  ](https://azure.microsoft.com/ru-ru/services/devops/artifacts/ "Azure Artifacts")
+        * [ Azure Test Plans  Проводите тесты и предоставляйте надежные решения с помощью набора средств для произвольного тестирования и тестирования вручную  ](https://azure.microsoft.com/ru-ru/services/devops/test-plans/ "Azure Test Plans")
+        * [ Azure DevTest Labs  Быстро создавайте среды с помощью многократно используемых шаблонов и артефактов  ](https://azure.microsoft.com/ru-ru/services/devtest-lab/ "Azure DevTest Labs")
+        * [ Интеграция инструментов DevOps  Используйте привычные инструменты DevOps при работе в Azure  ](https://azure.microsoft.com/ru-ru/products/devops-tool-integrations/ "Интеграция инструментов DevOps")
+        * [ Azure Monitor  Формирование полного представления о состоянии приложений, инфраструктуры и сети  ](https://azure.microsoft.com/ru-ru/services/monitor/ "Azure Monitor")
+        * [ Подробные сведения ](https://azure.microsoft.com/ru-ru/services/#devops "Подробные сведения")
+      * Средства для разработчиков  [ Средства для разработчиков ](https://azure.microsoft.com/ru-ru/product-categories/developer-tools/ "Средства для разработчиков") Создавайте и непрерывно доставляйте облачные приложения, а также управляйте ими, используя любую платформу и любой язык 
+        * [ Visual Studio  Мощная и гибкая среда для разработки приложений в облаке  ](https://azure.microsoft.com/ru-ru/products/visual-studio/ "Visual Studio")
+        * [ Visual Studio Code  Функциональный компактный редактор кода для разработки в облачной среде  ](https://azure.microsoft.com/ru-ru/products/visual-studio-code/ "Visual Studio Code")
+        * [ GitHub и Azure  Ведущая в мире платформа для разработчиков, тесно интегрированная с Azure  ](https://azure.microsoft.com/ru-ru/products/github/ "GitHub и Azure")
+        * [ Подписки Visual Studio  Получите доступ к Visual Studio, деньгам на счете в Azure, Azure DevOps и многим другим ресурсам для создания и развертывания приложений, а также управления ими.  ](https://azure.microsoft.com/ru-ru/services/developer-tools/visual-studio-subscriptions/ "Подписки Visual Studio")
+        * [ Power Apps  Мощная платформа с минимальной необходимостью в написании кода для быстрого создания приложений  ](https://azure.microsoft.com/ru-ru/products/powerapps/ "Power Apps")
+        * [ Пакеты SDK  Получите пакеты SDK и необходимые средства командной строки  ](https://azure.microsoft.com/ru-ru/downloads/ "Пакеты SDK")
+        * [ Центр приложений Visual Studio  Непрерывное создание, тестирование, выпуск и мониторинг мобильных и классических приложений  ](https://azure.microsoft.com/ru-ru/services/app-center/ "Центр приложений Visual Studio")
+        * [ Azure Monitor  Формирование полного представления о состоянии приложений, инфраструктуры и сети  ](https://azure.microsoft.com/ru-ru/services/monitor/ "Azure Monitor")
+        * [ Конфигурация приложений  Быстродействующее масштабируемое хранилище параметров конфигурации приложений  ](https://azure.microsoft.com/ru-ru/services/app-configuration/ "Конфигурация приложений")
+        * [ Подробные сведения ](https://azure.microsoft.com/ru-ru/services/#developer-tools "Подробные сведения")
+      * Hybrid + Multicloud  [ Hybrid + Multicloud ](https://azure.microsoft.com/ru-ru/solutions/hybrid-cloud-app/ "Hybrid + Multicloud") Get Azure innovation everywhere—bring the agility and innovation of cloud computing to your on-premises workloads. 
+        * [ Azure Arc  Используйте возможности управления и службы Azure в любом расположении  ](https://azure.microsoft.com/ru-ru/services/azure-arc/ "Azure Arc")
+        * [ Azure Sentinel  Используйте облачное управление информационной безопасностью и событиями безопасности и интеллектуальную аналитику безопасности для защиты своего предприятия  ](https://azure.microsoft.com/ru-ru/services/azure-sentinel/ "Azure Sentinel")
+        * [ Azure Stack  Создавайте и запускайте инновационные гибридные приложения в нескольких облаках  ](https://azure.microsoft.com/ru-ru/overview/azure-stack/ "Azure Stack")
+        * [ Центр безопасности  Воспользуйтесь возможностями централизованного управления безопасностью и расширенной защиты от угроз для гибридных облачных рабочих нагрузок  ](https://azure.microsoft.com/ru-ru/services/security-center/ "Центр безопасности")
+        * [ Azure ExpressRoute  Выделенные оптоволоконные подключения частных сетей к Azure  ](https://azure.microsoft.com/ru-ru/services/expressroute/ "Azure ExpressRoute")
+        * [ Azure Active Directory  Синхронизация локальных каталогов и поддержка единого входа  ](https://azure.microsoft.com/ru-ru/services/active-directory/ "Azure Active Directory")
+        * [ Azure SQL  Управляемый и всегда актуальный экземпляр SQL в облаке  ](https://azure.microsoft.com/ru-ru/services/azure-sql/ "Azure SQL")
+        * [ Azure DevOps  Службы для рабочих групп, обеспечивающие совместное использование кода, отслеживание хода работ и доставку программного обеспечения  ](https://azure.microsoft.com/ru-ru/services/devops/ "Azure DevOps")
+        * [ База данных Azure для PostgreSQL  Полностью управляемая и масштабируемая интеллектуальная среда PostgreSQL  ](https://azure.microsoft.com/ru-ru/services/postgresql/ "База данных Azure для PostgreSQL")
+        * [ Azure IoT Edge  Расширьте возможности облачного интеллекта и аналитики на пограничные устройства  ](https://azure.microsoft.com/ru-ru/services/iot-edge/ "Azure IoT Edge")
+        * [ Подробные сведения ](https://azure.microsoft.com/ru-ru/services/#hybrid-multicloud "Подробные сведения")
+      * Удостоверение  [ Удостоверение ](https://azure.microsoft.com/ru-ru/product-categories/identity/ "Удостоверение") Управление удостоверениями и доступом пользователей для защиты устройств, данных, приложений и инфраструктуры от сложных угроз 
+        * [ Azure Active Directory  Синхронизация локальных каталогов и поддержка единого входа  ](https://azure.microsoft.com/ru-ru/services/active-directory/ "Azure Active Directory")
+        * [ Внешние удостоверения Azure Active Directory  Управление удостоверениями клиентов и доступом в облаке  ](https://azure.microsoft.com/ru-ru/services/active-directory/external-identities/ "Внешние удостоверения Azure Active Directory")
+        * [ Доменные службы Azure Active Directory  Присоединение виртуальных машин Azure к домену без контроллеров домена  ](https://azure.microsoft.com/ru-ru/services/active-directory-ds/ "Доменные службы Azure Active Directory")
+        * [ Azure Information Protection  Усиленная защита конфиденциальных данных — всегда и везде  ](https://azure.microsoft.com/ru-ru/services/information-protection/ "Azure Information Protection")
+        * [ Подробные сведения ](https://azure.microsoft.com/ru-ru/services/#identity "Подробные сведения")
+      * Интеграция  [ Интеграция ](https://azure.microsoft.com/ru-ru/product-categories/integration/ "Интеграция") Без проблем интегрируйте локальные и облачные приложения, данные и процессы в масштабах всего предприятия. 
+        * [ Azure Logic Apps  Автоматический доступ к данным и их использование в облаках без написания кода  ](https://azure.microsoft.com/ru-ru/services/logic-apps/ "Azure Logic Apps")
+        * [ Служебная шина  Связь между частными и общедоступными облачными средами  ](https://azure.microsoft.com/ru-ru/services/service-bus/ "Служебная шина")
+        * [ Управление API  Безопасная публикация интерфейсов API для разработчиков, партнеров и сотрудников с учетом масштаба  ](https://azure.microsoft.com/ru-ru/services/api-management/ "Управление API")
+        * [ Сетка событий  Обеспечьте надежную крупномасштабную доставку событий  ](https://azure.microsoft.com/ru-ru/services/event-grid/ "Сетка событий")
+        * [ Подробные сведения ](https://azure.microsoft.com/ru-ru/services/#integration "Подробные сведения")
+    *       * Интернет вещей  [ Интернет вещей ](https://azure.microsoft.com/ru-ru/overview/iot/ "Интернет вещей") Переносите технологии Интернета вещей на любые устройства и платформы, не меняя инфраструктуру 
+        * [ Центр Интернета вещей Azure  Подключайте, отслеживайте и контролируйте миллиарды ресурсов Интернета вещей  ](https://azure.microsoft.com/ru-ru/services/iot-hub/ "Центр Интернета вещей Azure")
+        * [ Azure IoT Edge  Расширьте возможности облачного интеллекта и аналитики на пограничные устройства  ](https://azure.microsoft.com/ru-ru/services/iot-edge/ "Azure IoT Edge")
+        * [ Azure IoT Central  Ускорьте процесс создания решений Интернета вещей  ](https://azure.microsoft.com/ru-ru/services/iot-central/ "Azure IoT Central")
+        * [ Azure Percept  Аналитика в пограничной среде — от микросхемы до службы  ](https://azure.microsoft.com/ru-ru/services/azure-percept/ "Azure Percept")
+        * [ Azure Sphere  Безопасность подключения устройств с микроконтроллерами — от микросхемы до облака  ](https://azure.microsoft.com/ru-ru/services/azure-sphere/ "Azure Sphere")
+        * [ Azure Digital Twins  Создавайте решения нового поколения для пространственного интеллекта Интернета вещей  ](https://azure.microsoft.com/ru-ru/services/digital-twins/ "Azure Digital Twins")
+        * [ Аналитика временных рядов Azure  Просмотр и анализ данных временных рядов, поступающих от устройств Интернета вещей  ](https://azure.microsoft.com/ru-ru/services/time-series-insights/ "Аналитика временных рядов Azure")
+        * [ Azure RTOS  Простота подключения и разработки внедренных решений Интернета вещей  ](https://azure.microsoft.com/ru-ru/services/rtos/ "Azure RTOS")
+        * [ Машинное обучение Azure  Сделайте средства искусственного интеллекта доступными для всех благодаря полнофункциональной масштабируемой надежной платформе с возможностью экспериментирования и функцией управления моделями  ](https://azure.microsoft.com/ru-ru/services/machine-learning/ "Машинное обучение Azure")
+        * [ Подробные сведения ](https://azure.microsoft.com/ru-ru/services/#iot "Подробные сведения")
+        * [ Подробные сведения ](https://azure.microsoft.com/ru-ru/services/#iot "Подробные сведения")
+      * Управление  [ Управление ](https://azure.microsoft.com/ru-ru/product-categories/management-tools/ "Управление") Упрощайте, автоматизируйте и оптимизируйте управление облачными ресурсами и обеспечение их соответствия требованиям 
+        * [ Портал Microsoft Azure  Создание, контроль и мониторинг всех продуктов Azure с помощью одной унифицированной консоли  ](https://azure.microsoft.com/ru-ru/features/azure-portal/ "Портал Microsoft Azure")
+        * [ Область действия Azure  Увеличьте ценность данных для бизнеса с помощью единой системы управления данными  ](https://azure.microsoft.com/ru-ru/services/purview/ "Область действия Azure")
+        * [ Мобильное приложение Azure  Подключайтесь к своим ресурсам Azure в любое время из любой точки мира  ](https://azure.microsoft.com/ru-ru/features/azure-portal/mobile-app/ "Мобильное приложение Azure")
+        * [ Cloud Shell  Упрощенное администрирование Azure с помощью оболочки на основе браузера  ](https://azure.microsoft.com/ru-ru/features/cloud-shell/ "Cloud Shell")
+        * [ Помощник по Azure  Персонализированная система рекомендаций Azure  ](https://azure.microsoft.com/ru-ru/services/advisor/ "Помощник по Azure")
+        * [ Azure Backup  Упрощение защиты данных и защита от программ-шантажистов  ](https://azure.microsoft.com/ru-ru/services/backup/ "Azure Backup")
+        * [ Управление затратами и выставления счетов Azure  Уверенно управляйте своими расходами на облако  ](https://azure.microsoft.com/ru-ru/services/cost-management/ "Управление затратами и выставления счетов Azure")
+        * [ Политика Azure  Реализуйте корпоративное управление и стандарты в требуемом масштабе для ресурсов Azure  ](https://azure.microsoft.com/ru-ru/services/azure-policy/ "Политика Azure")
+        * [ Azure Site Recovery  Обеспечьте бесперебойную работу предприятия с помощью встроенных средств аварийного восстановления  ](https://azure.microsoft.com/ru-ru/services/site-recovery/ "Azure Site Recovery")
+        * [ Подробные сведения ](https://azure.microsoft.com/ru-ru/services/#management-tools "Подробные сведения")
+        * [ Подробные сведения ](https://azure.microsoft.com/ru-ru/services/#management-tools "Подробные сведения")
+      * Мультимедиа  Мультимедиа  Доставка видео высокого качества в любую точку, в любое время и на любое устройство 
+        * [ Аналитика видеотрансляций  Создавайте интеллектуальные приложения на основе видео с помощью любой выбранной модели ИИ  ](https://azure.microsoft.com/ru-ru/services/media-services/live-video-analytics/ "Аналитика видеотрансляций")
+        * [ Службы мультимедиа  Кодировка, хранение и потоковая передача аудио и видео с учетом масштаба  ](https://azure.microsoft.com/ru-ru/services/media-services/ "Службы мультимедиа")
+        * [ Сервис кодирования  Кодирование студийного уровня в масштабах облака  ](https://azure.microsoft.com/ru-ru/services/media-services/encoding/ "Сервис кодирования")
+        * [ Проигрыватель мультимедиа Azure  Единый проигрыватель со всеми необходимыми возможностями воспроизведения  ](https://azure.microsoft.com/ru-ru/services/media-services/media-player/ "Проигрыватель мультимедиа Azure")
+        * [ Передачи прямого эфира и потоковая передача по требованию  Передавайте контент на любые устройства с требуемой степенью масштабирования  ](https://azure.microsoft.com/ru-ru/services/media-services/live-on-demand/ "Передачи прямого эфира и потоковая передача по требованию")
+        * [ Защита содержимого  Обеспечьте безопасность доставки содержимого, используя AES, PlayReady, Widevine и Fairplay  ](https://azure.microsoft.com/ru-ru/services/media-services/content-protection/ "Защита содержимого")
+        * [ Индексатор видео  Получите все преимущества анализа видео  ](https://azure.microsoft.com/ru-ru/services/media-services/video-indexer/ "Индексатор видео")
+        * [ Сеть доставки содержимого  Безопасная и надежная доставка содержимого благодаря глобальному охвату аудитории  ](https://azure.microsoft.com/ru-ru/services/cdn/ "Сеть доставки содержимого")
+        * [ Подробные сведения ](https://azure.microsoft.com/ru-ru/services/#media "Подробные сведения")
+      * Миграция  [ Миграция ](https://azure.microsoft.com/ru-ru/migration/ "Миграция") Упрощение и ускорение миграции в облако с помощью наших руководств, инструментов и ресурсов 
+        * [ Миграция Azure  Простое обнаружение, получение доступа, подбор размера и миграция локальных виртуальных машин в Azure  ](https://azure.microsoft.com/ru-ru/services/azure-migrate/ "Миграция Azure")
+        * [ Azure Site Recovery  Обеспечьте бесперебойную работу предприятия с помощью встроенных средств аварийного восстановления  ](https://azure.microsoft.com/ru-ru/services/site-recovery/ "Azure Site Recovery")
+        * [ Azure Database Migration Service  Простая миграция локальных баз данных в облако  ](https://azure.microsoft.com/ru-ru/services/database-migration/ "Azure Database Migration Service")
+        * [ Устройство Azure Data Box  Устройства и решения для автономной передачи данных в Azure  ](https://azure.microsoft.com/ru-ru/services/databox/ "Устройство Azure Data Box")
+        * [ Управление затратами и выставления счетов Azure  Уверенно управляйте своими расходами на облако  ](https://azure.microsoft.com/ru-ru/services/cost-management/ "Управление затратами и выставления счетов Azure")
+        * [ Подробные сведения ](https://azure.microsoft.com/ru-ru/services/#migration "Подробные сведения")
+      * Смешанная реальность  [ Смешанная реальность ](https://azure.microsoft.com/ru-ru/topic/mixed-reality/ "Смешанная реальность") Объедините реальный и цифровой мир в решениях с эффектом присутствия и возможностями взаимодействия 
+        * [ Пространственные привязки  Создавайте многопользовательские решения смешанной реальности, учитывающие расположение в пространстве  ](https://azure.microsoft.com/ru-ru/services/spatial-anchors/ "Пространственные привязки")
+        * [ Служба удаленной отрисовки Azure  Создавайте интерактивное трехмерное содержимое высокого качества и выполняйте его потоковую передачу на устройства в реальном времени  ](https://azure.microsoft.com/ru-ru/services/remote-rendering/ "Служба удаленной отрисовки Azure")
+        * [ Azure Digital Twins  Создавайте решения нового поколения для пространственного интеллекта Интернета вещей  ](https://azure.microsoft.com/ru-ru/services/digital-twins/ "Azure Digital Twins")
+        * [ Kinect DK  Создание моделей компьютерного зрения и речи с помощью набора разработчика с продвинутыми датчиками с искусственным интеллектом  ](https://azure.microsoft.com/ru-ru/services/kinect-dk/ "Kinect DK")
+        * [ Объектные привязки  Автоматическое выравнивание и привязывание трехмерного содержимого к объектам в физическом мире  ](https://azure.microsoft.com/ru-ru/services/object-anchors/ "Объектные привязки")
+        * [ Подробные сведения ](https://azure.microsoft.com/ru-ru/services/#mixed-reality "Подробные сведения")
+      * Мобильные приложения  [ Мобильные приложения ](https://azure.microsoft.com/ru-ru/product-categories/mobile/ "Мобильные приложения") Сборка и развертывание кроссплатформенных и нативных приложений для любых мобильных устройств 
+        * [ Центры уведомлений  Отправка push-уведомлений на любую платформу с любого сервера  ](https://azure.microsoft.com/ru-ru/services/notification-hubs/ "Центры уведомлений")
+        * [ Центр приложений Visual Studio  Непрерывное создание, тестирование, выпуск и мониторинг мобильных и классических приложений  ](https://azure.microsoft.com/ru-ru/services/app-center/ "Центр приложений Visual Studio")
+        * [ Xamarin  Быстрое создание мобильных облачных приложений  ](https://azure.microsoft.com/ru-ru/features/xamarin/ "Xamarin")
+        * [ Azure Maps  Простые и надежные API местоположения обеспечивают геопространственный контекст для данных  ](https://azure.microsoft.com/ru-ru/services/azure-maps/ "Azure Maps")
+        * [ Управление API  Безопасная публикация интерфейсов API для разработчиков, партнеров и сотрудников с учетом масштаба  ](https://azure.microsoft.com/ru-ru/services/api-management/ "Управление API")
+        * [ Когнитивный поиск Azure  Облачная служба поиска на основе ИИ для разработки мобильных и веб-приложений  ](https://azure.microsoft.com/ru-ru/services/search/ "Когнитивный поиск Azure")
+        * [ Azure Cognitive Services  Контекстуальное взаимодействие с помощью возможностей интеллектуального интерфейса API  ](https://azure.microsoft.com/ru-ru/services/cognitive-services/ "Azure Cognitive Services")
+        * [ Пространственные привязки  Создавайте многопользовательские решения смешанной реальности, учитывающие расположение в пространстве  ](https://azure.microsoft.com/ru-ru/services/spatial-anchors/ "Пространственные привязки")
+        * [ Служба приложений  Ускоренное создание эффективных облачных приложений для веб-клиентов и мобильных клиентов  ](https://azure.microsoft.com/ru-ru/services/app-service/ "Служба приложений")
+        * [ Службы коммуникации Azure  Создавайте расширенные возможности взаимодействия с помощью той же безопасной платформы, которая используется в Microsoft Teams.  ](https://azure.microsoft.com/ru-ru/services/communication-services/ "Службы коммуникации Azure")
+        * [ Подробные сведения ](https://azure.microsoft.com/ru-ru/services/#mobile "Подробные сведения")
+      * Работа в сети  [ Работа в сети ](https://azure.microsoft.com/ru-ru/product-categories/networking/ "Работа в сети") Объедините облачные и локальные службы и инфраструктуру, чтобы обеспечить максимальное удобство работы своим клиентам и пользователям. 
+        * [ Виртуальная сеть  Подготовка частных сетей с подключением к локальным центрам обработки данных  ](https://azure.microsoft.com/ru-ru/services/virtual-network/ "Виртуальная сеть")
+        * [ Балансировка нагрузки  Высокий уровень доступности и производительности ваших приложений в сети  ](https://azure.microsoft.com/ru-ru/products/azure-load-balancing/ "Балансировка нагрузки")
+        * [ VPN-шлюз  Установите надежное подключение между организациями  ](https://azure.microsoft.com/ru-ru/services/vpn-gateway/ "VPN-шлюз")
+        * [ Azure DNS  Разместите свой домен DNS в Azure  ](https://azure.microsoft.com/ru-ru/services/dns/ "Azure DNS")
+        * [ Сеть доставки содержимого  Безопасная и надежная доставка содержимого благодаря глобальному охвату аудитории  ](https://azure.microsoft.com/ru-ru/services/cdn/ "Сеть доставки содержимого")
+        * [ Защита от атак DDoS Azure  Защитите свои приложения от распределенных атак типа "отказ в обслуживании" \(DDoS\)  ](https://azure.microsoft.com/ru-ru/services/ddos-protection/ "Защита от атак DDoS Azure")
+        * [ Azure Orbital  Служба для обслуживания наземных станций спутниковой связи и планирования, подключенная к Azure для быстрой передачи данных.  ](https://azure.microsoft.com/ru-ru/services/orbital/ "Azure Orbital")
+        * [ Azure ExpressRoute  Выделенные оптоволоконные подключения частных сетей к Azure  ](https://azure.microsoft.com/ru-ru/services/expressroute/ "Azure ExpressRoute")
+        * [ Наблюдатель за сетями  Решение для мониторинга и диагностики производительности сети  ](https://azure.microsoft.com/ru-ru/services/network-watcher/ "Наблюдатель за сетями")
+        * [ Подробные сведения ](https://azure.microsoft.com/ru-ru/services/#networking "Подробные сведения")
+        * [ Подробные сведения ](https://azure.microsoft.com/ru-ru/services/#networking "Подробные сведения")
+      * Безопасность  [ Безопасность ](https://azure.microsoft.com/ru-ru/product-categories/security/ "Безопасность") Защита предприятия от сложных угроз для гибридных облачных нагрузок 
+        * [ Azure Sentinel  Используйте облачное управление информационной безопасностью и событиями безопасности и интеллектуальную аналитику безопасности для защиты своего предприятия  ](https://azure.microsoft.com/ru-ru/services/azure-sentinel/ "Azure Sentinel")
+        * [ Центр безопасности  Воспользуйтесь возможностями централизованного управления безопасностью и расширенной защиты от угроз для гибридных облачных рабочих нагрузок  ](https://azure.microsoft.com/ru-ru/services/security-center/ "Центр безопасности")
+        * [ Защитник Azure  Защита рабочих нагрузок в гибридном облаке  ](https://azure.microsoft.com/ru-ru/services/azure-defender/ "Защитник Azure")
+        * [ Шлюз приложений  Создание безопасных, масштабируемых и высокодоступных веб-интерфейсов в Azure  ](https://azure.microsoft.com/ru-ru/services/application-gateway/ "Шлюз приложений")
+        * [ Key Vault  Защита и сохранение управления ключами и другими секретными данными  ](https://azure.microsoft.com/ru-ru/services/key-vault/ "Key Vault")
+        * [ VPN-шлюз  Установите надежное подключение между организациями  ](https://azure.microsoft.com/ru-ru/services/vpn-gateway/ "VPN-шлюз")
+        * [ Azure Information Protection  Усиленная защита конфиденциальных данных — всегда и везде  ](https://azure.microsoft.com/ru-ru/services/information-protection/ "Azure Information Protection")
+        * [ Защита от атак DDoS Azure  Защитите свои приложения от распределенных атак типа "отказ в обслуживании" \(DDoS\)  ](https://azure.microsoft.com/ru-ru/services/ddos-protection/ "Защита от атак DDoS Azure")
+        * [ Azure Active Directory  Синхронизация локальных каталогов и поддержка единого входа  ](https://azure.microsoft.com/ru-ru/services/active-directory/ "Azure Active Directory")
+        * [ Подробные сведения ](https://azure.microsoft.com/ru-ru/services/#security "Подробные сведения")
+        * [ Подробные сведения ](https://azure.microsoft.com/ru-ru/services/#security "Подробные сведения")
+      * Хранилище  [ Хранилище ](https://azure.microsoft.com/ru-ru/product-categories/storage/ "Хранилище") Получите безопасное облачное хранилище с высоким уровнем масштабируемости для данных, приложений и рабочих нагрузок. 
+        * [ Хранилище дисков Azure  Высокопроизводительное и высоконадежное блочное хранилище для виртуальных машин Azure  ](https://azure.microsoft.com/ru-ru/services/storage/disks/ "Хранилище дисков Azure")
+        * [ Служба хранилища Azure Data Lake  Надежное хранилище Data Lake Storage с высокой степенью масштабируемости, созданное на основе хранилища BLOB-объектов Azure  ](https://azure.microsoft.com/ru-ru/services/storage/data-lake-storage/ "Служба хранилища Azure Data Lake")
+        * [ Файлы Azure  Файловые ресурсы, использующие стандартный протокол SMB 3.0  ](https://azure.microsoft.com/ru-ru/services/storage/files/ "Файлы Azure")
+        * [ Azure NetApp Files  Общие папки Azure корпоративного класса на базе NetApp  ](https://azure.microsoft.com/ru-ru/services/netapp/ "Azure NetApp Files")
+        * [ Azure Backup  Упрощение защиты данных и защита от программ-шантажистов  ](https://azure.microsoft.com/ru-ru/services/backup/ "Azure Backup")
+        * [ Хранилище BLOB-объектов Azure  Хранилище объектов на базе REST для неструктурированных данных  ](https://azure.microsoft.com/ru-ru/services/storage/blobs/ "Хранилище BLOB-объектов Azure")
+        * [ Устройство Azure Data Box  Устройства и решения для автономной передачи данных в Azure  ](https://azure.microsoft.com/ru-ru/services/databox/ "Устройство Azure Data Box")
+        * [ Архивное хранилище  Лучшие в отрасли цены на хранение редко используемых данных  ](https://azure.microsoft.com/ru-ru/services/storage/archive/ "Архивное хранилище")
+        * [ StorSimple  Экономия средств при использовании гибридного облачного хранилища для корпоративных клиентов  ](https://azure.microsoft.com/ru-ru/services/storsimple/ "StorSimple")
+        * [ Подробные сведения ](https://azure.microsoft.com/ru-ru/services/#storage "Подробные сведения")
+        * [ Подробные сведения ](https://azure.microsoft.com/ru-ru/services/#storage "Подробные сведения")
+      * Интернет  [ Интернет ](https://azure.microsoft.com/ru-ru/product-categories/web/ "Интернет") Быстрая и эффективная сборка, развертывание и масштабирование мощных веб-приложений 
+        * [ Веб-приложения  Оперативно создавайте и развертывайте важные веб-приложения с возможностью масштабирования.  ](https://azure.microsoft.com/ru-ru/services/app-service/web/ "Веб-приложения")
+        * [ Управление API  Безопасная публикация интерфейсов API для разработчиков, партнеров и сотрудников с учетом масштаба  ](https://azure.microsoft.com/ru-ru/services/api-management/ "Управление API")
+        * [ Сеть доставки содержимого  Безопасная и надежная доставка содержимого благодаря глобальному охвату аудитории  ](https://azure.microsoft.com/ru-ru/services/cdn/ "Сеть доставки содержимого")
+        * [ Когнитивный поиск Azure  Облачная служба поиска на основе ИИ для разработки мобильных и веб-приложений  ](https://azure.microsoft.com/ru-ru/services/search/ "Когнитивный поиск Azure")
+        * [ Служба Azure SignalR  Быстрая разработка веб-приложений, работающих в режиме реального времени  ](https://azure.microsoft.com/ru-ru/services/signalr-service/ "Служба Azure SignalR")
+        * [ Azure Maps  Простые и надежные API местоположения обеспечивают геопространственный контекст для данных  ](https://azure.microsoft.com/ru-ru/services/azure-maps/ "Azure Maps")
+        * [ Статические веб-приложения  Современная служба веб-приложений, которая упрощает разработку полного стека — от исходного кода до глобального уровня доступности  ](https://azure.microsoft.com/ru-ru/services/app-service/static/ "Статические веб-приложения")
+        * [ Службы коммуникации Azure  Создавайте расширенные возможности взаимодействия с помощью той же безопасной платформы, которая используется в Microsoft Teams.  ](https://azure.microsoft.com/ru-ru/services/communication-services/ "Службы коммуникации Azure")
+        * [ Подробные сведения ](https://azure.microsoft.com/ru-ru/services/#web "Подробные сведения")
+      * Виртуальный рабочий стол Windows  Виртуальный рабочий стол Windows  Лучший интерфейс виртуального рабочего стола, поставляемый Azure 
+        * [ Виртуальный рабочий стол Windows  Лучший интерфейс виртуального рабочего стола, поставляемый Azure  ](https://azure.microsoft.com/ru-ru/services/virtual-desktop/ "Виртуальный рабочий стол Windows")
+        * [ VMware Horizon Cloud в Microsoft Azure  Подготовка рабочих столов и приложений Windows с помощью VMware и Виртуального рабочего стола Windows  ](https://azure.microsoft.com/ru-ru/services/virtual-desktop/vmware-horizon-cloud/ "VMware Horizon Cloud в Microsoft Azure")
+        * [ Виртуальные приложения и рабочие столы Citrix для Azure  Подготовка рабочих столов и приложений Windows в Azure с помощью Citrix и Виртуального рабочего стола Windows  ](https://azure.microsoft.com/ru-ru/services/virtual-desktop/citrix-virtual-apps-desktops-for-azure/ "Виртуальные приложения и рабочие столы Citrix для Azure")
+        * [ Подробные сведения ](https://azure.microsoft.com/ru-ru/services/#windows-virtual-desktop "Подробные сведения")
+    * [ Показать все \(200+\) ](https://azure.microsoft.com/ru-ru/services/ "Все продукты")
+
+Результаты поиска:  "  "
+
+    * [ Все продукты ](https://azure.microsoft.com/ru-ru/services/ "Все продукты")
+  * [ Документация ](https://docs.microsoft.com/ru-ru/azure/ "Документация")
+  * Стоимость 
+    * [ Цены Azure  Максимум преимуществ на каждом этапе работы в облаке  ](https://azure.microsoft.com/ru-ru/pricing/ "Цены Azure")
+    * [ Оптимизация затрат в Azure  Подробнее о том, как управлять расходами на облако и оптимизировать их  ](https://azure.microsoft.com/ru-ru/overview/cost-optimization/ "Оптимизация затрат в Azure")
+    * [ Калькулятор цен Azure  Оценка расходов для продуктов и служб Azure  ](https://azure.microsoft.com/ru-ru/pricing/calculator/ "Калькулятор цен Azure")
+    * [ Калькулятор совокупной стоимости владения  Оценка экономии при миграции в Azure  ](https://azure.microsoft.com/ru-ru/pricing/tco/calculator/ "Калькулятор совокупной стоимости владения")
+  * [ Обучение  Ознакомьтесь с бесплатными учебными ресурсами в Интернете — от видео до практических заданий  ](https://docs.microsoft.com/ru-ru/learn/azure/ "Обучение")
+  * [ Marketplace ](https://azure.microsoft.com/ru-ru/marketplace/ "Marketplace")
+  * Партнеры 
+    * [ Поиск партнера  Настройка и подготовка к работе в облаке с помощью опытного партнера  ](https://azure.microsoft.com/ru-ru/partners/ "Поиск партнера")
+    * [ Партнеры Azure по разработке технологий  Создание и масштабирование приложений на надежной облачной платформе  ](https://azure.microsoft.com/ru-ru/isv/ "Партнеры Azure по разработке технологий")
+    * [ Портал для партнеров Azure  Новые материалы, новости и рекомендации помогут вам перевести клиентов в облако  ](https://azure.com/partners "Портал для партнеров Azure")
+  * Поддержка 
+    * [ Служба поддержки Azure  Найдите нужный вам вариант технической поддержи  ](https://azure.microsoft.com/ru-ru/support/options/ "Служба поддержки Azure")
+    * [ Сравнение планов поддержки  Изучите варианты технической поддержки и приобретите подходящий вам план  ](https://azure.microsoft.com/ru-ru/support/plans/ "Сравнение планов поддержки")
+    * [ Получить поддержку  Создайте запрос в службу поддержки  ](https://azure.microsoft.com/ru-ru/support/create-ticket/ "Получить поддержку")
+    * [ Поддержка сообщества  Задавайте вопросы и получайте ответы от экспертов сообщества и представителей Майкрософт  ](https://azure.microsoft.com/ru-ru/support/community/ "Поддержка сообщества")
+    * [ Центр знаний  Получите ответы на вопросы, часто задаваемые службе поддержки  ](https://azure.microsoft.com/ru-ru/resources/knowledge-center/ "Центр знаний")
+    * [ Панель мониторинга состояния Azure  Проверьте текущее состояние работоспособности Azure и просмотрите прошлые инциденты  ](https://status.azure.com "Панель мониторинга состояния Azure")
+  * [ Блог  Прочтите последние записи команды разработчиков Azure  ](https://azure.microsoft.com/ru-ru/blog/ "Блог")
+  * [ Ресурсы  Файлы для скачивания, технические документы, шаблоны и события  ](https://azure.microsoft.com/ru-ru/resources/ "Ресурсы")
+  * [ Надежность  Сведения об обеспечении безопасности, конфиденциальности и соответствия требованиям в Azure  ](https://azure.microsoft.com/ru-ru/overview/trusted-cloud/ "Надежность")
+  * [ Юридические сведения  Юридические условия использования  ](https://azure.microsoft.com/ru-ru/support/legal/ "Юридические сведения")
+  * Больше 
+
+[ Бесплатная учетная запись ](https://azure.microsoft.com/ru-ru/free/
+"Бесплатная учетная запись")
+
+  * [ Портал ](https://portal.azure.com/)
+  * [ ](https://azure.microsoft.com/ru-ru/search/)
+  * [ ](https://azure.microsoft.com/ru-ru/overview/sales-number/ "Свяжитесь с отделом продаж")
+
+  1. [ Главная  ](/ru-ru/)
+  2. Kubernetes 
+
+#  Что такое Kubernetes?
+
+Kubernetes — это программное обеспечение оркестрации с открытым кодом для
+развертывания контейнеров, управления ими и их масштабирования
+
+  * Обзор 
+  * Зачем использовать Kubernetes? 
+  * Помимо Kubernetes 
+  * DevOps и Kubernetes 
+  * Пример рабочего процесса 
+  * Служба Azure Kubernetes \(AKS\) 
+  * Сообщество 
+  * Часто задаваемые вопросы 
+  * Ресурсы 
+  * Больше 
+
+  * [ Бесплатная учетная запись ](/ru-ru/free/kubernetes-service/)
+
+##  Описание Kubernetes
+
+Современные приложения все чаще создаются с применением контейнеров. Это
+микрослужбы, укомплектованные зависимостями и конфигурациями. Kubernetes
+\(произносится "ку-бер-не-тис"\) — это программное обеспечение с открытым
+кодом для развертывания контейнеров и управления ими в большом масштабе, а
+также греческое слово, означающее "кормчий", "рулевой". Kubernetes \(иногда
+также используется название k8s или k-eights\) сокращает время сборки,
+поставки и масштабирования контейнерных приложений.
+
+[ Простая схема изучения Kubernetes ](/ru-ru/resources/kubernetes-learning-
+path/)
+
+##  Как работает Kubernetes
+
+По мере того как приложения растут и начинают включать контейнеры, развернутые
+на разных серверах, работать с ними становится все сложнее. Для решения этой
+проблемы Kubernetes предоставляет API с открытым исходным кодом, который
+контролирует, как и где такие контейнеры будут выполняться.
+
+Kubernetes позволяет координировать кластеры виртуальных машин и планировать
+запуск контейнеров на таких виртуальных машинах в зависимости от доступных
+вычислительных ресурсов и потребностей в них каждого контейнера. Контейнеры
+объединяются в группы, называемые pod \(основная единица операций в
+Kubernetes\), которые масштабируются до нужного состояния.
+
+Kubernetes также автоматически управляет обнаружением служб, добавляет
+балансировку нагрузки, отслеживает выделение ресурсов и масштабирует их в
+зависимости от использования вычислений. Кроме того, платформа проверяет
+работоспособность отдельных ресурсов и обеспечивает самостоятельное
+восстановление приложений за счет автоматического перезапуска или репликации
+контейнеров.
+
+[ Смотрите дополнительные видео об основах Kubernetes
+](https://aka.ms/k8sbasics)
+
+  1. Посмотрите, как работает Kubernetes 
+  2. Посмотрите распространенные сценарии Kubernetes 
+
+Для просмотра этого видео включите JavaScript и установите веб-браузер с
+поддержкой видео HTML5.
+
+Для просмотра этого видео включите JavaScript и установите веб-браузер с
+поддержкой видео HTML5.
+
+##  Зачем использовать Kubernetes?
+
+Поддержание работы контейнерных приложений — непростая задача, потому что в
+них часто задействовано множество контейнеров, развернутых на разных
+компьютерах. Платформа Kubernetes позволяет планировать запуск и развертывание
+таких контейнеров, а также масштабировать их до требуемого состояния и
+управлять их жизненным циклом. Она обеспечивает переносимость,
+масштабируемость и расширяемость при реализации приложений на основе
+контейнеров.
+
+![](//azurecomcdn.azureedge.net/cvt-5b186237846d7b00c26675f7f4dde80f1ebdfecd943bea9a33f3d93be2cc17eb/images/page/topic/what-
+is-kubernetes/portability.svg)
+
+##  Переносимость рабочих нагрузок
+
+Так как контейнерные приложения отделены от инфраструктуры, они становятся
+переносимыми при запуске в Kubernetes. Их можно перемещать с локальных
+компьютеров в локальные, гибридные или многооблачные рабочие среды, сохраняя
+согласованность между этими средами.
+
+![](//azurecomcdn.azureedge.net/cvt-5b186237846d7b00c26675f7f4dde80f1ebdfecd943bea9a33f3d93be2cc17eb/images/page/topic/what-
+is-kubernetes/scalability.svg)
+
+##  Простое масштабирование контейнеров
+
+Определяйте комплексные контейнерные приложения и развертывайте их с помощью
+Kubernetes в кластере серверов и даже в нескольких кластерах. При
+масштабировании приложений в Kubernetes до нужного состояния мониторинг и
+поддержание работоспособности контейнеров выполняются автоматически.
+
+![](//azurecomcdn.azureedge.net/cvt-5b186237846d7b00c26675f7f4dde80f1ebdfecd943bea9a33f3d93be2cc17eb/images/page/topic/what-
+is-kubernetes/extensibility.svg)
+
+##  Создание приложений с дополнительными возможностями расширения
+
+Многочисленное сообщество, состоящее из разработчиков и компаний, работающих с
+открытым кодом, активно создает расширения и подключаемые модули, которые
+позволяют добавлять в Kubernetes такие возможности, как обеспечение
+безопасности, мониторинг и управление. Кроме того, согласно требованиям
+программы Certified Kubernetes Conformance Program каждая версия Kubernetes
+должна поддерживать API-интерфейсы, гарантирующие простое использование этих
+предложений сообщества.
+
+[ Электронная книга: практические навыки, которые помогут приступить к работе
+с Kubernetes  ](/ru-ru/resources/kubernetes-up-and-running/)
+
+###  Начало работы с Kubernetes
+
+Узнайте, как начать развертывание контейнерных приложений и управление ими.
+
+[ Дополнительные сведения ](/ru-ru/overview/kubernetes-getting-started/)
+
+###  Следуйте схеме обучения
+
+Получите практический опыт работы с компонентами, возможностями и решениями
+Kubernetes.
+
+[ Получить руководство ](/ru-ru/resources/kubernetes-learning-path/)
+
+##  Разработка с помощью комплексной платформы Kubernetes
+
+Платформа Kubernetes сама обеспечивает переносимость, масштабируемость и
+расширяемость. Но добавив комплексные возможности разработки, эксплуатации и
+управления безопасностью, можно ускорить развертывание обновлений без ущерба
+для безопасности и надежности, а также экономить время на управлении
+инфраструктурой. При внедрении Kubernetes также рассмотрите следующие
+возможности:
+
+  1. Автоматизация инфраструктуры или бессерверная служба Kubernetes для решения таких рутинных задач, как подготовка к работе и установка исправлений и обновлений. 
+
+См. примеры
+
+  2. Средства для разработки, а также непрерывной интеграции и развертывания \(CI/CD\) контейнерных приложений. 
+
+См. примеры
+
+  3. Службы для контроля безопасности, управления, идентификации и доступа. 
+
+См. примеры
+
+![](//azurecomcdn.azureedge.net/cvt-5b186237846d7b00c26675f7f4dde80f1ebdfecd943bea9a33f3d93be2cc17eb/images/page/topic/what-
+is-kubernetes/beyond-kubernetes-1.svg)
+
+![](//azurecomcdn.azureedge.net/cvt-5b186237846d7b00c26675f7f4dde80f1ebdfecd943bea9a33f3d93be2cc17eb/images/page/topic/what-
+is-kubernetes/beyond-kubernetes-2.svg)
+
+![](//azurecomcdn.azureedge.net/cvt-5b186237846d7b00c26675f7f4dde80f1ebdfecd943bea9a33f3d93be2cc17eb/images/page/topic/what-
+is-kubernetes/beyond-kubernetes-3.svg)
+
+##  Использование Kubernetes с методиками DevOps
+
+По мере развития приложения Kubernetes — с добавлением контейнеров, сред и
+команд разработчиков, — обычно увеличивается и частота выпусков, а также
+сложность разработки и использования. Используя DevOps в средах Kubernetes, вы
+сможете быстро изменить масштаб и усилить защиту.
+
+![](//azurecomcdn.azureedge.net/cvt-5b186237846d7b00c26675f7f4dde80f1ebdfecd943bea9a33f3d93be2cc17eb/images/page/topic/what-
+is-kubernetes/code.svg)
+
+###  Ускорение доставки кода за счет CI/CD
+
+Контейнеры служат единым форматом упаковки приложений и упрощают совместную
+работу для команд разработчиков и операторов, а CI/CD может ускорить переход
+от кода к контейнеру и в кластер Kubernetes до считанных минут за счет
+автоматизации этих задач.
+
+[ Настройка CI/CD для Kubernetes ](https://docs.microsoft.com/ru-
+ru/azure/devops/pipelines/languages/aks-template?view=azure-devops)
+
+![](//azurecomcdn.azureedge.net/cvt-5b186237846d7b00c26675f7f4dde80f1ebdfecd943bea9a33f3d93be2cc17eb/images/page/topic/what-
+is-kubernetes/manage.svg)
+
+###  Эффективное управление ресурсами за счет инфраструктуры в виде кода
+
+Инфраструктура в виде кода обеспечивает согласованность и улучшает видимость
+вычислительных ресурсов для всех команд, а значит, уменьшает вероятность
+человеческой ошибки. Эта практика хорошо сочетается с декларативным характером
+приложений Kubernetes на платформе Helm. Подобная комбинация позволяет
+определять приложения, ресурсы и конфигурации надежным, контролируемым и
+повторяемым образом.
+
+[ Развертывание кластера Kubernetes с использованием Terraform
+](https://docs.microsoft.com/ru-ru/azure/terraform/terraform-
+create-k8s-cluster-with-tf-and-aks)
+
+![](//azurecomcdn.azureedge.net/cvt-5b186237846d7b00c26675f7f4dde80f1ebdfecd943bea9a33f3d93be2cc17eb/images/page/topic/what-
+is-kubernetes/accelerate-loop.svg)
+
+###  Ускорение цикла обратной связи за счет постоянного мониторинга
+
+Чтобы сократить промежуток времени между возникновением и устранением ошибок,
+необходимо видеть полную картину своих ресурсов, кластера, API Kubernetes,
+контейнеров и кода, начиная с мониторинга работоспособности контейнера и
+заканчивая централизованным ведением журналов. Это позволяет избегать дефицита
+ресурсов, отслеживать злонамеренные запросы и поддерживать работоспособность
+приложений Kubernetes.
+
+[ См., как работает аналитика контейнеров в режиме реального времени
+](https://docs.microsoft.com/ru-ru/azure/azure-monitor/insights/container-
+insights-overview)
+
+![](//azurecomcdn.azureedge.net/cvt-5b186237846d7b00c26675f7f4dde80f1ebdfecd943bea9a33f3d93be2cc17eb/images/page/topic/what-
+is-kubernetes/speed-security.svg)
+
+###  Уравновешивание скорости и защиты с помощью DevOps
+
+Добавьте в рабочий процесс DevOps возможности отслеживания в реальном времени
+без ущерба для скорости работы. Применяйте проверки соответствия и
+перенастройки автоматически и, таким образом, защищайте свою сборку и конвейер
+выпуска, а значит, и свое приложение Kubernetes.
+
+[ Непрерывное обеспечение безопасности в действии
+](https://info.microsoft.com/ww-ondemand-help-deliver-applications-securely-
+with-devsecops-us.html)
+
+##  Пример рабочего процесса DevOps на базе Kubernetes
+
+![](//azurecomcdn.azureedge.net/cvt-5b186237846d7b00c26675f7f4dde80f1ebdfecd943bea9a33f3d93be2cc17eb/images/page/topic/what-
+is-kubernetes/solution-architecture-diagram.svg)
+
+  1. 1  Мгновенная итерация, тестирование и отладка различных частей приложения в одном и том же кластере Kubernetes. 
+  2. 2  Внедрение кода в репозиторий GitHub для непрерывной интеграции и его проверка. Запуск автоматической сборки и тестирования в рамках непрерывной поставки. 
+  3. 3  Проверка источника и целостности образов контейнеров. До прохождения сканирования образы находятся на карантине. 
+  4. 4  Оснащение кластеров Kubernetes такими средствами, как Terraform. Terraform устанавливает чарты Helm, которые определяют желаемое состояние ресурсов и конфигураций приложения. 
+  5. 5  Применение политик для регулирования развертывания к кластеру Kubernetes. 
+  6. 6  Конвейер выпуска автоматически выполнит предустановленную стратегию развертывания для каждого кода. 
+  7. 7  Добавление проверки и автоматического исправления политик в конвейер CI/CD. Например, создавать объекты pod в вашей среде Kubernetes может только конвейер выпуска. 
+  8. 8  Включение телеметрии приложения, мониторинга работоспособности контейнера и анализа журналов в режиме реального времени. 
+  9. 9  Устранение проблем с аналитическими сведениями и планирование следующего спринта. 
+
+[ Подробнее о стратегии развертывания Kubernetes ](/ru-ru/overview/kubernetes-
+deployment-strategy/)
+
+##  Используйте возможности Azure Kubernetes
+
+Автоматизируйте подготовку, обновление, мониторинг и масштабирование,
+используя полностью управляемую службу Microsoft Azure Kubernetes \(AKS\).
+Бессерверная служба Kubernetes — это простой переход от разработки к
+производству, а также защита и управление корпоративного уровня.
+
+[ Подробнее об AKS ](/ru-ru/services/kubernetes-service/)
+
+![](//azurecomcdn.azureedge.net/cvt-5b186237846d7b00c26675f7f4dde80f1ebdfecd943bea9a33f3d93be2cc17eb/images/page/topic/what-
+is-kubernetes/kubernetes.svg)
+
+##  Черпайте вдохновение и инновации в сообществе Kubernetes
+
+Платформа Kubernetes появилась на свет и успешно развивается благодаря тому,
+что тысячи людей и сотни организаций продолжают передавать свои знания и
+наработки кода, а также предоставлять постоянную поддержку тем, кто использует
+платформу. Вдохновенная работа создателей проекта — надежная основа для
+успешной разработки ваших собственных приложений.
+
+35,000  
+Соавторы
+
+180,000  
+Фиксации
+
+Самый популярный проект  
+на GitHub
+
+###  Вклад Майкрософт в Kubernetes
+
+![](//azurecomcdn.azureedge.net/cvt-5b186237846d7b00c26675f7f4dde80f1ebdfecd943bea9a33f3d93be2cc17eb/images/page/topic/what-
+is-kubernetes/kubernetes-community.png)
+
+##  Искусство открытого кода на предприятиях
+
+Чтобы упростить внедрение платформы Kubernetes для организаций и ее
+использование для разработчиков, корпорация Майкрософт всего за три года втрое
+увеличила число сотрудников, участвующих в проекте с открытым исходным кодом.
+В настоящее время Майкрософт является третьим по величине корпоративным
+спонсором и стремится сделать платформу Kubernetes более удобной и доступной
+для предприятий, делясь с сообществом Kubernetes новыми знаниями и лучшими
+методиками, полученными в результате работы с различными клиентами.
+
+##  Часто задаваемые вопросы о Kubernetes
+
+  * С чего начать? 
+
+Начните изучение Kubernetes c [ этого руководства ](/ru-
+ru/overview/kubernetes-getting-started/) .
+
+  * В каких основных ситуациях можно использовать Kubernetes? 
+
+Kubernetes пригодится в различных ситуациях, от переноса приложений в облако
+до упрощения сложностей в машинном обучении и ИИ.
+
+Основные примеры таких ситуаций:
+
+    * [ Перемещение существующих приложений в облако ](/ru-ru/solutions/architecture/migrate-existing-applications-with-aks/)
+    * [ Упрощение развертывания приложений с микрослужбами и управления ими ](/ru-ru/solutions/architecture/microservices-with-aks/)
+    * [ Простое масштабирование ](/ru-ru/solutions/architecture/scale-using-aks-with-aci/)
+    * [ Развертывание устройств Интернета вещей и управление ими ](/ru-ru/solutions/architecture/iot-with-aks/)
+    * [ Машинное обучение ](/ru-ru/solutions/architecture/machine-learning-with-aks/)
+
+  * Как лучше всего работать с Kubernetes? 
+
+Ознакомьтесь с [ рекомендациями ](https://aka.ms/aks/bestpractices) и [
+шаблонами архитектуры ](https://aka.ms/aks/microservices) , разработанными
+тысячами технических специалистов и партнеров, которые используют Kubernetes.
+
+  * Что такое развертывание Kubernetes? 
+
+Развертывание Kubernetes позволяет описать желаемое состояние развертывания
+приложения. Планировщик Kubernetes следит за тем, чтобы фактическое состояние
+соответствовало желаемому, и сохраняет это состояние даже при отказе одного
+или нескольких объектов pod. Кроме того, развертывания Kubernetes позволяют
+обновлять приложения без простоев.
+
+[ См. "Стратегии развертывания Kubernetes" ](/ru-ru/overview/kubernetes-
+deployment-strategy/)
+
+  * Как выполнять развертывание в Kubernetes с применением принципов DevOps? 
+
+Обычно для развертывания в Kubernetes с применением DevOps требуется
+репозиторий для управления версиями, такой как Git. Репозиторий служит
+стартовой точкой конвейера CI/CD. В зависимости от выбранного вами подхода
+изменения в репозитории запускают интеграцию, сборку, доставку и
+развертывание.
+
+[ Подробное описание работы AKS с Azure DevOps см. здесь
+](https://cloudblogs.microsoft.com/opensource/2018/11/27/tutorial-azure-
+devops-setup-cicd-pipeline-kubernetes-docker-helm/)
+
+  * Чем Kubernetes отличается от Docker? 
+
+Kubernetes и Docker работают сообща.
+
+Docker предоставляет открытый стандарт для упаковки и распространения
+контейнерных приложений. Docker позволяет собирать и выполнять контейнеры, а
+также хранить образы контейнеров и предоставлять к ним доступ.
+
+Kubernetes управляет распределенными контейнерными приложениями, созданными в
+Docker, и предоставляет инфраструктуру, необходимую для развертывания и
+выполнения таких приложений в кластере машин.
+
+[ Подробное сравнение Kubernetes и Docker ](/ru-ru/topic/kubernetes-vs-
+docker/)
+
+##  Ресурсы
+
+###  Подробнее о Kubernetes
+
+  * [ Основные сведения о Kubernetes ](https://aka.ms/LearnAKS)
+  * [ Оптимальные методы работы с Kubernetes ](https://aka.ms/aks/bestpractices)
+  * [ Подробнее о контейнерах ](/ru-ru/overview/containers/)
+
+###  Знакомство с AKS
+
+  * [ Изучение Служба Azure Kubernetes \(AKS\) ](/ru-ru/services/kubernetes-service/)
+
+Просмотрите [ видео об AKS ](/ru-
+ru/resources/videos/index/?services=kubernetes-service) , а также [ вебинары
+Azure ](/ru-ru/overview/webinars/) по запросу, включающие демонстрации,
+описание основных функций и технические доклады.
+
+  * [ Семинар по Azure Kubernetes для самостоятельного изучения ](https://aksworkshop.io/)
+  * [ Шаблоны быстрого запуска Azure для Kubernetes ](/ru-ru/resources/templates/?term=Kubernetes)
+  * [ Доступность AKS по регионам ](/ru-ru/global-infrastructure/services/?products=kubernetes-service)
+
+Присоединитесь к другим пользователям AKS на сайте [ GitHub
+](https://github.com/Azure/AKS) , на [ конференции KubeCon
+](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
+или на ближайшем к вам [ семинаре Kubernetes
+](https://www.meetup.com/topics/kubernetes/) .
+
+####  Выполните пошаговые руководства по AKS:
+
+  * [ Создание образов контейнеров из приложения ](https://docs.microsoft.com/ru-ru/azure/aks/tutorial-kubernetes-prepare-app)
+  * [ Передача образов контейнеров в реестр контейнеров Azure ](https://docs.microsoft.com/ru-ru/azure/aks/tutorial-kubernetes-prepare-acr)
+  * [ Развертывание кластера AKS ](https://docs.microsoft.com/ru-ru/azure/aks/tutorial-kubernetes-deploy-cluster)
+  * [ Запуск образов контейнеров в Kubernetes ](https://docs.microsoft.com/ru-ru/azure/aks/tutorial-kubernetes-deploy-application)
+  * [ Масштабирование приложений и инфраструктуры Kubernetes ](https://docs.microsoft.com/ru-ru/azure/aks/tutorial-kubernetes-scale)
+  * [ Обновление приложений в Kubernetes ](https://docs.microsoft.com/ru-ru/azure/aks/tutorial-kubernetes-app-update)
+  * [ Обновление кластера AKS ](https://docs.microsoft.com/ru-ru/azure/aks/tutorial-kubernetes-upgrade-cluster)
+
+###  Решения с открытым кодом и Azure
+
+  * [ Подробнее об открытом исходном коде в Azure ](/ru-ru/overview/open-source/)
+  * [ API, SDK и проекты с открытым исходным кодом из Azure ](https://github.com/Azure)
+  * [ Прочитайте электронную книгу Designing Distributed Systems \(Проектирование распределенных систем\) ](/ru-ru/resources/designing-distributed-systems/)
+
+##  Kubernetes уже к вашим услугам — бесплатно на Azure
+
+[ Начните бесплатно ](/ru-ru/free/kubernetes-service/)
+
+Социальные связи
+
+  * [ Facebook  ](https://www.facebook.com/microsoftazure)
+  * [ Instagram  ](https://www.instagram.com/microsoftdeveloper/)
+  * [ Twitter  ](https://twitter.com/azure)
+  * [ YouTube  ](https://www.youtube.com/user/windowsazure)
+  * [ LinkedIn  ](https://www.linkedin.com/company/16188386)
+  * [ RSS-канал  ](https://azurecomcdn.azureedge.net/ru-ru/blog/feed/)
+
+Microsoft Azure
+
+[ Microsoft Azure ](https://azure.microsoft.com/ru-ru/)
+
+  * [ Решения ](https://azure.microsoft.com/ru-ru/solutions/)
+  * [ Продукты ](https://azure.microsoft.com/ru-ru/services/)
+  * [ Регионы центра обработки данных ](https://azure.microsoft.com/ru-ru/global-infrastructure/geographies/)
+  * [ Примеры использования ](https://azure.microsoft.com/ru-ru/case-studies/)
+  * [ Стоимость ](https://azure.microsoft.com/ru-ru/pricing/)
+  * [ Калькулятор ](https://azure.microsoft.com/ru-ru/pricing/calculator/)
+  * [ Документация ](https://docs.microsoft.com/ru-ru/azure/)
+  * [ Загрузки ](https://azure.microsoft.com/ru-ru/downloads/?sdk=net)
+  * [ Примеры ](https://azure.microsoft.com/ru-ru/resources/samples/)
+  * [ Marketplace ](https://azuremarketplace.microsoft.com/ru-ru/marketplace/)
+  * [ Глобальная инфраструктура ](https://azure.microsoft.com/ru-ru/global-infrastructure/)
+
+Сообщество
+
+[ Сообщество ](https://azure.microsoft.com/ru-ru/blog/)
+
+  * [ Блог ](https://azure.microsoft.com/ru-ru/blog/)
+  * [ Обновления Azure ](https://azure.microsoft.com/ru-ru/updates/)
+  * [ Tech Community ](https://techcommunity.microsoft.com/t5/Azure/ct-p/Azure)
+  * [ События ](https://azure.microsoft.com/ru-ru/community/events/)
+  * [ Вакансии ](https://news.microsoft.com/features/azure/?wt.mc_id=azuremktg_hp_careers)
+  * [ Образование ](https://azure.microsoft.com/ru-ru/education/)
+  * [ Учащимся ](https://azure.microsoft.com/ru-ru/free/students/)
+  * [ Стартапам ](https://startups.microsoft.com/)
+
+Поддержка
+
+[ Поддержка ](https://azure.microsoft.com/ru-ru/support/options/)
+
+  * [ Форумы ](https://azure.microsoft.com/ru-ru/support/community/)
+  * [ Панель мониторинга состояния Azure ](https://status.azure.com/)
+  * [ Поддержка ](https://azure.microsoft.com/ru-ru/support/options/)
+
+Учетная запись
+
+[ Учетная запись ](https://azure.microsoft.com/ru-ru/account/)
+
+  * [ Портал Microsoft Azure ](https://portal.azure.com/)
+  * [ Предварительные версии компонентов ](https://azure.microsoft.com/ru-ru/updates/?status=inpreview)
+  * [ Управление данными о конфиденциальности ](https://azure.microsoft.com/ru-ru/privacy-data-management/)
+  * [ Скачать мобильное приложение Azure ](https://azure.microsoft.com/ru-ru/features/azure-portal/mobile-app/)
+
+Надежность
+
+[ Надежность ](https://azure.microsoft.com/ru-ru/overview/trusted-cloud/)
+
+  * [ Безопасность ](https://go.microsoft.com/fwlink/?LinkId=717954&clcid=0x419)
+  * [ Конфиденциальность ](https://go.microsoft.com/fwlink/?LinkId=717953&clcid=0x419)
+  * [ Соответствие требованиям ](https://go.microsoft.com/fwlink/?LinkId=837787&clcid=0x419)
+  * Управление файлами cookie 
+
+Привет из Сиэтла.
+
+English \(US\)  Čeština  Dansk  Deutsch  English \(Australia\)  English
+\(Canada\)  English \(India\)  English \(UK\)  Español  Español \(MX\)
+Français  Français \(Canada\)  Italiano  Magyar  Norsk  Nederlands  Polski
+Português \(Brasil\)  Português  Svenska  Türkçe  Pусский  日本語  한국어  中文\(简体\)
+中文\(繁體\)
+
+Доллар США \($\)  Евро \(€\)  Британский фунт \(£\)  Австралийский доллар
+\($\)  Индийская рупия \(₹\)  Канадский доллар \($\)  Австралийский доллар
+\($\)  Аргентинское песо \($\)  Бразильский реал \(R$\)  Британский фунт \(£\)
+Гонконгский доллар \(HK$\)  Датская крона \(kr\)  Доллар США \($\)  Евро \(€\)
+Индийская рупия \(₹\)  Индонезийская рупия \(Rp\)  Канадский доллар \($\)
+Корейская вона \(₩\)  Малайзийский ринггит \(RM$\)  Мексиканское песо \(MXN$\)
+Новозеландский доллар \($\)  Норвежская крона \(kr\)  Российский рубль \(руб\)
+Саудовский риял \(SR\)  Тайваньский доллар \(NT$\)  Турецкая лира \(TL\)
+Шведская крона \(kr\)  Швейцарский франк \(chf\)  Южноафриканский рэнд \(R\)
+Японская йена \(¥\)
+
+  * [ Связаться с нами ](https://azure.microsoft.com/ru-ru/overview/contact-azure-sales/)
+  * [ Товарные знаки ](https://www.microsoft.com/en-us/legal/intellectualproperty/Trademarks/)
+  * [ Конфиденциальность и файлы cookie  ](https://go.microsoft.com/fwlink/?LinkId=248681&clcid=0x419)
+  * [ Условия использования ](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx)
+
+[ ](https://www.microsoft.com) © 2021 Microsoft
+
